@@ -1,0 +1,225 @@
+{
+  "_type": "news",
+  "_id": "news.ib-hochschule-berlin-umzug-breitenbachstrasse",
+  "slug": {
+    "_type": "slug",
+    "current": "die-ib-hochschule-berlin-zieht-um-masken-auf-denn-es-wird-kuschelig"
+  },
+  "title": {
+    "en": "IB Hochschule Berlin is moving: masks on, because it's going to get cosy",
+    "de": "Die IB Hochschule Berlin zieht um: Masken auf, denn es wird kuschelig"
+  },
+  "summary": {
+    "en": "The lease is signed, the ink is still drying – and in less than four weeks we will move into the new, fashionable, slightly smaller premises at Breitenbachstraße 23. For the next 2 years, until our move to ukb in Marzahn, we will make ourselves at home there.",
+    "de": "Der Mietvertrag ist unterschrieben, die Tinte ist noch nass – in nicht einmal mehr vier Wochen ziehen wir in die neuen, schicken, etwas kleineren Räumlichkeiten der Breitenbachstraße 23 ein. Für die nächsten 2 Jahre, bis es ans ukb nach Marzahn geht, machen wir es uns dort gemütlich."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The lease is signed, the ink just dried, and in not even four weeks we will move into the new, fashionable, somewhat smaller premises at Breitenbachstraße 23. For the next 2 years, until it goes to ukb in Marzahn, we will make ourselves at home there.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "And we look forward to the move, because such a move definitely also has positive sides. We hit the reset button and start from scratch. Everything can be rearranged; offices can be newly mixed. Maybe you sit, of course while keeping the necessary minimum distance, with completely new colleagues in one office.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "A lot of old ballast – such as dusty folders from the shelves, dried-out office palms and clutter that has not been touched for years – can finally be sorted out. Anyone who still dreads this can be inspired by reading this clever woman: Marie Kondo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "… is located in Reinickendorf, has an Edeka nearby and is not far from the S-Bahn station Eichborndamm or the U-Bahn station Holzhauser Straße – so about 7 kilometres as the crow flies from Gerichtstraße.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "… is easily reachable by public transport such as the S-Bahn (S25), the U-Bahn (U6) or by bus (322 and X33), or by bicycle, or in a combination of these means of transport.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "… has a spacious terrace in the outdoor area. Seating furniture for this terrace is currently being ordered – for relaxing, resting, sitting around, chilling or letting your soul dangle.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "The new location offers ideal conditions for a pleasant teaching environment, and of course IB Hochschule will be able to maintain its high level of teaching even during the move. Most learning formats have already been switched to digital knowledge transfer during the C19 period. Mobile work and digital lectures will continue to be possible without any problems.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der Mietvertrag ist unterschrieben, die Tinte gerade trocken und wir werden in nun nicht einmal mehr vier Wochen in die neuen, schicken, wenn etwas kleineren Räumlichkeiten der Breitenbachstraße 23 einziehen. Für die nächsten 2 Jahre, bis es ans ukb nach Marzahn geht, werden wir es uns dort gemütlich machen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Und wir freuen uns auf den Umzug, denn so ein Umzug hat ja auch durchaus positive Seiten. Wir drücken die Reset-Taste und starten von Null. Alles kann neu gestaltet werden, Büroräume werden neu durchmixt. Man sitzt vielleicht mit ganz neuen Kollegen, natürlich unter Einhaltung des gewissen Mindestabstands, in einem Büro.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Eine Menge alter Ballast, wie staubige Ordner aus den Regalen, vertrocknete Büropalmen und Krempel, der seit vielleicht Jahren nicht mehr angefasst wurde, kann endlich einmal ausgemistet werden. Wem es noch hiervor graut, der lasse sich von der Lektüre dieser schlauen Frau inspirieren: Marie Kondo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "… liegt in Reinickendorf, hat einen Edeka in der Nähe und ist nicht weit vom S-Bahnhof Eichborndamm oder dem U-Bahnhof Holzhauser Straße entfernt – also gut 7 Kilometer Luftlinie von der Gerichtstraße.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "… ist gut erreichbar mit den Öffis wie der S-Bahn (S 25), der U-Bahn (U6) oder mit dem Bus (322 und X33) oder mit dem Fahrrad oder in Kombination dieser Verkehrsmittel.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "… verfügt im Außenbereich über eine geräumige Terrasse. Für diese Terrasse werden momentan Sitzmöbel bestellt zum Entspannen, Ausruhen, Rumsitzen, Chillen oder Seele baumeln lassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Die neue Location bietet ideale Bedingungen für eine angenehme Lehrumgebung und natürlich wird die IB Hochschule auch in der Zeit des Umzugs die Lehre auf ihrem hohen Niveau halten können. Die meisten Lernformate wurden in der Zeit von C19 ohnehin auf digitale Wissensvermittlung umgestellt. So werden mobiles Arbeiten und auch die digitalen Vorlesungen weiterhin problemlos möglich sein.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-ib-hochschule-berlin-zieht-um-masken-auf-denn-es-wird-kuschelig/image_01.jpg",
+    "alt": "IB Hochschule Berlin is moving"
+  },
+  "gallery": [],
+  "publishDate": "2020-05-15T09:00:00.000Z",
+  "status": "published"
+}

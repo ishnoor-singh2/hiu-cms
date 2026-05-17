@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.infoabend-medizinische-radiologie-technologie",
+  "slug": {
+    "_type": "slug",
+    "current": "einladung-zum-infoabend-medizinische-radiologie-technologie"
+  },
+  "title": {
+    "en": "Invitation to the info evening: Medical Radiology Technology",
+    "de": "Einladung zum Infoabend: Medizinische Radiologie-Technologie"
+  },
+  "summary": {
+    "en": "IB Hochschule offers the accredited programme Medical Radiology Technology from summer semester – as one of the first universities nationwide. Info evening on 10.03.2020 at 17:00.",
+    "de": "Die IB Hochschule bietet zum Sommersemester als eine der ersten Hochschulen bundesweit den akkreditierten Studiengang Medizinische Radiologie-Technologie an. Infoabend am 10.03.2020 um 17:00 Uhr."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales offers, from summer semester, the accredited programme Medical Radiology Technology – as one of the first universities nationwide!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We warmly invite everyone interested to our info event on 10.03.2020 at 17:00 about the Medical Radiology Technology programme for trained MTRA. At the Berlin Study Centre, programme leader Prof. Dr. Martin Alfrink presents the programme and explains its content and structure. Career opportunities will be discussed and questions answered. A start in Berlin is planned for summer semester 2020!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Please register by 28.02.2020 by phone or email.\nEmail: annette.schille@hi-university.de\nPhone: 09561-83570",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Your IB Hochschule für Gesundheit und Soziales\nInfo evening on: 10.03.2020\nTime: 17:00\nLocation: Berlin Study Centre, IB Hochschule, Gerichtstr. 27, 13347 Berlin",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales bietet zum Sommersemester als eine der ersten Hochschulen bundesweit – den akkreditierten Studiengang Medizinische Radiologie-Technologie an!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wir laden ganz herzlich zu unserer Infoveranstaltung am 10.03.2020 um 17:00 Uhr über den Studiengang Medizinische Radiologie-Technologie für ausgelernte MTRA alle Interessierten ein! Am Studienzentrum Berlin stellt Ihnen der Studiengangsleiter Prof. Dr. Martin Alfrink den Studiengang vor und erläutert Inhalt und Ablauf des Studiengangs an der IB Hochschule. Es werden Berufschancen diskutiert und Fragen beantwortet. Ein Start in Berlin ist zum Sommersemester 2020 geplant!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Bitte melden Sie sich bis zum 28.02.2020 telefonisch oder per Mail an.\nMail: annette.schille@hi-university.de\nTel.: 09561-83570",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Ihre IB Hochschule für Gesundheit und Soziales\nInfoabend am: 10.03.2020\nUhrzeit: 17:00 Uhr\nVeranstaltungsort: Studienzentrum Berlin, IB Hochschule, Gerichtstr. 27, 13347 Berlin",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/einladung-zum-infoabend-medizinische-radiologie-technologie/image_01.jpg",
+    "alt": "Info evening Radiology"
+  },
+  "gallery": [],
+  "publishDate": "2020-02-05T09:00:00.000Z",
+  "status": "published"
+}

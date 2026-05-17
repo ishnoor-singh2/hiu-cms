@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.gute-gruende-fuer-ein-studium-an-einer-privaten-hochschule",
+  "slug": {
+    "_type": "slug",
+    "current": "gute-gruende-fuer-ein-studium-an-einer-privaten-hochschule"
+  },
+  "title": {
+    "en": "Good reasons to study at a private university",
+    "de": "Gute Gründe für ein Studium an einer Privaten Hochschule"
+  },
+  "summary": {
+    "en": "According to a study by the German Economic Institute (IW), private universities in Germany have gained considerably in importance. The number of students at private universities has nearly tripled in the last ten years and over ten percent of all German students are enrolled at private universities.",
+    "de": "Laut einer Studie des Instituts der deutschen Wirtschaft (IW) haben private Hochschulen in Deutschland stark an Bedeutung gewonnen. Die Studierendenzahl hat sich innerhalb der letzten zehn Jahre fast verdreifacht und über zehn Prozent aller deutschen Studierenden sind an privaten Hochschulen eingeschrieben."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "There is good news for private universities in Germany: according to a study by the German Economic Institute (IW), they have gained considerably in importance. The number of students at private universities has nearly tripled within the last ten years and now more than ten percent of all German students are enrolled at private universities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Older students in particular are increasingly opting for studies at a private university. This is also reflected in our student body – especially in our part-time programmes. We attach great importance to making the studies compatible with family and work for our students, and we are proud to be their partner for lifelong learning.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "According to the study, students perceive that private higher education better prepares them for the changing demands of the working world. They especially value the practice-oriented education. The good staff–student ratio and the close cooperation with institutions in health and social services open up exciting networking and research opportunities for students at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We very much welcome this development and hope it continues. Further information on the IW study is available here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Es gibt gute Neuigkeiten für private Hochschulen in Deutschland: Laut einer Studie des Instituts der deutschen Wirtschaft (IW) haben diese stark an Bedeutung gewonnen. Die Studierendenzahl an privaten Hochschulen habe sich innerhalb der letzten zehn Jahre fast verdreifacht und nun sind über zehn Prozent aller deutschen Studierenden an privaten Hochschulen eingeschrieben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Insbesondere ältere Studierende entschieden sich vermehrt für ein Studium an einer privaten Hochschule. Das spiegelt sich auch bei uns in der Studierendenschaft wider – vor allem in unseren berufsbegleitenden Studiengängen. Wir legen sehr viel Wert darauf, dass das Studium für unsere Studierenden gut mit Familie und Beruf vereinbar ist und freuen uns darüber, ihr Partner für lebenslanges Lernen zu sein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Laut der Studie nehmen Studierende wahr, dass einen die private Hochschulbildung besser auf sich ändernde Anforderungen der Arbeitswelt vorbereite. Sie schätzen besonders die praxisorientierte Ausbildung. Die gute Betreuungsrelation und die enge Zusammenarbeit mit Einrichtungen aus den Bereichen Gesundheit und Soziales eröffnen Studierenden an der IB Hochschule spannende Vernetzungs- und Forschungsmöglichkeiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Entwicklung begrüßen wir sehr und hoffen, dass es so weiter geht. Weitere Informationen zur IW-Studie finden Sie hier.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/gute-gruende-fuer-ein-studium-an-einer-privaten-hochschule/image_01.jpg",
+    "alt": "Ein Studium an einer Privaten Hochschule lohnt sich"
+  },
+  "gallery": [],
+  "publishDate": "2023-06-16T09:00:00.000Z",
+  "status": "published"
+}

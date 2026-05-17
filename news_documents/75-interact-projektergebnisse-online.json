@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.interact-projektergebnisse-online-fachtagung",
+  "slug": {
+    "_type": "slug",
+    "current": "das-projekt-interact-praesentiert-projektergebnisse-und-laedt-sie-ein-zur-online-fachtagung-an-zwei-terminen"
+  },
+  "title": {
+    "en": "The InterAct project presents results and invites you to an online symposium on two dates",
+    "de": "Das Projekt „InterAct\" präsentiert Projektergebnisse und lädt Sie ein zur Online-Fachtagung an zwei Terminen"
+  },
+  "summary": {
+    "en": "The Erasmus Plus funded \"InterAct\" project presents its results on the psychosocial care of refugees. We invite you to the online symposium on 12 November and 10 December 2020.",
+    "de": "Das Erasmus Plus geförderte Projekt „InterAct\" präsentiert seine Ergebnisse zur psychosozialen Versorgung Geflüchteter. Wir laden Sie ein zur Online-Fachtagung am 12. November und 10. Dezember 2020."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The Erasmus Plus funded project \"InterAct\" has set itself the goal of bundling experiences and insights of psychosocial work with refugees together with partners from Sweden, Greece, Spain and Finland from various perspectives, and transferring them into psychosocial practice, training and studies as well as into research and politics.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We warmly invite you: InterAct symposia on 12 November and 10 December 2020, each from 2 to 6:30 p.m. Both symposia will be held in an online format.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We are very pleased to open the event together with Petra Merkel, President of Internationaler Bund. Look forward to the introductory specialist talks by Inge Missmahl (Ipso Organisation) on the psychosocial situation of refugees, and by Denny Paulicke (University of Halle) on the educational-policy focus on interdisciplinary teaching and practice. Further information about the symposia programme can be found in the attached event flyer, which can also be forwarded to interested parties.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "For organisational reasons, we ask for registration for participation in one of the two events. With the registration confirmation, you will receive the access details for participation in the online symposium. Participation is free of charge.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "For registration for one of the two symposia, please send an email to Sarah Scheer (sarah.scheer@hi-university.de) and/or Ramona Grützner (ramona.gruetzner@hi-university.de). Thank you!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "We look forward to two interesting symposia!\nSarah Scheer and Ramona Grützner (project coordinators of InterAct)",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das Erasmus Plus geförderte Projekt „InterAct\" hat sich zum Ziel gesetzt, gemeinsam mit Partner*innen aus Schweden, Griechenland, Spanien und Finnland Erfahrungen und Erkenntnisse der psychosozialen Arbeit mit Geflüchteten aus verschiedenen Perspektiven heraus zu bündeln und in die psychosoziale Praxis, Ausbildung und Studium sowie Forschung und Politik zu transferieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wir laden Sie herzlich ein: InterAct-Fachtagungen am 12. November und am 10. Dezember 2020 jeweils von 14 – 18:30 Uhr. Beide Fachtagungen werden im Online-Format durchgeführt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir freuen uns sehr, die Veranstaltung gemeinsam mit Petra Merkel, der Präsidentin des Internationalen Bundes, zu eröffnen. Seien Sie gespannt auf die einleitenden Fachvorträge von Inge Missmahl (Ipso Organisation) zur Psychosozialen Situation Geflüchteter und Denny Paulicke (Universität Halle) zum Bildungspolitischen Fokus auf Interdisziplinäre Lehre und Praxis. Nähere Informationen zum Programm der Fachtagungen entnehmen Sie bitte dem beigefügten Veranstaltungsflyer, der gerne auch an Interessierte weitergeleitet werden darf.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Aus organisatorischen Gründen wird um Anmeldung zur Teilnahme an einer der beiden Veranstaltungstermine gebeten. Mit der Anmeldungsbestätigung erhalten Sie die Zugangsdaten zur Teilnahme an der Online-Fachtagung. Die Teilnahme ist kostenfrei.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Für die Anmeldung zu einem der beiden Fachtage schicken Sie bitte eine E-Mail an Sarah Scheer (sarah.scheer@hi-university.de) und/oder Ramona Grützner (ramona.gruetzner@hi-university.de). Vielen Dank!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Wir freuen uns auf zwei interessante Fachtage!\nSarah Scheer und Ramona Grützner (Projektkoordinatorinnen InterAct)",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/das-projekt-interact-praesentiert-projektergebnisse-und-laedt-sie-ein-zur-online-fachtagung-an-zwei-terminen/image_01.jpg",
+    "alt": "InterAct project"
+  },
+  "gallery": [],
+  "publishDate": "2020-10-09T09:00:00.000Z",
+  "status": "published"
+}

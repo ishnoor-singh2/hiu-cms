@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.ausbildungsbegleitendes-studium-atw-lohnt-sich",
+  "slug": {
+    "_type": "slug",
+    "current": "das-ausbildungsbegleitende-studium-angewandte-therapiewissenschaft-ergotherapie-logopaedie-physiotherapie-atw-an-der-ib-hochschule-fuer-gesundheit-und-soziales-lohnt-sich"
+  },
+  "title": {
+    "en": "The training-integrated programme \"Applied Therapy Science: Occupational Therapy, Speech and Language Therapy, Physiotherapy\" is worthwhile!",
+    "de": "Das ausbildungsbegleitende Studium – „Angewandte Therapiewissenschaft: Ergotherapie, Logopädie, Physiotherapie\" lohnt sich!"
+  },
+  "summary": {
+    "en": "Just starting your training in physiotherapy, occupational therapy or speech and language therapy and want to qualify yourself academically and get a head start in your career? Study Applied Therapy Science with us – study places are still available at all study centres.",
+    "de": "Sie stehen am Anfang Ihrer Ausbildung in Physiotherapie, Ergotherapie oder Logopädie und möchten sich wissenschaftlich weiterbilden? Studieren Sie Angewandte Therapiewissenschaft – an allen Studienzentren sind noch Studienplätze frei."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Are you at the beginning of your training in physiotherapy, occupational therapy or speech and language therapy, would like to qualify yourself academically and later make a strong start in your profession? Study Applied Therapy Science: Occupational Therapy, Speech and Language Therapy, Physiotherapy. The programme starts at the end of January 2022 and study places are still available at all study centres.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The programme offers you a view beyond the box of all therapy professions. The additional Bachelor's degree from IB Hochschule opens up career paths to leadership positions in therapy and healthcare institutions. You also have the opportunity to work in science, research and teaching. The programme is offered alongside training and is specifically tailored to a parallel apprenticeship.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "From the 1st to the 6th semester, in-person events take place on only two weekends per semester; only after that does the three-semester intensive study phase begin. The financing of the programme is also tailored to trainees.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Take advantage of this career opportunity now: expand your training with a degree at IB Hochschule für Gesundheit und Soziales! For more information, attend one of our information events and get all the information you need there. We will present the programme to you and answer all questions about studying. To register, call us or send us an email – we look forward to hearing from you! Programme starts at the end of January 2022; application deadline: 10 December 2021.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Sie stehen am Anfang Ihrer Ausbildung in Physiotherapie, Ergotherapie oder Logopädie, möchten sich wissenschaftlich weiterbilden und später im Beruf voll durchstarten? Studieren Sie Angewandte Therapiewissenschaft: Ergotherapie, Logopädie, Physiotherapie. Studienstart ist Ende Januar 2022 und es sind an allen Studienzentren noch Studienplätze frei.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das Studium bietet Ihnen den Blick über den Tellerrand aller Therapieberufe hinaus. Der zusätzliche Bachelor Abschluss der IB Hochschule eröffnet Ihnen Karrierewege für leitende Tätigkeiten in Therapie- und Gesundheitseinrichtungen. Sie haben ferner die Möglichkeit, in Wissenschaft, Forschung und Lehre tätig zu werden. Der Studiengang wird ausbildungsbegleitend angeboten und ist speziell auf eine parallellaufende Ausbildung zugeschnitten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Vom 1. bis zum 6 Semester finden Präsenzveranstaltungen an nur zwei Wochenenden pro Semester statt, danach erst beginnt für drei Semester die Intensivstudienphase. Auch die Finanzierung des Studiums ist auf Auszubildende zugeschnitten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Nutzen Sie jetzt diese Karriere Chance: Erweitern Sie Ihre Ausbildung mit einem Studium an der IB Hochschule für Gesundheit und Soziales! Für mehr Informationen besuchen Sie eine unserer Infoveranstaltungen und holen sich dort alle Infos die Sie benötigen. Wir präsentieren Ihnen den Studiengang und beantworten alle Fragen rund um das Studium. Für eine Anmeldung rufen Sie uns an oder schicken Sie uns eine Mail, wir freuen uns auf Sie! Studienstart ist Ende Januar 2022, Bewerbungsschluss: 10. Dezember 2021.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/das-ausbildungsbegleitende-studium-angewandte-therapiewissenschaft-ergotherapie-logopaedie-physiotherapie-atw-an-der-ib-hochschule-fuer-gesundheit-und-soziales-lohnt-sich/image_01.jpg",
+    "alt": "Angewandte Therapiewissenschaft"
+  },
+  "gallery": [],
+  "publishDate": "2021-11-17T09:00:00.000Z",
+  "status": "published"
+}

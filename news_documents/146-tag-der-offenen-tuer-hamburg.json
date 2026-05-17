@@ -1,0 +1,147 @@
+{
+  "_type": "news",
+  "_id": "news.tag-der-offenen-tuer-hamburg-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "tag-der-offenen-tuer-in-hamburg"
+  },
+  "title": {
+    "en": "Open Day in Hamburg: insights into healthcare professions and interprofessional study",
+    "de": "Tag der offenen Tür in Hamburg: Einblicke in Gesundheitsfachberufe und interprofessionelles Studium"
+  },
+  "summary": {
+    "en": "On 5 November 2024 the Medical Academy Hamburg (MAH) opened its doors for everyone interested in a professional future in healthcare. The \"Open Day\" offered the opportunity to gain exciting insights into the trainings of Occupational Therapy, Physiotherapy and Speech and Language Therapy.",
+    "de": "Am 5. November 2024 öffnete die Medizinische Akademie Hamburg (MAH) ihre Türen für alle, die sich für eine berufliche Zukunft im Gesundheitswesen interessieren. Der „Tag der offenen Tür\" bot die Gelegenheit, spannende Einblicke in die Ausbildungen Ergotherapie, Physiotherapie und Logopädie zu erhalten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 5 November 2024 the Medical Academy Hamburg (MAH) opened its doors for everyone interested in a professional future in healthcare. The \"Open Day\" offered the opportunity from 16:00 to 18:00 to get exciting insights into the trainings of Occupational Therapy, Physiotherapy and Speech and Language Therapy. Visitors could inform themselves comprehensively about the contents and perspectives of the respective healthcare professions and find out which of these paths best suits their personal and professional goals.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "IB Hochschule für Gesundheit und Soziales sets in exactly at this point and offers, in close cooperation with MAH, a high-quality study. Students have the opportunity to continue their training in the healthcare professions of Occupational Therapy, Speech and Language Therapy and Physiotherapy training- or part-time. The interprofessional approach of the Applied Therapy Science: Occupational Therapy, Speech and Language Therapy, Physiotherapy programme offers an innovative view on modern healthcare and optimally prepares graduates for the challenges in professional everyday life.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Interesting questions, conversations and several talks on the Applied Therapy Science programme made the afternoon very lively. They took place in several loops, so all interested parties could inform themselves flexibly. Whether young prospective students who still want to make their career choice, or working people who want to expand their qualifications – the Open Day at MAH showed which possibilities the Medical Academy and IB Hochschule offer to pave the way to a fulfilling career in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Interested can still enrol until 30.11.2024. Please feel free to contact Prof. Dr. Gudrun Zimmermann gudrun.zimmermann@hi-university.de or the study advisory service studienberatung@hi-university.de.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 5. November 2024 öffnete die Medizinische Akademie Hamburg (MAH) ihre Türen für alle, die sich für eine berufliche Zukunft im Gesundheitswesen interessieren. Der „Tag der offenen Tür\" bot von 16:00 bis 18:00 Uhr die Gelegenheit, spannende Einblicke in die Ausbildungen Ergotherapie, Physiotherapie und Logopädie zu erhalten. Besucher*innen konnten sich umfassend über die Inhalte und Perspektiven der jeweiligen Gesundheitsfachberufe informieren und herausfinden, welcher dieser Wege am besten zu ihren persönlichen und beruflichen Zielen passt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales setzt genau an diesem Punkt an und bietet in enger Zusammenarbeit mit der MAH ein qualitativ hochwertiges Studium. Dabei haben Studierende die Möglichkeit, ihre Ausbildung in den Gesundheitsfachberufen Ergotherapie, Logopädie und Physiotherapie ausbildungs- oder berufsbegleitend fortzuführen. Der interprofessionelle Ansatz des Studiengangs Angewandte Therapiewissenschaft: Ergotherapie, Logopädie, Physiotherapie bietet einen innovativen Blick auf die moderne Gesundheitsversorgung und bereitet die Absolvent*innen optimal auf die Herausforderungen im Berufsalltag vor.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Interessante Fragen, Gespräche und mehrere Vorträge zum Studiengang Angewandte Therapiewissenschaft machten den Nachmittag sehr lebendig. Sie fanden in mehreren Schleifen statt, sodass sich alle Interessierten flexibel informieren konnten. Ob junge Interessent*innen, die ihre Berufswahl noch treffen möchten, oder Berufstätige, die ihre Qualifikationen erweitern wollen – der Tag der offenen Tür an der MAH zeigte, welche Möglichkeiten die Medizinische Akademie und die IB Hochschule für Gesundheit und Soziales bieten, um den Weg in eine erfüllende Karriere im Gesundheitswesen zu ebnen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Interessierte haben jetzt noch bis 30.11.2024 die Möglichkeit sich einzuschreiben. Nehmen Sie gerne Kontakt auf mit Prof. Dr. Gudrun Zimmermann gudrun.zimmermann@hi-university.de oder der Studienberatung studienberatung@hi-university.de.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-hamburg/image_01.jpg",
+    "alt": "Open Day Hamburg"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-hamburg/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-11-26T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,365 @@
+{
+  "_type": "news",
+  "_id": "news.aktuelle-entwicklungen-international-office",
+  "slug": {
+    "_type": "slug",
+    "current": "aktuelle-entwicklungen-international-office"
+  },
+  "title": {
+    "en": "IB Hochschule expands internationally: new contacts, projects and offers",
+    "de": "Die IB Hochschule vernetzt sich international: Neue Kontakte, Projekte und Angebote"
+  },
+  "summary": {
+    "en": "The International Office continues to advance the university's internationalisation strategy with new initiatives, partnerships and projects – from conferences in Porto and Brussels to a new \"Life in Berlin\" guide for international students and a Business English course for administrative staff.",
+    "de": "Das International Office der IB Hochschule setzt seine Internationalisierungsstrategie fort und stärkt die globalen Verbindungen der Hochschule – mit neuen Initiativen, Partnerschaften und Projekten von Konferenzen in Porto und Brüssel über einen „Life in Berlin\"-Leitfaden bis hin zu einem Business-Englischkurs für Verwaltungsmitarbeitende."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Strengthening Global Connections",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The International Office of IB University of Applied Sciences continues to advance its internationalisation strategy, reinforcing the university's global connections through a series of new initiatives, partnerships and projects.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "International presence at the EMRBI Conference in Porto and the EU Policy Camp & EVBB Annual Conference",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "From 10 to 12 September 2025, Prof. Dr. Dolores Sánchez Bengoa and Prof. Dr. Hans Rüdiger Kaufmann represented HdWM and IB University of Applied Sciences at the 18th Annual EMRBI Conference \"Exploring New Horizons in Business and Management\" in Porto, Portugal. During the conference, both professors took the opportunity to establish valuable international contacts and explore potential new Erasmus+ collaborations. As a result, several new potential partner universities have already been identified.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "A few weeks later, Prof. Dr. Sánchez Bengoa participated in the EU Policy Camp and the Annual Conference of the European Association of Institutes for Vocational Training (EVBB) in Brussels. Under the theme \"Open School Education and Inclusion\", the event focused on diversity, access to education and international collaboration. Once again, Prof. Sánchez Bengoa used the opportunity to expand the network and prepare future Erasmus+ partnerships – with great success: new Memoranda of Understanding (MoUs) with universities around the world are already in preparation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "New in the Student Handbook: \"Life in Berlin\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "To help international students settle in more easily, the International Office has added a new section to the Student Handbook. \"Life in Berlin\" provides practical information on administrative procedures, visa and residence permit extensions, financial matters, insurance, public transport, employment, media, safety, health, and places of worship. This resource ensures that international students are well prepared for everyday life in Berlin – both academically and personally.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Business English course for administrative staff starting in October",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Beginning on 13 October 2025, the International Office will offer a 16-week online Business English course for administrative staff. The course covers key topics such as small talk, professional email communication, meetings, negotiations and polite communication strategies in the workplace. Its aim is to strengthen participants' linguistic and intercultural competencies in an international context.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Staff and teaching mobility: opportunities for employees",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "The International Office also reminds all staff members of the wide range of Erasmus+ mobility opportunities available. Whether teaching mobility (lecturing at a partner university) or training mobility (job shadowing, workshops or professional development), international experiences offer numerous benefits. The International Office provides comprehensive advice, administrative support and information about available funding.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en12s",
+            "text": "With every new partnership, project and initiative, IB University of Applied Sciences moves closer to its goal of becoming an even more connected, innovative and inclusive academic community. We are truly delighted about this progress and would like to thank the International Office for its outstanding commitment.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die internationale Vernetzung geht weiter voran",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das International Office der IB Hochschule setzt seine Internationalisierungsstrategie fort und stärkt die globalen Verbindungen der Hochschule mit einer Reihe neuer Initiativen, Partnerschaften und Projekte.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Internationale Präsenz auf der EMRBI-Konferenz in Porto und der EU Policy Camp & EVBB-Jahreskonferenz",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Vom 10. bis 12. September 2025 vertraten Prof. Dr. Dolores Sánchez Bengoa und Prof. Dr. Hans Rüdiger Kaufmann die HdWM und IB Hochschule auf der 18. jährlichen EMRBI-Konferenz „Exploring New Horizons in Business and Management\" in Porto, Portugal. Während der Konferenz nutzten beide Professor*innen die Gelegenheit, wertvolle internationale Kontakte zu knüpfen und mögliche neue Erasmus+-Kooperationen zu sondieren. Dank dieser Aktivitäten zeichnen sich bereits neue potenzielle Partneruniversitäten ab.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Wenige Wochen später nahm Prof. Dr. Sánchez Bengoa am EU Policy Camp und der Jahreskonferenz der EVBB (Europäische Vereinigung der Berufsbildungsinstitute) in Brüssel teil. Unter dem Thema „Offene Schulbildung und Inklusion\" stand die Veranstaltung ganz im Zeichen von Diversität, Bildungszugang und internationalem Austausch. Auch hier nutzte Prof. Sánchez Bengoa die Chance, neue Netzwerke zu knüpfen und zukünftige Erasmus+-Kooperationen vorzubereiten – mit Erfolg: Neue Absichtserklärungen (MoUs) mit internationalen Universitäten sind bereits in Vorbereitung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Neues im Studentenhandbuch: „Life in Berlin\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Um internationalen Studierenden den Einstieg zu erleichtern, hat das International Office einen neuen Abschnitt im Studentenhandbuch veröffentlicht: „Life in Berlin\" bietet praktische Informationen zu Behördengängen, Visa und Aufenthaltsgenehmigungen, Finanzen, Versicherungen, öffentlichem Verkehr, Beschäftigung, Medien, Sicherheit, Gesundheit und Gebetsstätten. Damit werden internationale Studierende optimal auf ihren Alltag in Berlin vorbereitet – sowohl akademisch als auch persönlich.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Business-Englischkurs für Verwaltungsmitarbeitende startet im Oktober",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Ab dem 13. Oktober 2025 bietet das International Office einen 16-wöchigen Online-Kurs „Business English\" für Verwaltungsmitarbeitende an. Der Kurs deckt Themen wie Small Talk, E-Mail-Kommunikation, Meetings, Verhandlungen und Höflichkeitsstrategien im Berufsalltag ab. Ziel ist es, die sprachliche und interkulturelle Kompetenz der Mitarbeitenden im internationalen Kontext zu stärken.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Personal- und Lehrmobilität: Chancen für Mitarbeitende",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Das International Office erinnert außerdem an die vielfältigen Möglichkeiten der Mitarbeitermobilität im Rahmen von Erasmus+. Ob Lehrmobilität (Unterrichten an einer Partnerhochschule) oder Ausbildungsmobilität (Job-Shadowing, Workshops, Fortbildungen) – internationale Aufenthalte bieten zahlreiche Vorteile. Das International Office bietet umfassende Beratung, organisatorische Unterstützung und Informationen zu Fördermöglichkeiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de12s",
+            "text": "Mit jeder neuen Partnerschaft, jedem Projekt und jeder Initiative kommt die IB Hochschule ihrem Ziel näher, eine noch stärker vernetzte, innovative und inklusive akademische Gemeinschaft zu werden. Darüber freuen wir uns sehr und danken dem International Office für seinen Einsatz!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/aktuelle-entwicklungen-international-office/image_01.png",
+    "alt": "International Office news"
+  },
+  "gallery": [],
+  "publishDate": "2025-10-08T09:00:00.000Z",
+  "status": "published"
+}

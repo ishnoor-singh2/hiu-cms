@@ -1,0 +1,337 @@
+{
+  "_type": "news",
+  "_id": "news.digital-health-studieren-fuer-wen-lohnt",
+  "slug": {
+    "_type": "slug",
+    "current": "digital-health-studieren"
+  },
+  "title": {
+    "en": "Studying Digital Health – who is it worthwhile for?",
+    "de": "Digital Health studieren – Für wen lohnt sich das?"
+  },
+  "summary": {
+    "en": "Digitalisation is changing healthcare at a rapid pace – electronic patient records, telemedicine, AI-supported diagnostics. For everyone passionate about the intersection of medicine and technology, a Digital Health programme could be just the thing.",
+    "de": "Die Digitalisierung verändert das Gesundheitswesen rasant – elektronische Patientenakte, Telemedizin, KI-gestützte Diagnostik. Für alle, die sich für die Schnittstelle zwischen Medizin und Technologie begeistern, könnte ein Digital-Health-Studium das Richtige sein."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "\"The digitalisation wave is rolling – we have to learn to swim with it.\" – Lucia Dötterl, Digital Health student.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In fact, digitalisation is changing our healthcare system at a rapid pace. Electronic patient records, telemedicine, health apps, AI-supported diagnostics – all this is no longer just a future melody. For everyone passionate about the intersection of medicine and technology, a Digital Health programme could be just right.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "What is Digital Health?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "\"Digital Health\" encompasses the application of digital technologies in healthcare. The goal is to make medical care more efficient, patient-oriented and data-based. This includes software solutions for clinics, digital therapy tools, platforms for remote treatment and data-driven research for disease prevention.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Who is the programme suitable for?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "A programme in Digital Health is aimed at everyone who not only wants to apply technology but actively shape it – and who brings a special interest in health topics.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Study contents: interdisciplinary and practice-oriented",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "The two programmes in Digital Health Bachelor and Master combine knowledge from computer science, medicine and health sciences. Typical topics include health informatics, telemedicine, AI, robotics and data security.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Career prospects: versatile and future-proof",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "The demand for skilled workers with Digital Health competence is constantly growing – both in the public and private sectors. A Digital Health programme is worthwhile for everyone who understands technology as an opportunity and wants to actively shape healthcare. The special feature of studying at IB Hochschule für Gesundheit und Soziales is the direct connection to Unfallkrankenhaus Berlin (ukb).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "IB Hochschule für Gesundheit und Soziales prepares you for these new requirements in a practice-oriented and future-oriented way – with direct access to the clinic, innovative projects and an interdisciplinary team. More information about the programmes can be found on the pages for the Bachelor Digital Health or the Master Digital Health.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "„Die Digitalisierungswelle rollt – wir müssen lernen mit ihr zu schwimmen.\" – Lucia Dötterl, Studentin im Studiengang Digital Health.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Tatsächlich verändert die Digitalisierung unser Gesundheitssystem in rasantem Tempo. Elektronische Patientenakte, Telemedizin, Gesundheits-Apps, KI-gestützte Diagnostik – all das ist längst keine Zukunftsmusik mehr. Für alle, die sich für die Schnittstelle zwischen Medizin und Technologie begeistern, könnte ein Studium im Bereich Digital Health genau das Richtige sein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Was ist Digital Health?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "„Digital Health\" umfasst die Anwendung digitaler Technologien im Gesundheitswesen. Ziel ist es, medizinische Versorgung effizienter, patientenorientierter und datenbasierter zu gestalten. Dazu gehören etwa Softwarelösungen für Kliniken, digitale Therapietools, Plattformen für Fernbehandlung oder datengetriebene Forschung zur Krankheitsprävention.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Für wen ist das Studium geeignet?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Ein Studium im Bereich Digital Health richtet sich an alle, die Technik nicht nur anwenden, sondern aktiv mitgestalten wollen – und dabei ein besonderes Interesse an Gesundheitsthemen mitbringen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Studieninhalte: interdisziplinär und praxisnah",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Die beiden Studiengänge im Bereich Digital Health Bachelor und Master kombinieren Wissen aus Informatik, Medizin und Gesundheitswissenschaften. Typische Themen sind unter anderem Gesundheitsinformatik, Telemedizin, KI, Robotik und Datensicherheit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Berufsaussichten: vielseitig und zukunftssicher",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Die Nachfrage nach Fachkräften mit Digital-Health-Kompetenz wächst stetig – sowohl im öffentlichen als auch im privaten Sektor. Ein Studium im Bereich Digital Health lohnt sich für alle, die Technologie als Chance begreifen und das Gesundheitswesen aktiv mitgestalten wollen. Das Besondere an einem Studium an der IB Hochschule für Gesundheit und Soziales ist die direkte Anbindung an das Unfallkrankenhaus Berlin (ukb).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales bereitet dich praxisnah und zukunftsorientiert auf diese neuen Anforderungen vor – mit direktem Zugang zur Klinik, innovativen Projekten und einem interdisziplinären Team. Mehr Informationen zu den Studiengängen findest du auf den Seiten zum Bachelor Digital Health oder zum Master Digital Health.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-studieren/image_01.jpg",
+    "alt": "Studying Digital Health"
+  },
+  "gallery": [],
+  "publishDate": "2025-07-14T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.dh-erfahrungsbericht-liebner",
+  "slug": {
+    "_type": "slug",
+    "current": "digital-health-studium-erfahrungsbericht"
+  },
+  "title": {
+    "en": "How are studies going? Interview with Jona-Sophie Liebner, student in Bachelor Digital Health",
+    "de": "Und wie läufts im Studium? Interview mit Jona-Sophie Liebner, Studentin im Bachelor Digital Health"
+  },
+  "summary": {
+    "en": "The two new Digital Health Bachelor and Master programmes started in April 2024, and the first semester is now complete. In a short interview we asked our student Jona-Sophie Liebner about her experience.",
+    "de": "Die beiden neuen Studiengänge Digital Health Bachelor und Master sind im April 2024 gestartet und das erste Semester ist nun abgeschlossen. In einem kurzen Interview haben wir unsere Studentin Jona-Sophie Liebner über ihre Erfahrungen befragt."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The two new Digital Health Bachelor and Master programmes started for the first time in April 2024 and the first semester is now complete. The programme prepares students to optimally use modern technologies, such as Virtual Reality and Artificial Intelligence, in the medical environment. In a short interview we asked our student Jona-Sophie Liebner why she decided on the programme, what her professional goals are, and what she particularly likes about it.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Jona, you study Digital Health in the Bachelor. What moved you to start the programme at IB Hochschule? – I decided on Digital Health because I have great interest in how digitalisation will transform healthcare. The possibility of developing innovative solutions that improve the care of insured people and facilitate access to health services fascinates me. The decision to study at IB Hochschule was easy for me as the university enjoys an excellent reputation in digital health sciences. I also find the close cooperation with Unfallkrankenhaus Berlin very nice, as we can gain a lot of practical experience.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "What does the programme teach you, and what particularly appeals to you? – In the Digital Health programme I learn a variety of topics that focus on the interface between health and technology. These include for example health informatics, telemedicine, health systems and many other exciting topics. These topics prepare me to work in a rapidly developing area and exert a positive influence on healthcare. I particularly like the combination of theory and practice (at ukb) as well as the interdisciplinary cooperation with fellow students from different specialisations, which leads to a diverse exchange of ideas and perspectives.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "How will this help you in your professional career, and where is your journey going? – Through the Digital Health programme I can take on a position in the senior public service in administration. Overall the programme prepares me to take an active role in the transformation of healthcare and to have a positive influence on insured people's care and outcomes. Where exactly the journey leads I cannot say at present – the future will show that.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "We warmly thank Jona-Sophie Liebner for the open and exciting interview. We wish her continued much success and joy in the Digital Health programme and are curious to see where her path will lead!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die beiden neuen Studiengänge Digital Health Bachelor und Master sind erstmalig im April 2024 gestartet und das erste Semester ist nun abgeschlossen. Das Studium bereitet darauf vor, moderne Technologien, wie zum Beispiel Virtuelle Realität und Künstliche Intelligenz optimal im medizinischen Umfeld einzusetzen. In einem kurzen Interview haben wir unsere Studentin Jona-Sophie Liebner gefragt, warum sie sich für das Studium entschieden hat, was ihre beruflichen Ziele sind und was ihr besonders daran gefällt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Jona, du studierst Digital Health im Bachelor. Was hat dich dazu bewegt, das Studium an der IB Hochschule zu starten? – Ich habe mich für Digital Health entschieden, weil ich ein großes Interesse daran habe, wie die Digitalisierung das Gesundheitswesen transformieren wird. Die Möglichkeit, innovative Lösungen zu entwickeln, die die Versichertenversorgung verbessert und den Zugang zu Gesundheitsdiensten erleichtern, fasziniert mich. Die Entscheidung, an der IB Hochschule zu studieren, fiel mir leicht, da die Hochschule einen hervorragenden Ruf im Bereich der digitalen Gesundheitswissenschaften genießt. Ich finde ebenfalls die enge Zusammenarbeit mit dem Unfallkrankenhaus Berlin sehr schön, da wir so viel Praxiserfahrung sammeln können.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Was lernst du alles im Studium und was gefällt dir besonders? – Im Digital Health Studium lerne ich eine Vielzahl von Themen, die sich auf die Schnittstelle zwischen Gesundheit und Technologie konzentrieren. Dazu gehört z.B. Gesundheitsinformatik, Telemedizin, Gesundheitssysteme und viele weitere spannende Themen. Diese Themen bereiten mich darauf vor, in einem sich schnell entwickelnden Bereich zu arbeiten und einen positiven Einfluss auf die Gesundheitsversorgung zu nehmen. Besonders gut gefällt mir am Studium Digital Health die Kombination aus Theorie und Praxis (im ukb) sowie die interdisziplinäre Zusammenarbeit mit Kommilitonen aus verschiedenen Fachrichtungen, was zu einem vielfältigen Austausch von Ideen und Perspektiven führt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wie wird dir das in deiner beruflichen Karriere helfen und wo geht für dich die Reise hin? – Durch das Studium Digital Health kann ich eine Stelle im gehobenen Dienst in der Verwaltung übernehmen. Insgesamt bereitet mich das Studium darauf vor, eine aktive Rolle in der Transformation des Gesundheitswesens zu übernehmen und einen positiven Einfluss auf die Versichertenversorgung und -ergebnisse zu haben. Wohin die Reise genau geht, kann ich derzeit noch nicht sagen – das wird die Zukunft zeigen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Wir bedanken uns herzlich bei Jona-Sophie Liebner für das offene und spannende Interview. Wir wünschen ihr weiterhin viel Erfolg und Freude im Studium Digital Health und sind gespannt, wohin ihr Weg sie führen wird!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-studium-erfahrungsbericht/image_01.jpg",
+    "alt": "Jona-Sophie Liebner Digital Health student"
+  },
+  "gallery": [],
+  "publishDate": "2024-09-16T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,365 @@
+{
+  "_type": "news",
+  "_id": "news.sportfoerderung-an-der-ib-hochschule",
+  "slug": {
+    "_type": "slug",
+    "current": "sportfoerderung-an-der-ib-hochschule-fuer-gesundheit-und-soziales"
+  },
+  "title": {
+    "en": "Sport sponsorship at IB Hochschule für Gesundheit und Soziales",
+    "de": "Sportförderung an der IB Hochschule für Gesundheit und Soziales"
+  },
+  "summary": {
+    "en": "From martial arts to water polo, IB Hochschule supports students not only in their daily training but also at upcoming competitions, e.g. by covering travel costs or providing training materials. Includes an interview with elite water polo student Felix Dobrzynski.",
+    "de": "Von Kampfsport bis Wasserball unterstützt die IB Hochschule Studierende nicht nur im täglichen Training, sondern auch bei Wettkämpfen, z.B. durch Übernahme der Reisekosten oder die Bereitstellung von Trainingsmaterial. Enthält ein Interview mit Wasserball-Leistungssportler Felix Dobrzynski."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "From martial arts to water polo, IB Hochschule supports students not only in their daily training but also at upcoming competitions. The athletes are supported financially with training materials or the assumption of travel costs.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In doing so, IB Hochschule promotes a healthy and active life in all its diversity and enables students to reach their sporting and academic goals.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Studies and elite sport – a double burden?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Combining studies and elite sport is often a major challenge because of the double burden. Young elite athletes are always faced with the demand to deliver top performance both in sport and in studies. As a strong partner, IB Hochschule supports Felix Dobrzynski in practising and training his sport: water polo.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Interview with Felix Dobrzynski",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "How did your sporting career develop so far? – F. Dobrzynski: \"I have been swimming for as long as I can remember at SG Neukölln, and after a short sporting reorientation through American Football I came to water polo.\" As a swimmer he managed to take part in many internationally attended competitions with numerous wins over the 50- and 100-metre freestyle and butterfly distances. At the Berlin Championships 2017, he was among the 30 fastest swimmers in Berlin. Since 2018 he plays in the second water polo Bundesliga. In the last season they reached the quarter finals of the East German Cup and finished the 2018–19 season among the top five teams.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "You study Speech and Language Therapy (Logopaedics) at IB Hochschule für Gesundheit und Soziales. Can you also use elements from sport for your studies and vice versa? – \"Sure! Many people associate speech and language therapy with speech disorders, but physiological breathing and self-perception play a major role. Through my studies, I have been able to use all breathing spaces optimally and develop longer diving phases that give me an advantage in matches and races.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "How can your studies be combined with elite sport? – \"The individual support of lecturers is very good, and even with a high training load of 2 sessions per day, care is taken to convey the material well. Lecturers also always have an open ear and offer opportunities to submit work flexibly so that I can take part in national and international games and meets. The digital teaching offering of the university is particularly helpful and, in combination with the very good support, provides an optimal basis for an excellent learning climate.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "What are your next sporting goals? – \"Since I am currently training in the perspective squad of the 1st Bundesliga, my next sporting goal is to be included in the squad of the first water polo Bundesliga to compete there for the German championship.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Many thanks for the interview, Felix – we wish you much success in reaching your goals!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "Participation conditions for the social media competition",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en12s",
+            "text": "Participation in the competition is free of charge and is governed exclusively by these terms of participation. The competition is run by IB Hochschule für Gesundheit und Soziales on the online platforms Facebook and Instagram. Open to all persons aged 18 or over who are legally competent. Employees of IB Hochschule are excluded from participation. Participation requires answering a question and a like of the IB Hochschule profile on Facebook and Instagram (which sport does Felix Dobrzynski practise?). Each participant may only enter once. The competition runs from 24.09.2020 to 30.09.2020. A T-shirt, a rain jacket and a cap with the IB Hochschule logo will be raffled. Prizes cannot be paid out in cash. For full terms and data protection notes, contact marketing@ib-hochschule.de.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Von Kampfsport bis Wasserball unterstützt die IB Hochschule Student*innen nicht nur in ihrem alltäglichen Training, sondern auch bei anstehenden Wettkämpfen. So werden die Athlet*innen mit Trainingsmaterial oder der Übernahme der Reisekosten finanziell unterstützt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Damit fördert die IB Hochschule ein gesundes und sportliches Leben in aller Vielfalt und ermöglicht es Student*innen, ihre sportlichen und akademischen Ziele zu erreichen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Studium und Spitzensport eine doppelte Belastung?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Doch Studium und Leistungssport unter einen Hut zu bringen, sind aufgrund der doppelten Belastung oft eine große Herausforderung. Junge Spitzensportler stehen immer vor der Anforderung, sowohl im Sport als auch im Studium Bestleistungen zu erbringen. Als starker Partner unterstützt die IB Hochschule Felix Dobrzynski bei der Ausübung und im Training seiner Sportart: Wasserball.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Interview mit Felix Dobrzynski",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Wie verlief deine bisherige sportliche Karriere? – F. Dobrzynski: „Ich schwimme schon, seit ich denken kann bei der SG-Neukölln und bin nach einer kurzen sportlichen Umorientierung über American Football zum Wasserball gekommen.\" Als Schwimmer gelang es ihm, an vielen international besetzten Wettkämpfen teilzunehmen, mit zahlreichen Siegen über die Strecken 50 und 100 Meter Freistil und Schmetterling. Bei den Berliner Meisterschaften 2017 war er unter den 30 schnellsten Schwimmern Berlins. Seit 2018 spielt er in der zweiten Bundesliga Wasserball. In der letzten Saison haben sie das Viertelfinale des Ostdeutschen Pokals erreicht und die Saison 2018-19 in der Tabelle unter den ersten 5 Mannschaften abgeschlossen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Du studierst Logopädie an der Hochschule für Gesundheit und Soziales. Kannst Du Elemente aus dem Sport auch für das Studium verwenden und umgekehrt? – „Sicher! Viele denken bei Logopädie immer an Sprachstörungen, dabei spielt die physiologische Atmung und Selbstwahrnehmung eine große Rolle. Durch das Studium konnte ich alle Atemräume optimal nutzen und so längere Tauchphasen erarbeiten, die mir in Spielen und Rennen einen Vorteil verschaffen.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Wie lässt sich das Studium mit dem Leistungssport vereinbaren? – „Die individuelle Betreuung der Dozent*innen ist sehr gut und es wird auch bei einem hohen Leistungspensum von 2 Trainingseinheiten am Tag darauf geachtet, dass der Stoff gut vermittelt wird. Die Dozenten haben darüber hinaus immer ein offenes Ohr und bieten Möglichkeiten Arbeiten flexibel einzureichen, um an nationalen und internationalen Spielen und Meetings teilnehmen zu können. Dabei hilft besonders das digitale Lehrangebot der Hochschule, welches in Kombination mit der sehr guten Betreuung eine optimale Basis für ein sehr gutes Lernklima bietet.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Welches sind deine nächsten sportlichen Ziele? – „Da ich momentan im Perspektivkader der 1. Bundesliga trainiere, ist mein nächstes sportliches Ziel, in den Kader der ersten Wasserball-Bundesliga aufgenommen zu werden, um dort um die deutsche Meisterschaft mitzuspielen.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Vielen Dank für das Interview, Felix, wir wünschen dir viel Erfolg beim Erreichen deiner Ziele!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Teilnahmebedingungen für Social Media Gewinnspiel",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de12s",
+            "text": "Die Teilnahme am nachstehenden Gewinnspiel ist kostenlos und richtet sich ausschließlich nach diesen Teilnahmebedingungen. Das Gewinnspiel wird von der IB Hochschule für Gesundheit und Soziales auf den Online-Plattformen Facebook und Instagram durchgeführt. Teilnahmeberechtigt sind alle Personen, welche das 18. Lebensjahr vollendet haben und geschäftsfähig sind. Mitarbeiterinnen und Mitarbeiter der IB Hochschule sind von der Teilnahme am Gewinnspiel ausgenommen. Für die Teilnahme am Gewinnspiel ist die Beantwortung einer Frage und ein Like der Präsenz der „IB Hochschule\" bei Facebook und Instagram nötig (Welche Sportart übt Felix Dobrzynski aus?). Jeder Teilnehmer darf nur einmal am Gewinnspiel teilnehmen. Das Gewinnspiel beginnt am 24.09.2020 und endet am 30.09.2020. Verlost werden ein T-Shirt, eine Regenjacke und eine Mütze mit dem IB Hochschule-Logo. Eine Auszahlung des Preises in bar ist nicht möglich. Ansprechpartner für Fragen ist das Marketing-Team der IB Hochschule (marketing@ib-hochschule.de).",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/sportfoerderung-an-der-ib-hochschule-fuer-gesundheit-und-soziales/image_01.jpg",
+    "alt": "Sport sponsorship at IB Hochschule"
+  },
+  "gallery": [],
+  "publishDate": "2020-09-24T09:00:00.000Z",
+  "status": "published"
+}

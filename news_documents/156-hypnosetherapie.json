@@ -1,0 +1,175 @@
+{
+  "_type": "news",
+  "_id": "news.hypnosetherapie-schaeberle",
+  "slug": {
+    "_type": "slug",
+    "current": "hypnosetherapie"
+  },
+  "title": {
+    "en": "Hypnotherapy – a way to overcome fears and phobias: Prof. Wolfgang Schäberle in interview",
+    "de": "Hypnosetherapie – Ein Weg, seine Ängste und Phobien zu überwinden: Prof. Wolfgang Schäberle im Interview"
+  },
+  "summary": {
+    "en": "Hypnotherapy is a scientifically recognised procedure used in the treatment of phobias, traumas and psychosomatic complaints. It dives deep into the unconscious to alleviate fears and release blockages.",
+    "de": "Hypnosetherapie ist ein wissenschaftlich anerkanntes Verfahren, das bei der Behandlung von Phobien, Traumata und psychosomatischen Beschwerden eingesetzt wird. Sie taucht tief in das Unterbewusstsein ein, um Ängste zu lindern und Blockaden zu lösen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Hypnotherapy is a possibility to overcome fears and phobias. It is a scientifically recognised procedure used in the treatment of phobias, traumas and psychosomatic complaints. Hypnotherapy dives deep into the unconscious to alleviate fears and release blockages. But how exactly does this process work, and what role does the unconscious play in breaking down fears? On this we spoke with Prof. Wolfgang Schäberle, lecturer at IB Hochschule für Gesundheit und Soziales who researches in the project \"Sustainability of medical hypnotherapy\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Dear Mr Schäberle, in your interview you talk about the successful application of hypnosis in treating snake phobias. How exactly does this process work? – In hypnosis the patient finds access to their unconscious. The hypnotic state could be described like just before falling asleep. Completely relaxed and arrived at oneself. Especially the emotions and underlying situation connected with the phobia are findable in hypnosis and are directly neutralised. Usually 2-3 sessions are sufficient.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "You mentioned working with regression technique in hypnosis to help patients identify the causes of their fears. Can you explain in more detail how this method works and why it is so effective? – In regression hypnosis the underlying situation is searched in the unconscious. This may lie a few years or up to early childhood ago. Decisive is first finding the linked emotions. These lead to the underlying situation. Mostly patients have a different conscious memory and are after the hypnosis very surprised, as they cannot remember the actually underlying situation. In the example of snake phobia the underlying situation/emotion is rarely a real snake contact. Sometimes it's films, pictures or stories that were told to them. But often the underlying emotion/situation arose in a completely different context and is mirrored in e.g. snake phobia.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Hypnosis is often still viewed sceptically. Which scientific bases and studies support the effectiveness of hypnotherapy, and how can sceptics be convinced? – I do not encounter this scepticism you mention. But this lies in the nature of things, as only people who need help and have no reservations come to me. I do not want to convince sceptics. Whoever does not want hypnotherapy finds enough other therapy offers. Scientifically, hypnotherapy has been recognised by the Scientific Advisory Board since 2006 as a scientifically founded psychotherapeutic method. This is a high quality criterion. There are also over 200 internationally scientific studies proving the effectiveness of hypnotherapy. Incidentally, in Germany only licensed psychotherapists, doctors or non-medical practitioners may use hypnotherapy. The other hypnosis providers are in the coaching area and may not perform diagnosis-related treatment. This also serves therapeutic quality assurance.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Hypnotherapy impressively shows how important it is to thoroughly research and apply psychological methods. Anyone interested in the fascinating world of psychology and working with the human consciousness has the opportunity to secure a study place in Applied Psychology at our university. More information and the interview on the YouTube channel \"ReptilTV\" are linked.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Hypnosetherapie ist eine Möglichkeit, um seine Ängste und Phobien zu überwinden. Sie ist ein wissenschaftlich anerkanntes Verfahren, das bei der Behandlung von Phobien, Traumata und psychosomatischen Beschwerden eingesetzt wird. Die Hypnosetherapie taucht tief in das Unterbewusstsein ein, um Ängste zu lindern und Blockaden zu lösen. Doch wie genau funktioniert dieser Prozess, und welche Rolle spielt das Unterbewusstsein dabei, Ängste abzubauen? Dazu haben wir mit Prof. Wolfgang Schäberle gesprochen. Prof. Wolfgang Schäberle ist Lehrender der IB Hochschule für Gesundheit und Soziales und forscht im Rahmen des Forschungsprojekts „Nachhaltigkeit von medizinischer Hypnosetherapie\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Lieber Herr Schäberle, in Ihrem Interview sprechen Sie von der erfolgreichen Anwendung von Hypnose bei der Behandlung von Schlangenphobien. Wie genau funktioniert dieser Prozess? – In der Hypnose findet der Patient Zugang zu seinem Unterbewusstsein. Man kann den hypnotischen Zustand vielleicht so beschreiben, wie kurz vor dem Einschlafen. Völlig entspannt und bei sich angekommen. Insbesondere die mit der Phobie verbundenen Emotionen und ursächliche Situation sind in der Hypnose auffindbar und werden direkt neutralisiert. Dabei genügen in der Regel 2-3 Sitzungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Sie erwähnten, dass Sie mit der Regressionstechnik in der Hypnose arbeiten, um Patienten zu helfen, die Ursachen ihrer Ängste zu identifizieren. – „In der Regressionshypnose wird im Unterbewusstsein die ursächliche Situation gesucht. Diese kann wenige Jahre oder bis zur frühkindlichen Zeit zurückliegen. Entscheidend ist, zunächst die verknüpften Emotionen zu finden. Diese führen zur ursächlichen Situation. Meistens haben die Patienten eine andere bewusste Erinnerung daran und sind nach der Hypnose sehr überrascht, da sie sich an die tatsächlich ursächliche Situation nicht erinnern können oder diese nicht im Zusammenhang mit der Phobie gesehen haben.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Hypnose wird oft noch skeptisch betrachtet. Welche wissenschaftlichen Grundlagen und Studien stützen die Wirksamkeit der Hypnosetherapie? – „Wissenschaftlich ist die Hypnosetherapie seit 2006 vom Wissenschaftlichen Beirat als eine wissenschaftlich begründete psychotherapeutische Methode anerkannt. Dies ist ein hohes Gütekriterium. Zudem gibt es über 200 international wissenschaftliche Studien, die die Wirkungsweise der Hypnosetherapie belegen. Übrigens dürfen in Deutschland nur approbierte Psychotherapeuten, Ärzte oder Heilpraktiker Hypnosetherapie anwenden.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Hypnosetherapie zeigt eindrucksvoll, wie wichtig es ist, psychologische Methoden fundiert zu erforschen und anzuwenden. Wer sich für die faszinierende Welt der Psychologie und die Arbeit mit dem menschlichen Bewusstsein interessiert, hat die Möglichkeit, an unserer Hochschule einen Studienplatz in Angewandter Psychologie zu sichern.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/hypnosetherapie/image_01.jpg",
+    "alt": "Hypnosetherapie in der Psychologie"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/hypnosetherapie/image_02.jpg",
+      "alt": "Hypnosetherapie in der Angewandten Psychologie"
+    }
+  ],
+  "publishDate": "2024-09-23T09:00:00.000Z",
+  "status": "published"
+}

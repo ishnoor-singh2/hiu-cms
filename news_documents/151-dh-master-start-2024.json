@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.dh-master-kohorte-start-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "neuen-kohorte-digital-health-master"
+  },
+  "title": {
+    "en": "Start of the new cohort Digital Health Master at IB Hochschule",
+    "de": "Start der neuen Kohorte Digital Health Master an der IB Hochschule"
+  },
+  "summary": {
+    "en": "The new cohort of the Master Digital Health programme has successfully started at IB Hochschule. We are pleased to welcome the new students on the Health Campus at ukb in Berlin!",
+    "de": "Die neue Kohorte im Masterstudiengang Digital Health ist erfolgreich an der IB Hochschule gestartet. Wir freuen uns, die neuen Studierenden auf dem Gesundheitscampus am ukb in Berlin begrüßen zu dürfen!"
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The new cohort of the Master Digital Health programme has successfully started at IB Hochschule. We are pleased to welcome the new students on the Health Campus at ukb in Berlin! The Digital Health Bachelor and Master programmes have been firmly in the programme of IB Hochschule für Gesundheit und Soziales since summer semester 2024.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The focus of the part-time programmes lies on the application of Digital Health and illuminates the latest state of digitalisation in medicine and healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The digital transformation offers enormous potential but also harbours major challenges: data protection and data security – personal data, including medical histories, diagnoses and treatment plans, must be protected from cyber-attacks and data abuse. Interoperability of systems – different systems for managing patient data, diagnostics and treatment are often not compatible. Acceptance and training – doctors, nursing staff and other actors in healthcare must accept and operate the new systems. Last but not least, research is needed to efficiently, safely and accessibly integrate innovative technologies into healthcare and thereby improve both patient care and the efficiency of systems.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "After completing their studies, our students are able to use applications from the Digital Health area properly and evaluate them in both inpatient and outpatient settings. In direct connection to Unfallkrankenhaus Berlin (ukb), they are qualified to support patients diagnostically and therapeutically through new software and techniques, e.g. through methods in virtual reality (VR), augmented reality (AR) or mixed reality (MR) technologies.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Our students experience the digitalisation of medicine from different perspectives and can thus develop Digital Health technologies in a patient-friendly way. We are pleased about the new students and wish them a good start and much success in their studies!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die neue Kohorte im Masterstudiengang Digital Health ist erfolgreich an der IB Hochschule gestartet. Wir freuen uns, die neuen Studierenden auf dem Gesundheitscampus am ukb in Berlin begrüßen zu dürfen! Die Studiengänge Digital Health Bachelor und Master sind seit dem Sommersemester 2024 fest im Programm der IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Der Schwerpunkt der berufsbegleitenden Studiengänge liegt auf der Anwendung von Digital Health und beleuchtet den neuesten Stand der Digitalisierung in der Medizin und im Gesundheitswesen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die digitale Transformation bietet ein enormes Potential, birgt aber auch einige große Herausforderungen: Datenschutz und Datensicherheit – personenbezogene Daten, darunter Krankengeschichten, Diagnosen und Behandlungspläne, müssen vor Cyberangriffen und Datenmissbrauch geschützt werden. Interoperabilität der Systeme – unterschiedliche Systeme zur Verwaltung von Patientendaten sind oft nicht kompatibel. Akzeptanz und Schulung – Ärzte, Pflegepersonal und andere Akteure im Gesundheitswesen müssen die neuen Systeme annehmen und bedienen können. Nicht zuletzt braucht es Forschung, um innovative Technologien effizient, sicher und zugänglich in das Gesundheitswesen zu integrieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Nach Abschluss des Studiums sind unsere Studierenden in der Lage, Anwendungen aus dem Bereich Digital Health sowohl im stationären als auch im ambulanten Setting sachgemäß zu verwenden und zu bewerten. In direkter Anbindung an das Unfallkrankenhaus Berlin (ukb) werden sie qualifiziert, Patient*innen durch neue Software und Techniken, z.B. durch Methoden in der Virtuellen Realität (VR), Augmented Reality (AR) oder Mixed Reality (MR) -Technologien diagnostisch sowie therapeutisch zu unterstützen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Unsere Studierenden erleben die Digitalisierung der Medizin aus verschiedenen Perspektiven und können so Digital Health Technologien patientengerecht entwickeln. Wir freuen uns über die neuen Studierenden und wünschen Ihnen einen guten Start und viel Erfolg im Studium!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/neuen-kohorte-digital-health-master/image_01.jpg",
+    "alt": "Digital Health Master start 2024"
+  },
+  "gallery": [],
+  "publishDate": "2024-10-16T09:00:00.000Z",
+  "status": "published"
+}

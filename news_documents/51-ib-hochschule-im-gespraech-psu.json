@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.ib-hochschule-im-gespraech-psu",
+  "slug": {
+    "_type": "slug",
+    "current": "ib-hochschule-im-gespraech-psychosoziale-unterstuetzung-fuer-menschen-mit-fluchterfahrung"
+  },
+  "title": {
+    "en": "IB Hochschule in conversation: psychosocial support for people with refugee experience",
+    "de": "IB Hochschule im Gespräch: Psychosoziale Unterstützung für Menschen mit Fluchterfahrung"
+  },
+  "summary": {
+    "en": "We have planned an exciting lecture series on the topic of psychosocial support for people with refugee experience. All IB Hochschule students and lecturers, as well as external participants, are warmly invited to take part.",
+    "de": "Wir haben eine spannende Vortragsreihe geplant zum Thema „Psychosoziale Unterstützung für Menschen mit Fluchterfahrung\". Alle Studierenden und Lehrenden der IB Hochschule sowie externe Interessierte sind herzlich eingeladen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "We have planned an exciting lecture series for you on the topic: Psychosocial support for people with refugee experience. All IB Hochschule students and lecturers, as well as external participants, are warmly invited to take part. Please register at the following link.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Wednesday 06.07.2022, 6 – 8 p.m.\nTopic: Trauma and traumatisation – an introduction\nSpeakers: Prof. Dr. Tajana Grießmann-Gehrt, Prof. Dr. Axel Kowalski",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Wednesday 21.09.2022, 6 – 8 p.m.\nTopic 1: Psychosocial support for people with refugee experience – tools for teaching and practice from the European project (InterAct) (Sarah Scheer)\nTopic 2: Everyday communication when working with affected persons – an exchange for professionals and volunteers (Prof. Dr. Axel Kowalski)\nSpeakers: Sarah Scheer, Prof. Dr. Axel Kowalski\nWith the participation of IB Mitte, Schule für Logopädie Leipzig, on the topic of mutism due to traumatisation.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Wir haben für Sie eine spannende Vortragsreihe geplant zum Thema: Psychosoziale Unterstützung für Menschen mit Fluchterfahrung. Alle Studierenden und Lehrenden der IB Hochschule aber auch von extern sind herzlich eingeladen, hieran teilzunehmen. Melden Sie sich gerne unter dem folgenden Link an.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mittwoch 06.07.2022 von 18 – 20 Uhr\nThema: Trauma und Traumatisierung – Eine Einführung\nReferent*innen: Prof. Dr. Tajana Grießmann-Gehrt, Prof. Dr. Axel Kowalski",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Mittwoch 21.09.2022 von 18 – 20 Uhr\nThema 1: Psychosoziale Unterstützung für Menschen mit Fluchterfahrung – Tools für die Lehre und Praxis aus dem europäischen Projekt (InterAct) (Sarah Scheer)\nThema 2: Alltagskommunikation im Umgang mit Betroffenen – ein Austausch für Fachkräfte und Ehrenamtliche (Prof. Dr. Axel Kowalski)\nReferent*innen: Sarah Scheer, Prof. Dr. Axel Kowalski\nUnter Beteiligung der IB Mitte, Schule für Logopädie Leipzig, zum Thema Mutismus aufgrund von Traumatisierung.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/ib-hochschule-im-gespraech-psychosoziale-unterstuetzung-fuer-menschen-mit-fluchterfahrung/image_01.jpg",
+    "alt": "Lecture series on psychosocial support"
+  },
+  "gallery": [],
+  "publishDate": "2022-06-28T09:00:00.000Z",
+  "status": "published"
+}

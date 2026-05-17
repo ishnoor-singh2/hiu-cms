@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.die-dmea-2023-im-rueckblick-ein-voller-erfolg",
+  "slug": {
+    "_type": "slug",
+    "current": "die-dmea-2023-im-rueckblick-ein-voller-erfolg"
+  },
+  "title": {
+    "en": "DMEA 2023 in retrospect – a complete success!",
+    "de": "Die DMEA 2023 – im Rückblick ein voller Erfolg!"
+  },
+  "summary": {
+    "en": "DMEA 2023 was a complete success and a great experience. IB Hochschule was represented with a booth and had the opportunity to present the Digital Health Bachelor and Master programmes to a broad audience of health professionals.",
+    "de": "Die DMEA 2023 war ein voller Erfolg und eine großartige Erfahrung! Die IB Hochschule war mit einem Stand vertreten und hatte die Möglichkeit, die Studiengänge Digital Health Bachelor und Master einem breiten Fachpublikum vorzustellen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "DMEA 2023 was a complete success in retrospect and a great experience! IB Hochschule was represented with a stand and had the opportunity to present the Digital Health Bachelor and Master programmes to a broad audience of healthcare professionals.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "With more than 700 national and international exhibitors, over 300 speakers and more than 16,000 participants, Europe's largest trade fair for digital healthcare came to a successful close. Federal Minister of Health and DMEA patron Prof. Dr. Karl Lauterbach outlined the next steps in the digitalisation of healthcare in his opening keynote.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In the DMEA sparks youth programme, the important topics of careers, young talent and sustainability were highlighted. Through this event, students, interested parties and young professionals had the opportunity to make connections with established companies, universities and IT departments in clinics. On 10 May the next information event will take place – directly at Unfallkrankenhaus Berlin (ukb). There all those interested can ask their questions about the planned Digital Health programme. Prof. Dr. Schmehl and Prof. Dr. Lacour will present both the programme and the premises at ukb. Registration is possible here.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We are excited to see where the Digital Health journey is heading!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die DMEA 2023 war im Rückblick ein voller Erfolg und eine großartige Erfahrung! Die IB Hochschule war mit einem Stand vertreten und hatte die Möglichkeit die Studiengänge Digital Health Bachelor und Master einem breiten Publikum aus Gesundheitsfachleuten vorzustellen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mit über 700 nationalen und internationalen Ausstellern, über 300 Speakern und mehr als 16.000 Teilnehmer*innen ist Europas größte Messe für die digitale Gesundheitsversorgung erfolgreich zu Ende gegangen. Bundesgesundheitsminister und DMEA-Schirmherr Prof. Dr. Karl Lauterbach konkretisiert in seiner Eröffnungskeynote die weiteren Schritte zur Digitalisierung des Gesundheitswesens.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Im Nachwuchsprogramm DMEA sparks wurden die bedeutenden Themen Karriere, Nachwuchs und Nachhaltigkeit besonders hervorgehoben. Durch diese Veranstaltung hatten Studierende, Interessent*innen und junge Fachkräfte die Möglichkeit, Verbindungen zu etablierten Unternehmen, Hochschulen und IT-Abteilungen in Kliniken zu knüpfen. Am 10. Mai gibt es die nächste Infoveranstaltung, dann direkt am Unfallkrankenhaus Berlin (ukb). Dort können alle Interessent*innen ihre Fragen zum geplanten Studiengang Digital Health stellen. Prof Dr. Schmehl und Prof Dr. Lacour werden sowohl den Studiengang als auch die Räumlichkeiten am ukb präsentieren. Zur Anmeldung geht es hier.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir sind gespannt, wo die Digital Health Reise hingeht!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-dmea-2023-im-rueckblick-ein-voller-erfolg/image_01.jpg",
+    "alt": "Die IB Hochschule auf der DMEA"
+  },
+  "gallery": [],
+  "publishDate": "2023-05-02T09:00:00.000Z",
+  "status": "published"
+}

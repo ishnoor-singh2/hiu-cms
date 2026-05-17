@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.trii-masterniveau-weiterbildung-start",
+  "slug": {
+    "_type": "slug",
+    "current": "erfolgreicher-start-der-wissenschaftlichen-weiterbildung-trii-auf-masterniveau"
+  },
+  "title": {
+    "en": "Successful start of the scientific continuing education \"TRII at Master level\"",
+    "de": "Erfolgreicher Start der wissenschaftlichen Weiterbildung „TRII auf Masterniveau\""
+  },
+  "summary": {
+    "en": "The scientific continuing education of the BMBF-funded project \"Therapeutic Research as part-time continuing education for health professions\" started successfully on 28 February 2020.",
+    "de": "Die wissenschaftliche Weiterbildung des BMBF-geförderten Projekts „Therapeutic Research als berufsbegleitende Weiterbildung für Gesundheitsfachberufe\" ist am 28.02.2020 erfolgreich gestartet."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The scientific continuing education of the BMBF-funded project \"Therapeutic Research as part-time continuing education for health professions – testing, evaluation and establishment of sustainable strategies of implementation\" started successfully on 28.02.2020.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Goals of this Master-level continuing education are the qualification to lead and conduct research projects as well as QM projects (planning and implementation). With regard to compatibility with work and family, the certificate programme enables permeability between a first academic degree and a Master's programme.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The scientific continuing education comprises four modules: \"Research project\", \"Project management and quality management\", \"Quantitative research methodology\" and \"Qualitative research methodology\", and concludes with 30 ECTS after successful completion of all modules.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "On this first weekend, the participants from the professions of Speech and Language Therapy, Physiotherapy, Occupational Therapy and Psychology with academic degrees presented their research topics. Topic finding took place in coordination with the employer. After reviewing the topics for suitability as a scientific project together with the lecturers, the participants began developing a scientific exposé. The course was also well filled with topics on evidence-based practice and search strategies in scientific databases, literature management programmes, criteria of good clinical practice, research ethics and study registration. At the end of this first part in the Research Project module, the participants were able to concretise their research projects and now start the in-depth planning and execution.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "For all those now interested in participating: registration for individual modules is possible here for a short time.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Further articles about the project can be found here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die wissenschaftliche Weiterbildung des BMBF gefördertes Projektes „Therapeutic Research als berufsbegleitende Weiterbildung für Gesundheitsfachberufe - Erprobung, Evaluation und Etablierung nachhaltiger Strategien der Implementierung\" ist am 28.02.2020 erfolgreich gestartet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Ziele dieser wissenschaftlichen Weiterbildung auf Masterniveau sind die Befähigung zur Leitung und Durchführung von Forschungsprojekten sowie QM-Projekten (Planung und Implementierung). Unter dem Aspekt der Vereinbarkeit mit Beruf und Familie ermöglicht das Zertifikatsprogramm die Durchlässigkeit zwischen einem ersten akademischen Abschluss zu einem Masterstudium.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die wissenschaftliche Weiterbildung umfasst vier Module: „Forschungsprojekt\", „Projektmanagement und Qualitätsmanagement\", „Quantitative Forschungsmethodik\" sowie „Qualitative Forschungsmethodik\" und schließt nach erfolgreichem Abschluss aller Module mit 30 ECTS ab.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "An diesem ersten Wochenende stellten die Teilnehmenden aus den Berufen Logopädie, Physiotherapie, Ergotherapie und Psychologie mit akademischem Abschluss ihre Forschungsthemen vor. Die Themenfindung fand in Abstimmung mit dem Arbeitgeber/ der Arbeitgeberin statt. Nach einer Prüfung der Themen auf eine Eignung als wissenschaftliches Projekt zusammen mit den Dozentinnen, begannen die Teilnehmenden mit der Erarbeitung eines wissenschaftlichen Exposés. Die Lehrveranstaltung war weiterhin mit Themen zur evidenzbasierten Praxis und Suchstrategien in wissenschaftlichen Datenbanken, Literaturverwaltungsprogrammen, Kriterien guter klinischer Praxis, Forschungsethik sowie Studienregistrierung gut gefüllt. Am Ende dieses ersten Teils im Modul Forschungsprojekt konnten die Teilnehmenden ihre Forschungsvorhaben konkretisieren und starten nun in die vertiefte Planung und Durchführung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Für alle die sich jetzt für eine Teilnahme interessieren: Eine Anmeldung für einzelne Module ist für kurze Zeit hier möglich.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Weitere Artikel zum Projekt finden Sie hier.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/erfolgreicher-start-der-wissenschaftlichen-weiterbildung-trii-auf-masterniveau/image_01.jpg",
+    "alt": "TRII at Master level"
+  },
+  "gallery": [],
+  "publishDate": "2020-03-06T09:00:00.000Z",
+  "status": "published"
+}

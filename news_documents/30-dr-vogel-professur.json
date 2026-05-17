@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.wir-gratulieren-frau-dr-vogel-zur-professur-im-fachbereich-psychologie",
+  "slug": {
+    "_type": "slug",
+    "current": "wir-gratulieren-frau-dr-vogel-zur-professur-im-fachbereich-psychologie"
+  },
+  "title": {
+    "en": "We congratulate Dr. Vogel on her professorship in the Psychology department",
+    "de": "Wir gratulieren Frau Dr. Vogel zur Professur im Fachbereich Psychologie"
+  },
+  "summary": {
+    "en": "In a small ceremony on 16 May 2023, Dr. Vogel was officially appointed Professor of Psychology by IB Hochschule President Prof. Hartinger. From May 2023 she will teach Applied Psychology at IB Hochschule.",
+    "de": "In einer kleinen Zeremonie wurde Frau Dr. Vogel am 16. Mai 2023 von Hochschulpräsidentin Prof. Hartinger offiziell zur Professorin für Psychologie ernannt. Ab Mai 2023 lehrt sie Angewandte Psychologie an der IB Hochschule."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In a small ceremony last Thursday, 16 May 2023, Ms. Dr. Vogel was officially appointed Professor of Psychology. Prof. Hartinger, President of the university, personally presented her with the appointment certificate. We warmly congratulate Dr. Vogel!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "From May 2023, Dr. Joanna Vogel will work as a lecturer for Applied Psychology at IB Hochschule für Gesundheit und Soziales. In addition to her teaching and research activities, she works in her own psychotherapy practice. Her focus areas are biopsychology and legal psychology.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Our students can look forward to a dynamic and enriching learning experience. They will undoubtedly benefit from her profound knowledge and expertise. IB Hochschule is proud and warmly welcomes Dr. Vogel to the team!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "In einer kleinen Zeremonie wurde am vergangenen Donnerstag, d. 16.05.2023 Frau Dr. Vogel offiziell zur Professorin für Psychologie ernannt. Frau Professor Hartinger, Präsidentin der Hochschule, überreichte ihr persönlich die Ernennungsurkunde. Wir gratulieren Frau Dr. Vogel ganz herzlich!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Ab Mai 2023 wird Frau Dr. Joanna Vogel als Hochschullehrerin für Angewandte Psychologie an der IB Hochschule für Gesundheit und Soziales tätig sein. Neben ihrer Lehr- und Forschungstätigkeit arbeitet sie in ihrer eigenen psychotherapeutischen Praxis. Ihre Schwerpunkte sind die Biopsychologie und Rechtspsychologie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Unsere Studierenden können sich auf eine dynamische und bereichernde Lernerfahrung freuen. Sie werden zweifellos von ihrer profunden Kenntnis und ihrem Fachwissen profitieren. Die IB Hochschule ist stolz darauf und heißt Frau Dr. Vogel herzlich willkommen im Team!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wir-gratulieren-frau-dr-vogel-zur-professur-im-fachbereich-psychologie/image_01.png",
+    "alt": "Prof. Dr. Joanna Vogel an der IB Hochschule"
+  },
+  "gallery": [],
+  "publishDate": "2023-05-24T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,253 @@
+{
+  "_type": "news",
+  "_id": "news.gesundheitspaedagogik-studieren-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "gesundheitspaedagogik-studieren"
+  },
+  "title": {
+    "en": "Studying Health Education – practice-oriented and diverse",
+    "de": "Gesundheitspädagogik studieren – praxisnah und vielfältig"
+  },
+  "summary": {
+    "en": "In the world of Health Education, IB Hochschule in Berlin offers two part-time programmes characterised by a unique combination of theory and practice. This connection enables competent health-pedagogical thinking and acting.",
+    "de": "In der Welt der Gesundheitspädagogik bietet die IB Hochschule in Berlin zwei berufsbegleitende Studiengänge an, die sich durch eine einzigartige Kombination von Theorie und Praxis auszeichnen. Diese Verbindung ermöglicht kompetentes gesundheitspädagogisches Denken und Handeln."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In the world of Health Education, IB Hochschule für Gesundheit und Soziales in Berlin offers two part-time programmes that are characterised by a unique combination of theory and practice. This connection enables competent health-pedagogical thinking and acting.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The Bachelor Health Care Education / Gesundheitspädagogik (HCE) brings practitioners from various healthcare professions together to acquire sound knowledge in education and health sciences. The Master Health Education (MGP) deepens this specialist and practice-relevant skills, especially with a focus on the development of high pedagogical professionalism.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "A high practice connection, action orientation and the conveying of application-oriented knowledge are central quality features of teaching. Through small groups, optimal supervision in the teaching-learning process is guaranteed. A special feature of the programmes is that access is also possible without Abitur. A family-friendly and work-friendly study model also guarantees a balanced work-life balance.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Career chances in health education",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Both programmes offer state-recognised qualifications to work as a teacher at health vocational schools of the respective basic profession. Furthermore, diverse possibilities open up in healthcare, e.g. in health prevention and counselling. The Master programme is increasingly aimed at leadership-related positions such as leading vocational schools and other health and educational institutions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Requirements for the programme",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "For both Bachelor and Master, proof of a completed vocational training in a health profession is required; for the Bachelor additionally proof of corresponding professional activity. For the Master, an appropriate qualifying university degree with 210 ECTS is additionally required, of which at least 30 ECTS in a pedagogical subject. However, it is possible at our institution to make up the missing 30 pedagogical ECTS within a preparatory programme to enter the Master programme directly.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "A successful admission interview rounds off the requirements. IB Hochschule thus offers the possibility to study Health Education in a practice-oriented, diverse and accessible environment. More information about the preparatory programme is available here, or you can contact the study advisory service directly.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "In der Welt der Gesundheitspädagogik bietet die IB Hochschule für Gesundheit und Soziales in Berlin zwei berufsbegleitende Studiengänge an, die sich durch eine einzigartige Kombination von Theorie und Praxis auszeichnen. Diese Verbindung ermöglicht kompetentes gesundheitspädagogisches Denken und Handeln.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Der Bachelor Health Care Education / Gesundheitspädagogik (HCE) bringt Praktiker*innen aus verschiedenen Gesundheitsfachberufen zusammen, um fundierte Kenntnisse in Erziehungs- und Gesundheitswissenschaft zu erlangen. Der Master Gesundheitspädagogik (MGP) vertieft diese fachlichen und praxisrelevanten Fähigkeiten, insbesondere mit Fokus auf die Entwicklung hoher pädagogischer Professionalität.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ein hoher Praxisbezug, Handlungsorientierung und die Vermittlung von anwendungsorientiertem Wissen sind zentrale Qualitätsmerkmale der Lehre. Durch kleine Gruppen ist eine optimale Betreuung im Lehr-Lern-Prozess gewährleistet. Ein besonderes Merkmal der Studiengänge ist, dass der Zugang zum Studium auch ohne Abitur möglich ist. Ein familien- sowie berufsfreundliches Studienmodell garantiert zudem eine ausgeglichene Work-Life-Balance.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Berufschancen in der Gesundheitspädagogik",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Beide Studiengänge bieten staatlich anerkannte Qualifikationen, um als Lehrkraft an Gesundheitsfachschulen des jeweiligen Grundberufs zu arbeiten. Darüber hinaus eröffnen sich vielfältige Möglichkeiten im Gesundheitswesen, etwa in den Bereichen Gesundheitsprävention und -beratung. Der Masterstudiengang zielt verstärkt auf leitungsbezogene Positionen, wie die Leitung von Berufsfachschulen und anderen Gesundheits- und Bildungseinrichtungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Voraussetzungen für das Studium",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Für den Bachelor und Master ist der Nachweis einer abgeschlossenen Ausbildung in einem Gesundheitsfachberuf und für den Bachelor darüber hinaus der Nachweis einer entsprechenden Berufstätigkeit erforderlich. Für den Master ist zusätzlich ein einschlägiger berufsqualifizierender Hochschulabschluss im Umfang von 210 ECTS, davon mindestens 30 ECTS in einem pädagogischen Fach, notwendig. Es besteht jedoch bei uns die Möglichkeit, fehlende pädagogische 30 ECTS innerhalb eines Vorstudiums nachzuholen, um direkt in den Masterstudiengang einzusteigen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Ein erfolgreiches Aufnahmegespräch rundet die Voraussetzungen ab. Die IB Hochschule bietet somit die Möglichkeit, Gesundheitspädagogik in einer praxisnahen, vielfältigen und zugänglichen Umgebung zu studieren. Mehr Informationen zum Propädeutikum erhalten Sie hier, oder Sie wenden sich direkt an die Studienberatung.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitspaedagogik-studieren/image_01.jpg",
+    "alt": "Gesundheitspädagogik an der IB Hochschule für Gesundheit und Soziales studieren"
+  },
+  "gallery": [],
+  "publishDate": "2025-01-23T10:00:00.000Z",
+  "status": "published"
+}

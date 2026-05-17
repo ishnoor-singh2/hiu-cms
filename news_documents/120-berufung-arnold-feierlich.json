@@ -1,0 +1,124 @@
+{
+  "_type": "news",
+  "_id": "news.feierliche-berufung-arnold",
+  "slug": {
+    "_type": "slug",
+    "current": "feierliche-berufung-dr-rer-medic-sabine-arnold"
+  },
+  "title": {
+    "en": "Ceremonial appointment: Dr. rer. medic. Sabine Arnold appointed Professor of Applied Psychology",
+    "de": "Feierliche Berufung: Dr. rer. medic. Sabine Arnold zur Professorin für Angewandte Psychologie ernannt"
+  },
+  "summary": {
+    "en": "On 15.05.2025 the time had come: Dr. rer. medic. Sabine Arnold was ceremonially appointed Professor of Applied Psychology at IB Hochschule für Gesundheit und Soziales in Berlin.",
+    "de": "Am 15.05.2025 war es so weit: Frau Dr. rer. medic. Sabine Arnold wurde feierlich zur Professorin für Angewandte Psychologie an der IB Hochschule für Gesundheit und Soziales in Berlin berufen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 15.05.2025 the time had come: Ms Dr. rer. medic. Sabine Arnold was ceremonially appointed Professor of Applied Psychology at IB Hochschule für Gesundheit und Soziales in Berlin. Prof. Arnold is a doctorate-trained psychologist and licensed child and adolescent psychotherapist. She brings outstanding scientific expertise, long-standing clinical experience and a broad methodological repertoire to research and teaching.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "She completed her psychology studies at the Universities of Trier and Konstanz, supplemented by an international research stay at the University of California, Davis, USA. She did her doctorate at Charité – Universitätsmedizin Berlin, where she was active for many years in research and teaching. The focal points of Prof. Arnold's scientific work lie on research into eating disorders, non-suicidal self-injurious behaviour and suicidality in adolescence. Her research papers have been published in renowned specialist journals and have helped shape psychotherapeutic practice. Outside the university she also remains closely connected to her profession: in her psychotherapeutic practice in Berlin Friedenau, Prof. Dr. Arnold is specialised in the treatment of anorexia in adolescent girls and is considered a recognised expert in this field.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "With the combination of scientific expertise, long-standing psychotherapeutic practice and high didactic competence, Prof. Dr. Sabine Arnold will enrich the Applied Psychology programme – specialist and personally. We are very pleased about her appointment and warmly welcome her!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 15.05.2025 war es so weit: Frau Dr. rer. medic. Sabine Arnold wurde feierlich zur Professorin für Angewandte Psychologie an der IB Hochschule für Gesundheit und Soziales in Berlin berufen. Frau Prof. Arnold ist promovierte Psychologin und approbierte Kinder- und Jugendlichenpsychotherapeutin. Sie bringt herausragende wissenschaftliche Expertise, langjährige klinische Erfahrung und ein breites methodisches Repertoire in Forschung und Lehre mit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Ihr Psychologiestudium absolvierte sie an den Universitäten Trier und Konstanz, ergänzt durch einen internationalen Forschungsaufenthalt an der University of California, Davis, USA. Ihre Promotion erfolgte an der Charité – Universitätsmedizin Berlin, wo sie viele Jahre in Forschung und Lehre tätig war. Die Schwerpunkte von Frau Prof. Arnolds wissenschaftlicher Arbeit liegen auf der Erforschung von Essstörungen, nicht-suizidalem selbstverletzendem Verhalten und Suizidalität im Jugendalter. Ihre Forschungsarbeiten sind in renommierten Fachzeitschriften veröffentlicht und haben die psychotherapeutische Praxis mitgeprägt. Auch außerhalb der Hochschule bleibt sie ihrer Profession eng verbunden: In ihrer psychotherapeutischen Praxis in Berlin Friedenau ist Frau Prof. Dr. Arnold auf die Behandlung von Anorexie bei jugendlichen Mädchen spezialisiert und gilt als ausgewiesene Expertin auf diesem Gebiet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Mit der Kombination aus wissenschaftlicher Expertise, langjähriger psychotherapeutischer Praxis und hoher didaktischer Kompetenz wird Frau Prof. Dr. Sabine Arnold den Studiengang Angewandte Psychologie bereichern – fachlich und menschlich. Wir freuen uns sehr über ihre Berufung und heißen sie herzlich willkommen!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-berufung-dr-rer-medic-sabine-arnold/image_01.jpg",
+    "alt": "Appointment Sabine Arnold"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-berufung-dr-rer-medic-sabine-arnold/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-berufung-dr-rer-medic-sabine-arnold/image_03.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-05-19T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.glueckwunsch-braun-kowalski-professoren",
+  "slug": {
+    "_type": "slug",
+    "current": "im-namen-der-hochschule-herzlichen-glueckwunsch"
+  },
+  "title": {
+    "en": "On behalf of the university: warmest congratulations!",
+    "de": "Im Namen der Hochschule: Herzlichen Glückwunsch!"
+  },
+  "summary": {
+    "en": "In June and July 2021, Dr. Tobias Braun and Dr. Axel Kowalski were officially appointed Professors at IB Hochschule für Gesundheit und Soziales – representing Applied Therapy Science and Psychology respectively.",
+    "de": "Im Juni bzw. Juli 2021 wurden Dr. Tobias Braun und Dr. Axel Kowalski offiziell zu Professoren an der IB Hochschule für Gesundheit und Soziales ernannt – sie vertreten die Lehrgebiete Angewandte Therapiewissenschaft bzw. Psychologie."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In June and July 2021, Dr. Tobias Braun and Dr. Axel Kowalski were officially appointed Professors at IB Hochschule für Gesundheit und Soziales. In the Faculty of Health and Social Sciences they represent the teaching areas of Applied Therapy Science and Psychology respectively. On behalf of IB Hochschule we warmly congratulate the two newly appointed professors and look forward to a great collaboration!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Tobias Braun earned his doctorate at the Faculty of Medicine of the University of Cologne, in cooperation with the University of Applied Sciences for Health in Bochum, in the field of geriatrics/mobility of people with dementia. Mr. Braun has worked clinically for several years as a physiotherapist with people with neurological diseases in a rehabilitation clinic in Switzerland as well as a research associate and doctoral candidate at the University of Applied Sciences for Health in Bochum. Since November 2020 Mr. Braun has been working as a lecturer for Applied Therapy Science: Occupational Therapy, Speech and Language Therapy, Physiotherapy at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Axel Kowalski earned his doctorate in 2003 in the field of Physiological Psychology at the Bergische Universität Wuppertal. Later he started his own practice for biofeedback and neurofeedback treatments (NeuroFit GmbH). In parallel to his practical work, he took up various lectureships in psychology (University of Police and Administration NRW, Johannes Gutenberg University Mainz, Institute of Studies of the City of Düsseldorf). Since winter semester 2018/2019 Axel Kowalski has also been teaching at the Cologne Study Centre of IB Hochschule, since 1 September 2020 in the framework of a 50% professorship.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Im Juni bzw. Juli 2021 wurden Dr. Tobias Braun und Dr. Axel Kowalski offiziell zu Professoren an der IB Hochschule für Gesundheit und Soziales ernannt. In der Fakultät Gesundheits- und Sozialwissenschaften vertreten sie die Lehrgebiete der Angewandten Therapiewissenschaft bzw. der Psychologie. Im Namen der IB Hochschule gratulieren wir den beiden ernannten Professoren recht herzlich und freuen uns auf eine tolle Zusammenarbeit!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Tobias Braun promovierte an der Medizinischen Fakultät der Universität zu Köln, in Kooperation mit der Hochschule für Gesundheit in Bochum, im Bereich Geriatrie/Mobilität von Menschen mit Demenz. Herr Braun hat mehrere Jahre klinisch als Physiotherapeut mit Menschen mit einer neurologischen Erkrankung in einer Rehabilitationsklinik in der Schweiz sowie als wissenschaftlicher Mitarbeiter und Doktorand an der Hochschule für Gesundheit in Bochum gearbeitet. Seit November 2020 ist Herr Braun als Hochschullehrer für Angewandte Therapiewissenschaft: Ergotherapie, Logopädie, Physiotherapie an der IB Hochschule tätig.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Axel Kowalski promovierte 2003 im Fachbereich Physiologische Psychologie an der Bergischen Universität Wuppertal. Später erfolgte die Aufnahme einer selbstständigen Tätigkeit in einer eigenen Praxis für Bio- und Neurofeedbackbehandlungen (NeuroFit GmbH). Parallel zur Praxistätigkeit erfolgte die Aufnahme verschiedener Dozenturen im Bereich der Psychologie (Hochschule für Polizei und Verwaltung NRW, Johannes Gutenberg - Universität Mainz, Studieninstitut der Stadt Düsseldorf). Seit dem Wintersemester 2018/2019 lehrt Axel Kowalski auch am Studienzentrum Köln der IB Hochschule, seit 1. September 2020 im Rahmen einer 50% Professur.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/im-namen-der-hochschule-herzlichen-glueckwunsch/image_01.jpg",
+    "alt": "IB Hochschule Ernennung zu Professoren"
+  },
+  "gallery": [],
+  "publishDate": "2021-07-15T09:00:00.000Z",
+  "status": "published"
+}

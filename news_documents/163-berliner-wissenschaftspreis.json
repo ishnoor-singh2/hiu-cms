@@ -1,0 +1,259 @@
+{
+  "_type": "news",
+  "_id": "news.verleihung-berliner-wissenschaftspreis-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "verleihung-des-berliner-wissenschaftspreises"
+  },
+  "title": {
+    "en": "IB Hochschule für Gesundheit und Soziales at the Berlin Science Prize award ceremony",
+    "de": "Die IB Hochschule für Gesundheit und Soziales bei der Verleihung des Berliner Wissenschaftspreises"
+  },
+  "summary": {
+    "en": "Berlin's Governing Mayor Kai Wegner honoured the great societal benefit of Prof. Dr. Dr. Kerem Böge's and Prof. Dr. Dr. h.c. Artemis Alexiadou's research achievements on Monday evening. IB Hochschule's President Prof. Dr. Mariam Hartinger was also invited to the ceremonial award.",
+    "de": "Der Regierende Bürgermeister von Berlin Kai Wegner prämierte am Montag Abend den großen gesellschaftlichen Nutzen der Forschungsleistungen von Prof. Dr. Dr. Kerem Böge sowie von Prof. Dr. Dr. h.c. Artemis Alexiadou. Bei der feierlichen Verleihung des Berliner Wissenschaftspreises war auch die Präsidentin der IB Hochschule, Prof. Dr. Mariam Hartinger, eingeladen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Berlin's Governing Mayor Kai Wegner honoured on Monday evening the great societal benefit of the research achievements of Prof. Dr. Dr. Kerem Böge as well as Prof. Dr. Dr. h.c. Artemis Alexiadou. At the ceremonial award of the Berlin Science Prize, IB Hochschule's President Prof. Dr. Mariam Hartinger was also invited.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "What does the prize stand for?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The Berlin Science Prize awards innovative research approaches in a Berlin future field that are of great importance for both the science and business location of Berlin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Laudation by Prof. Dr. Dr. h.c. Markschies",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "\"Linguistics has been one of the pearls of science for 300 years.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Prof. Alexiadou researches the language of thinking and how language shapes social cohesion. Using the example of the upcoming football EM, hybrid language formations made up of various languages were discussed, such as \"gefightet\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "The young talent prize went to Prof. Dr. Dr. Kerem Böge in the area of Clinical Psychology and Psychotherapy.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "\"People with refugee experience experience a sharpening of language,\" said Böge in his acceptance speech. His merits are the development and evaluation of a culturally sensitive psychotherapy, stigma research on psychotic disorders, and new treatment procedures with low-threshold access to the health system.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der Regierende Bürgermeister von Berlin Kai Wegner prämierte am Montag Abend den großen gesellschaftlichen Nutzen der Forschungsleistungen von Prof. Dr. Dr. Kerem Böge sowie von Prof. Dr. Dr. h.c. Artemis Alexiadou. Bei der feierlichen Verleihung des Berliner Wissenschaftspreises war auch die Präsidentin der IB Hochschule, Prof. Dr. Mariam Hartinger, eingeladen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wofür steht der Preis?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Der Berliner Wissenschaftspreis zeichnet innovative Forschungsansätze in einem Berliner Zukunftsfeld aus, die sowohl für den Wissenschafts- als auch für den Wirtschaftsstandort Berlin von großer Bedeutung sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Laudatio von Prof. Dr. Dr. h.c. Markschies",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "„Die Sprachwissenschaft gehört seit 300 Jahren zu den Perlen der Wissenschaft.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Frau Prof. Alexiadou untersucht die Sprache des Denkens und wie Sprache den sozialen Zusammenhalt prägt. Am Beispiel der bevorstehenden Fußball-EM war die Rede von hybriden Sprachbildungen, die sich aus verschiedenen Sprachen zusammensetzen, wie beispielsweise „gefightet\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Der Nachwuchspreis ging an Prof. Dr. Dr. Kerem Böge in dem Bereich der Klinischen Psychologie und Psychotherapie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "„Menschen mit Fluchterfahrung erleben eine Verschärfung der Sprache\", so Böge in seiner Dankesrede. Seine Verdienste sind die Entwicklung und Evaluation einer kultursensiblen Psychotherapie, die Stigmaforschung psychotischer Störungen sowie neue Behandlungsverfahren mit niedrigschwelligem Zugang zum Gesundheitssystem.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/verleihung-des-berliner-wissenschaftspreises/image_01.jpg",
+    "alt": "Berlin Science Prize"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/verleihung-des-berliner-wissenschaftspreises/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-05-30T10:00:00.000Z",
+  "status": "published"
+}

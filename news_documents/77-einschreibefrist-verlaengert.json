@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.einschreibefrist-verlaengert-oktober-2020",
+  "slug": {
+    "_type": "slug",
+    "current": "die-einschreibefrist-fuer-folgende-studiengaenge-wurde-noch-bis-mitte-oktober-verlaengert"
+  },
+  "title": {
+    "en": "The enrolment deadline for the following programmes has been extended until mid-October!",
+    "de": "Die Einschreibefrist für folgende Studiengänge wurde noch bis Mitte Oktober verlängert!"
+  },
+  "summary": {
+    "en": "At both Berlin and Cologne study centres there are still places available for the Applied Psychology programme for winter semester 2020/21. The Medical Radiology Technology, Physiotherapy, Speech and Language Therapy and Health Care Education programmes also still have places.",
+    "de": "An den Studienzentren Berlin und Köln sind im Studiengang Angewandte Psychologie zum Wintersemester 2020/21 noch Plätze frei. Auch die Studiengänge Medizinische Radiologie Technologie, Physiotherapie, Logopädie sowie Health Care Education bieten noch freie Studienplätze."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "At both study centres in Berlin and Cologne, we still have places available in the Applied Psychology programme for winter semester 2020/21. If interested, please contact us or come to one of our online information events. If you are interested in the programme in Berlin, please contact our central student advisory service: studienberatung@hi-university.de. If you are interested in the programme in Cologne, please send an email to: laura.hoymann@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The programmes Medical Radiology Technology in Berlin, as well as Physiotherapy and Speech and Language Therapy, still have study places available. For short-term appointments, please contact our student advisory service: studienberatung@hi-university.de or call us: 030 259309247.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "If you are interested in the Health Care Education / Gesundheitspädagogik programme, we still have places available in Hamburg. If interested please direct your request to: jan-christoph.thiele@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Our Stuttgart study centre will also still be able to offer places for the Health Care Education / Gesundheitspädagogik programme. Just send an email to eva.bachmann@hi-university.de.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "An den beiden Studienzentren Berlin und Köln haben wir für den Studiengang Angewandte Psychologie zum Wintersemester 2020/21 noch Plätze frei. Bei Interesse kontaktieren Sie uns gerne oder kommen Sie zu einer unserer Online-Infoveranstaltungen. Interessieren Sie sich für den Studiengang in Berlin, kontaktieren Sie bitte unsere zentrale Studienberatung: studienberatung@hi-university.de. Sollten Sie sich für den Studiengang in Köln interessieren, richten Sie sich in einer Mail an: laura.hoymann@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Auch die Studiengänge Medizinische Radiologie Technologie in Berlin sowie Physiotherapie und Logopädie bieten noch freie Studienplätze an. Für kurzfristige Termine wenden Sie sich bitte an unsere Studienberatung: studienberatung@hi-university.de oder rufen uns an: 030 259309247.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Bei Interesse für den Studiengang Health Care Education / Gesundheitspädagogik haben wir in Hamburg noch Plätze zu vergeben. Bei Interesse für einen Studienplatz dort richten Sie bitte Ihre Anfrage direkt nach Hamburg an jan-christoph.thiele@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Aber auch unser Studienzentrum in Stuttgart wird Ihnen für den Studiengang Health Care Education / Gesundheitspädagogik noch freie Plätze anbieten können. Schreiben Sie dann eine Mail an eva.bachmann@hi-university.de.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-einschreibefrist-fuer-folgende-studiengaenge-wurde-noch-bis-mitte-oktober-verlaengert/image_01.jpg",
+    "alt": "Enrolment deadline extended"
+  },
+  "gallery": [],
+  "publishDate": "2020-09-18T09:00:00.000Z",
+  "status": "published"
+}

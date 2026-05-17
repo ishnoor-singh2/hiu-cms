@@ -1,0 +1,225 @@
+{
+  "_type": "news",
+  "_id": "news.kooperation-der-ib-hochschule-mit-der-opta-data-zukunfts-stiftung",
+  "slug": {
+    "_type": "slug",
+    "current": "kooperation-der-ib-hochschule-mit-der-opta-data-zukunfts-stiftung"
+  },
+  "title": {
+    "en": "Forward-looking partnership: kick-off of the cooperation between opta data ZukunftsStiftung and IB Hochschule",
+    "de": "Zukunftsweisende Partnerschaft: Auftaktveranstaltung zur Kooperation zwischen der opta data ZukunftsStiftung und der IB Hochschule für Gesundheit und Soziales"
+  },
+  "summary": {
+    "en": "IB Hochschule launches a cooperation with the opta data ZukunftsStiftung and invites you to a joint kick-off event on 14 February 2024 (in person and digital) at the BG Klinikum Unfallkrankenhaus Berlin.",
+    "de": "Die IB Hochschule für Gesundheit und Soziales startet eine Kooperation mit der opta data ZukunftsStiftung und lädt zu einer gemeinsamen Auftaktveranstaltung am 14. Februar 2024 (Präsenz und digital) im BG Klinikum Unfallkrankenhaus Berlin ein."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales is launching a cooperation with the opta data ZukunftsStiftung and invites you to a joint kick-off event (in person and digital):",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Wednesday, 14 February 2024, 10:00 – 12:00\nBG Klinikum Unfallkrankenhaus Berlin\nRoom S0.70, Building S, Reha clinic\nWarener Str. 7, 12683 Berlin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Strengthening the standing of systemically relevant academic health professions in society and dynamically advancing digitalisation in this area – with this approach, the opta data ZukunftsStiftung is the ideal complement to IB Hochschule's commitment to delivering modern, contemporary study content. This includes the practice-oriented Digital Health programmes (B.Sc. and M.Sc.) developed jointly with Unfallkrankenhaus Berlin (ukb).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "How students will benefit from this unique cooperation is exactly what we want to present at this kick-off event. An important component is the foundation's innovative teaching programme, which conveys developments in the field of artificial intelligence to professionals in healthcare and strengthens them with future-oriented psychological competences.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Emergency services play a decisive role in the future viability of healthcare professions. What challenges have to be tackled there is revealed by an exclusive study from the opta data ZukunftsStiftung, presented as part of the kick-off event.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Interested participants are warmly invited to register by 13 February 2024 at marketing@hi-university.de. Please indicate whether you would like to attend in person or digitally. The invitation links for the digital event will be sent after registration.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "With kind regards,\nProf. Dr. Mariam Hartinger, President IB Hochschule für Gesundheit und Soziales\nProf. Dr. Axel Ekkernkamp, Medical Director and Managing Director, Unfallkrankenhaus Berlin\nProf. Dr. Thomas Druyen, President, opta data ZukunftsStiftung",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales startet eine Kooperation mit der opta data ZukunftsStiftung und lädt ein zu einer gemeinsamen Auftaktveranstaltung (Präsenz & digital):",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mittwoch, 14. Februar 2024, 10:00 – 12:00 Uhr\nBG Klinikum Unfallkrankenhaus Berlin\nRaum S0.70 im Haus S, Reha-Klinik\nWarener Str. 7, 12683 Berlin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Das Ansehen von systemrelevanten, akademischen Gesundheitsfachberufen in der Gesellschaft stärken und die Digitalisierung in diesem Bereich dynamisch vorantreiben – mit diesem Ansatz ergänzt die opta data Zukunfts-Stiftung ideal das Bestreben der IB Hochschule, moderne, zeitgemäße Studieninhalte zu vermitteln. Dazu gehören auch die gemeinsam mit dem Unfallkrankenhaus Berlin (ukb) entwickelten praxisorientierten Studiengänge Digital Health (B.Sc. und M.Sc.).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wie Studierende von dieser einzigartigen Kooperation profitieren werden, wollen wir in dieser Auftaktveranstaltung vorstellen. Ein wichtiger Bestandteil ist dabei das innovative Lehrprogramm der Stiftung, das Mitarbeitenden der Gesundheitsfachberufe die Entwicklungen auf dem Gebiet der Künstlichen Intelligenz vermittelt und sie mit zukunftspsychologischen Kompetenzen stärkt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Eine entscheidende Rolle bei der Zukunftsfähigkeit der Gesundheitsfachberufe kommt dem Rettungswesen zu. Welche Herausforderungen dort zu bewältigen sind, enthüllt eine exklusive Studie der opta data ZukunftsStiftung, die im Rahmen der Auftaktveranstaltung präsentiert wird.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Interessierte sind herzlich eingeladen, sich bis zum 13. Februar 2024 unter marketing@hi-university.de anzumelden. Bitte geben Sie an, ob Sie in Präsenz oder digital teilnehmen möchten. Der Versand der Einladungslinks zur digitalen Veranstaltung erfolgt nach der Anmeldung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Mit freundlichen Grüßen\nProf. Dr. Mariam Hartinger, Präsidentin IB Hochschule für Gesundheit und Soziales\nProf. Dr. Axel Ekkernkamp, Ärztlicher Direktor und Geschäftsführer Unfallkrankenhaus Berlin\nProf. Dr. Thomas Druyen, Präsident opta data ZukunftsStiftung",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/kooperation-der-ib-hochschule-mit-der-opta-data-zukunfts-stiftung/image_01.jpg",
+    "alt": "Kooperation der IB Hochschule mit der opta data Zukunfts Stiftung"
+  },
+  "gallery": [],
+  "publishDate": "2023-12-21T09:00:00.000Z",
+  "status": "published"
+}

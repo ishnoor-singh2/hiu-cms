@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.engagiert-im-akademischen-senat-anna-rathgeb-und-julian-menonna-stellen-sich-vor",
+  "slug": {
+    "_type": "slug",
+    "current": "engagiert-im-akademischen-senat-anna-rathgeb-und-julian-menonna-stellen-sich-vor"
+  },
+  "title": {
+    "en": "Engaged in the Academic Senate: Anna Rathgeb and Julian Menonna introduce themselves",
+    "de": "Engagiert im Akademischen Senat: Anna Rathgeb und Julian Menonna stellen sich vor"
+  },
+  "summary": {
+    "en": "The Academic Senate is one of a university's central bodies. With Anna Rathgeb and Julian Menonna, two motivated Applied Psychology students from the Stuttgart Study Centre present themselves – ready to actively represent their fellow students and help shape university life.",
+    "de": "Der Akademische Senat ist eines der zentralen Gremien einer Hochschule. Mit Anna Rathgeb und Julian Menonna stellen sich zwei motivierte Studierende aus dem Studiengang Angewandte Psychologie am Studienzentrum Stuttgart vor, die sich aktiv für ihre Kommiliton*innen einsetzen und das Hochschulleben konstruktiv mitgestalten möchten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The Academic Senate is one of the central bodies of a university. It contributes to important academic decisions, helps shape the development of studies and teaching, and represents the interests of the university's members. Students actively take part here and help shape the university from their perspective.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "It is all the more gratifying when students want to bring commitment and responsibility into this body. With Anna Rathgeb and Julian Menonna, two motivated students from the Applied Psychology programme at the Stuttgart Study Centre introduce themselves – they want to actively stand up for the interests of their fellow students and help shape university life constructively.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Anna Rathgeb and Julian Menonna are both 22 years old and in their 5th semester of Applied Psychology. Their decision to study this subject is based on a shared fascination with people – albeit with different focuses. Anna is particularly interested in human experience and the opportunity to support and help people in the future. Julian especially appreciates the connection between science and practice as well as scientific research into psychological constructs that are highly relevant for society and the future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "They are also engaged beyond their studies in many ways. Anna has been a trained yoga teacher since 2024 and teaches in fitness studios, clubs and at various events around Stuttgart. She also regularly supports older people with household tasks. In her free time she enjoys travelling, hiking and spending time in nature. Julian has been working for three years as an auxiliary in the education service – a role that grew out of his Voluntary Social Year at a daycare centre. He is also musically active and plays in various symphony orchestras in the Stuttgart area.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "What motivates them together is the wish to actively shape the university, further strengthen the programme and represent the interests of the student body responsibly. Openness, honesty and transparency are central values. As a link between the student body and the university, they especially want to develop communication and exchange further.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "For requests, suggestions and questions, all students have access to the chat for exchange between students and the student representatives via Moodle. Anna and Julian look forward to open dialogue and shared exchange.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der Akademische Senat ist eines der zentralen Gremien einer Hochschule. Er wirkt an wichtigen akademischen Entscheidungen mit, gestaltet die Entwicklung von Studium und Lehre mit und vertritt die Interessen der Hochschulmitglieder. Studierende bringen sich hier aktiv ein und tragen dazu bei, die Hochschule aus ihrer Perspektive mitzugestalten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Umso erfreulicher ist es, wenn sich Studierende mit Engagement und Verantwortung in dieses Gremium einbringen möchten. Mit Anna Rathgeb und Julian Menonna stellen sich zwei motivierte Studierende aus dem Studiengang Angewandte Psychologie am Studienzentrum Stuttgart vor, die sich aktiv für die Interessen ihrer Kommiliton*innen einsetzen und das Hochschulleben konstruktiv mitgestalten möchten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Anna Rathgeb und Julian Menonna sind beide 22 Jahre alt und studieren im 5. Semester Angewandte Psychologie. Ihre Entscheidung für dieses Studium beruht auf einer gemeinsamen Faszination für den Menschen – wenn auch mit unterschiedlichen Schwerpunkten. Anna begeistert vor allem das menschliche Erleben und die Möglichkeit, Menschen zukünftig unterstützen und helfen zu können. Julian schätzt insbesondere die Verbindung von Wissenschaft und Praxis sowie die wissenschaftliche Erforschung psychologischer Konstrukte, die für Gesellschaft und Zukunft von hoher Relevanz sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Auch neben dem Studium engagieren sich beide vielfältig. Anna ist seit 2024 ausgebildete Yogalehrerin und unterrichtet in Fitnessstudios, Vereinen und bei verschiedenen Events rund um Stuttgart. Darüber hinaus unterstützt sie regelmäßig ältere Menschen im Haushalt. In ihrer Freizeit reist sie gerne, geht wandern und verbringt viel Zeit in der Natur. Julian arbeitet seit drei Jahren als Aushilfskraft im Erziehungsdienst – eine Tätigkeit, die sich aus seinem Freiwilligen Sozialen Jahr in einer Kindertagesstätte entwickelt hat. Zusätzlich ist er musikalisch aktiv und spielt in verschiedenen Sinfonieorchestern im Raum Stuttgart.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Gemeinsam motiviert sie der Wunsch, die Hochschule aktiv mitzugestalten, das Studium weiter zu stärken und die Interessen der Studierenden verantwortungsvoll zu vertreten. Offenheit, Ehrlichkeit und Transparenz sind dabei zentrale Werte. Als Bindeglied zwischen Studierendenschaft und Hochschule möchten sie insbesondere die Kommunikation und den Austausch weiterentwickeln.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Für Anliegen, Wünsche und Fragen steht allen Studierenden der Chat zum Austausch zwischen Studierenden und Studienvertretung über Moodle zur Verfügung. Anna und Julian freuen sich über den offenen Dialog und den gemeinsamen Austausch.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/engagiert-im-akademischen-senat-anna-rathgeb-und-julian-menonna-stellen-sich-vor/image_01.jpg",
+    "alt": "Members of the Academic Senate"
+  },
+  "gallery": [],
+  "publishDate": "2026-01-20T09:00:00.000Z",
+  "status": "published"
+}

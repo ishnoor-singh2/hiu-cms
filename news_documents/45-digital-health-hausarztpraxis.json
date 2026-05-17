@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.digital-health-das-erwartet-uns-in-der-hausarztpraxis",
+  "slug": {
+    "_type": "slug",
+    "current": "digital-health-das-erwartet-uns-in-der-hausarztpraxis"
+  },
+  "title": {
+    "en": "Digital Health: what to expect in the family doctor's practice",
+    "de": "Digital Health: Das erwartet uns in der Hausarztpraxis"
+  },
+  "summary": {
+    "en": "In the current issue of doctors today, Prof. Dr. Alexandra Jorzig talks in an interview about the development of Digital Health in the family doctor's practice.",
+    "de": "In der aktuellen doctors today spricht Frau Prof. Dr. Alexandra Jorzig im Interview über die Entwicklung von Digital Health in der Hausarztpraxis."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In the current issue of doctors today, Prof. Dr. Alexandra Jorzig talks in an interview about the development of Digital Health in the family doctor's practice.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In the area of digitalisation there is still a lot of untapped potential, especially in independent family doctors' practices. Prof. Jorzig reports on the possible causes and the question of what awaits us in the near future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "As a specialist lawyer for medical law, she deals comprehensively with Digital Health as part of her legal consulting work, as well as with the development of the two new programmes Digital Health Bachelor and Digital Health Master.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "You can read the full interview here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "In der aktuellen doctors today spricht Frau Prof. Dr. Alexandra Jorzig im Interview über die Entwicklung von Digital Health in der Hausarztpraxis.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Bei der Digitalisierung liegt gerade in der niedergelassenen Hausarztpraxis noch viel Potenzial brach. Über die möglichen Ursachen und die Frage, was uns hier in naher Zukunft erwartet, berichtet Frau Prof. Jorzig.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Als Fachanwältin für Medizinrecht beschäftigt Sie sich im Rahmen der juristischen Beratung umfassend mit Digital Health sowie der Studiengangsentwicklung der neuen beiden Studiengänge Digital Health Bachelor und Digital Health Master.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Das komplette Interview lesen Sie hier.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-das-erwartet-uns-in-der-hausarztpraxis/image_01.jpg",
+    "alt": "Digital Health"
+  },
+  "gallery": [],
+  "publishDate": "2023-01-04T09:00:00.000Z",
+  "status": "published"
+}

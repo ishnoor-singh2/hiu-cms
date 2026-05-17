@@ -1,0 +1,152 @@
+{
+  "_type": "news",
+  "_id": "news.abschluss-und-neuanfang-stuttgart-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "abschluss-und-neuanfang"
+  },
+  "title": {
+    "en": "Completion and new beginning: 25 Master graduates from Stuttgart look forward to new challenges",
+    "de": "Abschluss und Neuanfang: 25 Masterabsolvent*innen aus Stuttgart freuen sich auf neue Herausforderungen"
+  },
+  "summary": {
+    "en": "Michael Mayntz brought it to the point in his graduate speech: five years of psychology studies are exciting, demanding, often fascinating and gripping, sometimes also stressful and time-intensive, but in any case a valuable enrichment.",
+    "de": "Michael Mayntz brachte es in seiner Absolventenrede auf den Punkt: Fünf Jahre Psychologiestudium sind spannend, anspruchsvoll, oft faszinierend und mitreißend, mitunter auch stressig und zeitintensiv, aber in jedem Falle eine wertvolle Bereicherung."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Michael Mayntz brought it to the point in his graduate speech: five years of psychology studies are exciting, demanding, often fascinating and gripping, sometimes also stressful and time-intensive, but in any case a valuable enrichment. The freshly graduated psychologist particularly emphasised the great cohesion among students at IB Hochschule für Gesundheit und Soziales, the mutual helpfulness and support, the consolation over many a tear when an exam did not go as expected, the shared relief after every passed exam, and of course the party afterwards! On behalf of the entire cohort he thanked the Stuttgart university team for the competent accompaniment and supervision over all the years, and above all that students always found an open ear here, regardless of the topic.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Prof. Dr. Ingo Pals (Overall programme head Psychology) and Prof. Dr. Inga Liepelt-Scarfone (Programme head Master Psychology) returned the compliment on behalf of the entire Stuttgart team: \"You are a very great cohort, it was great fun for all of us to work with you!\" For the Master graduates, a new chapter of life now begins with new challenges, which they can however face calmly: \"With the Master's degree in Psychology, a solid foundation for a secure professional future is laid.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "After a \"Who Wants to Be a Millionaire\" special, in which all attendees' psychological know-how was needed, the graduation ceremony let comfortable in the IB Lounge above Stuttgart's roofs with sparkling wine and snacks.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "IB Hochschule für Gesundheit und Soziales would like to take this opportunity to thank all students and of course also their parents and families for the trust placed and wishes all graduates all the best for their personal and professional future!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Michael Mayntz brachte es in seiner Absolventenrede auf den Punkt: Fünf Jahre Psychologiestudium sind spannend, anspruchsvoll, oft faszinierend und mitreißend, mitunter auch stressig und zeitintensiv, aber in jedem Falle eine wertvolle Bereicherung. Ganz besonders betonte der frisch gebackene Psychologe den tollen Zusammenhalt unter den Studierenden an der IB Hochschule für Gesundheit und Soziales, die gegenseitige Hilfsbereitschaft und Unterstützung, das Hinwegtrösten über so manche Träne, wenn eine Prüfung mal nicht so verlief wie erwartet, die gemeinsame Erleichterung nach jeder bestandenen Klausur und natürlich die Party danach! Im Namen des gesamten Jahrgangs bedankte er sich beim Stuttgarter Hochschulteam für die kompetente Begleitung und Betreuung über all die Jahre hinweg und vor allem dafür, dass Studierende hier stets ein offenes Ohr fanden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Prof. Dr. Ingo Pals (Gesamtstudiengangsleiter Psychologie) und Prof. Dr. Inga Liepelt-Scarfone (Studiengangsleiterin Master Psychologie) gaben das Kompliment stellvertretend für das gesamte Stuttgarter Team gerne zurück: „Sie sind ein ganz toller Jahrgang, es hat uns allen Riesenspaß gemacht, mit Ihnen zu arbeiten!\" Für die Masterabsolvent*innen beginne nun ein neuer Lebensabschnitt mit neuen Herausforderungen, denen sie aber gelassen entgegensehen könnten: „Mit dem Masterabschluss in Psychologie ist ein solides Fundament für eine sichere berufliche Zukunft gelegt.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Nach einem „Wer wird Millionär\"-Special, bei dem das psychologische Know-How aller Anwesenden gefragt war, ließ man die Abschlussfeier bei Sekt und Häppchen in der IB-Lounge über den Dächern Stuttgarts gemütlich ausklingen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales bedankt sich an dieser Stelle bei allen Studierenden und natürlich auch bei deren Eltern und Familien ganz herzlich für das entgegen gebrachte Vertrauen und wünscht allen Absolvent*innen für ihre persönliche und berufliche Zukunft alles Gute!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/abschluss-und-neuanfang/image_01.jpg",
+    "alt": "Graduation ceremony Stuttgart 2024"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/abschluss-und-neuanfang/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/abschluss-und-neuanfang/image_03.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-10-01T09:00:00.000Z",
+  "status": "published"
+}

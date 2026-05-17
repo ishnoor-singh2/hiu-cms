@@ -1,0 +1,329 @@
+{
+  "_type": "news",
+  "_id": "news.feierliche-eroeffnung-ib-hochschule-gc-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "feierliche-eroeffnung-der-ib-hochschule"
+  },
+  "title": {
+    "en": "Ceremonial opening of IB Hochschule für Gesundheit und Soziales on the Health Campus",
+    "de": "Feierliche Eröffnung der IB Hochschule für Gesundheit und Soziales am Gesundheitscampus"
+  },
+  "summary": {
+    "en": "On 26 March 2024 a significant milestone in the history of IB Hochschule für Gesundheit und Soziales was set. Together with many guests, neighbours and partners, the opening of IB Hochschule on the Health Campus at ukb Berlin was celebrated.",
+    "de": "Am 26. März 2024 wurde ein bedeutender Meilenstein in der Geschichte der IB Hochschule für Gesundheit und Soziales gesetzt. Gemeinsam mit vielen Gästen, Nachbarn und Partnern wurde im Kesselhaus die Eröffnung der IB Hochschule am Gesundheitscampus am ukb Berlin gefeiert."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 26 March 2024 a significant milestone in the history of IB Hochschule für Gesundheit und Soziales was set. Together with a variety of guests as well as the new neighbours and partners, the opening of IB Hochschule für Gesundheit und Soziales on the Health Campus at ukb Berlin was celebrated in the venerable boiler house of Unfallkrankenhaus Berlin in a festive ceremony.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Under the direction of Karola Becker, board member of Internationaler Bund, the evening was designed. The musical accompaniment by the Tawabil Projekt, a trio combining oriental music traditions, jazz and flamenco, gave the event a special atmosphere.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Petra Merkel, President of Internationaler Bund, briefly explained the founding history and various stages of IB Hochschule. She particularly emphasised the uniqueness of the new location Health Campus at ukb.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Dr. Sabine Bergmann-Pohl, former Federal Minister and chair of the IB Hochschule Board of Trustees since 2009, reported on the constituent meeting of this body. Through this historical retrospect, the history and development of IB Hochschule was once again impressively made clear.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Dr. Daniel Dettling, Managing Director of Gesundheitsstadt Berlin, emphasised in his speech the relevance of networked work between the most diverse healthcare professions. With the Gesundheitscampus am ukb e.V., optimal framework conditions have been created to bring people together, train them in a needs-oriented way and open perspectives to them.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "\"We look forward to good neighbourliness, to exciting projects and to the goal of this association – exerting a joint radiance into the region – actually being achieved,\" said Prof. Dr. Mariam Hartinger, President of IB Hochschule für Gesundheit und Soziales. To a future full of cooperation and successful projects!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Heartfelt thanks to all guests and partners who participated in this special celebration. Among them were representatives of the Gesundheitscampus am ukb, Internationaler Bund, Smart Living & Health Center, Arona Klinik for Geriatric Medicine, Alice Salomon Hochschule, Unfallkrankenhaus Berlin, Heiligenfeld Klinik, the Eye Clinic Berlin-Marzahn and Gesundheitsstadt Berlin. A very special thank you also goes to all those who accompanied IB Hochschule during its 16-year journey and made this significant milestone possible.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "The opening celebration of IB Hochschule für Gesundheit und Soziales on the Health Campus at ukb marks the beginning of a new era of cooperation and growth in the area of health sciences.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 26. März 2024 wurde ein bedeutender Meilenstein in der Geschichte der IB Hochschule für Gesundheit und Soziales gesetzt. Gemeinsam mit einer Vielzahl von Gästen sowie den neuen Nachbarn und Partnern wurde im ehrwürdigen Kesselhaus des Unfallkrankenhauses Berlin die Eröffnung der IB Hochschule für Gesundheit und Soziales am Gesundheitscampus am ukb Berlin in einer feierlichen Zeremonie gefeiert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Unter der Leitung von Karola Becker, Vorstandsmitglied des Internationalen Bundes, wurde der Abend gestaltet. Die musikalische Untermalung durch das Tawabil Projekt, ein Trio, das orientalische Musiktraditionen, Jazz und Flamenco vereint, verlieh der Veranstaltung eine besondere Atmosphäre.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Petra Merkel, Präsidentin des Internationalen Bundes, erläuterte kurz die Entstehungsgeschichte und die verschiedenen Etappen der IB Hochschule. Dabei hob sie insbesondere die Einzigartigkeit des neuen Standortes Gesundheitscampus am ukb hervor.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Dr. Sabine Bergmann-Pohl, ehemalige Bundesministerin und seit 2009 Vorsitzende des Kuratoriums der IB Hochschule, berichtete von der konstituierenden Sitzung dieses Gremiums. Durch diesen historischen Rückblick wurde erneut die Geschichte und Entwicklung der IB Hochschule eindrücklich verdeutlicht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Dr. Daniel Dettling, Geschäftsführer Gesundheitsstadt Berlin, betonte in seiner Rede die Relevanz einer vernetzten Arbeit der unterschiedlichsten Gesundheitsberufe. Mit dem Gesundheitscampus am ukb e.V. wurden optimale Rahmenbedingungen dafür geschaffen, Menschen zusammenzubringen, sie bedarfsorientiert auszubilden und Ihnen Perspektiven zu eröffnen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "„Wir freuen uns auf eine gute Nachbarschaft, auf spannende Projekte und darauf, dass das Ziel dieses Vereins, eine gemeinsame Strahlkraft in die Region auszuüben, auch wirklich erreicht wird\", so Prof. Dr. Mariam Hartinger, Präsidentin der IB Hochschule für Gesundheit und Soziales. Auf eine Zukunft voller Zusammenarbeit und erfolgreicher Projekte!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Ein herzlicher Dank gilt allen Gästen und Partnern, die an dieser besonderen Feier teilgenommen haben. Unter ihnen waren Vertreter*innen des Gesundheitscampus am ukb, des Internationalen Bundes, des Smart Living & Health Centers, der Arona Klinik für Altersmedizin, der Alice Salomon Hochschule, des Unfallkrankenhauses Berlin, der Heiligenfeld Klinik, der Augenklinik Berlin-Marzahn sowie der Gesundheitsstadt Berlin. Ein ganz besonderer Dank gilt auch all jenen, die die IB Hochschule während ihrer 16-jährigen Reise begleitet haben und diesen bedeutenden Meilenstein erst möglich gemacht haben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Die Einweihungsfeier der IB Hochschule für Gesundheit und Soziales am Gesundheitscampus am ukb markiert den Beginn einer neuen Ära der Zusammenarbeit und des Wachstums im Bereich der Gesundheitswissenschaften.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_01.jpg",
+    "alt": "Band durchschneiden auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_02.jpg",
+      "alt": "Karola Becker auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_03.jpg",
+      "alt": "Petra Merkel auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_04.jpg",
+      "alt": "Petra Merkel auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_05.jpg",
+      "alt": "Dr. Sabine Bergmann-Pohl auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_06.jpg",
+      "alt": "Dr Daniel Dettling auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_07.jpg",
+      "alt": "Prof. Dr. Mariam Hartinger auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_08.jpg",
+      "alt": "IB Vorstand und Prof Druyen auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_09.jpg",
+      "alt": "Heads of Departments auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g9",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_10.jpg",
+      "alt": "Japan Delegation auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g10",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_11.jpg",
+      "alt": "Alle IB Hochschul-Mitarbeitenden auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g11",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_12.jpg",
+      "alt": "Band Tawabil Projekt auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g12",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_13.jpg",
+      "alt": "Abendprogramm auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g13",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_14.jpg",
+      "alt": "Petra Merkel auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g14",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_15.jpg",
+      "alt": "Buffet auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    },
+    {
+      "_key": "g15",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-eroeffnung-der-ib-hochschule/image_16.jpg",
+      "alt": "Sekt auf der Eröffnungsfeier der IB Hochschule am Gesundheitscampus am ukb"
+    }
+  ],
+  "publishDate": "2024-04-04T09:00:00.000Z",
+  "status": "published"
+}

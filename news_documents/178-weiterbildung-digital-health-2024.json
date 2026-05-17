@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.weiterbildung-digital-health-feb-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "weiterbildung-digital-health-ib-hochschule"
+  },
+  "title": {
+    "en": "Successful day for the Digital Health continuing education at IB Hochschule",
+    "de": "Erfolgreicher Tag für die Weiterbildung Digital Health an der IB Hochschule"
+  },
+  "summary": {
+    "en": "Participants of the eagerly awaited Digital Health continuing education at IB Hochschule experienced an informative and inspiring day with insights into current trends and challenges of digitalisation in healthcare.",
+    "de": "Die Teilnehmer*innen der mit Spannung erwarteten Weiterbildung Digital Health an der IB Hochschule erlebten einen informativen und inspirierenden Tag mit Einblicken in die aktuellen Trends und Herausforderungen der Digitalisierung im Gesundheitswesen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Last Friday, participants of the eagerly awaited Digital Health continuing education at IB Hochschule für Gesundheit und Soziales experienced an informative and inspiring day. The event offered a varied programme with insights into current trends and challenges of digitalisation in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Dr. Winfried Graf opened the day with an interesting talk on current trends of digitalisation in hospitals and the associated IT challenges. Prof. Dr. Philipp Lacour, programme director of the Digital Health programmes, deepened understanding with exciting insights into Digital Diagnostics, Digital Therapy, AI, Robotics and Telemedicine.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Johannes Martin, Deputy Managing Director of the Smart Living & Health Center e. V., presented the latest technological developments in the area of smart technologies in the healthcare industry. The conclusion was a fascinating insight into the ukb Brain Cloud 1.0, the digital therapy room at Unfallkrankenhaus Berlin, presented by Prof. Dr. Ingo Schmehl.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The event clearly showed that IB Hochschule's move next to Unfallkrankenhaus Berlin on the Gesundheitscampus was a trailblazing decision. The results are already visible, particularly through the introduction of the Digital Health programmes at Bachelor's and Master's level.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Innovative technologies and the latest developments in the healthcare industry were brought closer to participants, and the future promises exciting opportunities. The successful continuing education also underlines the relevance of the Digital Health programmes at IB Hochschule and encourages interested parties to embrace these future-oriented programmes.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "If interested, please contact us at studienberatung@hi-university.de",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am vergangenen Freitag erlebten die Teilnehmer*innen der mit Spannung erwarteten Weiterbildung Digital Health an der IB Hochschule für Gesundheit und Soziales einen informativen und inspirierenden Tag. Die Veranstaltung bot ein vielseitiges Programm, das Einblicke in die aktuellen Trends und Herausforderungen der Digitalisierung im Gesundheitswesen bot.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Dr. Winfried Graf eröffnete den Tag mit einem interessanten Vortrag über die aktuellen Trends der Digitalisierung in Krankenhäusern und den damit verbundenen IT-Herausforderungen. Prof. Dr. Philipp Lacour, Studiengangsleiter der Digital Health Studiengänge, vertiefte das Verständnis mit spannenden Einblicken in Digitale Diagnostik, Digitale Therapie, KI, Robotik und Telemedizin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Johannes Martin, Stellvertretender Geschäftsführer des Smart Living & Health Center e. V., präsentierte die neuesten technologischen Entwicklungen im Bereich smarter Technologien in der Gesundheitsbranche. Den Abschluss bildete ein faszinierender Einblick in die ukb Brain Cloud 1.0, den digitalen Therapieraum im Unfallkrankenhaus Berlin, präsentiert von Prof. Dr. Ingo Schmehl.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Veranstaltung zeigte deutlich, dass der Umzug der IB Hochschule neben das Unfallkrankenhaus Berlin auf den Gesundheitscampus eine wegweisende Entscheidung war. Die Ergebnisse werden bereits sichtbar, insbesondere durch die Einführung der Studiengänge Digital Health im Bachelor- und Masterbereich.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Innovative Technologien und die neuesten Entwicklungen in der Gesundheitsbranche wurden den Teilnehmern nähergebracht, und die Zukunft verspricht spannende Möglichkeiten. Die erfolgreiche Weiterbildung unterstreicht auch die Relevanz der Digital Health Studiengänge an der IB Hochschule und ermutigt Interessierte, sich auf diese zukunftsweisenden Programme einzulassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Bei Interesse kontaktieren Sie uns gerne unter studienberatung@hi-university.de",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/weiterbildung-digital-health-ib-hochschule/image_01.jpg",
+    "alt": "Weiterbildung Digital Health an der IB Hochschule"
+  },
+  "gallery": [],
+  "publishDate": "2024-02-08T09:00:00.000Z",
+  "status": "published"
+}

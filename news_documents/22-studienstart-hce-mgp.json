@@ -1,0 +1,147 @@
+{
+  "_type": "news",
+  "_id": "news.studienstart-bachelor-health-care-education-und-master-gesundheitspaedagogik",
+  "slug": {
+    "_type": "slug",
+    "current": "studienstart-bachelor-health-care-education-und-master-gesundheitspaedagogik"
+  },
+  "title": {
+    "en": "A successful study start! Bachelor Health Care Education and Master Health Education begin at IB Hochschule",
+    "de": "Ein erfolgreicher Studienstart! Der Bachelor Health Care Education und der Master Gesundheitspädagogik starten an der IB Hochschule"
+  },
+  "summary": {
+    "en": "Two full cohorts of the Health Education programmes started at the Berlin location last weekend – the Bachelor Health Care Education and the Master Health Education. We are delighted by the strong response and wish all new students every success on their journey!",
+    "de": "Am vergangenen Wochenende starteten zwei volle Kohorten der Gesundheitspädagogik am Standort Berlin – der Bachelor Health Care Education und der Master Gesundheitspädagogik. Wir freuen uns über den großen Zuspruch und wünschen allen neuen Studierenden viel Erfolg auf ihrem Weg!"
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "It's always a special joy when degree programmes have plenty of demand, and now two full cohorts of Health Education are starting at the Berlin location. Last weekend the Bachelor Health Care Education and the Master Health Education began at IB Hochschule für Gesundheit und Soziales. We are extremely pleased about the strong response and wish all new students much success on their journey!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Starting a degree is an exciting moment for every prospective student. At IB Hochschule, we are very happy to offer our students high-quality education that promotes not only knowledge but also personal development. Our students' decision in favour of these two programmes reflects a strong demand for qualified professionals in healthcare and the interest in actively shaping the health sector.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We wish the new students much success and joy on their educational journey. Let yourself be inspired by your fellow students, but also count on us throughout your studies – we will support you on your path to success. May your studies at IB Hochschule be an exciting and fulfilling journey that leads you to your professional goals. Welcome to IB Hochschule!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Here you can find both programmes: Health Care Education / Gesundheitspädagogik and Master Gesundheitspädagogik.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Man freut sich ja immer besonders, wenn Studiengänge viel Zulauf haben und nun starten gleich zwei volle Kohorten der Gesundheitspädagogik am Standort Berlin. Am vergangenen Wochenende starteten der Bachelor Health Care Education und der Master Gesundheitspädagogik an der IB Hochschule für Gesundheit und Soziales. Wir freuen uns außerordentlich über den großen Zuspruch und wünschen allen neuen Studierenden viel Erfolg auf ihrem Weg!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Der Studienbeginn ist ein aufregender Moment für jeden angehenden Studierenden. Bei der IB Hochschule sind wir sehr froh darüber, unseren Studierenden eine qualitativ hochwertige Bildung zu bieten, die nicht nur Wissen, sondern auch persönliche Entwicklung fördert. Die Entscheidung unserer Studierenden für diese beiden Studiengänge zeigt eine hohe Nachfrage nach qualifizierten Fachkräften im Gesundheitswesen und auch das Interesse an einer aktiven Mitgestaltung der Gesundheitsbranche.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir wünschen den neuen Studierenden viel Erfolg und Freude auf ihrem Bildungsweg. Lassen Sie sich von Ihren Mitstudierenden inspirieren, aber auch wir stehen Ihnen während Ihrer gesamten Studienzeit zur Seite und unterstützen Sie auf Ihrem Weg zum Erfolg. Möge Ihr Studium an der IB Hochschule eine spannende und erfüllende Reise sein, die Sie zu Ihren beruflichen Zielen führt. Herzlich willkommen an der IB Hochschule!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Hier geht es zu den beiden Studiengängen: Health Care Education / Gesundheitspädagogik, Master Gesundheitspädagogik",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/studienstart-bachelor-health-care-education-und-master-gesundheitspaedagogik/image_01.jpg",
+    "alt": "Master Gesundheitspädagogik in Berlin"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/studienstart-bachelor-health-care-education-und-master-gesundheitspaedagogik/image_02.jpg",
+      "alt": "Bachelor Health Care Education in Berlin"
+    }
+  ],
+  "publishDate": "2023-10-12T09:00:00.000Z",
+  "status": "published"
+}

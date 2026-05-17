@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.kongress-armut-und-gesundheit-2023",
+  "slug": {
+    "_type": "slug",
+    "current": "kongress-armut-und-gesundheit-2023"
+  },
+  "title": {
+    "en": "Poverty & Health Congress 2023",
+    "de": "Kongress Armut & Gesundheit 2023"
+  },
+  "summary": {
+    "en": "The Poverty & Health Congress was held both as a digital event on 6–7 March 2023 and in person on 21–22 March 2023 at the Henry Ford Building of Freie Universität Berlin. IB Hochschule was present with an information stand.",
+    "de": "Der Kongress Armut & Gesundheit fand sowohl als digitaler Kongress am 6. und 7. März 2023 als auch als Präsenzveranstaltung am 21. und 22. März 2023 im Henry-Ford-Bau der FU Berlin statt. Die IB Hochschule war mit einem Infostand vertreten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "This year's \"Poverty & Health\" Congress took place both as a digital congress on 6 and 7 March 2023 and as an in-person event on 21 and 22 March 2023 at the Henry Ford Building of Freie Universität (FU) Berlin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "IB Hochschule was also represented with an information stand, staffed by Prof. Dr. Thomas Bürk, Prof. Dr. Silke Brenne, Myrto Rompaki (student advice) and Stefanie Bautsch (student in Health Care Education / Gesundheitspädagogik). The stand offered the opportunity to raise awareness of our study and continuing education offerings among congress participants, establish further contacts with people working in the public health field, and also meet acquaintances and former students and exchange ideas about new projects and developments at the university.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The programme of the two event series (digital and in person) was, as usual, full of diverse and current public health topics, ranging from \"Social inequality and COVID-19 in Germany\" through \"Municipalities shaping care – locally – a contribution to age-friendly communities\" to \"In the shadow of the pandemic: a world crisis is always also a health crisis\", all of which stimulated reflection and discussion.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "With many information brochures in their luggage and new ideas for the 2024 \"Poverty & Health\" Congress – planned active participation of IB Hochschule with presentations of research projects and selected final theses – the congress ended for the IB Hochschule team.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der diesjährige Kongress „Armut & Gesundheit\" fand sowohl als digitaler Kongress am 06. und 07. März 2023, als auch als Präsenzveranstaltung am 21. und 22. März 2023 im Henry Ford-Bau der Freien Universität (FU) Berlin statt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Hier war die IB Hochschule auch mit einem Infostand vertreten, welcher von Prof. Dr. Thomas Bürk, Prof. Dr. Silke Brenne, Myrto Rompaki (Studierendenberatung) und Stefanie Bautsch (Studentin im Studiengang Health Care Education / Gesundheitspädagogik) besetzt war. Dieser bot die Möglichkeit, unsere Studien- und Weiterbildungsangebote bei den Kongressteilnehmenden bekannter zu machen und weitere Kontakte mit im Public-Health-Bereich Tätigen zu knüpfen, aber auch Bekannte und ehemalige Studierende zu treffen und sich zu neuen Projekten und Entwicklungen der Hochschule auszutauschen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Das Programm der beiden Veranstaltungsreihen (digital und in Präsenz) war in gewohnter Weise gefüllt mit vielfältigen und aktuellen Public-Health-Themen, welche von „Soziale Ungleichheit und COVID-19 in Deutschland\" über „Kommunen gestalten Pflege – vor Ort – ein Beitrag zu alternsfreundlichen Gemeinden\" bis zu „Im Schatten der Pandemie: Die Weltkrise ist immer auch eine Gesundheitskrise\" reichten und zum Nachdenken und Diskutieren anregten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Mit vielen Informationsbroschüren im Gepäck und neuen Ideen für den Kongress „Armut & Gesundheit\" im Jahr 2024 – angedacht ist die aktive Teilnahme der IB Hochschule mit Präsentationen von Forschungsprojekten und ausgewählten Abschlussarbeiten der Studierenden – endete der Kongress für die Beteiligten der IB Hochschule.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/kongress-armut-und-gesundheit-2023/image_01.jpg",
+    "alt": "Poverty & Health Congress 2023"
+  },
+  "gallery": [],
+  "publishDate": "2023-04-13T09:00:00.000Z",
+  "status": "published"
+}

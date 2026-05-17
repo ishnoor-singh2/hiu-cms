@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.interact-fachtagung-zweite-dezember-2020",
+  "slug": {
+    "_type": "slug",
+    "current": "wir-laden-sie-herzlich-ein-zur-zweiten-interact-fachtagung-am-10-dezember-2020"
+  },
+  "title": {
+    "en": "We warmly invite you to the second InterAct symposium on 10 December 2020",
+    "de": "Wir laden Sie herzlich ein zur zweiten InterAct-Fachtagung am 10. Dezember 2020"
+  },
+  "summary": {
+    "en": "Presentation of project results on the topic: Interdisciplinary cooperation in the psychosocial care of refugees.",
+    "de": "Präsentation der Projektergebnisse zum Thema: Interdisziplinäre Kooperation in der psychosozialen Versorgung Geflüchteter."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Project results are presented on the topic: Interdisciplinary cooperation in the psychosocial care of refugees.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The Erasmus Plus funded project \"InterAct\" has set itself the goal of bundling experiences and insights of psychosocial work with refugees together with partners from Sweden, Greece, Spain and Finland and transferring them into psychosocial practice, training and studies, as well as into research and politics.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Already on 12 November the first presentation round started together with Petra Merkel, President of Internationaler Bund. An exciting impulse talk on the psychosocial situation of refugees was given by Inge Missmahl (Ipso).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "On 10 December an impulse talk by Denny Paulicke (University of Halle) on the educational-policy focus on interdisciplinary teaching and practice awaits you. Afterwards we want to present our \"Educational Toolbox\" (an online platform with teaching-learning materials), our handbook for practice, and some of our structural recommendations for the psychosocial care of refugees. Let us find out together how you too can use these materials for your professional practice!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Join us again this time – participation is, of course, free of charge. All those who would like to register for the symposium please send an email to Sarah Scheer or Ramona Grützner. We will then send you the access details immediately.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "We look forward to another exciting and interesting symposium!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Präsentiert werden die Projektergebnisse zum Thema: Interdisziplinäre Kooperation in der psychosozialen Versorgung Geflüchteter.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das Erasmus Plus geförderte Projekt „InterAct\" hat sich zum Ziel gesetzt, gemeinsam mit Partner*innen aus Schweden, Griechenland, Spanien und Finnland Erfahrungen und Erkenntnisse der psychosozialen Arbeit mit Geflüchteten aus verschiedenen Perspektiven heraus zu bündeln und in psychosoziale Praxis, Ausbildung und Studium sowie Forschung und Politik zu transferieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Bereits am 12. November startete die ersten Präsentationsrunde gemeinsam mit Petra Merkel, der Präsidentin des Internationalen Bundes (e.V.). Einen spannenden Impulsvortrag gab es von Inge Missmahl (Ipso) zur psychosozialen Situation Geflüchteter.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Am 10. Dezember erwartet Sie ein Impulsvortrag von Denny Paulicke (Universität Halle) zum bildungspolitischen Fokus auf interdisziplinäre Lehre und Praxis. Im Anschluss wollen wir Ihnen unsere „Educational Toolbox\" (eine Online-Plattform mit Lehr-Lern-Materialien), unser Handbuch für die Praxis sowie einige unserer strukturellen Empfehlungen zur psychosozialen Versorgung Geflüchteter vorstellen. Lassen Sie uns gemeinsam herausfinden, wie auch Sie diese Materialien für Ihre berufliche Praxis nutzen können!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Seien Sie auch diesmal wieder dabei, die Teilnahme ist selbstverständlich kostenfrei. Alle Interessierten, die sich für die Fachtagung anmelden möchten, schicken bitte eine E-Mail an Sarah Scheer oder Ramona Grützner. Die Zugangsdaten werden wir Ihnen dann umgehend zukommen lassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Wir freuen uns auf eine weitere spannende und interessante Fachtagung!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wir-laden-sie-herzlich-ein-zur-zweiten-interact-fachtagung-am-10-dezember-2020/image_01.jpg",
+    "alt": "InterAct symposium"
+  },
+  "gallery": [],
+  "publishDate": "2020-11-30T09:00:00.000Z",
+  "status": "published"
+}

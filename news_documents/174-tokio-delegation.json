@@ -1,0 +1,256 @@
+{
+  "_type": "news",
+  "_id": "news.tokio-delegationsreise-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "tokio-delegationsreise"
+  },
+  "title": {
+    "en": "Tokyo delegation trip: inspiring insights into Japan's advanced smart city and innovative care concepts",
+    "de": "Tokio Delegationsreise: Inspirierende Einblicke in Japans fortschrittliche Smart City und innovative Pflegekonzepte"
+  },
+  "summary": {
+    "en": "In the second part of the Asia delegation trip by Prof. Dr. Mariam Hartinger, the journey went to Tokyo in Japan. Together with the Smart Living & Health Center and Gesundheitscampus am ukb associations, the visit to a Smart City was on the programme.",
+    "de": "Im zweiten Teil der Asien Delegationsreise von Prof. Dr. Mariam Hartinger ging es nach Tokio in Japan. Gemeinsam mit den Vereinen Smart Living & Health Center und Gesundheitscampus am ukb stand der Besuch einer Smart City auf dem Programm."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In the second part of Prof. Dr. Mariam Hartinger's Asia delegation trip, the journey went to Tokyo in Japan. Together with the Smart Living & Health Center and Gesundheitscampus am ukb associations, the visit to a Smart City was on the programme, with faculties of two universities with strong transfer from research and development into industry.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Healthcare for Smart City residents runs digitally \"all in one package\". Data protection is taken very seriously, just as in Germany. Technology supports and plays a decisive role in promoting a healthy life with focus on health promotion, prevention and care.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The further course of the journey dedicated itself to intergenerational city development and care. Japan introduced a pension insurance system on the German model years ago, which contributes to a high life expectancy. At 80 many Japanese are still fit and decide voluntarily, before need of care begins, to move to a senior residence or age-appropriate living.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The visited facility places great value on a self-determined life of the residents. Alongside hip-hop courses there is a cinema-television room with karaoke possibilities for joint activities with friends or family. For residents with dementia the facility has had itself certified as a dementia facility by a British university. The facility still manages without international staff. As too few caregivers are available in the care area, the facility works on a solution to train and employ international professionals from next year.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Japanese culture places great value on harmony. Everyone strives that nobody comes to harm, feels comfortable and finds their way. In public life this is shown for example by much staff at train stations or airports to help travellers with orientation and ticket buying.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The very inspiring journey ended with a futuristic visit to the Panasonic Center in Tokyo. There the Cross Area Robot impressed, which brings food and shopping home AI-based accident-free. Equally fascinating was the Walking Training Robot, which can be AI-based adjusted to individual training goals in rehab and shows a 60% improved gait within 3 months.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "IB Hochschule's delegation trip to Tokyo was undoubtedly worthwhile and provided valuable insights into state-of-the-art healthcare and technological developments.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Im zweiten Teil der Asien Delegationsreise von Prof. Dr. Mariam Hartinger ging es nach Tokio in Japan. Gemeinsam mit den Vereinen Smart Living & Health Center und Gesundheitscampus am ukb stand der Besuch einer Smart City auf dem Programm, mit Fakultäten zweier Universitäten für starken Transfer von der Forschung und Entwicklung in die Industrie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Gesundheitsversorgung der Smart City Bewohner*innen läuft digital „all in one package\". Datenschutz wird wie in Deutschland sehr ernst genommen. Die Technologie unterstützt und spielt eine entscheidende Rolle bei der Förderung eines gesunden Lebens mit Fokus auf Gesundheitsförderung, Prävention und Pflege.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Der weitere Verlauf der Reise widmete sich der generationsübergreifenden Stadtentwicklung und Pflege. Japan hat vor Jahren ein Rentenversicherungssystem nach deutschem Vorbild eingeführt, was zu einer hohen Lebenserwartung beiträgt. Mit 80 Jahren sind viele Japaner*innen noch fit und entscheiden sich, bevor die Pflegebedürftigkeit eintritt, freiwillig in eine Seniorenresidenz oder altersgerechtes Wohnen zu ziehen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die besuchte Einrichtung legt großen Wert auf ein selbstbestimmtes Leben der Bewohner*innen. Neben Hip Hop Kursen gibt es einen Kino-Fernsehraum mit Karaoke-Möglichkeiten. Für Bewohner*innen mit Demenz hat sich die Einrichtung durch eine britische Universität als Demenzeinrichtung zertifizieren lassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die japanische Kultur legt großen Wert auf Harmonie. Jede*r ist bestrebt, dass niemand zu Schaden kommt. Im öffentlichen Leben zeigt sich dies beispielsweise durch viel Personal an Bahnhöfen oder Flughäfen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Die sehr inspirierende Reise endete mit einem futuristischen Besuch im Panasonic Center in Tokio. Dort beeindruckte der Cross Area Robot, der Essen und Einkäufe KI basiert unfallfrei nach Hause bringt. Ebenso faszinierend war der Walking Training Robot, der KI basiert auf die individuellen Trainingsziele in der Reha angepasst werden kann und innerhalb von 3 Monaten einen um 60% verbesserten Gang zeigt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Die Delegationsreise der IB Hochschule nach Tokio war zweifellos lohnenswert und gewährte wertvolle Einblicke in modernste Gesundheitsversorgung und technologische Entwicklungen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/tokio-delegationsreise/image_01.jpg",
+    "alt": "Vorgarten"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tokio-delegationsreise/image_02.jpg",
+      "alt": "Walking Training Robot"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tokio-delegationsreise/image_03.jpg",
+      "alt": "Automat beurteilt anhand der Hand die Ernährungsqualität"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tokio-delegationsreise/image_04.jpg",
+      "alt": "Seniorenresidenz"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tokio-delegationsreise/image_05.jpg",
+      "alt": "Cross Area Robot"
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tokio-delegationsreise/image_06.jpg",
+      "alt": "Königlicher Plast in Tokio"
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tokio-delegationsreise/image_07.jpg",
+      "alt": "Mobilität in Tokio"
+    }
+  ],
+  "publishDate": "2024-03-07T09:00:00.000Z",
+  "status": "published"
+}

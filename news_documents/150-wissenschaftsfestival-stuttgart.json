@@ -1,0 +1,172 @@
+{
+  "_type": "news",
+  "_id": "news.wissenschaftsfestival-stuttgart-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "wissenschaft-hautnah-erleben"
+  },
+  "title": {
+    "en": "Experiencing science up close – IB Hochschule at the Stuttgart Science Festival 2024",
+    "de": "Wissenschaft hautnah erleben – Die IB Hochschule beim Stuttgarter Wissenschaftsfestival 2024"
+  },
+  "summary": {
+    "en": "From 11 to 22 October 2024 the Stuttgart Science Festival offered scientific institutions, researching companies and science-related start-ups the opportunity to present themselves. As an established university with a location in Stuttgart, IB Hochschule was of course there.",
+    "de": "Vom 11. bis 22. Oktober 2024 bot das Stuttgarter Wissenschaftsfestival wissenschaftlichen Einrichtungen, forschenden Unternehmen und wissenschaftsnahen Startups die Gelegenheit, sich zu präsentieren. Als etablierte Hochschule mit einem Standort in Stuttgart war die IB Hochschule für Gesundheit und Soziales selbstverständlich mit von der Partie."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Listen, marvel, experiment: the Stuttgart Science Festival from 11 to 22 October 2024 offered scientific institutions, researching companies and science-related start-ups the opportunity to present themselves to a broad audience, to mutually exchange and network. As an established university with a location in Stuttgart, IB Hochschule was of course there.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "\"One must communicate things correctly – with commitment, empathy and humour,\" the well-known and popular science journalist and physicist Ranga Yogeshwar formulated at the opening of this year's festival a maxim that has long been valid at IB Hochschule für Gesundheit und Soziales: practice-oriented teaching and learning at eye level. How this is concretely implemented in university everyday life, young and old could experience first-hand at the Open Day in the Stuttgart Study Centre.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Whether at a taster lecture, in the test laboratory, at the virtual balancing act in \"airy heights\" with VR glasses, a psycho-quiz or the poster exhibition, in which current research results of students and lecturers were presented – at the Stuttgart Study Centre of IB Hochschule für Gesundheit und Soziales, all visitors got their money's worth last Thursday.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We are pleased that our contribution to the joint goal of the Science Festival – to position Stuttgart sustainably as a university and science city, and to strengthen the close connection of science, business and urban society – was so well received, and we warmly thank all participants and interested parties.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Lauschen, Staunen, Experimentieren: Das Stuttgarter Wissenschaftsfestival vom 11. bis 22. Oktober 2024 bot wissenschaftlichen Einrichtungen, forschenden Unternehmen und wissenschaftsnahen Startups die Gelegenheit, sich einem breiten Publikum zu präsentieren, gegenseitig auszutauschen und zu vernetzen. Als etablierte Hochschule mit einem Standort in Stuttgart war die IB Hochschule für Gesundheit und Soziales selbstverständlich mit von der Partie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "„Man muss die Dinge richtig vermitteln – mit Engagement, Empathie und Humor\", formulierte der bekannte und beliebte Wissenschaftsjournalist und Physiker Ranga Yogeshwar bei der Eröffnung des diesjährigen Festivals eine Maxime, die an der IB Hochschule für Gesundheit und Soziales schon lange gilt: Praxisnahes Lehren und Lernen auf Augenhöhe. Wie das konkret im Hochschulalltag umgesetzt wird, konnten Jung und Alt beim Tag der offenen Tür im Studienzentrum Stuttgart hautnah erleben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ob bei einer Schnuppervorlesung, im Testlabor, beim virtuellen Balanceakt in „luftiger Höhe\" mit VR-Brille, einem Psycho-Quiz oder der Posterausstellung, in der aktuelle Forschungsergebnisse von Studierenden und Lehrenden präsentiert wurden – im Stuttgarter Studienzentrum der IB Hochschule für Gesundheit und Soziales kamen am vergangenen Donnerstag alle Besucher*innen auf ihre Kosten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir freuen uns, dass unser Beitrag zum gemeinsamen Ziel des Wissenschaftsfestivals, Stuttgart als Hochschul- und Wissenschaftsstadt nachhaltig zu positionieren und die enge Verbindung von Wissenschaft, Wirtschaft und Stadtgesellschaft zu stärken, so regen Anklang fand und bedanken uns ganz herzlich bei allen Beteiligten und Interessierten.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wissenschaft-hautnah-erleben/image_01.jpg",
+    "alt": "Stuttgart Science Festival"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wissenschaft-hautnah-erleben/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wissenschaft-hautnah-erleben/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wissenschaft-hautnah-erleben/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wissenschaft-hautnah-erleben/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wissenschaft-hautnah-erleben/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wissenschaft-hautnah-erleben/image_07.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-10-21T09:00:00.000Z",
+  "status": "published"
+}

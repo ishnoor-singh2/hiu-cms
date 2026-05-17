@@ -1,0 +1,220 @@
+{
+  "_type": "news",
+  "_id": "news.gesundheitswoche-am-ukb-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass"
+  },
+  "title": {
+    "en": "Health Week at ukb – an experience full of impulses and fun",
+    "de": "Gesundheitswoche am ukb – ein Erlebnis voller Impulse und Spaß"
+  },
+  "summary": {
+    "en": "From 8 to 12 September 2025 Health Week took place at Unfallkrankenhaus Berlin (ukb) – a great success with diverse offers for staff across the Health Campus. IB Hochschule joined the closing event \"ukb runs\".",
+    "de": "Vom 8. bis 12. September 2025 fand am Unfallkrankenhaus Berlin (ukb) die Gesundheitswoche statt – mit großem Erfolg und vielfältigen Angeboten für die Mitarbeitenden auf dem gesamten Gesundheitscampus. Die IB Hochschule war beim Abschlussevent „ukb läuft\" dabei."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "From 8 to 12 September 2025 Health Week, as in the previous year, took place at Unfallkrankenhaus Berlin (ukb) – with great success and diverse offerings for staff across the entire Health Campus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The programme offered a successful mix of keynote impulses, hands-on offerings and health checks. From stress management through men's and women's health to topics such as menopause, prevention and resilience, participants received valuable impulses for their personal health. Interactive formats such as the relaxation escape room, fitness and body analysis, or stress measurements rounded off the programme.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "A special highlight, of course, was again the closing event \"ukb runs\": numerous employees went on the route running, walking or strolling, and together collected laps for a good cause. With the donations raised, this year we support a residential group in Petershagen of the Berlin-Brandenburg Children and Youth Welfare Association (KJHV-BB). Some people spontaneously ran a half marathon. The relay race additionally provided team spirit and enthusiasm.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "IB Hochschule was also represented – it was a lot of fun, and we hope to start with a team relay next time. Our thanks also go to the great organisation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Health Week impressively showed how important it is to actively integrate health promotion and prevention into everyday working life. The positive feedback from participants confirms: the week was a complete success – and makes us want a continuation in the coming year. Let us together show that movement, health and team spirit are written in capitals on the Health Campus at ukb.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Vom 8. bis 12. September 2025 fand am Unfallkrankenhaus Berlin (ukb) wie im letzten Jahr die Gesundheitswoche statt – mit großem Erfolg und vielfältigen Angeboten für die Mitarbeitenden auf dem gesamten Gesundheitscampus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das Programm bot eine gelungene Mischung aus Impulsvorträgen, Mitmachangeboten und Gesundheitschecks. Von Stressbewältigung über Männer- und Frauengesundheit bis hin zu Themen wie Wechseljahren, Prävention und Resilienz erhielten die Teilnehmenden wertvolle Impulse für ihre persönliche Gesundheit. Interaktive Formate wie der Escape Room zur Entspannung, Fitness- und Körperanalysen oder Stressmessungen ergänzten das Angebot.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ein besonderes Highlight bildete natürlich wieder einmal das Abschlussevent „ukb läuft\": Zahlreiche Mitarbeitende gingen laufend, walkend oder schlendernd auf die Strecke und sammelten gemeinsam Runden für den guten Zweck. Mit den erlaufenen Spenden unterstützen wir in diesem Jahr eine Wohngruppe in Petershagen des Kinder- und Jugendhilfe-Verbundes Berlin-Brandenburg e.V. (KJHV-BB). So manch einer lief spontan einen Halbmarathon. Der Staffellauf sorgte zusätzlich für Teamgeist und Begeisterung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Auch die IB Hochschule war vertreten – es hat großen Spaß gemacht, und wir hoffen, beim nächsten Mal mit einer Teamstaffel an den Start zu gehen. Unser Dank gilt zudem der großartigen Organisation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Gesundheitswoche zeigte eindrucksvoll, wie wichtig es ist, Gesundheitsförderung und Prävention aktiv in den Arbeitsalltag zu integrieren. Das positive Feedback der Teilnehmenden bestätigt: Die Woche war ein voller Erfolg – und macht Lust auf eine Fortsetzung im kommenden Jahr. Lassen Sie uns gemeinsam zeigen, dass Bewegung, Gesundheit und Teamgeist am Gesundheitscampus am ukb großgeschrieben werden.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_01.jpg",
+    "alt": "ukb runs 2025"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_08.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_09.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g9",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_10.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g10",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitswoche-am-ukb-ein-erlebnis-voller-impulse-und-spass/image_11.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-09-12T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.aktuelle-informationen-studienbetrieb-wise-2020",
+  "slug": {
+    "_type": "slug",
+    "current": "aktuelle-informationen-zum-studienbetrieb-der-ib-hochschule-fuer-gesundheit-und-soziales-zum-wintersemester-2020-2021"
+  },
+  "title": {
+    "en": "Current information on the study operations of IB Hochschule for winter semester 2020/2021",
+    "de": "Aktuelle Informationen zum Studienbetrieb der IB Hochschule für Gesundheit und Soziales zum Wintersemester 2020/2021"
+  },
+  "summary": {
+    "en": "Winter semester starts on 01.10.2020. IB Hochschule plans a combination of digital teaching and in-person operations. As far as possible and permitted, we want to return to normality for all programmes with carefully planned in-person events.",
+    "de": "Das Wintersemester startet zum 01.10.2020. Die IB Hochschule plant eine Kombination aus digitaler Lehre und Präsenzbetrieb. Soweit dies möglich und erlaubt ist, wollen wir vorsichtig zu einer Normalität zurückkehren und Präsenzveranstaltungen anbieten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The winter semester will start on 01.10.2020 and IB Hochschule is planning a combination of digital teaching and in-person operations. As far as this is possible and permitted, we want to cautiously return to normality for all programmes and offer in-person events. We especially want to give students in the first semesters a good start to their studies.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The current plans of IB Hochschule are based on the recommendations of the Berlin Senate Chancellery – changes are therefore reserved.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "All lectures will, as before, be held mainly online. However, we are also planning in-person events, provided the applicable corona regulations can be observed – especially for the practice modules of the PQS programmes. All students can find out about this in good time on the Moodle platform. If anything is unclear, you can also speak to your lecturer.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The university leadership and administration have worked at high pressure in recent weeks and months to create a digital basis to enable digital teaching and learning. Since summer semester 2020, the university has been working with Microsoft Teams – the first experiences from both lecturers and students are entirely positive. IB Hochschule will therefore continue to work with Microsoft Teams.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Prospective students and current students can contact the central student advisory service with questions about studies and organisational matters. Especially for prospective students, in addition to our existing information dates we also have a student-led advisory service. Bookings can be made here.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "If you have questions about your studies and corona, you can write to corona@hi-university.de. We will inform you in good time about all current changes here and via email.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das Wintersemester wird zum 01.10.2020 starten und die IB Hochschule plant eine Kombination aus digitaler Lehre und Präsenzbetrieb. Soweit dies möglich und erlaubt ist, wollen wir für alle Studiengänge vorsichtig zu einer Normalität zurückkehren und Präsenzveranstaltungen anbieten. Besonders den Studierenden aus den ersten Semestern wollen wir einen guten Start in ihr Studium ermöglichen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die aktuellen Planungen der IB Hochschule orientieren sich an den Empfehlungen der Senatskanzlei – Änderungen sind somit vorbehalten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Alle Vorlesungen werden nach wie vor überwiegend online durchgeführt. Wir planen aber auch Präsenzveranstaltungen, sofern die geltenden Corona-Vorschriften eingehalten werden können – dies insbesondere für die praxisanteiligen Module der PQS-Studiengänge. Alle Studierenden können sich dazu rechtzeitig auf der Moodle-Plattform informieren. Sollten dann noch Unklarheiten bestehen, können Sie auch Ihre*n Dozent*in ansprechen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Hochschulleitung und die Hochschulverwaltung haben in den letzten Wochen und Monaten mit Hochdruck daran gearbeitet eine digitale Basis zu schaffen, um digitales Lehren und Lernen zu ermöglichen. Die Hochschule arbeitet seit dem Sommersemester 2020 mit Microsoft Teams – die ersten Erfahrungsberichte von sowohl Lehrenden als auch Studierenden sind durchweg positiv. Die IB Hochschule wird also auch weiterhin mit Microsoft Teams arbeiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Studieninteressierte und Studierende können sich mit Fragen zum Studium und Fragen organisatorischer Art an die zentrale Studienberatung wenden. Speziell für Interessent*innen haben wir zusätzlich zu unseren bereits bestehenden Informationsterminen auch eine studentische Studienberatung. Anmeldungen können hier vorgenommen werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Haben Sie Fragen zu Ihrem Studium und Corona können Sie sich an corona@hi-university.de wenden. Über alle aktuellen Änderungen werden wir Sie hier und via E-Mail rechtzeitig informieren.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/aktuelle-informationen-zum-studienbetrieb-der-ib-hochschule-fuer-gesundheit-und-soziales-zum-wintersemester-2020-2021/image_01.jpg",
+    "alt": "Current information winter semester 2020/2021"
+  },
+  "gallery": [],
+  "publishDate": "2020-07-10T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,119 @@
+{
+  "_type": "news",
+  "_id": "news.it-professor-digital-health-graf",
+  "slug": {
+    "_type": "slug",
+    "current": "erster-it-professor-fuer-digital-health-an-der-ib-hochschule-berufen"
+  },
+  "title": {
+    "en": "First IT professor for Digital Health appointed at IB Hochschule",
+    "de": "Erster IT Professor für Digital Health an der IB Hochschule berufen"
+  },
+  "summary": {
+    "en": "On 30.05.2024 Dr. Winfried Graf was officially handed the certificate of appointment as full Professor of Digital Health / IT. Dr. Graf had already been active as lecturer at IB Hochschule since January 2024.",
+    "de": "Am 30.05.2024 wurde Herrn Dr. Winfried Graf offiziell die Ernennungsurkunde zum ordentlichen Professor für Digital Health / IT überreicht. Dr. Graf war bereits seit Januar 2024 als Dozent an der IB Hochschule tätig."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 30.05.2024 Dr. Winfried Graf was officially handed the certificate of appointment as full Professor of Digital Health / IT. Dr. Graf had already been active as lecturer at IB Hochschule für Gesundheit und Soziales since January 2024.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "With over 25 years of experience as digital and tech entrepreneur, AI pioneer, top management consultant and university lecturer, Dr. Graf brings valuable expertise to our university. His deep insights into the interface of business and technology, especially in the areas of digital strategy and business model innovation, will enrich our programme. Dr. Graf has worked in numerous technology fields such as Artificial Intelligence, digital applications and telemedicine, and has advised industries such as healthcare, telecommunications and financial services.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We are convinced that his appointment will open new perspectives and chances for our students and the entire university. A warm welcome!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 30.05.2024 wurde Herrn Dr. Winfried Graf offiziell die Ernennungsurkunde zum ordentlichen Professor für Digital Health / IT überreicht. Dr. Graf war bereits seit Januar 2024 als Dozent an der IB Hochschule für Gesundheit und Soziales tätig.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mit über 25 Jahren Erfahrung als Digital- und Tech-Unternehmer, KI-Pionier, Top-Management-Berater und Hochschuldozent bringt Dr. Graf wertvolle Expertise an unsere Hochschule. Seine tiefen Einblicke in die Schnittstelle von Wirtschaft und Technologie, insbesondere in den Bereichen digitale Strategie und Geschäftsmodell-Innovation, werden unseren Studiengang bereichern. Dr. Graf hat in zahlreichen Technologiegebieten wie Künstlicher Intelligenz, digitalen Anwendungen und Telemedizin gearbeitet und Branchen wie Gesundheitswesen, Telekommunikation und Finanzdienstleistungen beraten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir sind überzeugt, dass seine Ernennung unseren Studierenden und der gesamten Hochschule neue Perspektiven und Chancen eröffnen wird. Herzlich Willkommen!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/erster-it-professor-fuer-digital-health-an-der-ib-hochschule-berufen/image_01.jpg",
+    "alt": "Berufung Prof. Graf"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/erster-it-professor-fuer-digital-health-an-der-ib-hochschule-berufen/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-05-30T09:00:00.000Z",
+  "status": "published"
+}

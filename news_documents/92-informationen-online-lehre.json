@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.informationen-online-basierte-lehrveranstaltungen",
+  "slug": {
+    "_type": "slug",
+    "current": "informationen-zu-online-basierten-lehrveranstaltungen-fuer-studierende-der-ib-hochschule"
+  },
+  "title": {
+    "en": "Information on online-based courses – for students of IB Hochschule",
+    "de": "Informationen zu online-basierten Lehrveranstaltungen – für Studierende der IB Hochschule"
+  },
+  "summary": {
+    "en": "Important information on examination requirements, literature and online-based research, and the technical infrastructure for the upcoming online teaching at IB Hochschule.",
+    "de": "Wichtige Informationen zu Prüfungsvorgaben, Literatur und online-basierter Recherche sowie zur technischen Infrastruktur für die anstehende Online-Lehre an der IB Hochschule."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "6. Examination requirements in the modules: in each module the form of the assessment is specified (see module handbook). This means: if a written assignment is required, then a written assignment will also have to be submitted in online-based teaching. The same applies to presentations etc. For the exam format \"written exam\", regulations still need to be set in case no in-person events are allowed throughout summer semester 2020. You will be informed about this at a later time.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "7. Literature / online-based research for teaching operations: for online-based teaching, the corresponding media (e.g. eBook licences) as well as further technical conditions are currently being created and realised, so that you as students can work from home or log in from other places without problems. We will also keep you informed about this.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "signed Prof. Dr. Thomas Philipp",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "6. Prüfungsvorgaben in den Modulen: In jedem Modul ist die Form des Leistungsnachweises vorgegeben (s. Modulhandbuch). Das bedeutet, ist eine Hausarbeit vorgegeben, wird auch bei der online-basierten Lehre eine Hausarbeit abzugeben sein. Gleiches gilt für Präsentationen etc.. Für das Prüfungsformat Klausur sind noch Regelungen zu treffen, falls keine Präsenzveranstaltungen im gesamten Sommersemester 2020 erlaubt sein werden. Darüber werden Sie zu einem späteren Zeitpunkt informiert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "7. Literatur / online-basierte Recherche für den Lehrbetrieb: Für eine online-basierte Lehre werden derzeit die entsprechenden Medien (z.B. eBook-Lizenzen) angeschafft sowie weitere technischen Voraussetzungen realisiert, sodass Sie als Studierende problemlos von zu Hause arbeiten oder sich von anderen Orten einloggen können. Auch hierüber werden wir Sie weiter informieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "gez. Prof. Dr. Thomas Philipp",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/informationen-zu-online-basierten-lehrveranstaltungen-fuer-studierende-der-ib-hochschule/image_01.jpg",
+    "alt": "Information on online-based courses"
+  },
+  "gallery": [],
+  "publishDate": "2020-03-24T09:00:00.000Z",
+  "status": "published"
+}

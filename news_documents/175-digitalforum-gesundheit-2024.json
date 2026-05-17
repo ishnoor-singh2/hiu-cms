@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.digitalforum-gesundheit-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "digitalforum-gesundheit-2024"
+  },
+  "title": {
+    "en": "DigitalForum Gesundheit 2024: Digital impulses for healthcare",
+    "de": "DigitalForum Gesundheit 2024: Digitale Impulse im Gesundheitswesen"
+  },
+  "summary": {
+    "en": "On 29 February 2024 the DigitalForum Gesundheit took place in Berlin under the motto: \"Making digital care simple. From artificial to collective intelligence.\" Leading experts discussed what is necessary and possible in a digital hospital world.",
+    "de": "Am 29.02.2024 fand in Berlin das DigitalForum Gesundheit unter dem Motto „Digitale Versorgung einfach machen. Von der künstlichen zur kollektiven Intelligenz\" statt. Führende Experten diskutierten, was in einer digitalen Klinikwelt notwendig und möglich ist."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 29 February 2024 the DigitalForum Gesundheit took place in Berlin. This year's congress ran under the motto: Making digital care simple. From artificial to collective intelligence.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Leading experts discussed on the panel, including Rudolf Dück from Universitätsklinikum Schleswig-Holstein, Markus Holzbrecher-Morys from the German Hospital Federation, Dr. Michael von Wagner from Universitätsklinikum Frankfurt am Main and Heiko Hauptmann from BG Kliniken. They explored the question of what is necessary and possible in a digital hospital world.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "At the centre stood the call for necessary structural change to shape digitalisation sustainably and transparently. Particularly highlighted was the presentation of \"Hugging Face\", an overview platform for AI models that illustrated the development of artificial intelligence. It was emphasised that data-driven medicine aims for structured, standardised and traceable quality.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Awareness of data protection was underlined by discussing the dangers of minimal disclosure of data points. Three data points are enough to find out everything about a person via Google. Big Data and Small Data were discussed as opposites, with the importance of individual solutions emphasised.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The forum emphasised the necessity of networking and exchange, with the balance between standardisation and individual solutions playing a key role. IT should not be in the foreground but rather offer added value to users.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Additionally, the importance of a transparent error and learning culture was pointed out. The Digitalforum Gesundheit 2024 thus illustrated the unavoidable changes in the health sector that go beyond purely technological development.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 29.02.2024 fand in Berlin das DigitalForum Gesundheit statt. Der diesjährige Kongress stand unter dem Motto: Digitale Versorgung einfach machen. Von der künstlichen zur kollektiven Intelligenz.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Auf dem Panel diskutierten führende Experten, darunter Rudolf Dück vom Universitätsklinikum Schleswig-Holstein, Markus Holzbrecher-Morys von der Deutschen Krankenhausgesellschaft e.V., Dr. Michael von Wagner vom Universitätsklinikum Frankfurt am Main und Heiko Hauptmann von den BG Kliniken. Sie gingen der Frage nach, was in einer digitalen Klinikwelt notwendig und möglich ist.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Im Zentrum stand der Ruf nach einem notwendigen Strukturwandel, der die Digitalisierung nachhaltig und transparent gestalten soll. Hervorzuheben war die Vorstellung von „Hugging Face\", einer Übersichtsplattform für KI-Modelle, das die Entwicklung der künstlichen Intelligenz verdeutlichte. Dabei wurde betont, dass die data-driven medicine auf strukturierte, standardisierte und nachvollziehbare Qualität abzielt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Sensibilisierung für Datenschutz wurde durch die Erörterung der Gefahren bei der minimalen Preisgabe von Datenpunkten unterstrichen. Drei Datenpunkte reichen aus, um über Google alles über eine Person herauszufinden. Big Data und Small Data wurden als Gegensätze diskutiert, wobei die Bedeutung von individuellen Lösungen hervorgehoben wurde.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Das Forum betonte die Notwendigkeit von Vernetzung und Austausch, wobei die Balance zwischen Standardisierung und individuellen Lösungen eine Schlüsselrolle spielte. Die IT sollte dabei nicht im Vordergrund stehen, sondern den Nutzer*innen Mehrwert bieten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Zusätzlich wurde auf die Bedeutung einer transparenten Fehler- und Lernkultur hingewiesen. Das Digitalforum Gesundheit 2024 verdeutlichte somit die unumgänglichen Veränderungen im Gesundheitssektor, die über die rein technologische Entwicklung hinausgehen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/digitalforum-gesundheit-2024/image_01.jpg",
+    "alt": "Heiko Hauptmann CIO / Chief Digital Officer BG Kliniken  Geschäftsführer BG Kliniken IT Services GmbH"
+  },
+  "gallery": [],
+  "publishDate": "2024-03-07T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,57 @@
+{
+  "_type": "news",
+  "_id": "news.beitrag-zum-safer-internet-day-2023",
+  "slug": {
+    "_type": "slug",
+    "current": "beitrag-zum-safer-internet-day-2023"
+  },
+  "title": {
+    "en": "Contribution to Safer Internet Day 2023",
+    "de": "Beitrag zum Safer Internet Day 2023"
+  },
+  "summary": {
+    "en": "On Safer Internet Day, 7 February, Prof. Dr. Zimmermann – lecturer at IB Hochschule – led two interactive online workshops at the Media Education Centre in Vogtland on the chances and risks of digital learning.",
+    "de": "Anlässlich des Safer Internet Days am 7. Februar leitete Prof. Dr. Zimmermann – Dozentin an der IB Hochschule – im Medienpädagogischen Zentrum im Vogtland zwei interaktive Online-Workshops zu Chancen und Risiken digitalen Lernens."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On the occasion of Safer Internet Day on 7 February, Prof. Dr. Zimmermann – lecturer at IB Hochschule – led two interactive online workshops at the Media Education Centre in Vogtland on the topic \"Chances and risks of digital learning – brain, psyche and learning\". The young people could participate themselves, interactively answer quiz questions and thus learn new things in a playful way. A total of 104 pupils in classes from surrounding grammar schools and secondary schools took part. Further workshops dealt, among other things, with the topics \"Fact or Fake\" and \"Artificial Intelligence\".",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Anlässlich des Safer Internet Days am 07. Februar leitete Prof. Dr. Zimmermann – Dozentin an der IB Hochschule – im Medienpädagogischen Zentrum im Vogtland zwei interaktive Online-Workshops zum Thema „Chancen und Risiken digitalen Lernens – Gehirn, Psyche und Lernen\". Die Jugendlichen konnten selbst mitmachen, interaktiv Quizfragen beantworten und so spielerisch Neues lernen. Aktiv beteiligt waren 104 Schüler*innen in Klassen aus umliegenden Gymnasien und Oberschulen. Weitere Workshops setzten sich u.a. mit den Themen „Fakt oder Fake\" und „Künstliche Intelligenz\" auseinander.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/beitrag-zum-safer-internet-day-2023/image_01.png",
+    "alt": "Safer Internet Day 2023"
+  },
+  "gallery": [],
+  "publishDate": "2023-03-14T09:00:00.000Z",
+  "status": "published"
+}

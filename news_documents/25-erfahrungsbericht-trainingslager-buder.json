@@ -1,0 +1,421 @@
+{
+  "_type": "news",
+  "_id": "news.erfahrungsbericht-aus-dem-trainingslager-franziska-buder-teilt-ihre-eindruecke-vom-judo-intensivkurs-in-stettin",
+  "slug": {
+    "_type": "slug",
+    "current": "erfahrungsbericht-aus-dem-trainingslager-franziska-buder-teilt-ihre-eindruecke-vom-judo-intensivkurs-in-stettin"
+  },
+  "title": {
+    "en": "Report from the training camp: Franziska Buder shares her impressions of the Judo intensive course in Szczecin",
+    "de": "Erfahrungsbericht aus dem Trainingslager: Franziska Buder teilt ihre Eindrücke vom Judo-Intensivkurs in Stettin"
+  },
+  "summary": {
+    "en": "IB Hochschule Health Education student Franziska Buder shares her impressive experience from an intensive week of judo training in Szczecin (Poland), with four hours of judo a day plus strength training.",
+    "de": "Franziska Buder, Studentin der Gesundheitspädagogik an der IB Hochschule für Gesundheit und Soziales, berichtet von einer intensiven Trainingswoche in Stettin – mit vier Stunden Judo pro Tag und zusätzlichem Krafttraining."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Berlin, 4 September 2023 – Franziska Buder, a dedicated Health Education student at IB Hochschule für Gesundheit und Soziales, shares her impressive experience from an intensive week of judo training in Szczecin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "From 20 to 26 August 2023, Franziska Buder was in a demanding training week consisting of four hours of judo per day plus strength training. She had the opportunity to learn from Kotaro Sasaki, the former Polish national coach, who gave instruction from Monday to Wednesday. The remaining sessions were led by the experienced coach of Polizei S.V. Berlin, who has worked in both the German and the Polish national squads.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Franziska Buder: \"The week at the training camp was incredibly valuable. Learning from top-class coaches and improving my skills under challenging conditions gave me new confidence.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "IB Hochschule für Gesundheit und Soziales supports students like Franziska Buder in pursuing their passions and developing in their fields. Franziska kindly gave us this interesting interview and gives us insight into how she balances judo, studies and work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Mastering the balance: Franziska Buder on her experience in judo, studies and work",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "As an experienced judo enthusiast, how long have you been practising judo and what were the stations on your judo journey?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "\"I have been practising this martial art since 2002,\" she explains. \"I started at Judo-Club 03 Berlin e.V., where I trained for most of the years. I took part in many Berlin championships and regularly qualified for the North-East German championships. Although I won some Berlin championship vice-titles, those from the sports school often stood ahead of me on the podium. My best results at the North-East championships were fifth places.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Franziska is not only an experienced athlete but also a committed referee and coach. \"Since 2012 I have been a referee, now a federal referee. I have also worked as a coach for many years,\" she explains proudly.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "On the question of her future challenges in judo, she answers: \"The next challenges for me are the international Elephant Cup and the German University Championships. This year the North-East German championships are also on the agenda. My ultimate dream would be to qualify for the German championships.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Franziska was recently at an intensive training camp in Szczecin, run by Polizei S.V. Berlin. \"At the training camp I prepared for upcoming competitions together with selected athletes from PSV Rostock, my current club,\" she reports. \"Three intensive days were led, among others, by Kotaro Sasaki, the former Polish national coach. He followed the invitation of Polizei S.V. Berlin. The remaining sessions were led by the coach of Polizei S.V. Berlin, Kevin Kissk.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "Franziska studies Health Care Education / Gesundheitspädagogik B.A. at IB Hochschule and plans to graduate in March 2024. \"After that I would like to complete my master's at IB Hochschule,\" she adds. \"Professionally I plan to move from the hospital and shift work to the vocational school sector to train future medical technologists in radiology.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en12s",
+            "text": "Finally, tell us: how do you manage to combine elite sport, work and studies?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en13",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en13s",
+            "text": "\"Combining all the tasks is very difficult. It requires very good time management, discipline, and you also have to give some things up. Support from family, partner, club and employer is very important. Alone it wouldn't have been possible to manage this.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en14",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en14s",
+            "text": "As a university, we sincerely thank Franziska Buder for her inspiring insights and this interview. We wish her all the best for her future judo championships and her academic path.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Berlin, 04. September 2023 – Franziska Buder, eine engagierte Gesundheitspädagogik-Studentin an der IB Hochschule für Gesundheit und Soziales, teilt ihre beeindruckende Erfahrung aus einer intensiven Judo-Trainingswoche in Stettin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Vom 20. bis 26. August 2023 war Franziska Buder in einer fordernden Trainingswoche, die vier Stunden Judo pro Tag sowie Krafttraining umfasste. Sie hatte dabei die Gelegenheit, von Kotaro Sasaki zu lernen, dem ehemaligen polnischen Nationaltrainer, der von Montag bis Mittwoch Anleitung gab. Die restlichen Einheiten wurden vom erfahrenen Trainer des Polizei S.V. Berlin geleitet, der sowohl im deutschen als auch im polnischen Nationalkader tätig war.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Franziska Buder: „Die Woche im Trainingslager war unglaublich wertvoll. Von erstklassigen Trainern zu lernen und meine Fähigkeiten unter herausfordernden Bedingungen zu verbessern, hat mir neues Vertrauen gegeben.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales unterstützt Studierende wie Franziska Buder dabei, ihre Leidenschaften zu verfolgen und sich in ihren Fachgebieten zu entwickeln. Franziska Buder hat uns netterweise dieses interessante Interview gegeben und gewährt uns Einblicke, wie sie Judo, Studium und Beruf miteinander in Einklang zu bringt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Balance meistern: Franziska Buder über ihre Erfahrungen im Judo, Studium und Beruf",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Sie als eine erfahrene Judo-Enthusiastin, wie lange betreiben Sie schon Judo? Und was waren da so die Stationen auf Ihrer Judo-Reise?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "„Ich praktiziere diesen Kampfsport seit 2002\", erklärt sie. „Meinen Anfang hatte ich beim Judo-Club 03 Berlin e.V., wo ich die meisten Jahre trainierte. Ich habe an zahlreichen Berliner Meisterschaften teilgenommen und mich regelmäßig für die Nord-Ost-Deutschen Meisterschaften qualifiziert. Obwohl ich einige Vize-Meistertitel bei den Berliner Meisterschaften gewinnen konnte, standen diejenigen, die auf der Sportschule waren, oft vor mir auf dem Podest. Mein bestes Ergebnis bei den Nord-Ost-Meisterschaften waren fünfte Plätze.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Franziska ist nicht nur eine erfahrene Athletin, sondern auch eine engagierte Kampfrichterin und Trainerin. „Seit 2012 bin ich Kampfrichterin und mittlerweile Bundeskampfrichterin. Ich arbeite auch seit vielen Jahren als Trainerin\", erklärt sie stolz.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Auf die Frage nach ihren zukünftigen Herausforderungen im Judo antwortet sie: „Die nächsten Herausforderungen für mich sind der internationale Elefanten-Pokal und die deutschen Hochschulmeisterschaften. Dieses Jahr stehen außerdem die Nord-Ost-Deutschen Meisterschaften auf dem Plan. Mein ultimativer Traum wäre es, mich für die Deutschen Meisterschaften zu qualifizieren.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Franziska war kürzlich in einem intensiven Trainingslager in Stettin, das vom Polizei S.V. Berlin durchgeführt wurde. „Im Trainingslager habe ich mich gemeinsam mit ausgewählten Sportlerinnen und Sportlern vom PSV Rostock, meinem aktuellen Verein, auf kommende Wettkämpfe vorbereitet\", berichtet sie. „Drei intensive Tage wurden unter anderem von Kotaro Sasaki, dem ehemaligen polnischen Nationaltrainer, geleitet. Er ist der Einladung des Polizei S.V. Berlin gefolgt. Die restlichen Einheiten wurden vom Trainer des Polizei S.V. Berlin, Kevin Kissk, geleitet.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Franziska studiert Health Care Education / Gesundheitspädagogik B.A. an der IB Hochschule und plant, im März 2024 ihren Abschluss zu machen. „Danach möchte ich meinen Master an der IB Hochschule absolvieren\", fügt sie hinzu. „Beruflich plane ich, vom Krankenhaus und Schichtdienst in den Bereich der Berufsschule zu wechseln, um zukünftige medizinische Technolog/innen für Radiologie auszubilden.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de12s",
+            "text": "Abschließend verraten Sie uns doch: wie schaffen Sie es, Ihren Leistungssport, Beruf und Studium „unter einen Hut\" zu bringen?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de13",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de13s",
+            "text": "„Alle Aufgaben zu vereinen ist sehr schwierig. Da braucht man ein sehr gutes Zeitmanagement, Disziplin und man muss auch auf einiges verzichten. Die Unterstützung durch die Familie, den Partner, den Verein und den Arbeitgebers ist dabei sehr wichtig. Allein wäre es nicht möglich gewesen dies zu schaffen.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de14",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de14s",
+            "text": "Wir als Hochschule danken Franziska Buder herzlich für ihre inspirierenden Einblicke und dieses Interview. Wir wünschen ihr alles Gute für ihre zukünftigen Meisterschaften im Judo und ihren akademischen Weg.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/erfahrungsbericht-aus-dem-trainingslager-franziska-buder-teilt-ihre-eindruecke-vom-judo-intensivkurs-in-stettin/image_01.jpg",
+    "alt": "Gesundheitspädagogik Studentin aus Berlin im Judo Trainingslager "
+  },
+  "gallery": [],
+  "publishDate": "2023-09-04T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,289 @@
+{
+  "_type": "news",
+  "_id": "news.digitale-inklusion-braincloud",
+  "slug": {
+    "_type": "slug",
+    "current": "digitale-inklusion"
+  },
+  "title": {
+    "en": "Digital Health students test digital inclusion in the ukb brain cloud 1.0",
+    "de": "Digital Health Studierende testen digitale Inklusion in der ukb brain cloud 1.0"
+  },
+  "summary": {
+    "en": "In an exciting practice experience, the Master cohort of the part-time Digital Health programme tested digital therapy concepts under physical impairments. Under realistic conditions they explored how suitable digital health solutions actually are in everyday life.",
+    "de": "In einer spannenden Praxiserfahrung hat sich die Masterkohorte des berufsbegleitenden Studiengangs Digital Health der Herausforderung gestellt, digitale Therapiekonzepte unter körperlichen Beeinträchtigungen zu erproben. Unter realistischen Bedingungen erkundeten sie, wie geeignet digitale Gesundheitslösungen im Alltag tatsächlich sind."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Digital inclusion – games with obstacles. In an exciting practice experience, the Master cohort of the part-time Digital Health programme tested digital therapy concepts under physical impairments. Under realistic conditions that simulated typical physical limitations, the students explored in the ukb brain cloud 1.0 at Unfallkrankenhaus Berlin (ukb) how suitable digital health solutions actually are in everyday life.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "With an arm in a sling, a heavy lead vest, restricted vision or on unstable ground, the students tested various video games. The goal of this exercise was to recognise barriers and weak points in the use of digital technologies and develop awareness of the special requirements of people with physical impairments.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "At the centre stood the question: how inclusive and user-friendly can digital games be designed with the help of Extended Reality? The test in the ukb brain cloud 1.0 brought important insights – it became clear that many of these applications still need adjustments to meet the needs of all.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "With Prof. Dr. med. Ingo Schmehl, Director of the Neurology Clinic at BG Klinikum Unfallkrankenhaus Berlin and Professor of Digital Health in the Faculty of Medicine at IB Hochschule, we spoke about the backgrounds of this task.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Mr Schmehl, what is the theory that was taught beforehand, and what do we now see in practical implementation? – First, the students took part in a neurological visit in the area of neurological early rehabilitation. We discussed together functional disorders such as vision disorders, hearing disorders, paralysis, attention disorders, memory disorders after moderate to severe head injuries. This was to ensure that all professions recognise patients' problems and limitations live.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Why do the students do this and what use does it have? – After the clinical visit, students got the opportunity to re-experience patients' functional disorders/impairments with aids using gamification. Vision impairments via eye patch, hearing impairments via earplugs, balance disorders via foam mat, paralysis via arm bandage, and also increased physical strain via X-ray lead vest were simulated. Through this self-experience, the task now is for the students to research digital technologies online and assign suitable applications in the digital sector to the corresponding functional disorder. The examination takes place not only according to clinical aspects, but also according to data protection aspects, financing and feasibility.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "What is meant by digital inclusion, and which conclusions do you draw from this exercise? – Digital inclusion means, from my perspective, designing hardware and software components in digital therapy in such a way that patients with mental or physical impairments/functional disorders are individually able, like healthy people, to use them in everyday life unproblematically. However, despite a very large gamer market, this is not yet sufficiently the case in the area of digital therapy in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "This exercise in digital inclusion has not only sharpened students' awareness of the challenges and chances of digital therapies, but also delivered valuable impulses for the development of future applications. The insights underline that true inclusion is only achieved when digital health solutions are flexibly enough designed to meet users' different capabilities and needs.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Digitale Inklusion - Spiele mit Hindernissen. In einer spannenden Praxiserfahrung hat sich die Masterkohorte des berufsbegleitenden Studiengangs Digital Health der Herausforderung gestellt, digitale Therapiekonzepte unter körperlichen Beeinträchtigungen zu erproben. Unter realistischen Bedingungen, die typische körperliche Einschränkungen simulierten, erkundeten die Studierenden in der ukb brain cloud 1.0 am Unfallkrankenhaus Berlin (ukb), wie geeignet digitale Gesundheitslösungen im Alltag tatsächlich sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mit einem Arm in der Schlinge, einer schweren Bleiweste, eingeschränktem Sehvermögen oder auf instabilem Untergrund testeten die Studierenden verschiedene Videospiele. Ziel dieser Übung war es, Barrieren und Schwachstellen in der Nutzung digitaler Technologien zu erkennen und ein Bewusstsein für die besonderen Anforderungen von Menschen mit körperlichen Beeinträchtigungen zu entwickeln.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Im Mittelpunkt stand die Frage: Wie inklusiv und nutzerfreundlich können digitale Spiele mit Hilfe von Extended Reality gestaltet werden? Der Test in der ukb brain cloud 1.0 brachte wichtige Erkenntnisse – es wurde klar, dass viele dieser Anwendungen noch Anpassungen benötigen, um den Bedürfnissen aller gerecht zu werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Mit Prof. Dr. med. Ingo Schmehl, Direktor der Klinik für Neurologie am BG Klinikum Unfallkrankenhaus Berlin und Professor für Digital Health im Fachbereich Medizin an der IB Hochschule haben wir über die Hintergründe dieser Aufgabe gesprochen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Herr Schmehl was ist die Theorie, die zuvor gelehrt wurde und was sehen wir nun in der praktischen Umsetzung? – Zunächst nahmen die Studierenden an einer neurologischen Visite im Bereich Neurologische Frührehabilitation teil. Wir besprachen gemeinsam Funktionsstörungen, wie Sehstörungen, Hörstörungen, Lähmungserscheinungen, Aufmerksamkeitsstörungen, Gedächtnisstörungen nach mittelschweren bis schweren Schädelhirntraumen. Damit sollte erreicht werden, dass alle Professionen live die Probleme der Patient*Innen erkennen und ihre Beeinträchtigungen im Alltag (Aktivitäten des täglichen Lebens) erleben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Warum machen die Studierenden das und welchen Nutzen hat das? – Nach der klinischen Visite erhielten die Studierenden die Möglichkeit, mit Hilfsmitteln die Funktionsstörungen/Beeinträchtigungen der Patient*Innen nachzuerleben unter Nutzung von Gamification. Sehbeeinträchtigungen mittels Augenklappe, Hörbeeinträchtigungen mittels Ohrstöpsel, Gleichgewichtsstörungen mittels Schaumgummimatte und Lähmungen mittels Armverband aber auch vermehrte körperliche Belastung durch den Einsatz einer Röntgenbleiweste wurden imitiert. Durch diese Selbsterfahrung besteht jetzt die Aufgabe an die Studierenden, digitale Techniken online zu recherchieren und passende Anwendungen im digitalen Sektor zur entsprechenden Funktionsstörung zuzuordnen. Dabei erfolgt die Prüfung nicht nur nach klinischen Aspekten, sondern auch nach Datenschutzaspekten, Finanzierung und Machbarkeit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Was versteht man unter digitaler Inklusion und welche Schlüsse ziehen Sie aus dieser Übung? – Digitale Inklusion heißt aus meiner Sicht, Hard- und Softwarekomponenten in der digitalen Therapie so zu gestalten, dass Patient*Innen mit geistigen oder körperlichen Beeinträchtigungen/Funktionsstörungen individuell in der Lage sind, ebenso wie gesunde Menschen, diese im Alltag unproblematisch anzuwenden. Das ist jedoch trotz eines sehr großen Gamer-Marktes im Bereich der digitalen Therapie im Gesundheitswesen noch nicht bzw. unzureichend der Fall.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Diese Übung in digitaler Inklusion hat nicht nur das Bewusstsein der Studierenden für die Herausforderungen und Chancen digitaler Therapien geschärft, sondern auch wertvolle Impulse für die Entwicklung künftiger Anwendungen geliefert. Die Erkenntnisse unterstreichen, dass wahre Inklusion nur dann erreicht wird, wenn digitale Gesundheitslösungen flexibel genug gestaltet sind, um den unterschiedlichen Fähigkeiten und Bedürfnissen der Nutzer*innen gerecht zu werden.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/digitale-inklusion/image_01.jpg",
+    "alt": "Digital inclusion brain cloud"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitale-inklusion/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitale-inklusion/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitale-inklusion/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitale-inklusion/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitale-inklusion/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitale-inklusion/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitale-inklusion/image_08.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-11-18T09:00:00.000Z",
+  "status": "published"
+}

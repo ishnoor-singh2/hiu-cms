@@ -1,0 +1,213 @@
+{
+  "_type": "news",
+  "_id": "news.konferenz-gemeinsam-aus-der-einsamkeit-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "konferenz-gemeinsam-aus-der-einsamkeit"
+  },
+  "title": {
+    "en": "Conference \"Together out of Loneliness\"",
+    "de": "Konferenz „Gemeinsam aus der Einsamkeit\""
+  },
+  "summary": {
+    "en": "At the start of the action week \"Together out of Loneliness\", the Competence Network Loneliness, in cooperation with the Federal Ministry for Family Affairs, held the fourth specialist conference on the topic on 26 May 2025.",
+    "de": "Zum Auftakt der Aktionswoche „Gemeinsam aus der Einsamkeit\" richtete das Kompetenznetz Einsamkeit in Kooperation mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend am 26. Mai 2025 die vierte Fachkonferenz zum gleichnamigen Thema aus."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On the kick-off of the action week \"Together out of Loneliness\", on 26 May 2025 the Competence Network Loneliness (KNE), in cooperation with the Federal Ministry for Family Affairs, Senior Citizens, Women and Youth (BMFSFJ), held the fourth specialist conference on the same topic.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "At the centre of the interdisciplinary event were the questions: which psychological, social and societal dimensions does loneliness have – and which joint strategies can be developed to overcome it? The conference brought together numerous experts from science and practice as well as political decision-makers, and offered space for specialist impulses, addressing political measures and personal perspectives.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "At the beginning, central results of the qualitative study \"Lonely among Many\" (2024) were presented. The study deals with the subjective experience of lonely people and clarifies the varied manifestations and individual backgrounds of loneliness. The focus was both on analysis of underlying conditions of emergence and on possible coping strategies.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Another focus of the conference was a panel discussion presenting selected aspects of the BMFSFJ's loneliness strategy and debating existing and future public support and its accessibility. In particular it was emphasised that people who provide private CARE work – e.g. caring for children or supporting relatives in need of care – show an increased risk of loneliness under certain structural and social conditions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Supplementary, it was emphasised that loneliness represents a subjective experience that stands in a complex interplay with individual and societal framework conditions. This is also reflected in the often-cited definition by Peplau (1981): \"Loneliness is the unpleasant experience that arises when a person's social network of relationships is inadequate in some important way – either quantitatively or qualitatively.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Prof. Dr. Tajana Grießmann-Gehrt deals with the phenomenon of loneliness in the tension between digital media use. She also addresses the question of how digital forms of communication influence social experience and possibly contribute to or counteract loneliness. Another focus of her work lies on the experience of loneliness within minority groups and the specific challenges they face.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Zum Auftakt der Aktionswoche „Gemeinsam aus der Einsamkeit\" richtete das Kompetenznetz Einsamkeit (KNE) in Kooperation mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend (BMFSFJ) am 26. Mai 2025 die vierte Fachkonferenz zum gleichnamigen Thema aus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Zentrum der interdisziplinär ausgerichteten Veranstaltung standen die Fragen: Welche psychologischen, sozialen und gesellschaftlichen Dimensionen hat Einsamkeit – und welche gemeinsamen Strategien lassen sich zu ihrer Überwindung entwickeln? Die Konferenz brachte zahlreiche Expert*innen aus Wissenschaft und Praxis sowie politische Entscheidungsträger*innen zusammen und bot Raum für fachliche Impulse, Thematisierung politischer Maßnahmen und persönliche Perspektiven.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Zu Beginn wurden zentrale Ergebnisse der qualitativen Studie „Einsam unter Vielen\" (2024) vorgestellt. Die Untersuchung befasst sich mit dem subjektiven Erleben einsamer Menschen und verdeutlicht die vielfältigen Erscheinungsformen und individuellen Hintergründe von Einsamkeit. Im Fokus standen dabei sowohl die Analyse ursächlicher Entstehungsbedingungen als auch mögliche Bewältigungsstrategien.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Ein weiterer Schwerpunkt der Konferenz war eine Podiumsdiskussion, in der ausgewählte Aspekte der Einsamkeitsstrategie des BMFSFJ vorgestellt sowie über bestehende und zukünftige öffentliche Unterstützungsangebote und deren Zugänglichkeit debattiert wurde. Insbesondere wurde betont, dass Menschen, die private CARE-Arbeit leisten – etwa bei der Betreuung von Kindern oder der Pflege hilfsbedürftiger Angehöriger – unter bestimmten strukturellen und sozialen Bedingungen ein erhöhtes Risiko für Einsamkeit aufweisen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Ergänzend wurde thematisiert, dass Einsamkeit eine subjektive Erfahrung darstellt, die in einem komplexen Zusammenspiel mit individuellen und gesellschaftlichen Rahmenbedingungen steht. Dies spiegelt sich auch in der vielfach zitierten Definition von Peplau (1981) wider: „Einsamkeit ist die unangenehme Erfahrung, die entsteht, wenn das soziale Beziehungsnetz einer Person in irgendeiner wichtigen Weise unzureichend ist – entweder in quantitativer oder qualitativer Hinsicht.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Prof. Dr. Tajana Grießmann-Gehrt beschäftigt sich mit dem Phänomen Einsamkeit im Spannungsfeld digitaler Mediennutzung. Dabei geht sie der Frage nach, inwiefern digitale Kommunikationsformen das soziale Erleben beeinflussen und möglicherweise zur Einsamkeit beitragen oder ihr entgegenwirken können. Ein weiterer Fokus ihrer Arbeit liegt zudem auf dem Erleben von Einsamkeit innerhalb von Minderheitengruppen und den spezifischen Herausforderungen, mit denen diese konfrontiert sind.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/konferenz-gemeinsam-aus-der-einsamkeit/image_01.jpg",
+    "alt": "Loneliness conference"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/konferenz-gemeinsam-aus-der-einsamkeit/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/konferenz-gemeinsam-aus-der-einsamkeit/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/konferenz-gemeinsam-aus-der-einsamkeit/image_04.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-06-23T09:00:00.000Z",
+  "status": "published"
+}

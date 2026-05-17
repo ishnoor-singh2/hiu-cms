@@ -1,0 +1,281 @@
+{
+  "_type": "news",
+  "_id": "news.75-jahre-internationaler-bund-vielfalt-demokratie-und-bildung-im-fokus-der-jubilaeumsfeier",
+  "slug": {
+    "_type": "slug",
+    "current": "75-jahre-internationaler-bund-vielfalt-demokratie-und-bildung-im-fokus-der-jubilaeumsfeier"
+  },
+  "title": {
+    "en": "75 years of Internationaler Bund: diversity, democracy and education at the heart of the anniversary celebration",
+    "de": "75 Jahre Internationaler Bund: Vielfalt, Demokratie und Bildung im Fokus der Jubiläumsfeier"
+  },
+  "summary": {
+    "en": "On 11 January 2024 the 75th anniversary of the founding of Internationaler Bund was celebrated at the European House at Brandenburg Gate. Under the motto \"European by tradition – democratic by principle\", representatives from politics and education looked back on a long history of commitment to peace and democracy.",
+    "de": "Am 11. Januar 2024 wurde im Europäischen Haus am Brandenburger Tor das 75-jährige Bestehen des Internationalen Bundes gefeiert. Unter dem Motto „Europäisch aus Tradition – Demokratie aus Prinzip\" blickten Vertreter*innen aus Politik und Bildung auf eine bewegte Geschichte des Engagements für Frieden und Demokratie zurück."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 11 January 2024 a significant anniversary was celebrated in Berlin at the European House at Brandenburg Gate – the 75th anniversary of the founding of Internationaler Bund. Under the motto \"European by tradition – democratic by principle\", representatives from politics, education and IB staff gathered to look back on an eventful history of commitment to peace and democracy.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "After the opening address by Petra Merkel, President of Internationaler Bund, former Federal President Christian Wulff took the floor and gave the keynote speech. In his address he honoured Europe's founding fathers and their shared ideals with the co-founders of Internationaler Bund: peace, dignity and prosperity in a united Europe. Their call – \"never again war, never again discrimination of minorities, never again nationalism and never again totalitarianism\" – underlined the fundamental principles that have guided Internationaler Bund for 75 years.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In his speech he honoured Carlo Schmid, one of the co-founders of Internationaler Bund, who contributed significantly to democracy in Germany. For Schmid, Franco-German reconciliation was a lifelong mission, and Internationaler Bund played an important role in building a new democratic Germany when it was founded on 11 January 1949 – exactly 75 years ago.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Christian Wulff closed his speech with an urgent appeal: \"Living diversity may sometimes be exhausting, but the opposite of diversity is simplicity. We will only behold a rainbow if it sometimes rains, and we will have to realise that life is only beautiful if we don't close ourselves off to everything that seems strange to us. In the end, only diversity is successful.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Pupils of the Carlo Schmid School in Karlsruhe then presented an entertaining survey on democracy and politics. They reported from their perspective on young people's current interest in political affairs in Germany, which was then discussed with Christian Wulff. After a moderated conversation about Europe led by Sterenn Coudray with guests Christiane Lensch (IB Südwest), Annett Wiedermann (European network Yesforum) and Stephan Erb (CEO of the German-Polish Youth Office), Thiemo Fojkar gave a lively closing speech. Video greetings were sent both by Federal Minister Lisa Paus and by Katarina Barley, Vice-President of the European Parliament.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Over 75 years, Internationaler Bund has built bridges between nations and generations, and its commitment to peace, dignity and prosperity in a united Europe remains relevant and significant.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "\"Congratulations to Internationaler Bund on 75 years of tireless work for a democratic future in which diversity is regarded as strength. For us at IB Hochschule, this forms an important basis of our educational offerings under the motto 'Education for all.'\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "\"At IB Hochschule no one is too old to study; anyone who wants to study gets this chance. The educational biographies of our students alone – between Abitur and many years of professional experience, also without Abitur – are very diverse.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "\"IB Hochschule lives diversity and democracy in the spirit of Internationaler Bund. This diversity is reflected in our academic structures, which are shaped by self-governance and student co-determination,\" says Prof. Hartinger, President of IB Hochschule.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "In Berlin wurde am 11. Januar 2024 ein bedeutendes Jubiläum im Europäischen Haus am Brandenburger Tor gefeiert – die 75-jährige Gründung des Internationalen Bundes. Unter dem Motto „Europäisch aus Tradition – Demokratie aus Prinzip\" versammelten sich Vertreter*innen aus Politik, Bildung und Mitarbeitenden, um gemeinsam auf eine bewegte Geschichte des Engagements für Frieden und Demokratie zurückzublicken.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Nach der Eröffnungsrede von Petra Merkel, Präsidentin des Internationalen Bundes, ergriff Christian Wulff, Bundespräsident a.D. das Wort und hielt die Festrede. In seiner Ansprache würdigte er die Gründerväter Europas und deren gemeinsame Ideale mit den Mitbegründern des Internationalen Bundes: Frieden, Würde und Wohlstand in einem geeinten Europa. Deren Appell: „Nie wieder Krieg, nie wieder Diskriminierung von Minderheiten, nie wieder Nationalismus und nie wieder Totalitarismus\" unterstrich er die grundlegenden Prinzipien, die den Internationalen Bund seit 75 Jahren leiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Er würdigte in seiner Rede Carlo Schmid, einen der Mitbegründer des Internationalen Bundes, der maßgeblich zur Demokratie in Deutschland beigetragen hat. Für Schmid war die Deutsch-Französische Aussöhnung eine Lebensaufgabe und der Internationale Bund spielte eine bedeutende Rolle beim Aufbau eines neuen demokratischen Deutschlands, bei seiner Gründung am 11. Januar 1949, exakt vor 75 Jahren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Christian Wulff schloss seine Rede mit dem eindringlichen Appell: „Vielfalt zu leben mag manchmal anstrengend sein, aber das Gegenteil von Vielfalt ist Einfalt. Wir werden einen Regenbogen nur betrachten, wenn es auch mal regnet und wir werden begreifen müssen, dass das Leben nur schön ist, wenn man sich nicht vor allem verschließt, was einem fremd erscheint. Am Ende ist nur Diversität erfolgreich.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Im Anschluss präsentierten Schüler*innen der Carlo Schmid Schule aus Karlsruhe eine unterhaltsame Umfrage zum Thema Demokratie und Politik. Sie berichteten aus ihrer Sicht über das aktuelle Interesse der Jugend am politischen Geschehen in Deutschland, worüber anschließend mit Christian Wulff diskutiert wurde. Nach einem moderierten Gespräch zu Europa durch Sterenn Coudray mit den Gästen Christiane Lensch vom IB Südwest, Annett Wiedermann vom europäischen Netzwerk Yesforum und Stephan Erb, Geschäftsführer des Deutsch-Polnischen Jugendwerks hielt Thiemo Fojkar eine lebhafte Schlussrede. Eine Video-Grußbotschaft wurde sowohl von Bundesministerin Lisa Paus sowie Katarina Barley, Vizepräsidentin des Europäischen Parlaments, übermittelt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Der Internationale Bund hat über 75 Jahre hinweg Brücken zwischen Nationen und Generationen geschlagen, und sein Engagement für Frieden, Würde und Wohlstand in einem vereinten Europa bleibt aktuell und bedeutend.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "„Herzlichen Glückwunsch an den Internationalen Bund zu 75 Jahren unermüdlicher Arbeit für eine demokratische Zukunft, in der Vielfalt als Stärke betrachtet wird. Diese bildet für uns an der IB Hochschule eine wichtige Basis unserer Bildungsangebote nach dem Motto ‚Bildung für alle'.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "„An der IB Hochschule ist niemand zu alt für ein Studium, wer studieren möchte, bekommt diese Chance. Allein die Bildungsbiografien unserer Studierenden zwischen Abitur und langjähriger Berufserfahrung und ohne Abitur sind sehr divers.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "„Die IB Hochschule lebt im Sinne des Internationalen Bundes Diversity und Demokratie. Diese Vielfalt spiegelt sich in unseren akademischen Strukturen wider, die durch Selbstverwaltung und studentische Mitbestimmung geprägt sind\", so Prof. Hartinger, Präsidentin der IB Hochschule.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/75-jahre-internationaler-bund-vielfalt-demokratie-und-bildung-im-fokus-der-jubilaeumsfeier/image_01.jpg",
+    "alt": "75 Jahr Feier des IB "
+  },
+  "gallery": [],
+  "publishDate": "2024-01-12T09:00:00.000Z",
+  "status": "published"
+}

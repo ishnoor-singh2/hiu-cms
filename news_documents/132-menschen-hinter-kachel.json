@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.menschen-hinter-der-kachel-sehen",
+  "slug": {
+    "_type": "slug",
+    "current": "den-menschen-hinter-der-kachel-sehen"
+  },
+  "title": {
+    "en": "Seeing the person behind the tile – psychosocial interaction in digitalised work processes",
+    "de": "Den Menschen hinter der Kachel sehen – Psychosoziale Interaktion in digitalisierten Arbeitsprozessen"
+  },
+  "summary": {
+    "en": "In the course of digital transformation, work processes have increasingly moved into virtual space. What effects do digitalised forms of communication have on our cooperation? What role does the presence or absence of the human body play?",
+    "de": "Im Zuge der digitalen Transformation haben sich Arbeitsprozesse zunehmend in den virtuellen Raum verlagert. Welche Auswirkungen haben digitalisierte Kommunikationsformen auf unsere Zusammenarbeit? Welche Rolle spielt die An- bzw. Abwesenheit des menschlichen Körpers?"
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In the course of digital transformation, work processes have increasingly moved into virtual space. Online meetings, video calls and chats take the place of joint encounters at the workplace; \"entering\" and \"leaving\" a room happens with a mouse click and the digital coffee break replaces queuing at the coffee machine. Co-working has become work at a distance, in which interpersonal communication takes place under framework conditions pre-structured by hard- and software.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "What effects do digitalised forms of communication have on our cooperation? What role does the presence or absence of the human body play under the signs of digital visibility?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "As a systemic coach and dance studies scholar, I am particularly interested in the question of what significance bodily and spatio-temporal aspects have for our interpersonal coexistence. Questions of bodily presence and choreographic organisation directly touch the design of our relationships, which form the core of systemic coaching. At IB Hochschule für Gesundheit und Soziales I have the opportunity to discuss this interest in dialogue with colleagues from Psychology and Sociology. It is not so much about emphasising loss experiences in digitalised forms of communication, but rather within the changed signs of cooperation to \"see the human being\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "A key role in this context is played by the concept of psychosocial interaction, which encompasses, alongside verbal communication, a broad spectrum of traditional non-verbal communication patterns and spatio-temporal forms of behaviour. This spectrum is limited by the visual restriction in digital video platforms to face and chest area, to the perception of mimicry and hand gestures. (Whole-) bodily actions and spatio-temporal dimensions such as a person's gait, their posture, the possibility to turn away or towards, to change perspectives and regulate distances are properties that literally fall out of the tile-shaped frame.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "To deal with digitalised work processes in a solution- and resource-oriented way, we need increased attention to their conditions and effects. As studies from systemic organisational and work psychology show, the goal is, through continuously taking place physically present encounters, to create a trustful foundation in order to act in a \"relationship-capable\" way also in digitalised work processes (cf. Bachmann/Bravo 2021 and 2022; Olson/Olson 2000). The recurring shared physical presence at the place where people meet and cooperation takes place forms an essential precondition to overcome \"virtual distances\" and to connect with each other also \"behind the tile\".",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Im Zuge der digitalen Transformation haben sich Arbeitsprozesse zunehmend in den virtuellen Raum verlagert. Online-Meetings, Video-Calls und Chats treten an die Stelle von gemeinsamen Begegnungen am Arbeitsplatz; das „Betreten\" und „Verlassen\" eines Raumes geschieht per Mausklick und der digitale Coffee Break löst das Anstehen am Kaffeeautomaten ab … Mit-Arbeit ist zu einer Arbeit auf Abstand geworden, in dem sich zwischenmenschliche Verständigung unter durch Hard- und Software vorstrukturierten Rahmenbedingungen vollzieht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Welche Auswirkungen haben digitalisierte Kommunikationsformen auf unsere Zusammenarbeit? Welche Rolle spielt die An- bzw. Abwesenheit des menschlichen Körpers unter den Vorzeichen digitaler Sichtbarkeit?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Als systemischer Coach und Tanzwissenschaftlerin bin ich besonders an der Frage interessiert, welche Bedeutung körperliche und raumzeitliche Aspekte für unser zwischenmenschliches Miteinander haben. Fragen von körperlicher Präsenz und choreografischer Organisation berühren ganz unmittelbar die Gestaltung unserer Beziehungen, die den Kern systemischen Coachings bilden. An der IB Hochschule für Gesundheit und Soziales habe ich die Möglichkeit, dieses Interesse im Dialog mit Kolleg*innen aus dem Bereich der Psychologie und Soziologie zu diskutieren. Dabei geht es nicht so sehr darum, Verlusterfahrungen in digitalisierten Kommunikationsformen herauszustellen, sondern innerhalb der veränderten Vorzeichen der Zusammenarbeit „den Menschen zu sehen\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Eine Schlüsselrolle spielt in diesem Zusammenhang der Begriff der psychosozialen Interaktion, der neben verbalen auch ein breites Spektrum an tradierten nonverbalen Kommunikationsmustern und raumzeitlichen Verhaltensformen umfasst. Dieses Spektrum ist durch die in digitalen Videoplattformen angelegte visuelle Begrenzung auf Gesicht und Brustraum auf die Wahrnehmung von Mimik und Handgestik begrenzt. (Ganz-) körperliche Aktionen und raumzeitliche Dimensionen wie etwa der Gang eines Menschen, seine Haltung, die Möglichkeit sich ab- oder zuzuwenden, Perspektiven zu wechseln und Distanzen zu regulieren sind Eigenschaften, die buchstäblich aus dem kachelförmigen Rahmen fallen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Um lösungs- und ressourcenorientiert mit digitalisierten Arbeitsprozessen umgehen zu können, benötigen wir eine gesteigerte Aufmerksamkeit für deren Voraussetzungen und Auswirkungen. Wie Studien aus der systemischen Organisations- und Arbeitspsychologie belegen, geht es darum, durch kontinuierlich stattfindende physisch präsente Begegnungen eine vertrauensvolle Grundlage zu schaffen, um auch in digitalisierten Arbeitsprozessen „beziehungsfähig\" handeln zu können (vgl. Bachmann/Bravo 2021 u. 2022; Olson/Olson 2000). Die wiederkehrende gemeinsam geteilte Anwesenheit an dem Ort, an dem sich Menschen begegnen und Zusammenarbeit stattfindet, bildet eine wesentliche Voraussetzung, um „virtuelle Distanzen\" zu überwinden und sich auch „hinter der Kachel\" miteinander zu verbinden.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/den-menschen-hinter-der-kachel-sehen/image_01.jpg",
+    "alt": "Zoom meeting"
+  },
+  "gallery": [],
+  "publishDate": "2025-03-03T09:00:00.000Z",
+  "status": "published"
+}

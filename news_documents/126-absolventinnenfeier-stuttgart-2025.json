@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.absolventinnenfeier-stuttgart-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "absolventinnenfeier-in-stuttgart-2025"
+  },
+  "title": {
+    "en": "Successfully passed – now we celebrate! Graduation ceremony of Applied Psychology in Stuttgart",
+    "de": "Erfolgreich bestanden – Jetzt wird gefeiert! Die Abschlussfeier der Angewandten Psychologie in Stuttgart"
+  },
+  "summary": {
+    "en": "On 27 March, after the oral final exams, the time had finally come to celebrate. The graduation ceremony of the 2021 cohort of the Applied Psychology programme became an all-round successful celebration.",
+    "de": "Am 27. März war es soweit… nach den mündlichen Abschlussprüfungen konnte endlich gebührend gefeiert werden. Die Abschlussfeier des Jahrgangs 2021 des Studiengangs Angewandte Psychologie wurde zu einem rundum gelungenen Fest."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 27 March the time had come – after the oral final exams, celebrations could finally be held in style. The graduation ceremony of the 2021 cohort of the Applied Psychology programme became an all-round successful festival. More than 100 guests had followed the invitation and experienced the festive end of the Bachelor's studies of their children, partners and relatives.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Prof. Mößle welcomed the numerous participants and, with a look back at the start of the studies and the corona years, awakened memories of beautiful and challenging times of the studies. Since a large number of students have registered for the consecutive Master at IB Hochschule, Prof. Dr. Liepelt-Scarfone, as programme head for Master Psychology, joined the congratulations and welcomed the more than 30 future Master students.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "As a small programme highlight, Prof. Dr. Kern took on the role of quiz master and challenged the knowledge of students and family members in 15 questions with the humorous format \"Who Wants to Be a Psychology Professor?\". Finally, Prof. Mößle personally congratulated all graduates on the successful completion before those present had the opportunity to let the evening end together in a sociable setting with buffet and drinks.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We would like to take this opportunity once again to warmly congratulate the students and wish them every success and all the best for their further professional path!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 27. März war es soweit… nach den mündlichen Abschlussprüfungen konnte endlich gebührend gefeiert werden. Die Abschlussfeier des Jahrgangs 2021 des Studiengangs Angewandte Psychologie wurde zu einem rundum gelungenen Fest. Mehr als 100 Gäste waren der Einladung gefolgt und erlebten den feierlichen Abschluss des Bachelorstudiums ihrer Kinder, Partner*innen und Angehörigen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Frau Prof. Mößle begrüßte die zahlreichen Teilnehmenden und weckte mit einem Rückblick auf den Beginn des Studiums und einen Blick auf die Corona-Jahre Erinnerungen an die schönen und herausfordernden Zeiten des Studiums. Da sich eine Vielzahl der Studierenden für den konsekutiven Master an der IB Hochschule angemeldet hat, schloss sich Frau Prof. Dr. Liepelt-Scarfone an diesem Abend als Studiengangsleitung für den Master Psychologie den Glückwünschen an und hieß die über 30 Master-Studierenden in spe Ihrerseits schon einmal herzlich willkommen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Als kleines Programm-Highlight übernahm Frau Prof. Dr. Kern die Rolle der Quizmasterin und forderte mit dem humorvollen Format „Wer wird Psychologie-Professor*in\" noch einmal in 15 Fragen das Wissen der Studierenden und ihrer Familienangehörigen heraus. Zum Abschluss gratulierte Frau Prof. Mößle allen Absolvent*innen persönlich zum erfolgreichen Abschluss, bevor die Anwesenden die Möglichkeit hatten im geselligen Rahmen bei Buffet und Getränken den Abend gemeinsam ausklingen zu lassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir möchten den Studierenden an dieser Stelle noch einmal herzlich gratulieren, und ihnen für den weiteren beruflichen Weg viel Erfolg und alles Gute wünschen!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnenfeier-in-stuttgart-2025/image_01.jpg",
+    "alt": "Graduation Stuttgart 2025"
+  },
+  "gallery": [],
+  "publishDate": "2025-04-01T09:00:00.000Z",
+  "status": "published"
+}

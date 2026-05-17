@@ -1,0 +1,228 @@
+{
+  "_type": "news",
+  "_id": "news.delta-netz-transfer-fachtagung-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "fachtagung-delta-netz-transfer"
+  },
+  "title": {
+    "en": "Specialist conference \"Chances in the Quarter: Locating Basic Education – Reaching Target Groups\"",
+    "de": "Fachtagung „Chancen im Quartier: Grundbildung verorten - Zielgruppen erreichen\""
+  },
+  "summary": {
+    "en": "The final conference of the Delta-Netz Transfer project took place on 4 September 2024 in Frankfurt am Main and offered a lively platform for exchange between science, practice and those affected.",
+    "de": "Die Abschluss-Tagung des Projekts Delta-Netz Transfer fand am 4. September 2024 in Frankfurt am Main statt und bot eine lebendige Plattform für den Austausch zwischen Wissenschaft, Praxis und Betroffenen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The final conference of the Delta-Netz Transfer project took place on 4 September 2024 in Frankfurt am Main and offered a lively platform for exchange between science, practice and those affected. The conference was held by the central management of Internationaler Bund (IB) as well as the three project locations Neuenhagen, Koblenz and Schwerin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "A particular highlight was the scientific talk by Dr. Ewelina Mania from the German Institute for Adult Education, who impressed with her expertise on social space-oriented educational work. In addition, Kerstin Goldenstein from the Alpha Self-Help Umbrella Association e.V. brought the perspective of those affected closer and emphasised the importance of self-help for the target groups.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In the lively discussions, practice-oriented approaches such as addressing the target groups, life-world-oriented basic education offerings and sensitising actors in quarter networks were intensively illuminated. Experiences from the Neuenhagen, Schwerin and Koblenz locations with their low-threshold learning offerings also met great approval.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Participants agreed: the conference created a valuable space for exchange and inspiration and set a strong sign for the further development of basic education in the quarter. The lively exchange and joint discussion made the event an unforgettable experience.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The project is funded from funds of the Federal Ministry of Education and Research within the Alphadekade. It aims to better reach and promote adults with reading and writing difficulties and counter their stigmatisation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "IB Hochschule supported the \"Delta Netz Transfer\" project as a cooperation partner with the scientific accompaniment of the project. In this cooperation IB Hochschule conducted qualitative interviews with employees at the involved project locations in Schwerin, Neuenhagen, Koblenz and Suhl as well as with voluntary employees and participants of the Delta Netz learning offers. The goal of these interviews was to find out how basic education can be successfully designed in the joint project. It became clear that a sensitive approach as well as continuous social-pedagogical accompaniment of learners play a central role.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Abschluss-Tagung des Projekts Delta-Netz Transfer fand am 4. September 2024 in Frankfurt am Main statt und bot eine lebendige Plattform für den Austausch zwischen Wissenschaft, Praxis und Betroffenen. Die Tagung wurde von der Zentralen Geschäftsführung des Internationalen Bundes (IB) sowie den drei Projektstandorten Neuenhagen, Koblenz und Schwerin durchgeführt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Ein besonderer Höhepunkt war der wissenschaftliche Vortrag von Dr. Ewelina Mania vom Deutschen Institut für Erwachsenenbildung, die mit ihrer Expertise zur sozialraumorientierten Bildungsarbeit beeindruckte. Zudem brachte Kerstin Goldenstein vom Alpha-Selbsthilfe Dachverband e.V. die Perspektive der Betroffenen näher und betonte die Bedeutung von Selbsthilfe für die Zielgruppen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "In den lebhaften Diskussionen wurden praxisorientierte Ansätze wie die Ansprache der Zielgruppen, lebensweltorientierte Grundbildungsangebote und die Sensibilisierung von Akteur*innen in Quartier-Netzwerken intensiv beleuchtet. Auch die Erfahrungen aus den Standorten Neuenhagen, Schwerin und Koblenz mit ihren niedrigschwelligen Lernangeboten fanden großen Anklang.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Teilnehmer*innen waren sich einig: Die Tagung schaffte einen wertvollen Raum für Austausch und Inspiration und setzte ein starkes Zeichen für die Weiterentwicklung der Grundbildung im Quartier.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Gefördert wird das Projekt aus Mitteln des Bundesministeriums für Bildung und Forschung innerhalb der Alphadekade. Es zielt darauf ab, Erwachsene mit Lese- und Schreibschwierigkeiten besser zu erreichen und zu fördern sowie ihrer Stigmatisierung entgegenzuwirken.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Die IB Hochschule unterstützte das Projekt „Delta Netz Transfer\" als Kooperationspartner mit der wissenschaftlichen Begleitung des Projektes. Im Rahmen dieser Zusammenarbeit führte die IB Hochschule qualitative Interviews mit Mitarbeitenden an den beteiligten Projektstandorten in Schwerin, Neuenhagen, Koblenz und Suhl sowie mit ehrenamtlichen Mitarbeitenden und Teilnehmenden der Lernangebote des Delta Netzes durch. Ziel dieser Interviews war es, herauszufinden, wie Grundbildung im Verbundprojekt erfolgreich gestaltet werden kann. Dabei wurde deutlich, dass eine einfühlsame Ansprache sowie eine kontinuierliche sozialpädagogische Begleitung der Lernenden eine zentrale Rolle spielen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/fachtagung-delta-netz-transfer/image_01.jpg",
+    "alt": "Delta Netz Transfer conference"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/fachtagung-delta-netz-transfer/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/fachtagung-delta-netz-transfer/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/fachtagung-delta-netz-transfer/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/fachtagung-delta-netz-transfer/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/fachtagung-delta-netz-transfer/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/fachtagung-delta-netz-transfer/image_07.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-09-16T10:00:00.000Z",
+  "status": "published"
+}

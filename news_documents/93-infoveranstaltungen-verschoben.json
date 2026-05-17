@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.alle-infoveranstaltungen-verschoben-corona",
+  "slug": {
+    "_type": "slug",
+    "current": "alle-infoveranstaltungen-der-ib-hochschule-werden-bis-auf-weiteres-verschoben"
+  },
+  "title": {
+    "en": "All information events of IB Hochschule are postponed until further notice",
+    "de": "Alle Infoveranstaltungen der IB Hochschule werden bis auf Weiteres verschoben"
+  },
+  "summary": {
+    "en": "To prevent rapid spread of the coronavirus SARS-CoV-2, all citizens are called upon to reduce social contacts to a minimum. IB Hochschule will postpone all upcoming information events scheduled up to 20.04.2020, or offer them online.",
+    "de": "Ein schnelles Ausbreiten des Coronavirus SARS-CoV-2 soll verhindert werden. Die IB Hochschule wird alle zukünftigen Informationsveranstaltungen, die bis zum 20.04.2020 geplant sind, bis auf Weiteres verschieben bzw. online anbieten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Rapid spread of the coronavirus SARS-CoV-2 is to be prevented and all citizens are called upon to reduce social contacts to a minimum.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "IB Hochschule will therefore postpone all upcoming information events scheduled up to 20.04.2020, and possibly longer, until further notice or offer them online.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The information events at which IB Hochschule provides information about its programmes and for which all interested parties could register via the info pool will still be offered. We will inform you here and in the info pool about a corresponding online solution in due course.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "If you are already registered for one of these information events, we ask you to consider this and to participate online at your scheduled date. We will of course inform you about registration options and times again by email.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "In this sense, stay healthy, and we will face all future challenges related to the coronavirus calmly and serenely.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Ein schnelles Ausbreiten des Coronavirus SARS-CoV-2 soll verhindert werden und alle Bürger*innen sind dazu aufgerufen soziale Kontakte auf ein Minimum zu reduzieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Deshalb wird die IB Hochschule alle zukünftigen Informationsveranstaltungen, welche bis zum 20.04.2020 geplant sind und gegebenenfalls auch länger, bis auf Weiteres verschieben, bzw. online anbieten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Infoveranstaltungen, auf denen die IB Hochschule über ihre Studiengänge informiert und zu denen Sie sich bis dato alle Interessenten über den Infopool anmelden konnten, sollen aber dennoch angeboten werden. Über eine entsprechende Online-Lösung werden wir hier und im Infopool zeitnah informieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Falls Sie bereits zu einer dieser Informationsveranstaltungen angemeldet sind, bitten wir Sie, dies zu berücksichtigen und an Ihrem Termin online teilzunehmen. Zu den Anmeldemöglichkeiten und Uhrzeiten werden wir Sie selbstverständlich auch per Mail noch einmal informieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "In diesem Sinne, bleiben Sie gesund und wir werden allen zukünftigen Herausforderungen in Zusammenhang mit dem Coronavirus trotzen und mit Ruhe und Gelassenheit entgegentreten.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/alle-infoveranstaltungen-der-ib-hochschule-werden-bis-auf-weiteres-verschoben/image_01.jpg",
+    "alt": "All info events postponed"
+  },
+  "gallery": [],
+  "publishDate": "2020-03-16T09:00:00.000Z",
+  "status": "published"
+}

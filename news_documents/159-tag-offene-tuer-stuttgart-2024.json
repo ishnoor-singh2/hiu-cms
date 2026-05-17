@@ -1,0 +1,238 @@
+{
+  "_type": "news",
+  "_id": "news.tag-der-offenen-tuer-stuttgart-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "tag-der-offenen-tuer-in-stuttgart"
+  },
+  "title": {
+    "en": "Great interest at the \"Open Day\" at Stuttgart Study Centre: encounters at eye level",
+    "de": "Großes Interesse am „Tag der offenen Tür\" im Studienzentrum Stuttgart: Begegnungen auf Augenhöhe"
+  },
+  "summary": {
+    "en": "On 4 July, our Stuttgart study centre opened its doors to interested visitors from near and far – including school-leavers, friends, parents and grandparents of active students, as well as working people from various branches of healthcare.",
+    "de": "Am 4. Juli öffnete unser Studienzentrum in Stuttgart seine Pforten für interessierte Besucherinnen und Besucher aus nah und fern. Unter ihnen Abiturient*innen, Freunde, Eltern und Großeltern aktiver Studierender sowie Berufstätige aus verschiedenen Sparten des Gesundheitswesens."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 4 July our Stuttgart study centre opened its doors for interested visitors from near and far. Among them school-leavers, friends, parents and grandparents of active students as well as working people from various branches of healthcare, who took the opportunity at the \"Open Day\" to get an impression of the modern premises at Paulinenstraße and the variety of programmes offered there. A multifaceted accompanying programme awaited them all.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The opening was a public lecture titled \"Exciting Insights into the World of Psychology\", before Dean of Studies Prof. Dr. Regine Mößle officially welcomed those present and presented Internationaler Bund (IB) as operator as well as the Stuttgart study centre in more detail. Afterwards, Prof. Dr. Ingo Pals and Prof. Dr. Inga Liepelt-Scarfone in their function as programme heads informed about structure and content of the Bachelor's and Master's programmes in Psychology, their practical relevance and the broad career chances and perspectives after successful study completion.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The programmes Health Care Education / Health Education and Applied Therapy Science – presented by Prof. Dr. Jochen Klenk – aroused particular interest among employees from healthcare due to their partly part-time character, who are looking for a way to underpin their practical activity with an academic foundation or to qualify for further areas of work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "\"Join in\" was the motto for visitors at various experiments and psychological tests. Particularly popular was the demonstration of treating fear of heights with the help of a virtual reality headset, which offered a realistic insight into this relatively young, innovative treatment method.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "An impressive and varied poster exhibition illustrated the diverse research activities in the course of psychology studies and once again emphasised the respectful coexistence of lecturers and students in joint research projects, the flat hierarchies at IB Hochschule and the cooperation at eye level.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Bottom line: the Stuttgart \"Open Day\" was a complete success. Especially pleasing: still on site, some visitors decided to study at IB Hochschule and took the necessary application documents along right away. We thank the Stuttgart university team and the involved students for the smooth course and organisation of this successful event, which is to be repeated at regular intervals in the future, and the Gasthaus „Bären\" in Stuttgart for the support with catering.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 4. Juli öffnete unser Studienzentrum in Stuttgart seine Pforten für interessierte Besucherinnen und Besucher aus nah und fern. Unter ihnen Abiturient*innen, Freunde, Eltern und Großeltern aktiver Studierender sowie Berufstätige aus verschiedenen Sparten des Gesundheitswesens, die die Gelegenheit wahrnahmen, sich beim „Tag der offenen Tür\" ein Bild von den modernen Räumlichkeiten in der Paulinenstraße und der Vielfalt der dort angebotenen Studiengänge zu machen. Sie alle erwartete ein facettenreiches Rahmenprogramm.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Den Auftakt bildete eine öffentliche Vorlesung mit dem Titel „Spannende Einblicke in die Welt der Psychologie\", bevor Studiendekanin Prof. Dr. Regine Mößle die Anwesenden offiziell willkommen hieß und den Internationalen Bund (IB) als Träger sowie das Stuttgarter Studienzentrum näher vorstellte. Im Anschluss informierten Prof. Dr. Ingo Pals und Prof. Dr. Inga Liepelt-Scarfone in ihrer Funktion als Studiengangsleitende über Aufbau und Inhalt der Bachelor- und Masterstudiengänge in Psychologie, deren Praxisbezug und die breit gefächerten Berufschancen und -perspektiven nach erfolgreichem Studienabschluss.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Studiengänge Health Care Education/ Gesundheitspädagogik und Angewandte Therapiewissenschaft – vorgestellt von Prof. Dr. Jochen Klenk – weckten mit ihrem teilweise berufsbegleitenden Charakter vor allem das Interesse von Beschäftigten aus dem Gesundheitswesen, die nach einer Möglichkeit suchen, ihre praktische Tätigkeit durch ein akademisches Fundament zu untermauern oder sich für weitere Aufgabengebiete zu qualifizieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "„Mitmachen\" lautete das Motto für die Besucher dann bei verschiedenen Experimenten und psychologischen Tests. Besonders beliebt war die Demonstration zur Therapie von Höhenangst mithilfe einer Virtual-Reality-Brille, die einen realistischen Einblick in diese relativ junge, innovative Behandlungsmethode bot.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Eine beeindruckende und abwechslungsreiche Posterausstellung veranschaulichte die vielfältigen Forschungsaktivitäten im Laufe eines Psychologiestudiums und betonte einmal mehr das respektvolle Miteinander von Lehrenden und Studierenden in gemeinsamen Forschungsprojekten, die flachen Hierarchien an der IB Hochschule und die Kooperation auf Augenhöhe.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Unterm Strich war der Stuttgarter „Tag der offenen Tür\" ein voller Erfolg. Besonders erfreulich: Noch vor Ort entschieden sich einige Besucher*innen für ein Studium an der IB Hochschule und nahmen die dafür erforderlichen Antragsunterlagen gleich mit. Wir danken dem Stuttgarter Hochschulteam und den beteiligten Studierenden für den reibungslosen Ablauf und die Organisation dieser gelungenen Veranstaltung, die künftig in regelmäßigen Abständen wiederholt werden soll, und dem Gasthaus „Bären\" in Stuttgart für die Unterstützung beim Catering.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_01.jpg",
+    "alt": "Open Day Stuttgart 2024"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_08.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-in-stuttgart/image_09.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-07-10T09:00:00.000Z",
+  "status": "published"
+}

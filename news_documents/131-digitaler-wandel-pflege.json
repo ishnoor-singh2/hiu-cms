@@ -1,0 +1,368 @@
+{
+  "_type": "news",
+  "_id": "news.digitaler-wandel-pflege-clusterkonferenz",
+  "slug": {
+    "_type": "slug",
+    "current": "digitaler-wandel-in-der-pflege"
+  },
+  "title": {
+    "en": "Digital change in care: experts met at the Cluster Conference Future of Care",
+    "de": "Digitaler Wandel in der Pflege: Expert*innen trafen sich auf der Clusterkonferenz Zukunft der Pflege"
+  },
+  "summary": {
+    "en": "From 11 to 12 March 2025 the Cluster Conference \"Future of Care\" took place at Charité Berlin. Experts and specialist representatives came together to exchange on the latest developments of digitalisation and technologisation in care and health.",
+    "de": "Vom 11. bis 12. März 2025 fand auf dem Campus Virchow-Klinikum der Charité in Berlin die Clusterkonferenz „Zukunft der Pflege\" statt. Expert*innen und Fachvertreter*innen kamen zusammen, um sich zu den neuesten Entwicklungen der Digitalisierung und Technologisierung im Pflege- und Gesundheitsbereich auszutauschen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "From 11 to 12 March 2025 the Cluster Conference \"Future of Care\" took place at Campus Virchow-Klinikum (CVK) of Charité Universitätsmedizin in Berlin. Experts and specialist representatives came together to exchange on the latest developments of digitalisation and technologisation in care and health.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The innovation network \"Cluster – Future of Care\" is dedicated to the nationwide implementation of technological innovations and the development of competences for digital change. IB Hochschule für Gesundheit und Soziales was also represented with an info stand and the study advisory service.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The Cluster Conference 2025",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Under the motto \"Designing care future humanely – successful transfer and competence development\", topics ranged from impulse talks through poster exhibitions and short-paper sessions to interactive World Cafés, future workshops and workshops. Especially enriching were the contributions of keynote speakers like Christine Vogler (President DPR), Sascha Saßen (consultant for care and social economy) and Olaf Meyer (commercial representative of the Danish embassy).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "AI and competence development in care pedagogy",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "A highlight of the conference was the talk by Prof. Dr. Markus Dormann, Vice-President of IB Hochschule and expert on AI in teaching. In his contribution \"Didactic modelling of AI for competence development in nursing/health education\" he showed how generative AI can be sensibly integrated into teaching-learning processes.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "\"It is not enough to simply use large language models like ChatGPT. Anyone who wants to exhaust the full potential of generative AI in education must didactically model it! I am pleased to see that more and more actors from science and practice recognise how important targeted AI applications are in teaching-learning processes,\" emphasised Prof. Dormann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Digital innovations for care practice",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Alongside specialist discussions, the conference offered a platform for innovative products in care. Particularly impressive were various digital solutions presented.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Resumé: actively shaping the future",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "Securing care for people is one of the biggest challenges for our society. Several million people in Germany rely on care every day, and the number of people needing care will continue to rise. This brings new challenges to hospitals and rehabilitation facilities, inpatient and outpatient care institutions and home care. With IB Hochschule's programmes, we steer directly into the technological change and train people who, well-equipped, advance digital transformation. The Cluster Conference was a great pleasure and a valuable opportunity to make new contacts, discuss current developments and shape the future of care.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Vom 11. bis 12. März 2025 fand auf dem Campus Virchow-Klinikum (CVK) der Charité-Universitätsmedizin in Berlin die Clusterkonferenz „Zukunft der Pflege\" statt. Expert*innen und Fachvertreter*innen kamen zusammen, um sich zu den neuesten Entwicklungen der Digitalisierung und Technologisierung im Pflege- und Gesundheitsbereich auszutauschen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das Innovationsnetzwerk „Cluster – Zukunft der Pflege\" widmet sich der flächendeckenden Implementierung technologischer Innovationen und der Entwicklung von Kompetenzen für den digitalen Wandel. Auch die IB Hochschule für Gesundheit und Soziales war mit einem Informationsstand und der Studienberatung vertreten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Clusterkonferenz 2025",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Unter dem Motto „PflegeZukunft menschlich gestalten – Erfolgreicher Transfer und Kompetenzentwicklung\" reichten die Themen von Impulsvorträgen über Posterausstellungen und Short-Paper-Sessions bis hin zu interaktiven World-Cafés, Zukunftswerkstätten und Workshops. Besonders bereichernd waren die Beiträge der Keynote-Speaker*innen wie Christine Vogler (Präsidentin DPR), Sascha Saßen (Berater für Pflege- und Sozialwirtschaft) und Olaf Meyer (Handelsbeauftragter der dänischen Botschaft).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "KI und Kompetenzentwicklung in der Pflegepädagogik",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Ein Highlight der Konferenz war der Vortrag von Prof. Dr. Markus Dormann, Vizepräsident der IB Hochschule und Experte für Künstliche Intelligenz in der Lehre. In seinem Beitrag „Didaktische Modellierung von KI zur Kompetenzentwicklung in der Pflege-/Gesundheitspädagogik\" zeigte er auf, wie generative KI sinnvoll in Lehr-Lern-Prozessen integriert werden kann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "„Es reicht nicht aus, große Sprachmodelle wie ChatGPT einfach nur zu nutzen. Wer das volle Potenzial generativer KI in der Bildung ausschöpfen will, muss sie didaktisch modellieren! Es freut mich zu sehen, dass immer mehr Akteur*innen aus Wissenschaft und Praxis erkennen, wie wichtig zielgerichtete KI-Anwendungen in Lehr-Lern-Prozessen sind\", betonte Professor Dormann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Digitale Innovationen für die Pflegepraxis",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Neben den fachlichen Diskussionen bot die Konferenz eine Plattform für innovative Produkte im Pflegebereich.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Resümee: Die Zukunft aktiv mitgestalten",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Die Sicherstellung der pflegerischen Versorgung von Menschen ist eine der größten Herausforderungen für unsere Gesellschaft. Täglich sind mehrere Millionen Menschen in Deutschland auf Pflege angewiesen. Und die Zahl der Pflegebedürftigen wird weiter steigen. Damit kommen neue Herausforderungen auf Krankenhäuser und Reha-Einrichtungen, stationäre und ambulante Versorgungseinrichtungen sowie die Pflege in der eigenen Häuslichkeit zu. Mit den Studiengängen der IB Hochschule steuern wir direkt in den technologischen Wandel hinein und bilden Menschen aus, die gut ausgerüstet die digitale Transformation vorantreiben. Es war uns eine große Freude an der Clusterkonferenz teilgenommen zu haben.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/digitaler-wandel-in-der-pflege/image_01.jpg",
+    "alt": "Cluster Conference Future of Care"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitaler-wandel-in-der-pflege/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitaler-wandel-in-der-pflege/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitaler-wandel-in-der-pflege/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitaler-wandel-in-der-pflege/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitaler-wandel-in-der-pflege/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digitaler-wandel-in-der-pflege/image_07.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-03-13T09:00:00.000Z",
+  "status": "published"
+}

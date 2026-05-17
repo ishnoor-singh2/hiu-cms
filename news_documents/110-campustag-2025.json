@@ -1,0 +1,266 @@
+{
+  "_type": "news",
+  "_id": "news.campustag-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "campustag-2025"
+  },
+  "title": {
+    "en": "Campus Day 2025 at IB Hochschule für Gesundheit und Soziales in Berlin",
+    "de": "Der Campustag 2025 an der IB Hochschule für Gesundheit und Soziales in Berlin"
+  },
+  "summary": {
+    "en": "On Friday 18 July 2025 IB Hochschule opened its doors for Campus Day. Numerous prospective students used the chance to get a picture of study life on site and to talk with current students and lecturers.",
+    "de": "Am Freitag, den 18. Juli 2025, öffnete die IB Hochschule für Gesundheit und Soziales ihre Türen zum Campustag. Zahlreiche Interessent*innen nutzten die Gelegenheit, sich direkt vor Ort ein Bild vom Studienalltag zu machen, mit Studierenden und Lehrenden ins Gespräch zu kommen – und das besondere Flair des Gesundheitscampus am ukb zu erleben."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On Friday 18 July 2025, IB Hochschule für Gesundheit und Soziales opened its doors from 4 p.m. for Campus Day. Numerous prospective students used the chance to get a picture of study life on site, to come into conversation with students and lecturers – and to experience the special flair of the Health Campus at ukb.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "IB Hochschule had prepared a varied and informative programme. After a warm welcome by Prof. Dr. Silke Brenne, Prof. Dr. Mariam Hartinger took the floor. In her talk she gave exciting insights into IB Hochschule's development and explained the advantages of the location on the Health Campus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Afterwards, guests spread out to the individual programmes. In rooms specially prepared, lecturers and students presented the study offers – including Applied Psychology, Health Education, Applied Therapy Science and Digital Health. Here was space for individual questions and conversations – an ideal setting for everyone who wanted to find out about content, career prospects and study life.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "A special highlight was the subsequent campus tour across the ukb grounds. It passed historic brick buildings – once part of a nerve hospital before the gates of Berlin – up to the highly modern emergency room of today's BG Klinikum. The future new home of the university, the currently still-renovated House 2, could also be inspected.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Visitors gained exciting insights into emergency care: what happens in the shock room? How does initial admission proceed? Which scenarios are planned for disasters? And how does the deployment of the rescue helicopter \"Christoph Berlin\" work? By chance, this set down for landing during the visit – luckily without intervention, but to much amazement.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The closing was an open-air talk titled \"Research belongs to studies\". Prof. Dr. Thomas Bürk and Alisa Wenzel showed by practical examples how research works at IB Hochschule, what methods are used – and why it is an integral part of studies.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Campus Day 2025 was a valuable day – with informative programme points, personal encounters and inspiring insights into studies at a very special place.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am Freitag, den 18. Juli 2025, öffnete die IB Hochschule für Gesundheit und Soziales ab 16 Uhr ihre Türen zum Campustag. Zahlreiche Interessent*innen nutzten die Gelegenheit, sich direkt vor Ort ein Bild vom Studienalltag zu machen, mit Studierenden und Lehrenden ins Gespräch zu kommen – und das besondere Flair des Gesundheitscampus am ukb zu erleben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die IB Hochschule hatte ein vielfältiges und informatives Programm vorbereitet. Nach einer herzlichen Begrüßung durch Frau Prof. Dr. Silke Brenne, übernahm Frau Prof. Dr. Mariam Hartinger das Wort. In ihrem Vortrag gab sie spannende Einblicke in die Entwicklung der IB Hochschule und erläuterte die Vorteile des Studienstandorts am Gesundheitscampus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Im Anschluss verteilten sich die Gäste auf die einzelnen Studiengänge. In eigens vorbereiteten Räumen stellten Lehrende und Studierende die Studienangebote vor – darunter Angewandte Psychologie, Gesundheitspädagogik, Angewandte Therapiewissenschaft und Digital Health. Hier war Raum für individuelle Fragen und Gespräche – ein idealer Rahmen für alle, die sich über Inhalte, Berufsperspektiven und Studienalltag informieren wollten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Ein besonderes Highlight war die anschließende Campusführung über das Gelände des ukb. Diese führte vorbei an historischen Backsteingebäuden – einst Teil einer Nervenheilanstalt vor den Toren Berlins – bis hin zur hochmodernen Rettungsstelle des heutigen BG Klinikums. Auch das zukünftige neue Zuhause der Hochschule, das derzeit noch im Umbau befindliche Haus 2, konnte in Augenschein genommen werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Besucher*innen erhielten spannende Einblicke in die Abläufe der Notfallversorgung: Was passiert im Schockraum? Wie läuft die Erstaufnahme? Welche Szenarien sind im Katastrophenfall geplant? Und wie funktioniert der Einsatz des Rettungshubschraubers „Christoph Berlin\"? Zufällig setzte dieser während der Besichtigung zur Landung an – zum Glück ohne Einsatz, aber mit viel Staunen bei den Gästen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Den Abschluss bildete ein Open-Air-Vortrag unter dem Titel „Forschung gehört zum Studium\". Prof. Dr. Thomas Bürk und Alisa Wenzel zeigten anhand praktischer Beispiele, wie Forschung an der IB Hochschule funktioniert, welche Methoden zum Einsatz kommen – und warum sie ein integraler Bestandteil des Studiums ist.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Der Campustag 2025 war ein wertvoller Tag – mit informativen Programmpunkten, persönlichen Begegnungen und inspirierenden Einblicken in das Studium an einem ganz besonderen Ort.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_01.jpg",
+    "alt": "Campus Day 2025"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_09.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-2025/image_10.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-07-22T09:00:00.000Z",
+  "status": "published"
+}

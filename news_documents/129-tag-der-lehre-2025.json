@@ -1,0 +1,175 @@
+{
+  "_type": "news",
+  "_id": "news.tag-der-lehre-2025-ki",
+  "slug": {
+    "_type": "slug",
+    "current": "tag-der-lehre-2025"
+  },
+  "title": {
+    "en": "Day of Teaching 2025 at IB Hochschule – chances and risks of Artificial Intelligence",
+    "de": "Tag der Lehre 2025 an der IB Hochschule – Chancen und Risiken von Künstlicher Intelligenz"
+  },
+  "summary": {
+    "en": "On Day of Teaching we explored the fascinating world of Artificial Intelligence with our lecturers. Why does AI play an increasingly larger role at our university, in our teaching and research?",
+    "de": "Am Tag der Lehre haben wir gemeinsam mit unseren Lehrenden die faszinierende Welt der Künstlichen Intelligenz erkundet. Warum spielt KI für unsere Hochschule, unsere Lehre und Forschung eine immer größere Rolle?"
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On Day of Teaching we, together with our lecturers, explored the fascinating world of Artificial Intelligence. Central questions were: Why does AI play an ever larger role for our university, our teaching and research? Which legal framework conditions are relevant? Which chances and risks does modern AI bring – and which ethical questions must we consider?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Alongside two exciting input talks by Prof. Dr. Alexandra Jorzig and Prof. Dr. Markus Dormann, Prof. Dr. Dr. Thomas Ufer presented the newly established Ethics Council. The event was moderated by Dipl. Päd. Lena Setzepfand.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Particularly exciting was the look at the didactic possibilities of AI in teaching: how can AI support, individualise and optimise teaching and learning processes? Which role do learning analytics, adaptive learning environments and automated feedback systems play? Discussions made clear that AI in teaching-learning settings goes far beyond mere automation – it can further differentiate personalised learning, analyse learning behaviour and specifically support teachers, but must always be thought of against the background of ethical and legal dimensions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Furthermore, the topic of AI and exams at the university was discussed. Which new challenges arise from the use of AI-supported tools in exams? How can exam formats be adapted to ensure responsible handling of AI? And what role do authenticity, fairness and equal opportunities play in this context? These questions were intensively explored, with various approaches and best practices being mentioned.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "How relevant the topic is was shown by the lively discussions with our lecturers and participating external lecturers. The day was a complete success and made clear that AI does not replace teaching – but, used competently, can enrich it.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am Tag der Lehre haben wir gemeinsam mit unseren Lehrenden die faszinierende Welt der Künstlichen Intelligenz erkundet. Im Fokus standen zentrale Fragen: Warum spielt KI für unsere Hochschule, unsere Lehre und Forschung eine immer größere Rolle? Welche rechtlichen Rahmenbedingungen sind relevant? Welche Chancen und Risiken bringt moderne KI mit sich – und welche ethischen Fragen müssen wir dabei berücksichtigen?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Neben zwei spannenden Inputvorträgen von Frau Prof. Dr. Alexandra Jorzig und Prof. Dr. Markus Dormann stellte Prof. Dr. Dr. Thomas Ufer den neu etablierten Ethikrat vor. Die Moderation der Veranstaltung hatte Dipl. Päd. Lena Setzepfand übernommen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Besonders spannend war der Blick auf die didaktischen Möglichkeiten von KI in der Lehre: Wie kann KI Lehr- und Lernprozesse unterstützen, individualisieren und optimieren? Welche Rolle spielen Learning Analytics, adaptive Lernumgebungen und automatisierte Feedbacksysteme? Die Diskussionen verdeutlichten, dass KI in Lehr-Lern-Settings weit über das bloße Automatisieren hinausgeht – sie kann personalisiertes Lernen weiter ausdifferenzieren, Lernverhalten analysieren und Lehrkräfte gezielt unterstützen, muss aber auch immer vor dem Hintergrund von ethischen und rechtlichen Dimensionen gedacht werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Weiter wurde das Thema KI und Prüfungen an der Hochschule diskutiert. Welche neuen Herausforderungen ergeben sich durch den Einsatz von KI-gestützten Tools bei Prüfungen? Wie können Prüfungsformate angepasst werden, um einen verantwortungsvollen Umgang mit KI zu gewährleisten? Und welche Rolle spielen Authentizität, Fairness und Chancengleichheit in diesem Kontext? Diese Fragen wurden intensiv erörtert, wobei verschiedene Lösungsansätze und Best Practices zur Sprache kamen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Wie relevant das Thema ist, zeigten die lebhaften Diskussionen mit unseren Lehrenden und den teilnehmenden externen Dozierenden. Der Tag war ein voller Erfolg und hat deutlich gemacht, dass KI die Lehre nicht ersetzt – sondern, kompetent eingesetzt, bereichern kann.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-lehre-2025/image_01.jpg",
+    "alt": "Day of Teaching 2025"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-lehre-2025/image_02.png",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-03-24T09:00:00.000Z",
+  "status": "published"
+}

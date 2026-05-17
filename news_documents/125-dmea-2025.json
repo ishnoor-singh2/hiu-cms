@@ -1,0 +1,190 @@
+{
+  "_type": "news",
+  "_id": "news.digital-health-dmea-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "digital-health-auf-der-dmea-2025"
+  },
+  "title": {
+    "en": "IB Hochschule für Gesundheit und Soziales at DMEA 2025 – students shape the digital health future",
+    "de": "Die IB Hochschule für Gesundheit und Soziales auf der DMEA 2025 – Studierende gestalten die digitale Gesundheitszukunft"
+  },
+  "summary": {
+    "en": "In 2025 IB Hochschule was again at DMEA in Berlin – Europe's leading trade fair for digital healthcare. The focus this year was on the students of the Digital Health Bachelor and Master programmes, who could visit the event free of charge.",
+    "de": "Auch 2025 war die IB Hochschule wieder auf der DMEA in Berlin vertreten – Europas führender Messe für digitale Gesundheitsversorgung. Im Fokus standen in diesem Jahr die Studierenden des Bachelor- und Masterstudiengangs Digital Health, die die Veranstaltung kostenfrei besuchen durften."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Also in 2025 IB Hochschule was again represented at DMEA in Berlin – Europe's leading trade fair for digital healthcare. The focus this year was on the students of the Digital Health Bachelor and Master programmes, who were allowed to visit the event free of charge. They were given tasks by the lecturers to be worked on during the visit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In the module \"Digital Diagnostics and Human-Technology Interaction\", the task was: find an innovative, digital application in the field of Digital Health, focusing on Clinical Decision Support Systems (CDSS) – i.e. software-supported decision aids that support doctors in diagnosis or therapy planning. Students researched targeted solutions that they could analyse and discuss with exhibitors at DMEA.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Current digital innovations in healthcare were also on the programme, along with networking with industry representatives and documenting exciting trends and solutions for digital transformation in the health sector. The goal was to connect theoretical study content with current practice developments and gain impulses for one's own professional future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "\"DMEA was worthwhile because we were able to get to know some future-oriented and promising products in connection with our question. We also gained insight into the work of start-ups – and not least the political side was illuminated. We thereby gained insights into why many processes are difficult and often lengthy.\" – Falko Klehm (Digital Health B.Sc.)",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Participation at DMEA offered the students valuable insights into current developments and challenges of digital healthcare.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Auch 2025 war die IB Hochschule wieder auf der DMEA in Berlin vertreten – Europas führender Messe für digitale Gesundheitsversorgung. Im Fokus standen in diesem Jahr die Studierenden des Bachelor- und Masterstudiengangs Digital Health, die die Veranstaltung kostenfrei besuchen durften. Ihnen wurden durch die Dozierenden Aufgaben zur Verfügung gestellt. Diese sollten während des Messebesuchs erarbeitet werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Modul „Digitale Diagnostik und Mensch-Technik-Interaktion\" lautete der Auftrag: Finden Sie eine innovative, digitale Anwendung aus dem Bereich Digital Health, mit dem Fokus auf Clinical Decision Support Systems (CDSS), also softwaregestützte Entscheidungshilfen, die Ärzt*innen bei der Diagnose- oder Therapieplanung unterstützen. Die Studierenden recherchierten gezielt nach passenden Lösungen, die sie auf der DMEA vertiefend analysieren und mit Ausstellenden diskutieren konnten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Zudem standen aktuelle digitale Innovationen im Gesundheitswesen auf dem Programm und das Networking mit Branchenvertreter*innen sowie die Dokumentation spannender Trends und Lösungen für die digitale Transformation im Gesundheitssektor. Ziel war, die theoretischen Studieninhalte mit aktuellen Entwicklungen der Praxis zu verknüpfen und Impulse für die eigene berufliche Zukunft zu gewinnen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "„Die DMEA hat sich gelohnt, weil wir in Bezug auf unsere Fragestellung einige zukunftsträchtige und erfolgsversprechende Produkte kennenlernen durften. Weiterhin haben wir Einsicht in die Arbeit von Start-ups gewonnen – und nicht zuletzt, wurde auch die politische Seite beleuchtet. Wir bekamen dadurch Einblicke, warum viele Prozesse schwierig und oft langwierig sind.\" – Falko Klehm (Digital Health, B.Sc.)",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Teilnahme an der DMEA bot den Studierenden wertvolle Einblicke in aktuelle Entwicklungen und Herausforderungen der digitalen Gesundheitsversorgung.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-auf-der-dmea-2025/image_01.jpg",
+    "alt": "DMEA 2025"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-auf-der-dmea-2025/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-auf-der-dmea-2025/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-auf-der-dmea-2025/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-auf-der-dmea-2025/image_06.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-04-10T09:00:00.000Z",
+  "status": "published"
+}

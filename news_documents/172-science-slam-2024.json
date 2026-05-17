@@ -1,0 +1,175 @@
+{
+  "_type": "news",
+  "_id": "news.science-slam-2024-armut-gesundheit",
+  "slug": {
+    "_type": "slug",
+    "current": "science-slam-2024-beim-kongress-armut-und-gesundheit"
+  },
+  "title": {
+    "en": "Science Slam – 2024 at the Poverty and Health Congress",
+    "de": "Science Slam – 2024 beim Kongress Armut und Gesundheit"
+  },
+  "summary": {
+    "en": "Scientific topics witty packaged: that is the goal of Science Slam, which makes important public health topics more accessible in an entertaining way. Alisa Wenzel from IB Hochschule was also there.",
+    "de": "Wissenschaftliche Themen witzig verpackt: Das ist das Ziel des Science Slam, der dazu dient, wichtige Public Health-Themen auf unterhaltsame Weise zugänglicher zu machen. Mit dabei war auch Alisa Wenzel von der IB Hochschule für Gesundheit und Soziales."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Scientific topics witty packaged: that is the goal of Science Slam, which serves to make important public health topics more accessible in an entertaining way and to empower young scientists. Students and alumni were also invited this year to present student final theses, doctoral projects or study projects. Among them was Alisa Wenzel, research associate from Psychology at IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Since 2019, Science Slam has been a fixed part of the Poverty and Health Congress under the title \"Science leaves the ivory tower\". Originally developed from Poetry Slam, Science Slam is about presenting one's own research entertainingly. Science Slam stands between comedy and scientific lecture and thus offers entertainment for people with and without prior knowledge.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Up to five people compete against each other in an informal lecture competition. The goal is to vividly present one's own research topic in ten minutes, because the audience forms the jury and selects the winners of the Science Slam with appropriate applause. In preparation, in previous years a workshop on designing and implementing the contribution took place.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We are proud to have been part of this inspiring event and look forward already to the next Science Slam, which will certainly be just as fascinating and enriching. Upcoming dates: 30.04.2024 – Heimathafen Berlin Neukölln, 22.06.2024 – part of IB Hochschule's programme at the Long Night of Sciences (www.langenachtderwissenschaften.de).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Participants and topics 2024: \"Being sustainable is smogging hot\" – Jelena Schmidt (ISPO); \"The state is sick! It's about more than the mask!\" – Marina Martin (Hochschule Zittau/Görlitz); Yves Šir (Berlin School of Public Health); \"Just have your teeth done – uninsured in Wonderland?\" – Anke Dickmann (Heinrich-Heine University Düsseldorf); \"Better Safe than Sorry?! On risk perception under COVID-19\" – Alisa Wenzel (IB Hochschule / BG Klinikum Unfallkrankenhaus Berlin). Moderator: Simon Hauser (Hauser Kommunikation). Organisers: Anna Irshad (Berlin School of Public Health) and Elsbeth Trouwborst (Gesundheit Berlin-Brandenburg e.V.).",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Wissenschaftliche Themen witzig verpackt: Das ist das Ziel des Science Slam, der dazu dient, wichtige Public Health-Themen auf unterhaltsame Weise zugänglicher zu machen und Nachwuchswissenschaftler*innen zu empowern. Studierende und Alumni waren auch in diesem Jahr dazu eingeladen, studentische Abschlussarbeiten, Promotionsvorhaben oder Studienprojekte vorzustellen. Mit dabei war auch Alisa Wenzel, wissenschaftliche Mitarbeiterin aus der Psychologie an der IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Seit 2019 ist der Science Slam unter dem Titel „Wissenschaft verlässt den Elfenbeinturm\" fester Bestandteil auf dem Kongress Armut und Gesundheit. Ursprünglich aus dem Poetry Slam entwickelt, geht es im Science Slam darum, die eigene Forschung unterhaltsam zu präsentieren. Der Science Slam steht zwischen Comedy und wissenschaftlichem Vortrag und bietet damit Unterhaltung für Menschen mit und ohne Vorkenntnisse.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Es treten bis zu fünf Personen in einem ungezwungenen Vortrags-Wettstreit gegeneinander an. Ziel ist es, das eigene Forschungsthema in zehn Minuten auf anschauliche Weise darzustellen, denn das Publikum bildet die Jury und wählt die Sieger*innen des Science Slams mit entsprechendem Applaus. Zur Vorbereitung fand in den Vorjahren ein Workshop zur Gestaltung und Umsetzung des Beitrags statt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir sind stolz darauf, Teil dieses inspirierenden Events gewesen zu sein, und freuen uns bereits jetzt auf den nächsten Science Slam. Kommende Termine: 30.04.2024 – Heimathafen Berlin Neukölln; 22.06.2024 – Teil des Programms der IB Hochschule bei der Langen Nacht der Wissenschaften.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Teilnehmende und Themen 2024: „being sustainable is smoging hot\" – Jelena Schmidt (ISPO); „Der Staat ist krank! Es geht um mehr als die Maske!\" – Marina Martin (Hochschule Zittau/Görlitz); Yves Šir (Berlin School of Public Health); „Einfach mal Zähne machen lassen - unversichert im Wunderland?\" – Anke Dickmann (Heinrich-Heine Universität Düsseldorf); „Better Safe than Sorry?! Zur Risiko-Wahrnehmung unter COVID-19\" – Alisa Wenzel (IB Hochschule für Gesundheit und Soziales / BG Klinikum Unfallkrankenhaus Berlin). Moderator: Simon Hauser. Organisatorinnen: Anna Irshad und Elsbeth Trouwborst.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/science-slam-2024-beim-kongress-armut-und-gesundheit/image_01.jpg",
+    "alt": "Science Slam auf dem Kongress Armut und Gesundheit"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/science-slam-2024-beim-kongress-armut-und-gesundheit/image_02.jpg",
+      "alt": "Science Slam auf dem Kongress Armut und Gesundheit"
+    }
+  ],
+  "publishDate": "2024-03-21T09:00:00.000Z",
+  "status": "published"
+}

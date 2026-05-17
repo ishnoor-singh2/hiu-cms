@@ -1,0 +1,253 @@
+{
+  "_type": "news",
+  "_id": "news.forschungsprojekte-lehre-corona-rolle",
+  "slug": {
+    "_type": "slug",
+    "current": "forschungsprojekte-in-der-lehre-wie-erleben-studierende-der-ib-hochschule-fuer-gesundheit-und-soziales-ihre-rolle-als-student-in-in-der-corona-krise"
+  },
+  "title": {
+    "en": "Research projects in teaching: how do IB Hochschule students experience their role as students during the corona crisis?",
+    "de": "Forschungsprojekte in der Lehre: Wie erleben Studierende der IB Hochschule für Gesundheit und Soziales ihre Rolle als Student/in in der Corona-Krise?"
+  },
+  "summary": {
+    "en": "The presidium's weekly review documents the challenges in university life due to Covid-19. In the module \"Qualitative research methods in health sciences\", students conduct research projects on how they experience their role as students in the corona crisis.",
+    "de": "Der Wochenrückblick des Präsidiums dokumentiert die Herausforderungen im Hochschulalltag aufgrund von Covid-19. Im Modul „Qualitative Forschungsmethoden in den Gesundheitswissenschaften\" führen Studierende Forschungsprojekte dazu durch, wie sie ihre Rolle als Studierende in der Corona-Krise erleben."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The presidium's weekly review documents the challenges in everyday university life caused by Covid-19.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In the module \"Qualitative research methods in health sciences\", the goal is for students to recognise therapeutic and societal research needs, communicate these and, based on acquired knowledge of qualitative research approaches, also work on them. To do this, research projects are carried out within the teaching.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "From among the students, various feedback was received about their experience of the contact restrictions due to Covid-19 and the associated online teaching.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Thus the idea arose to research exactly these effects. On the one hand, this was seen as an opportunity to address a current topic in the research projects; on the other, it allows students to look more closely at their personal experience of the corona crisis.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "After research groups had been formed, the overarching topic was further refined for the continued work. Initial research on the subject, narrowing the topic and developing a first question yielded various perspectives for the research work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "In parallel to acquiring the theoretical knowledge (basic terms of research logic, characteristics of qualitative research, research designs, methods of data collection and analysis in qualitative research methodology, research ethics and quality criteria of qualitative research), the students work on their research topics. In online teaching this takes place in digital rooms in MS Teams.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Goals of the module are the implementation of the developed research design in the research field as well as the analysis of the collected data in the form of a written paper. We can be very excited about the results.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Prof. Dr. Antje Schubert",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der Wochenrückblick des Präsidiums dokumentiert die Herausforderungen im Hochschulalltag, die sich aufgrund Covid-19 ergeben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Modul „Qualitative Forschungsmethoden in den Gesundheitswissenschaften\" ist Ziel, dass Studierende therapeutischen und gesellschaftlichen Forschungsbedarf erkennen, diesen kommunizieren und aufgrund von erworbenem Wissen über Ansätze der qualitativen Forschung auch bearbeiten können. Dafür werden innerhalb der Lehre Forschungsprojekte durchgeführt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Aus den Reihen der Studierenden erfolgten verschiedene Rückmeldungen zum Erleben der Kontaktbeschränkungen aufgrund von Covid-19 und der damit verbundenen Online-Lehre.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Somit entstand die Idee, genau diese Auswirkungen zu erforschen. Zum einen wurde darin die Möglichkeit gesehen, ein aktuelles Thema in den Forschungsprojekten aufzugreifen, zum anderen können die Studierenden das persönliche Erleben dieser Corona-Krise näher betrachten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Nach der Bildung von Forschungsgruppen wurde sich dem übergeordneten Thema weiter angenähert. Im Brainstorming in den Forschergruppen erfolgte die Konkretisierung des Themas für die Weiterarbeit. Erste Recherchen zum Gegenstand, die Eingrenzung des Gegenstandes und die Entwicklung einer ersten Fragestellung ergaben verschiedene Perspektiven der Forschungsarbeit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Parallel zum theoretischen Wissenserwerb (Grundbegriffe der Forschungslogik, Kennzeichen qualitativer Forschung, Forschungsdesigns, Erhebungs- sowie Auswertungsmethoden in der qualitativen Forschungsmethodik, Forschungsethik und Gütekriterien qualitativer Forschung) bearbeiten die Studierenden ihre Forschungsthemen. Dies erfolgt in der Online-Lehre in digitalen Räumen in MS-Teams.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Ziele des Moduls sind die Umsetzung des erarbeiteten Forschungsdesigns im Forschungsfeld sowie die Auswertung der erhobenen Daten in Form einer Hausarbeit. Wir können sehr gespannt auf die Ergebnisse sein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Prof. Dr. Antje Schubert",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/forschungsprojekte-in-der-lehre-wie-erleben-studierende-der-ib-hochschule-fuer-gesundheit-und-soziales-ihre-rolle-als-student-in-in-der-corona-krise/image_01.jpg",
+    "alt": "Research projects in teaching"
+  },
+  "gallery": [],
+  "publishDate": "2020-06-09T09:00:00.000Z",
+  "status": "published"
+}

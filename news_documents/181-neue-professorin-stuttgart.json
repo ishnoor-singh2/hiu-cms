@@ -1,0 +1,85 @@
+{
+  "_type": "news",
+  "_id": "news.neue-professorin-stuttgart-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "neue-professorin-und-dekanin-an-der-ib-hochschule-in-stuttgart"
+  },
+  "title": {
+    "en": "New Professor and Dean of Studies strengthen the IB Hochschule team in Stuttgart",
+    "de": "Neue Professorin und Studiendekanin stärken das Team der IB Hochschule in Stuttgart"
+  },
+  "summary": {
+    "en": "IB Hochschule welcomes the appointment of Dr. Sarah Kern as Professor at the Stuttgart study centre and Prof. Dr. Regine Mößle as new Dean of Studies, succeeding Prof. Schäberle.",
+    "de": "Die IB Hochschule begrüßt die Ernennung von Dr. Sarah Kern zur Professorin am Studienzentrum Stuttgart und Prof. Dr. Regine Mößle als neue Studiendekanin als Nachfolgerin von Prof. Schäberle."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales joyfully welcomes the appointment of Dr. Sarah Kern as Professor at the Stuttgart study centre. Since 1 December 2023, she has held the title of Professor of Applied Psychology with a focus on Work and Organisational Psychology. IB Hochschule wishes Prof. Kern much success; she will greatly enrich the psychology team.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "At the same time, Prof. Dr. Regine Mößle takes over the role of Dean of Studies at the Stuttgart study centre, previously led by Prof. Schäberle since 2018. As of 1 January 2024, Prof. Mößle has assumed the responsibility as Dean of Studies. The university warmly thanks Prof. Schäberle for his dedicated work and valuable contributions at the Stuttgart study centre. These changes are a significant step in the development of the university and promise a successful future in the field of applied psychology and for the Stuttgart study centre.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales begrüßt mit Freude die Ernennung von Dr. Sarah Kern zur Professorin am Studienzentrum Stuttgart. Seit dem 1. Dezember 2023 trägt sie den Titel Professorin für Angewandte Psychologie und setzt ihren Fokus auf Arbeits- und Organisationspsychologie. Die IB Hochschule wünscht Prof. Kern viel Erfolg, sie wird das Team der Psychologie sehr bereichern.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Gleichzeitig übernimmt Prof. Dr. Regine Mößle das Amt der Studiendekanin am Studienzentrum Stuttgart, das zuvor von Prof. Schäberle seit 2018 geleitet wurde. Seit dem 1. Januar 2024 hat Frau Prof. Mößle die Verantwortung als Studiendekanin übernommen. Die Hochschule dankt Prof. Schäberle herzlich für sein engagiertes Wirken und seine wertvollen Beiträge am Studienzentrum Stuttgart. Diese Veränderungen sind ein bedeutender Schritt in der Entwicklung der Hochschule und versprechen eine erfolgreiche Zukunft im Bereich der angewandten Psychologie und für das Studienzentrum Stuttgart.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/neue-professorin-und-dekanin-an-der-ib-hochschule-in-stuttgart/image_01.jpg",
+    "alt": "Neue Professorin und Dekanin stärken das Team an der IB Hochschule in Stuttgart"
+  },
+  "gallery": [],
+  "publishDate": "2024-01-15T09:00:00.000Z",
+  "status": "published"
+}

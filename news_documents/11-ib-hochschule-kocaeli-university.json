@@ -1,0 +1,134 @@
+{
+  "_type": "news",
+  "_id": "news.ib-hochschule-und-kocaeli-university-unterzeichnen-kooperation",
+  "slug": {
+    "_type": "slug",
+    "current": "ib-hochschule-und-kocaeli-university-unterzeichnen-kooperation"
+  },
+  "title": {
+    "en": "IB Hochschule and Kocaeli University sign cooperation agreement",
+    "de": "IB Hochschule und Kocaeli University unterzeichnen Kooperation"
+  },
+  "summary": {
+    "en": "On 30 October 2025 Prof. Dr. Mariam Hartinger and Prof. Dr. Muzaffer Elmas signed a Memorandum of Understanding in Berlin, establishing a close academic partnership between IB Hochschule and Kocaeli University of Health and Technology (KOSTÜ).",
+    "de": "Am 30. Oktober 2025 unterzeichneten Prof. Dr. Mariam Hartinger und Prof. Dr. Muzaffer Elmas in Berlin ein Memorandum of Understanding (MoU) und begründeten damit eine enge akademische Partnerschaft zwischen der IB Hochschule und der Kocaeli University of Health and Technology (KOSTÜ)."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 30 October 2025, Prof. Dr. Mariam Hartinger, President of IB Hochschule für Gesundheit und Soziales, and Prof. Dr. Muzaffer Elmas, President of Kocaeli University of Health and Technology (KOSTÜ), signed a Memorandum of Understanding (MoU) in Berlin. The agreement establishes a close academic partnership intended to promote exchange in teaching, research and study programmes. Özcan Mutlu, former member of the German Bundestag, also attended the ceremonial signing and acknowledged the importance of international cooperation for education and science.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "After a warm welcome, the guests from Turkey were given a comprehensive tour of IB Hochschule, including the new university building. Afterwards they visited the campus all the way to BG Klinikum Unfallkrankenhaus Berlin, where among other things the trauma room and the helicopter landing pad were viewed. The impressions underlined the close connection between academic teaching and practical healthcare that both institutions want to strengthen together.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "With this agreement, IB Hochschule and Kocaeli University send a strong signal for international cooperation, knowledge transfer and the promotion of international exchange in health and social services.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 30. Oktober 2025 unterzeichneten Prof. Dr. Mariam Hartinger, Präsidentin der IB Hochschule für Gesundheit und Soziales, und Prof. Dr. Muzaffer Elmas, Präsident der Kocaeli University of Health and Technology (KOSTÜ), in Berlin ein Memorandum of Understanding (MoU). Mit der Vereinbarung wird eine enge akademische Partnerschaft begründet, die den Austausch in Lehre, Forschung und Studienprogrammen fördern soll. Auch Özcan Mutlu, ehemaliges Mitglied des Deutschen Bundestages, nahm an der feierlichen Unterzeichnung teil und würdigte die Bedeutung internationaler Kooperationen für Bildung und Wissenschaft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Nach einem herzlichen Empfang erhielten die Gäste aus der Türkei eine umfassende Führung durch die IB Hochschule, einschließlich des neuen Hochschulgebäudes. Im Anschluss besuchten sie den Campus bis hin zum BG Klinikum Unfallkrankenhaus Berlin, wo unter anderem der Schockraum und der Helikopterlandeplatz besichtigt wurden. Die Eindrücke unterstrichen die enge Verbindung zwischen akademischer Lehre und praktischer Gesundheitsversorgung, die beide Institutionen gemeinsam stärken möchten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Mit diesem Abkommen setzen die IB Hochschule und die Kocaeli University ein starkes Zeichen für eine internationale Zusammenarbeit, Wissenstransfer und die Förderung des internationalen Austauschs im Gesundheits- und Sozialwesen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/ib-hochschule-und-kocaeli-university-unterzeichnen-kooperation/image_01.jpg",
+    "alt": "Kocaeli University and IB University signing cooperation"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/ib-hochschule-und-kocaeli-university-unterzeichnen-kooperation/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/ib-hochschule-und-kocaeli-university-unterzeichnen-kooperation/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/ib-hochschule-und-kocaeli-university-unterzeichnen-kooperation/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/ib-hochschule-und-kocaeli-university-unterzeichnen-kooperation/image_05.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-10-30T09:00:00.000Z",
+  "status": "published"
+}

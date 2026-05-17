@@ -1,0 +1,225 @@
+{
+  "_type": "news",
+  "_id": "news.ifk-tag-der-wissenschaft-2021",
+  "slug": {
+    "_type": "slug",
+    "current": "die-ib-hochschule-berichtet-vom-17-ifk-tag-der-wissenschaft"
+  },
+  "title": {
+    "en": "IB Hochschule reports from the 17th IFK Science Day",
+    "de": "Die IB Hochschule berichtet vom 17. IFK-Tag der Wissenschaft"
+  },
+  "summary": {
+    "en": "The symposium was filled with exciting and interesting talks by specialist experts. This year everything revolved around the foot, under the title \"Going well?\". IB Hochschule was represented with two talks and a prize-winning student poster.",
+    "de": "Das Symposium war mit spannenden Fachvorträgen gefüllt. In diesem Jahr drehte sich alles rund um den Fuß unter dem Motto „Geht's gut?\". Die IB Hochschule war mit zwei Vorträgen vertreten und eine Studentin gewann den Preis für das beste Poster."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The symposium was filled with exciting and interesting talks by specialist experts. This year everything revolved around the topic of the foot, under the title of the event: \"Going well?\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In addition to physiotherapy talks from orthopaedics and surgery, IB Hochschule für Gesundheit und Soziales was also there with two talks by Prof. Dr. Lexy and Prof. Dr. Klenk. Prof. Klenk spoke on \"Activity analysis in older people using artificial intelligence\" and Prof. Lexy on \"Foot and fascia\". IB Hochschule sincerely thanks the participants of this symposium.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We are particularly delighted with prize winner Anja Padel, student of Health Education and Educational Management (M.A.) at IB Hochschule. She won first prize in the category of best poster of her Master's thesis and was honoured on this day. The topic of her work is: \"Introduction of Direct Access in Germany – developments and challenges in physiotherapeutic programmes\". IB Hochschule warmly congratulates her and wishes her all the best on her way!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The IFK Science Day",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The IFK Science Day has been held annually since 2005, and each year final theses from physiotherapy programmes or thematically related topics are honoured. This year, the event was held in cooperation with IB Hochschule für Gesundheit und Soziales. With Science Day, IFK promotes the scientific foundation of physiotherapy in order to advance the academisation of the profession.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Apart from the specialist talks, the IFK Science Prize is awarded every year. For this prize, Bachelor's and Master's theses no older than 2 years that deal with a topic from physiotherapy can be submitted each year.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "More information about the IFK Science Day is available here.\nImage: Copyright \"IFK/Georg J. Lopata\"",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das Symposium wurde durch spannende und interessante Vorträge durch Fachexpert*innen befüllt und in diesem Jahr drehte sich alles um das Thema Fuß mit dem Titel der Veranstaltung: „Geht's gut?\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Neben Vorträgen aus der Physiotherapie aus Orthopädie und Chirurgie war auch die IB Hochschule für Gesundheit und Soziales mit zwei Vorträgen von Prof. Dr. Lexy und Prof. Dr. Klenk dabei. Prof. Klenk referierte zum Thema „Aktivitätsanalyse bei älteren Menschen mithilfe künstlicher Intelligenz\" und Prof. Lexy zum Thema „Fuß und Faszien\". Die IB Hochschule bedankt sich recht herzlich für die Teilnahme an diesem Symposium.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ganz besonders freuen wir uns auch über die Preisgewinnerin Anja Padel, Studentin der Gesundheitspädagogik und Bildungsmanagement (M.A.) an der IB Hochschule. Sie hat in der Kategorie bestes Plakat ihrer Masterarbeit den ersten Preis gewonnen und wurde ebenfalls an diesem Tag ausgezeichnet. Thema ihrer Arbeit ist: „Einführung des Direct Access in Deutschland – Entwicklungen und Herausforderungen in physiotherapeutischen Studiengängen\". Die IB Hochschule gratuliert ihr ganz herzlich und wünscht ihr alles Gute für ihren weiteren Weg!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Der IFK-Tag der Wissenschaft",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Der IFK-Tag der Wissenschaft wird seit 2005 jährlich veranstaltet und es werden jedes Jahr Abschlussarbeiten aus den Studiengängen der Physiotherapie oder thematisch verwandten Themen ausgezeichnet. In diesem Jahr fand die Veranstaltung in einer Kooperation mit der IB Hochschule für Gesundheit und Soziales statt. Mit dem Wissenschaftstag fördert der IFK die wissenschaftliche Fundierung der Physiotherapie, um die Akademisierung des Berufsstands voranzubringen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Neben den fachlichen Vorträgen wird jedes Jahr der IFK-Wissenschaftspreis verliehen. Für diesen Preis können jedes Jahr Bachelor- und Masterarbeiten eingereicht werden, die nicht älter als 2 Jahre sind und sich inhaltlich mit einem Thema aus der Physiotherapie befassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Mehr Informationen zum IFK-Tag der Wissenschaft finden Sie hier.\nBild: Copyright „IFK/Georg J. Lopata\"",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-ib-hochschule-berichtet-vom-17-ifk-tag-der-wissenschaft/image_01.jpg",
+    "alt": "17th IFK Science Day"
+  },
+  "gallery": [],
+  "publishDate": "2021-06-30T09:00:00.000Z",
+  "status": "published"
+}

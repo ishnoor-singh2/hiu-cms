@@ -1,0 +1,309 @@
+{
+  "_type": "news",
+  "_id": "news.ringvorlesungen-fuer-das-sommersemester-2022",
+  "slug": {
+    "_type": "slug",
+    "current": "ringvorlesungen-fuer-das-sommersemester-2022"
+  },
+  "title": {
+    "en": "Ring lectures for summer semester 2022",
+    "de": "Ringvorlesungen für das Sommersemester 2022"
+  },
+  "summary": {
+    "en": "Get ready: our outstanding programme of ring lectures for summer semester 2022, including talks on skeptical thinking, epistemology, the replication crisis in psychology and study designs.",
+    "de": "Aufgepasst: Unser großartiges Programm an Ringvorlesungen für das Sommersemester 2022 – mit Vorträgen zu skeptischem Denken, Erkenntnistheorie, der Replikationskrise in der Psychologie und Studiendesigns."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Heads up: our great programme of ring lectures for summer semester 2022.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "18 May 2022 – 6 p.m.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Of sock-eating monsters and clairvoyant phone pests. An introduction to skeptical thinking.\nSpeaker: Prof. Dr. Christoph Bördlein, University of Applied Sciences Würzburg-Schweinfurt",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "22 June 2022 – 6 p.m.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Epistemology as a change of perspective – an attempt at orientation.\nSpeaker: Prof. Dr. Thomas Philipp, IB Hochschule für Gesundheit und Soziales",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "13 July 2022 – 6 p.m.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Psychological research practice under scrutiny: the replication crisis and p-hacking.\nSpeaker: Maja Neidhart (B.A.), IB Hochschule für Gesundheit und Soziales",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "27 July 2022 – 6 p.m.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Double-blind, placebo-controlled and randomised study designs using the example of antidepressant medication trials – good practice, poor practice.\nSpeaker: Sahid El Masri (M.Sc.), IB Hochschule für Gesundheit und Soziales",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "The event takes place online: https://global.gotomeeting.com/join/231759989\nAll information to download or forward can be found here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Aufgepasst: Unser großartiges Programm an Ringvorlesungen für das Sommersemester 2022.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "18. Mai 2022 – 18 Uhr",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Von sockenfressenden Monstern und hellseherischen Telefonterroristen. Eine Einführung ins skeptische Denken.\nReferent: Prof. Dr. Christoph Bördlein, Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "22. Juni 2022 – 18 Uhr",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Erkenntnistheorie als Perspektivenwechsel – ein Orientierungsversuch.\nReferent: Prof. Dr. Thomas Philipp, IB Hochschule für Gesundheit und Soziales",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "13. Juli 2022 – 18 Uhr",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Psychologische Forschungspraxis auf dem Prüfstand: Replikationskrise und P-Hacking.\nReferentin: Maja Neidhart (B.A.), IB Hochschule für Gesundheit und Soziales",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "27. Juli 2022 – 18 Uhr",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Doppelverblindete, placebokontrollierte und randomisierte Studiendesigns am Beispiel von Antidepressiva-Medikamentenstudien – Good practice, poor practice.\nReferent: Sahid El Masri (M.Sc.), IB Hochschule für Gesundheit und Soziales",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Die Veranstaltung findet online statt: https://global.gotomeeting.com/join/231759989\nAlle Informationen zum Nachlesen oder Versenden finden Sie hier.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/ringvorlesungen-fuer-das-sommersemester-2022/image_01.jpg",
+    "alt": "Ring lectures summer semester 2022"
+  },
+  "gallery": [],
+  "publishDate": "2022-05-17T09:00:00.000Z",
+  "status": "published"
+}

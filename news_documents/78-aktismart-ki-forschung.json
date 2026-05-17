@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.aktismart-ki-forschungsprojekt",
+  "slug": {
+    "_type": "slug",
+    "current": "neues-forschungsprojekt-aktismart-ki-der-ib-hochschule"
+  },
+  "title": {
+    "en": "New research project AktiSmart-KI at IB Hochschule",
+    "de": "Neues Forschungsprojekt AktiSmart-KI der IB Hochschule"
+  },
+  "summary": {
+    "en": "The research project aims to gain the latest insights in the field of E-Health and serves to identify complex activity patterns through smart sensor technology in geriatric rehabilitation. It is a joint project of the University of Ulm, Robert-Bosch-Krankenhaus Stuttgart and IB Hochschule Berlin.",
+    "de": "Das Forschungsprojekt zielt darauf ab, im Bereich E-Health neue Erkenntnisse zu gewinnen, und dient der Identifikation komplexer Aktivitätsmuster durch smarte Sensorik in der Geriatrischen Rehabilitation. Es ist ein Verbundprojekt der Universität Ulm, des Robert-Bosch-Krankenhauses Stuttgart und der IB Hochschule Berlin."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The research project aims to gain the latest insights in the field of E-Health and serves to identify complex activity patterns through smart sensor technology in geriatric rehabilitation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Especially given Germany's demographic development, the research topic is essential and can deliver groundbreaking results. The project is a joint project of the University of Ulm, Robert-Bosch-Krankenhaus Stuttgart and IB Hochschule Berlin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "It is funded by the Federal Ministry of Health. The idea arose from a funding call on \"smart sensor technology\" for digital innovations to improve patient-centred care in healthcare by the Federal Ministry. The main goal of this project is the low-threshold use of activity sensors worn on the body in geriatric rehabilitation, so that an automated analysis of movement patterns can take place.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "An interdisciplinary team of computer scientists, doctors, lawyers, psychologists and ethicists will work on three sub-goals. First, the technology for learning on body-worn sensors will be developed. Since the sensors are developed for clinical use, legal and ethical framework conditions must be observed. Aspects of data protection as well as ethical and legal considerations play a significant role.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "After the preparatory steps, the third sub-goal will be achieved: testing under real conditions in clinical use. IB Hochschule's task is to examine the data protection legal aspects in more detail and to create a solid and legally secure foundation for the project.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The project has been approved for the period from 01.04.2020 to 30.09.2022. Project lead at IB Hochschule is Prof. Dr. Alexandra Jorzig.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das Forschungsprojekt hat zum Ziel, auf dem Gebiet von E-Health neuste Erkenntnisse zu gewinnen und dient der Identifikation von komplexen Aktivitätsmustern durch smarte Sensorik in der Geriatrischen Rehabilitation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Gerade im Hinblick auf die demografische Entwicklung Deutschlands ist das Forschungsthema unverzichtbar und kann bahnbrechende Ergebnisse liefern. Bei dem Projekt handelt es sich um ein gemeinsames Verbundsprojekt der Universität Ulm, des Robert-Bosch-Krankenhauses Stuttgart und der IB Hochschule Berlin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Gefördert wird es vom Bundesministerium für Gesundheit. Die Idee entstand aufgrund eines Förderaufrufs zu „Smarte Sensorik\" zu digitalen Innovationen für die Verbesserung der patientenzentrierten Versorgung im Gesundheitswesen durch das Bundesministerium. Hauptziel dieses Projekts ist der niederschwellige Einsatz von am Körper getragenen Aktivitätssensoren in der geriatrischen Rehabilitation, sodass eine automatisierte Analyse von Bewegungsmustern erfolgen kann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Hierfür sollen in einem interdisziplinären Team aus Informatikern, Medizinern, Juristen, Psychologen und Ethikern drei Teilziele bearbeitet werden. Zunächst soll die Technologie zum Lernen auf von am Körper getragenen Sensoren entwickelt werden. Da die Sensoren für den klinischen Einsatz entwickelt werden, müssen rechtliche und ethische Rahmenbedingungen eingehalten werden. Dabei spielen vor allem Aspekte des Datenschutzes sowie ethische und rechtliche Gesichtspunkte eine gewichtige Rolle.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Im Anschluss an die vorbereitenden Schritte soll das dritte Teilziel erreicht werden: die Erprobung unter Realbedingungen im klinischen Einsatz. Aufgabe der IB-Hochschule ist es, die datenschutzrechtliche Seite näher zu durchleuchten und ein solides und rechtssicheres Fundament für das Vorhaben zu schaffen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Das Projekt wurde für den Zeitraum vom 01.04.2020 bis 30.09.2022 bewilligt. Projektverantwortliche der IB Hochschule ist Prof. Dr. Alexandra Jorzig.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/neues-forschungsprojekt-aktismart-ki-der-ib-hochschule/image_01.jpg",
+    "alt": "Research project AktiSmart-KI"
+  },
+  "gallery": [],
+  "publishDate": "2020-08-31T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,180 @@
+{
+  "_type": "news",
+  "_id": "news.infotag-psychologie-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "infotag-psychologie"
+  },
+  "title": {
+    "en": "Great interest at the Psychology Info Day – a complete success!",
+    "de": "Großes Interesse beim Infotag Psychologie – ein voller Erfolg!"
+  },
+  "summary": {
+    "en": "On Saturday 28 June 2025 our team was on site at the Psychology Studies Info Day at the Henry Ford Building of FU Berlin – and we are delighted! Many prospective students used the chance to inform themselves intensively about studying psychology.",
+    "de": "Am Samstag, den 28. Juni 2025, war unser Team beim Infotag Psychologiestudium im Henry-Ford-Bau der FU Berlin vor Ort – und wir sind begeistert! Zahlreiche Studieninteressierte nutzten die Gelegenheit, sich intensiv über das Psychologiestudium zu informieren."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On Saturday 28 June 2025 our team was at the Psychology Studies Info Day at the Henry Ford Building of Freie Universität Berlin – and we are delighted! The day was a complete success: numerous prospective students used the chance to inform themselves intensively about the Psychology programme and ask individual questions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We are very pleased that we could accompany so many young people on their way to the right programme. Deciding for a programme is an important course-setting – all the better when we can support with well-founded advice and authentic insights.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We are particularly proud that we offer programmes that prepare students for the demands of the diverse professional field of psychology. Because one thing is clear: the demand for well-trained psychologists is high – in counselling, business, education and many other areas, qualified professionals are urgently sought.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "At our stand, our study adviser Myrto together with Alisa from the Psychology team answered questions – whether on application modalities, study contents or career paths. Feedback was consistently positive.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "We thank all visitors for their interest and look forward to the next opportunity to come into conversation – and perhaps to see some faces again soon in studies at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am vergangenen Samstag, den 28. Juni 2025, war unser Team beim Infotag Psychologiestudium im Henry-Ford-Bau der Freien Universität Berlin vor Ort – und wir sind begeistert! Der Tag war ein voller Erfolg: Zahlreiche Studieninteressierte nutzten die Gelegenheit, sich intensiv über das Psychologiestudium zu informieren und individuelle Fragen zu stellen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wir freuen uns sehr, dass wir so viele junge Menschen auf ihrem Weg zum passenden Studiengang begleiten durften. Die Entscheidung für ein Studium ist eine wichtige Weichenstellung – umso schöner, wenn wir mit fundierter Beratung und authentischen Einblicken unterstützen können.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Besonders stolz sind wir darauf, dass wir Studiengänge anbieten, die exakt auf die Anforderungen im vielfältigen Berufsfeld der Psychologie vorbereiten. Denn eines ist klar: Die Nachfrage nach gut ausgebildeten Psycholog*innen ist hoch – in der Beratung, Wirtschaft, Pädagogik und vielen anderen Bereichen wird dringend qualifiziertes Fachpersonal gesucht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "An unserem Stand standen unsere Studienberaterin Myrto zusammen mit Alisa aus dem Psychologie Team Rede und Antwort – ob zu Bewerbungsmodalitäten, Studieninhalten oder Karrierewegen. Die Rückmeldungen waren durchweg positiv.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Wir danken allen Besucher*innen für ihr Interesse und freuen uns schon jetzt auf die nächste Gelegenheit, ins Gespräch zu kommen – und vielleicht schon bald einige Gesichter im Studium an der IB Hochschule wiederzusehen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/infotag-psychologie/image_01.jpg",
+    "alt": "Info Day Psychology"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/infotag-psychologie/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/infotag-psychologie/image_03.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-07-03T09:00:00.000Z",
+  "status": "published"
+}

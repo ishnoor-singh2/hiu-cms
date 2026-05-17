@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.kfw-senkt-zinssatz-2020",
+  "slug": {
+    "_type": "slug",
+    "current": "die-kfw-senkt-den-zinssatz-bis-zum-31032021-auf-0"
+  },
+  "title": {
+    "en": "KfW lowers the interest rate to 0% until 31.03.2021",
+    "de": "Die KfW senkt den Zinssatz bis zum 31.03.2021 auf 0%"
+  },
+  "summary": {
+    "en": "Especially during the corona pandemic, students have been affected by job losses. KfW is lowering its student loan interest rate to 0%, with the costs covered by the Federal Ministry of Education and Research.",
+    "de": "Besonders während der Coronapandemie sind Studierende von Jobverlusten betroffen. Die KfW senkt den Zinssatz für den Studienkredit auf 0%, die Kosten dafür übernimmt das Bundesbildungsministerium."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Students in particular have been affected by job losses during the corona pandemic. How to deal with this financial hardship was unclear for some time. Possible options included extending BAföG, but a different solution has now been reached: KfW is lowering the interest rate for the student loan to 0%, and the Federal Ministry of Education is covering the costs.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Who benefits from the new interest rate?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The 0% interest rate applies from 01.05.2020 to all those in the so-called disbursement phase. So those among the students who currently receive the student loan because, for example, income from a part-time job has fallen away. International students should also have access to the student loan. For all those already in the repayment phase or in the grace period, this interest rate does not apply; they pay the normal interest rate.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Where can I get more information?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The 0% interest rate is valid until 31.03.2021. For this period, the Federal Ministry of Education and Research will cover the costs. From 01.04.2021, the regular interest rate, which is fixed for 6 months at a time, will apply again. The student loan can be claimed up to a maximum of €650 per month, with an age limit of 44 years. Anyone who wants to find out more can find all information about the student loan very clearly listed here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Besonders Studierende sind in der Coronapandemie-Zeit von Jobverlusten betroffen. Wie mit dieser finanziellen Not umzugehen ist, darüber gab es bis dato keine Einigkeit. Im Gespräch waren unter anderem eine Ausweitung des BaföG, nun kam man aber zu einer anderen Lösung: Die KfW senkt den Zinssatz für den Studienkredit auf 0%, das Bundesbildungsministerium übernimmt dafür die Kosten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wer profitiert vom neuen Zinssatz?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Der Zinssatz von 0% gilt ab dem 01.05.2020 für alle, die sich in der sogenannten Auszahlungsphase befinden. Also diejenigen unter den Studierenden, die aktuell den Studienkredit erhalten, weil zum Beispiel Einkünfte aus dem Nebenjob wegfallen. Und auch für ausländische Studierende soll der Studienkredit nun zugänglich sein. Für alle, die sich bereits in der Rückzahlungsphase befinden oder in der Karenzzeit, gilt dieser Zinssatz nicht, sie zahlen den normalen Zinssatz.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wo erhalte ich mehr Informationen?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Der 0 % Zinssatz gilt bis zum 31.03.2021. Für diese Zeit übernimmt das Bundesministerium für Bildung und Forschung die Kosten. Ab dem 01.04.2021 gilt dann wieder der reguläre Zinssatz, der jeweils für 6 Monate festgelegt wird. Der Studienkredit kann bis zu einer Höhe von 650 € pro Monat in Anspruch genommen werden und es gilt eine Altersgrenze von 44 Jahren. Wer sich mehr informieren möchte, bekommt hier alle Informationen zum Studienkredit in sehr übersichtlicher Form aufgelistet.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-kfw-senkt-den-zinssatz-bis-zum-31032021-auf-0/image_01.jpg",
+    "alt": "KfW lowers interest rate"
+  },
+  "gallery": [],
+  "publishDate": "2020-08-21T09:00:00.000Z",
+  "status": "published"
+}

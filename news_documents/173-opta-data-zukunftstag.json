@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.opta-data-zukunftstag-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "9-opta-data-zukunftstag"
+  },
+  "title": {
+    "en": "9th opta data Future Day: experts discuss the future of the healthcare industry",
+    "de": "9. opta data Zukunftstag: Expert*innen diskutieren die Zukunft der Gesundheitsbranche"
+  },
+  "summary": {
+    "en": "On 07.03.2024 leading experts of healthcare professions gathered at the 9th opta data Future Day to illuminate the future of the healthcare industry and exchange innovative ideas.",
+    "de": "Am 07.03.2024 versammelten sich führende Expert*innen der Gesundheitsfachberufe zum 9. opta data Zukunftstag, um die Zukunft der Gesundheitsbranche zu beleuchten und innovative Ideen auszutauschen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 07.03.2024 leading experts of healthcare professions gathered at the 9th opta data Future Day to illuminate the future of the healthcare industry and exchange innovative ideas. The day offered fascinating keynotes by renowned speakers and gave insights into current developments in the industry.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The Future Day was all about the transformation of healthcare professions towards a new mindset. Impressive practical examples and stimulating expert discussions from nursing and emergency services through telematics, Artificial Intelligence and Cyber Security to Mental Health demonstrated the broad spectrum of the future requirements.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Dr. Winfried Graf joined as IB Hochschule, as cooperation partner of opta data ZukunftsStiftung. In the Digital Health Bachelor and Master programmes starting in summer semester, we qualify the competence carriers of the future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The 9th opta data Future Day brought together highly motivated people who jointly want to advance healthcare of tomorrow. A panel discussion with Prof. Dr. Thomas Druyen, Samuel Koch, Christine Vogler, Mark Steinbach and Andreas Fischer was a highlight of the event and illuminated the future of care from different perspectives.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The event was a complete success and we warmly thank the opta data ZukunftsStiftung, who invited us!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 07.03.2024 versammelten sich führende Expert*innen der Gesundheitsfachberufe zum 9. opta data Zukunftstag, um die Zukunft der Gesundheitsbranche zu beleuchten und innovative Ideen auszutauschen. Der Tag bot faszinierende Keynotes von renommierten Speakern und gewährte Einblicke in aktuelle Entwicklungen der Branche.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Der Zukunftstag stand ganz im Zeichen der Transformation der Gesundheitsfachberufe hin zu einem neuen Mindset. Beeindruckende Praxisbeispiele und anregende Expertengespräche aus der Pflege und dem Rettungswesen über Telematik, Künstliche Intelligenz und Cyber Security bis hin zu Mental Health haben das breite Spektrum der künftigen Anforderungen demonstriert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Mit Dr. Winfried Graf war die IB Hochschule als Kooperationspartner der opta data Zukunfts-Stiftung mit dabei. In den zum Sommersemester startenden Studiengängen Digital Health Bachelor und Master qualifizieren wir die Kompetenzträger der Zukunft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Der 9. opta data Zukunftstag brachte hochmotivierte Menschen zusammen, die gemeinsam die Gesundheitsversorgung von morgen vorantreiben wollen. Eine Podiumsdiskussion mit Prof. Dr. Thomas Druyen, Samuel Koch, Christine Vogler, Mark Steinbach und Andreas Fischer war ein Höhepunkt der Veranstaltung und beleuchtete die Zukunft der Pflege aus unterschiedlichen Perspektiven.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Veranstaltung war ein voller Erfolg und wir bedanken uns herzlich bei der opta data Zukunfts-Stiftung, die uns dazu eingeladen hatte!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/9-opta-data-zukunftstag/image_01.jpg",
+    "alt": "opta data Zukunftstag"
+  },
+  "gallery": [],
+  "publishDate": "2024-03-18T09:00:00.000Z",
+  "status": "published"
+}

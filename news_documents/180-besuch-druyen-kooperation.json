@@ -1,0 +1,225 @@
+{
+  "_type": "news",
+  "_id": "news.besuch-druyen-kooperation-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "besuch-ib-hochschule-und-opta-data-zukunftsstiftung"
+  },
+  "title": {
+    "en": "Visit of Prof. Dr. Thomas Druyen for the start of the cooperation between IB Hochschule and the opta data ZukunftsStiftung",
+    "de": "Besuch von Prof. Dr. Thomas Druyen zum Start der Kooperation zwischen der IB Hochschule und der opta data ZukunftsStiftung"
+  },
+  "summary": {
+    "en": "On 15 and 16 January 2024, IB Hochschule welcomed Prof. Dr. Thomas Druyen, President and Managing Director of the opta data ZukunftsStiftung, for a special visit as part of the kick-off of their new cooperation.",
+    "de": "Am 15. und 16. Januar 2024 begrüßte die IB Hochschule Prof. Dr. Thomas Druyen, Präsident und Geschäftsführer der opta data ZukunftsStiftung, im Rahmen des Auftakts zu ihrer neuen Kooperation zu einem besonderen Besuch."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 15 and 16 January, IB Hochschule für Gesundheit und Soziales welcomed Prof. Dr. Thomas Druyen, President and Managing Director of the opta data ZukunftsStiftung, for a special visit. As part of the kick-off of their new cooperation, Prof. Dr. Druyen had the opportunity to get to know the IB Hochschule team over a joint lunch and brainstorm together about the future direction of the collaboration.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "One of the thematic focal points of the visit was the exchange with the entire Digital Health team and Marcus Beck, Managing Director of e.health.Business as a representative of practice. Together, the personnel situation in clinics was examined, alongside the need to qualify staff to operate digital tools and devices such as surgical robots.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The opta data ZukunftsStiftung is engaged in a wide variety of areas to advance innovations and support trailblazing projects. Its cooperation with IB Hochschule aims to strengthen the standing of the system-relevant academic healthcare professions and to advance digitalisation in this sector.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The planned kick-off event of this promising cooperation will take place on 14 February at the BG Klinikum Unfallkrankenhaus Berlin (ukb) and will be accessible both in person and digitally. The event offers the opportunity to learn about the new practice-oriented Digital Health programmes (B.Sc. and M.Sc.) developed in cooperation with ukb.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Interested parties have the chance to register free of charge for the kick-off event until 13 February 2024 at marketing@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Wednesday, 14 February 2024, 10:00 – 12:00",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "BG Klinikum Unfallkrankenhaus Berlin, Room S0.70 in Haus S, Reha-Klinik, Warener Str. 7, 12683 Berlin",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 15. und 16. Januar begrüßte die IB Hochschule für Gesundheit und Soziales Prof. Dr. Thomas Druyen, Präsident und Geschäftsführer der opta data ZukunftsStiftung, zu einem besonderen Besuch. Im Rahmen des Auftakts zu ihrer neuen Kooperation erhielt Prof. Dr. Druyen die Gelegenheit, das Team der IB Hochschule bei einem gemeinsamen Lunch kennenzulernen und gemeinsam über die zukünftige Ausrichtung der Zusammenarbeit zu brainstormen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Einer der thematischen Schwerpunkte des Besuchs bildete der Austausch mit dem gesamten Team Digital Health und Marcus Beck, Geschäftsführer von e.health.Business, als Vertreter der Praxis. Gemeinsam wurde die Personalsituation in Kliniken beleuchtet und andererseits die Notwendigkeit, das Personal zu qualifizieren, um digitale Tools und Geräte wie z.B. OP-Roboter bedienen zu können.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die opta data ZukunftsStiftung engagiert sich in verschiedensten Bereichen, um Innovationen voranzutreiben und zukunftsweisende Projekte zu unterstützen. Ihre Kooperation mit der IB Hochschule zielt darauf ab, das Ansehen der systemrelevanten, akademischen Gesundheitsfachberufe zu stärken und die Digitalisierung in diesem Sektor voranzutreiben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die geplante Auftaktveranstaltung dieser vielversprechenden Kooperation findet am 14. Februar im BG Klinikum Unfallkrankenhaus Berlin (ukb) statt und wird sowohl in Präsenz als auch digital zugänglich sein. Die Veranstaltung bietet die Möglichkeit, sich über die neuen praxisorientierten Studiengänge Digital Health (B.Sc. und M.Sc.) zu informieren, die in Zusammenarbeit mit dem ukb entwickelt wurden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Interessierte haben die Chance, sich bis zum 13. Februar 2024 unter marketing@hi-university.de kostenfrei für die Auftaktveranstaltung anzumelden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Mittwoch, 14. Februar 2024, 10:00 – 12:00 Uhr",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "BG Klinikum Unfallkrankenhaus Berlin, Raum S0.70 im Haus S, Reha-Klinik, Warener Str. 7, 12683 Berlin",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/besuch-ib-hochschule-und-opta-data-zukunftsstiftung/image_01.jpg",
+    "alt": "Druyen and Hartinger cooperation"
+  },
+  "gallery": [],
+  "publishDate": "2024-01-19T09:00:00.000Z",
+  "status": "published"
+}

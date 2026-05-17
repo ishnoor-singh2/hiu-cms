@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.infoabend-paedagogisches-propaedeutikum",
+  "slug": {
+    "_type": "slug",
+    "current": "einladung-zum-infoabend-paedagogisches-propaedeutikum"
+  },
+  "title": {
+    "en": "Invitation to the info evening: Pedagogical preparatory programme",
+    "de": "Einladung zum Infoabend: Pädagogisches Propädeutikum"
+  },
+  "summary": {
+    "en": "IB Hochschule offers a Pedagogical Preparatory Programme in summer semester 2020 – a part-time supplementary 30-ECTS Bachelor-level programme meeting the legal requirements for teaching qualification in health and therapy professions.",
+    "de": "Die IB Hochschule bietet zum Sommersemester 2020 das Pädagogische Propädeutikum an – ein berufsbegleitendes Ergänzungsstudium von 30 ECTS auf Bachelorlevel, das den gesetzlichen Anforderungen für die pädagogische Befähigung in Gesundheits- und Therapiefachberufen entspricht."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales offers the Pedagogical Preparatory Programme for summer semester 2020. This is a part-time supplementary programme worth 30 ECTS points at Bachelor level, which in terms of content corresponds to the legal requirements for the pedagogical qualification to teach in health and therapy professions in Berlin, in combination with the Master's programme \"Health Education and Educational Management\" (recognition by LAGESO Berlin of 16.05.2019 and LAVG Brandenburg of 05.07.2919). After an individual review of the legal framework of other federal states, it can equally apply to the respective local health and therapy professions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "A start in Berlin will take place in summer semester 2020 once a minimum number of registrations has been reached.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "At the Berlin Study Centre, the head of the Health Education and Educational Management programme, Prof. Dr. Thomas Philipp, is available to answer questions about content and procedure of the Pedagogical Preparatory Programme at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Please register by 28.02.2020 by phone or email.\nEmail: thomas.philipp@hi-university.de\nPhone: 030 - 2593092-20",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Your IB Hochschule für Gesundheit und Soziales\nInfo evening on: 03.03.2020\nTime: 17:00\nLocation: Berlin Study Centre, IB Hochschule für Gesundheit und Soziales, Gerichtstr. 27, 13347 Berlin",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales bietet zum Sommersemester 2020 das Pädagogische Propädeutikum an. Dies ist ein berufsbegleitendes Ergänzungsstudium im Umfang von 30 ECTS-Punkten auf Bachelorlevel, das inhaltlich den gesetzlichen Anforderungen an die pädagogische Befähigung für eine Lehrausübung in Gesundheits- und Therapiefachberufen in Berlin in Kombination mit dem Masterstudiengang „Gesundheitspädagogik und Bildungsmanagement\" entspricht (Anerkennung des LAGESO Berlin vom 16.05.2019 sowie des LAVG Brandenburg vom 05.07.2919). Nach einer individuellen Prüfung der gesetzlichen Rahmungen anderer Bundesländer kann es ebenso für die jeweiligen dortigen Gesundheits- und Therapiefachberufe gelten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Ein Start in Berlin findet zum Sommersemester 2020 bei dem Zusammenkommen einer Grundanzahl von Anmeldungen statt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Am Studienzentrum Berlin steht Ihnen der Studiengangsleiter des Studiengangs Gesundheitspädagogik und Bildungsmanagement Prof. Dr. Thomas Philipp für Fragen zum Inhalt und Ablauf des Pädagogischen Propädeutikum an der IB Hochschule zu Verfügung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Bitte melden Sie sich bis zum 28.02.2020 telefonisch oder per Mail an.\nMail: thomas.philipp@hi-university.de\nTel.: 030 - 2593092-20",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Ihre IB Hochschule für Gesundheit und Soziales\nInfoabend am: 03.03.2020\nUhrzeit: 17:00 Uhr\nVeranstaltungsort: Studienzentrum Berlin, IB Hochschule für Gesundheit und Soziales, Gerichtstr. 27, 13347 Berlin",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/einladung-zum-infoabend-paedagogisches-propaedeutikum/image_01.jpg",
+    "alt": "Info evening invitation"
+  },
+  "gallery": [],
+  "publishDate": "2020-02-21T09:00:00.000Z",
+  "status": "published"
+}

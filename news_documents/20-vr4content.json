@@ -1,0 +1,175 @@
+{
+  "_type": "news",
+  "_id": "news.die-firma-vr4content-stellt-uns-ihre-software-mit-neuster-vr-technologie-vor",
+  "slug": {
+    "_type": "slug",
+    "current": "die-firma-vr4content-stellt-uns-ihre-software-mit-neuster-vr-technologie-vor"
+  },
+  "title": {
+    "en": "vr4content presents its software with the latest VR technology",
+    "de": "Die Firma vr4content stellt uns ihre Software mit neuster VR Technologie vor"
+  },
+  "summary": {
+    "en": "vr4content brought the latest VR technology to IB Hochschule yesterday and presented its software – with a sarcastic avatar you can interact with using a state-of-the-art VR headset.",
+    "de": "Die Firma vr4content brachte gestern die neuste Technologie in Sachen VR in die IB Hochschule und stellte ihre Software in einer kleinen Präsentation vor – mit einem sarkastischen Avatar, mit dem man mithilfe einer hochmodernen VR-Brille interagieren konnte."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "vr4content brought the latest VR technology to IB Hochschule yesterday and presented its software in a small demo. The entertaining feature was a sarcastic avatar you could interact with using a high-end VR headset.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The avatar, Elias Meyer, astonished those present with sharp remarks and remained stubbornly uncooperative, which was extremely entertaining. While most AI systems strive to provide correct and factual answers, this avatar shows a whole new facet – the art of sarcasm.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Until now active in the art and culture scene, vr4content is breaking new ground with this project and is using VR technology for research and university purposes for the first time. The presentation turned into an inspiring brainstorming session, in which our experts Prof. Dr. Brenne, Prof. Dr. Dormann, Prof. Dr. Klenk and Prof. Dr. Lacour also took part.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The vision is to give students the opportunity to practise difficult situations with patients in a humorous and instructive way. With this new technology, training in healthcare could soon be raised to a new level. It will be exciting to see how this innovative idea will shape the future of medical training.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Many thanks to Juan Antonio Guzman Hidalgo and Silke Ababneh from vr4content!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Firma vr4content brachte gestern die neuste Technologie in Sachen VR in die IB Hochschule und stellte ihre Software in einer kleinen Präsentation vor. Das unterhaltsame daran war ein sarkastischer Avatar, mit dem man mithilfe einer hochmodernen VR-Brille interagieren konnte.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Der Avatar Elias Meyer verblüffte die Anwesenden mit scharfen Bemerkungen und blieb hartnäckig unkooperativ, was äußerst unterhaltsam war. Denn während die meisten KI-Systeme bemüht sind, korrekte und sachliche Antworten zu geben, zeigt dieser Avatar eine ganz neue Facette – die Kunst des Sarkasmus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Bisher in der Kunst- und Kulturszene tätig, betritt vr4content mit diesem Projekt Neuland und setzt die VR-Technologie erstmals für Forschungs- und Hochschulzwecke ein. Die Präsentation wurde zu einem inspirierenden Brainstorming, an dem auch unsere Experten wie Prof. Dr. Brenne, Prof. Dr. Dormann, Prof. Dr. Klenk und Prof. Dr. Lacour teilnahmen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Vision ist es, Studierenden die Möglichkeit zu bieten, schwierige Situationen mit Patienten auf humorvolle und lehrreiche Weise zu üben. Mit dieser neuen Technologie könnte die Ausbildung im Gesundheitswesen bald auf ein neues Level gehoben werden. Es bleibt spannend zu beobachten, wie diese innovative Idee die Zukunft der medizinischen Ausbildung gestalten wird.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Vielen Dank an Juan Antonio Guzman Hidalgo und Silke Ababneh von vr4content!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-firma-vr4content-stellt-uns-ihre-software-mit-neuster-vr-technologie-vor/image_01.jpg",
+    "alt": "vr4content an der IB Hochschule "
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/die-firma-vr4content-stellt-uns-ihre-software-mit-neuster-vr-technologie-vor/image_02.jpg",
+      "alt": "vr4content an der IB Hochschule mit neuester Technologie"
+    }
+  ],
+  "publishDate": "2023-10-27T09:00:00.000Z",
+  "status": "published"
+}

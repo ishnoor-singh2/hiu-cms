@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.wortschatz-verbundprojekt",
+  "slug": {
+    "_type": "slug",
+    "current": "wortschatz-ein-verbundprojekt-des-ib-mitte-der-ib-hochschule-und-von-kopf-hand-fuss"
+  },
+  "title": {
+    "en": "\"WORTSCHATZ\" – a joint project of IB Mitte, IB Hochschule and KOPF, HAND + FUSS",
+    "de": "„WORTSCHATZ\" – Ein Verbundprojekt des IB Mitte, der IB Hochschule und von KOPF, HAND + FUSS"
+  },
+  "summary": {
+    "en": "The participation of people with low literacy in our society must be strengthened – it affects more than 6 million adults in Germany. The \"WORTSCHATZ\" model project aims to promote autonomy and co-determination of these adults through digitalised learning opportunities adapted to everyday needs.",
+    "de": "Die Teilhabe von Menschen mit geringer Literalität in unserer Gesellschaft muss gestärkt werden – deutschlandweit sind über 6 Millionen Erwachsene betroffen. Das Modellprojekt „WORTSCHATZ\" möchte durch digitalisierte und an alltägliche Bedarfe angepasste Lernangebote Autonomie und Mitbestimmung dieser Erwachsenen fördern."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "WORTSCHATZ project of IB Hochschule",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The participation of people with low literacy in our society must be strengthened – this affects over 6 million adults nationwide in Germany who have difficulties with written language.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The \"WORTSCHATZ\" model project pursues the goal of promoting the autonomy and co-determination of these adults through digitalised learning opportunities adapted to everyday needs. Together with IB Mitte gGmbH Sachsen and KOPF, HAND + FUSS gGmbH, IB Hochschule für Gesundheit und Soziales is engaged in ensuring successful implementation, integration and evaluation of these learning opportunities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "So that those affected can benefit from such opportunities to improve their skills, not only the immediate circle of family and friends but also professionals must be appropriately sensitised and networks established. The cornerstone for the success of this goal is therefore public relations work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "To this end, the project partners not only offer interactive consultations, training and roadshows like with the ALFA mobile, but also provide, alongside the classic flyers, digital information media for (a-)synchronous self-study and dissemination of the most important data and facts.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Anyone who would like to learn more about the topic, the project and the offers is referred to the following padlet: https://padlet.com/WORTSCHATZ/Projektvorstellung",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Projekt Wortschatz der IB Hochschule",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Teilhabe von Menschen mit geringer Literalität in unserer Gesellschaft muss gestärkt werden – betrifft das doch deutschlandweit über 6 Millionen Erwachsene, die Schwierigkeiten mit der Schriftsprache haben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Das Modellprojekt „WORTSCHATZ\" verfolgt das Ziel, durch digitalisierte und an die alltäglichen Bedarfe angepasste Lernangebote die Autonomie und Mitbestimmung dieser Erwachsenen zu fördern. Gemeinsam mit der IB Mitte gGmbh Sachsen und der KOPF, HAND + FUSS gGmbh engagiert sich die IB Hochschule für Gesundheit und Soziales für eine gelingende Umsetzung, Implementierung und Evaluierung dieser Lernangebote.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Damit die Betroffenen von derartigen Möglichkeiten zur Verbesserung ihrer Fähigkeiten profitieren können, müssen nicht nur der unmittelbare Familien- und Freundeskreis, sondern auch die Fachkräfte entsprechend sensibilisiert und Netzwerke etabliert werden. Das „A und O\" für das Gelingen dieser Zielsetzung ist daher die Öffentlichkeitsarbeit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Zu diesem Zwecke bieten die Projektpartner nicht nur interaktive Beratungen, Schulungen und Roadshows wie mit dem ALFA-Mobil an, sondern stellen neben den klassischen Flyern auch digitale Informationsmedien zum (a-)synchronen Selbststudium und Verbreiten der wichtigsten Daten und Fakten an.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Wer also gern mehr über das Thema, das Projekt und die Angebote erfahren und teilen möchte, sei auf das folgende Padlet verwiesen: https://padlet.com/WORTSCHATZ/Projektvorstellung",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wortschatz-ein-verbundprojekt-des-ib-mitte-der-ib-hochschule-und-von-kopf-hand-fuss/image_01.jpg",
+    "alt": "Projekt Wortschatz der IB Hochschule"
+  },
+  "gallery": [],
+  "publishDate": "2021-06-11T09:00:00.000Z",
+  "status": "published"
+}

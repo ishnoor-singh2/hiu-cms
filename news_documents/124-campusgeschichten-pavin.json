@@ -1,0 +1,253 @@
+{
+  "_type": "news",
+  "_id": "news.campusgeschichten-pavin-hsw",
+  "slug": {
+    "_type": "slug",
+    "current": "campusgeschichten-vom-hochschulwochenende"
+  },
+  "title": {
+    "en": "\"Friday is short and yet somehow long\" – insights from Christina Pavin into her university weekend at IB Hochschule",
+    "de": "„Der Freitag ist kurz und doch irgendwie lang\" – Einblicke von Christina Pavin in ihr Hochschulwochenende an der IB Hochschule"
+  },
+  "summary": {
+    "en": "Christina Pavin, student in the Health Education programme, shares her experience of university weekends at IB Hochschule – the rhythm of online and in-person teaching, the importance of community, and how studies integrate with work and family.",
+    "de": "Christina Pavin, Studentin im Studiengang Gesundheitspädagogik, teilt ihre Erfahrung der Hochschulwochenenden an der IB Hochschule – den Rhythmus von Online- und Präsenzlehre, die Bedeutung der Gemeinschaft und wie sich das Studium mit Beruf und Familie verbindet."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "\"Friday is the shortest lecture day – and yet it's somehow long,\" Christina Pavin says with a laugh. For her, the university weekend starts in online format – and although that's practical, she sometimes wishes for more variety. But once the in-person phase begins, the real magic of the university weekend begins.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Teaching in the part-time Health Education programmes or the training-integrated Applied Therapy Science programme takes place at university weekends. Unlike the full-time Psychology or Digital Health programmes with teaching times within the week, students spend a lot of time together from Friday to Sunday.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In-person teaching on weekends brings many advantages – such as personal contact and exchange, and always a lot of fun in addition to the intensive study. Group work is possible at a whole different level.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "How does such a university weekend proceed? – Usually a weekend starts for me on Friday afternoon as online format. Although Friday is the shortest lecture day, it is sometimes still long. Online teaching is challenging for everyone and it's not so easy to design methodically diverse. But what I also want to say is that I really appreciate these online Fridays for my work and family life and am very glad to have this possibility from home.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "What is special about a university weekend? – I study Health Education and am incredibly happy not only to have theoretical content on pedagogy taught, but also to experience pedagogy from the different lecturers and to be able to try it out myself in the different phases of the lecture. Didactics can be learned theoretically, but teaching experiences must be gathered. My cohort is a space for me where I dare to try out methods in presentations.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "An important part of my university weekends is the joint big walk in the Wuhletal with a fellow student. Here I can clear my head and gather strength for the rest of the day. The location of IB Hochschule is best suited for such relaxation opportunities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Does one benefit from being on-site or is it tiring? – Presence is the most important building block for me. Group dynamics and synergies can hardly be established online at the screen. We have become a tight community as a cohort and have often motivated each other – all the more so since all students complete the programme part-time. And our shared meal designs for the university weekend would also not be possible without presence.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Many thanks Christina Pavin! This insight impressively shows us how diverse, intensive and enriching a part-time programme at IB Hochschule can be – between online teaching, in-person phases and personal development steps.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "„Der Freitag ist der kürzeste Vorlesungstag – und doch ist er irgendwie lang\", erzählt Christina Pavin, Studentin im Studiengang Gesundheitspädagogik (B.A.) lachend. Für sie startet das Hochschulwochenende im Onlineformat – und obwohl das praktisch ist, wünscht sie sich manchmal mehr Abwechslung. Aber sobald es in die Präsenzphase geht, beginnt der eigentliche Zauber des Hochschulwochenendes.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Lehre in den berufsbegleitenden Studiengängen der Gesundheitspädagogik oder im ausbildungsbegleitenden Studiengang der Angewandten Therapiewissenschaft findet an den Hochschulwochenenden statt. Anders als in den Vollzeitstudiengängen der Psychologie oder dem Studiengang Digital Health verbringen die Studierenden von Freitag bis Sonntag viel Zeit miteinander.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Präsenzlehre am Wochenende bringt viele Vorteile mit sich, wie dem persönlichen Kontakt und Austausch und immer viel Spaß zusätzlich zum intensiven Studium. Gruppenarbeiten sind auf einem ganz anderen Level möglich.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wie läuft so ein Hochschulwochenende eigentlich ab? – In der Regel startet ein Hochschulwochenende für mich mit dem Freitagnachmittag als Onlineformat. Obwohl der Freitag der kürzeste Vorlesungstag ist, ist er doch manchmal irgendwie lang. Onlinelehre und Onlinelernen ist für alle herausfordernd und in der Methodik gar nicht so einfach abwechslungsreich umzusetzen. Aber was ich auch sagen will, dass ich diese Freitage für mein Berufs- und Familienleben online unheimlich wertschätze.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Was ist für Sie das Besondere an so einem Hochschulwochenende? – Ich studiere Gesundheitspädagogik und bin unheimlich froh, nicht nur theoretische Inhalte zum Thema Pädagogik vermittelt zu bekommen, sondern auch Pädagogik von den unterschiedlichen Dozierenden zu erleben und in den verschiedenen Phasen der Vorlesung auch schon selbst ausprobieren zu dürfen. Didaktik lässt sich theoretisch aneignen, aber Lehrerfahrungen müssen gesammelt werden. Meine Kohorte stellt dafür für mich ein Raum dar, wo ich mich traue bei Referaten Methoden auszuprobieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Ein wichtiger Bestandteil meiner Hochschulwochenenden ist der gemeinsame große Spaziergang im Wuhletal mit einer Kommilitonin. Hier kann ich meinen Kopf frei machen und wieder Kraft für den restlichen Tag an der IB sammeln. Der Standort der IB Hochschule ist für solche Entspannungsmöglichkeiten bestens geeignet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Profitiert man von der Präsenz oder ist es eher anstrengend? – Präsenz ist der wichtigste Baustein für mich in dem Studium, Gruppendynamiken und Synergien lassen sich am Bildschirm online kaum herstellen. Wir sind als Kurs eine feste Gemeinschaft geworden und haben uns auch schon oft gegenseitig motiviert – gerade da alle Studierenden berufsbegleitend das Studium absolvieren. Und auch unsere gemeinsamen Essensgestaltungen für das Hochschulwochenende wäre ohne Präsenz nicht möglich.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Vielen Dank Christina Pavin! Dieser Einblick zeigt uns eindrucksvoll, wie vielseitig, intensiv und bereichernd ein berufsbegleitendes Studium an der IB Hochschule sein kann – zwischen Onlinelehre, Präsenzphasen und persönlichen Entwicklungsschritten.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/campusgeschichten-vom-hochschulwochenende/image_02.jpg",
+    "alt": "Christina Pavin Studentin der IB Hochschule beim Hochschulwochende"
+  },
+  "gallery": [],
+  "publishDate": "2025-04-21T09:00:00.000Z",
+  "status": "published"
+}

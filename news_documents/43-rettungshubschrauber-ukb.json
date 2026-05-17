@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.besichtigung-rettungshubschrauber-ukb",
+  "slug": {
+    "_type": "slug",
+    "current": "besichtigung-des-rettungshubschraubers-auf-dem-landeplatz-des-unfallkrankenhauses-berlin-ukb"
+  },
+  "title": {
+    "en": "Visit to the rescue helicopter on the landing pad of Unfallkrankenhaus Berlin (ukb)",
+    "de": "Besichtigung des Rettungshubschraubers auf dem Landeplatz des Unfallkrankenhauses Berlin (ukb)"
+  },
+  "summary": {
+    "en": "On the sidelines of the IB / IB Hochschule strategy meeting with ukb, Daniel Neumann (IB) and Prof. Dr. Mariam Hartinger (IB Hochschule) got an insight into the special features of the rescue helicopter, a flying intensive-care unit.",
+    "de": "Am Rande der Klausurtagung des Internationalen Bundes (IB), der IB Hochschule für Gesundheit und Soziales mit dem ukb erhielten Daniel Neumann (IB) und Prof. Dr. Mariam Hartinger (IB Hochschule) Einblick in die Besonderheiten des Rettungshubschraubers, der fliegenden Intensivstation."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On the sidelines of the strategy meeting of Internationaler Bund (IB), IB Hochschule für Gesundheit und Soziales with ukb, Daniel Neumann, Authorised Representative of the Board, and Prof. Dr. Mariam Hartinger, President of IB Hochschule, got an insight into the special features of the rescue helicopter, the flying intensive-care unit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "From ukb's side, under the leadership of Prof. Dr. Ekkernkamp and Dr. Schmidt-Traub, the departments of nursing, neurology, neuropsychology, surgery and emergency services presented their needs for academic education. In cooperation between IB Hochschule and the clinic, first needs have already been addressed: the part-time programmes Digital Health as a Bachelor and a continuing-education Master.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We look forward to the cooperation with ukb and to the start of the Digital Health M.Sc. programme in April 2023!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am Rande der Klausurtagung des Internationalen Bundes (IB), der IB Hochschule für Gesundheit und Soziales mit dem ukb erhielten Daniel Neumann, Bevollmächtigter des Vorstandes sowie Prof. Dr. Mariam Hartinger, Präsidentin der IB Hochschule Einblick in die Besonderheiten des Rettungshubschraubers, der fliegenden Intensivstation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Seitens des ukb präsentierten unter der Leitung von Prof. Dr. Ekkernkamp sowie Dr. Schmidt-Traub die Bereiche Pflege, Neurologie, Neuropsychologie, Chirurgie und Rettungswesen ihre Bedarfe akademischer Bildung. In Kooperation der IB Hochschule mit der Klinik sind bereits erste Bedarfe umgesetzt worden: die berufsbegleitenden Studiengänge Digital Health als Bachelor und Weiterbildungs-Master.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir freuen uns auf die Kooperation mit dem ukb und den Start des Studiengangs Digital Health M.Sc. im April 2023!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/besichtigung-des-rettungshubschraubers-auf-dem-landeplatz-des-unfallkrankenhauses-berlin-ukb/image_01.jpg",
+    "alt": "Rettungshubschrauber auf dem Landeplatz des Unfallkrankenhauses Berlin"
+  },
+  "gallery": [],
+  "publishDate": "2023-01-25T09:00:00.000Z",
+  "status": "published"
+}

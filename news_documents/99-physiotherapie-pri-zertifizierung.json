@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.physiotherapie-pri-zertifizierung-nishimura",
+  "slug": {
+    "_type": "slug",
+    "current": "absolvent-der-physiotherapie-erlangt-zertifizierung-des-postural-restoration-instituter-pri"
+  },
+  "title": {
+    "en": "Physiotherapy graduate obtains Postural Restoration Institute® (PRI) certification",
+    "de": "Absolvent der Physiotherapie erlangt Zertifizierung des Postural Restoration Institute® (PRI)"
+  },
+  "summary": {
+    "en": "The PRI's therapy concept is based on the recognition that the human body has anatomical and physiological asymmetry. Mr Nishimura already addressed this method in his Bachelor's thesis.",
+    "de": "Das Therapiekonzept des PRI basiert auf der Erkenntnis, dass der menschliche Körper eine anatomische und physiologische Asymmetrie aufweist. Bereits in seiner Bachelorthesis setzte sich Herr Nishimura mit dieser Therapiemethode auseinander."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The therapy concept of the Postural Restoration Institute® (PRI) is based on the recognition that the human body has anatomical and physiological asymmetry. The respiratory, circulatory, muscle, sensory and nervous systems are not structured identically on both halves of the body and serve different tasks, functions, positions and demands. Dominant use of one side of the body can develop from one-sided overuse of another system. PRI experts are supposed to recognise these imbalances and typical patterns and balance them with appropriate exercises.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Already in his Bachelor's thesis, Mr Nishimura dealt with the therapy method of the Postural Restoration Institute® (PRI). The goal of the thesis was to compare and evaluate the effectiveness of the therapeutic exercise \"90 90 Hip Lift with Balloon\" for lowering sympathetic activity with cardiorespiratory biofeedback. A total of 14 healthy adults were included in the pilot study.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Mr Nishimura can now use his findings from this scientific work and the expertise gained at the Postural Restoration Institute for his daily practice in physiotherapy.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "More information about the PRI is available here >",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das Therapiekonzept des PRI basiert auf der Erkenntnis, dass der menschliche Körper eine anatomische und physiologische Asymmetrie aufweist. Das Atmungs-, Kreislauf-, Muskel-, Sinnes- und Nervensystem ist auf beiden Körperhälften nicht identisch strukturiert und erfüllt unterschiedliche Aufgaben, Funktionen, Positionen und Anforderungen. Die dominante Beanspruchung einer Körperseite kann sich aus einer einseitigen Überbeanspruchung eines anderen Systems entwickeln. PRI-Experten sollen diese Ungleichgewichte und typischen Muster erkennen und mit geeigneten Übungen ausbalancieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Bereits in seiner Bachelorthesis setzte sich Herr Nishimura mit der Therapiemethode des Postural Restoration Institute® (PRI) auseinander. Ziel der Arbeit war es, die Wirksamkeit der therapeutischen Übung „90 90 Hip Lift with Balloon\" zur Senkung der Sympathikusaktivität mit dem kardiorespiratorischen Biofeedback zu vergleichen und zu evaluieren. Hierfür wurden insgesamt 14 gesunde Erwachsene in die Pilotstudie eingeschlossen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Herr Nishimura kann nun seine Erkenntnisse aus dieser wissenschaftlichen Arbeit und die erlangte Expertise am Postural Restoration Institute für seine tägliche Praxis in der Physiotherapie nutzen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Mehr Informationen zum PRI finden Sie hier >",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/absolvent-der-physiotherapie-erlangt-zertifizierung-des-postural-restoration-instituter-pri/image_01.jpg",
+    "alt": "Physiotherapy graduate PRI certification"
+  },
+  "gallery": [],
+  "publishDate": "2020-02-14T09:00:00.000Z",
+  "status": "published"
+}

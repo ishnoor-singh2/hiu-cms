@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.armut-und-gesundheit-2025-kongress",
+  "slug": {
+    "_type": "slug",
+    "current": "armut-und-gesundheit-2025"
+  },
+  "title": {
+    "en": "Poverty & Health Congress – 17 and 18 March 2025 in Berlin",
+    "de": "Public-Health-Kongress „Armut & Gesundheit\" – 17. und 18. März 2025 in Berlin"
+  },
+  "summary": {
+    "en": "For the third year in a row, IB Hochschule was represented with a stand at the \"Poverty & Health\" Congress at the Henry Ford Building of FU Berlin – a great opportunity for exchange with public health institutions.",
+    "de": "Zum dritten Mal in Folge war die IB Hochschule beim Kongress „Armut & Gesundheit\" im Henry Ford-Bau der FU Berlin mit einem Infostand vertreten – eine wertvolle Gelegenheit für den Austausch mit Public-Health-Institutionen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "For the third time in a row! Also this year, IB Hochschule für Gesundheit und Soziales was again represented with a stand at the \"Poverty & Health\" Congress at the Henry Ford Building of Freie Universität (FU) Berlin. Prof. Dr. Silke Brenne and Lena Setzepfand as well as Prof. Dr. Gudrun Zimmermann and Margarida Rischawy Mariano could on both congress days both inform about IB Hochschule's study and continuing education offers and enter intensive exchange with representatives of public health institutions and health-promoting initiatives: both make you want more!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The programme of the congress, which this year celebrated its 30th anniversary and carried the title \"Promoting Health Means Promoting Democracy\" matching current world events, was as usual filled with both health-policy and current public health topics.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Why IB Hochschule finds this congress particularly important",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "As a university for health and social affairs, addressing societal challenges like poverty, social inequality and health care justice is particularly close to our hearts. Our students and lecturers engage intensively with these topics – whether in research, teaching or practice-oriented projects. The Poverty & Health Congress offers an essential platform to network, exchange knowledge and jointly develop solutions. We are convinced: a more just society begins with better healthcare for all.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Zum dritten Mal in Folge! Auch in diesem Jahr war die IB Hochschule für Gesundheit und Soziales wieder mit einem Stand beim Kongress „Armut & Gesundheit\" im Henry Ford-Bau der Freien Universität (FU) Berlin vertreten. Prof. Dr. Silke Brenne und Lena Setzepfand sowie Prof. Dr. Gudrun Zimmermann und Margarida Rischawy Mariano konnten an beiden Kongresstagen sowohl zu Studien- und Weiterbildungsangeboten der IB Hochschule informieren, als auch in den intensiven Austausch mit Vertreter*innen von Public-Health-Institutionen und gesundheitsfördernden Initiativen treten: beides macht Lust auf mehr!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das Programm des Kongresses, der in diesem Jahr sein 30. Jubiläum feierte und den zum aktuellen Weltgeschehen passenden Titel „Gesundheit fördern, heißt Demokratie fördern\" trug, war in gewohnter Weise gefüllt mit sowohl gesundheitspolitischen als auch mit aktuellen Public-Health-Themen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Warum die IB Hochschule diesen Kongress besonders wichtig findet",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Als Hochschule für Gesundheit und Soziales liegt uns die Auseinandersetzung mit gesellschaftlichen Herausforderungen wie Armut, sozialer Ungleichheit und gesundheitlicher Versorgungsgerechtigkeit besonders am Herzen. Unsere Studierenden und Lehrenden setzen sich intensiv mit diesen Themen auseinander – sei es in der Forschung, in der Lehre oder in praxisnahen Projekten. Der Kongress „Armut & Gesundheit\" bietet eine essenzielle Plattform, um sich zu vernetzen, Wissen auszutauschen und gemeinsam Lösungen zu erarbeiten. Denn wir sind überzeugt: Eine gerechtere Gesellschaft beginnt mit einer besseren Gesundheitsversorgung für alle.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/armut-und-gesundheit-2025/image_01.jpg",
+    "alt": "Kongress Armut und Gesundheit"
+  },
+  "gallery": [],
+  "publishDate": "2025-03-28T09:00:00.000Z",
+  "status": "published"
+}

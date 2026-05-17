@@ -1,0 +1,279 @@
+{
+  "_type": "news",
+  "_id": "news.digital-health-studium-feb-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "digital-health-studium"
+  },
+  "title": {
+    "en": "Digital Health: the new programme of IB Hochschule on the Health Campus",
+    "de": "Digital Health: Der neue Studiengang der IB Hochschule auf dem Gesundheitscampus"
+  },
+  "summary": {
+    "en": "Healthcare is facing a digital change – and we need professionals who actively shape it. In summer semester 2024 the new Digital Health programme started at IB Hochschule – directly on the ukb Health Campus.",
+    "de": "Das Gesundheitswesen steht vor einem digitalen Wandel – und wir brauchen Fachkräfte, die diesen aktiv mitgestalten. Zum Sommersemester 2024 startete der neue Studiengang Digital Health an der IB Hochschule – direkt auf dem Gesundheitscampus des ukb."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Healthcare is facing a digital change – and we need professionals who actively help shape it. In summer semester 2024 the new Digital Health programme started at IB Hochschule für Gesundheit und Soziales. Directly on the ukb Health Campus, students have the opportunity to prepare in a practice-oriented way for the challenges of digital medicine.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "To find out what the verdict is after one year, we spoke with Prof. Dr. med. Philipp Lacour, who gives us exciting insights into the challenges and chances of digitalisation as well as the contents of the new programme.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Mr Lacour, the Digital Health programme has been running successfully at IB Hochschule for a year. How does the first review turn out? – We are delighted at how the programme not only meets but exceeds our expectations. The students are fully engaged and explain through examples from their own work environment how important the topic of digital medicine is. The team is already looking forward to the coming semesters and the new focus topics like Artificial Intelligence and software engineering.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Why and for whom was the programme created? – The rapid progress of digitalisation in healthcare is only possible if all employees also take part in it. Without appropriate specialist knowledge and practical digital competence of all actors, participation is impossible! This is where our two new Digital Health programmes come in. These were developed by IB Hochschule für Gesundheit und Soziales in cooperation with Unfallkrankenhaus Berlin (ukb). Since 2024, IB Hochschule has been located on the Health Campus at ukb, so teaching takes place directly on site and our students benefit from the clinic's advanced digitalised infrastructure!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "What is the content of the programme? – With the Digital Health Bachelor and Master programmes, we train future professionals to actively shape the digital transformation. The part-time format guarantees direct implementation of content at the workplace and is at the same time family-friendly!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The modules of the programme focus on practical application and project-based implementation of digital technologies. This essentially distinguishes Digital Health at IB Hochschule from other programmes in Germany, which often focus on general management and frequently do not include patients. Already in the first week of study, important topic complexes of digitalisation are discussed in an interdisciplinary way. Different specialties from healthcare meet, exchange knowledge and develop innovative solution approaches in a common language. Students learn not only from the lecturers but also from each other.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Our graduates are able to support their patients diagnostically and therapeutically with modern technologies, e.g. from the field of virtual reality and artificial intelligence. Alongside technical questions, ethical and legal concerns and the question of transhumanism are also topics of the programme.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Who are the two programmes aimed at? – The programmes are aimed at a wide variety of interested parties. With a degree or training in the fields of medicine, medical technology, computer science, insurance, healthcare professions, psychology, pharmacy, sick care, geriatric care or rescue services and a year of professional experience in healthcare, they can be admitted to the programme. We warmly thank Prof. Dr. med. Philipp Lacour for this interview!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das Gesundheitswesen steht vor einem digitalen Wandel – und wir brauchen Fachkräfte, die diesen aktiv mitgestalten. Zum Sommersemester 2024 startete der neue Studiengang Digital Health an der IB Hochschule für Gesundheit und Soziales. Direkt auf dem Gesundheitscampus des Unfallkrankenhauses Berlin (ukb) haben Studierende die Möglichkeit, sich praxisnah auf die Herausforderungen der digitalen Medizin vorzubereiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Um zu erfahren, wie das Urteil nach einem Jahr aussieht und worum es im Studium Digital Health genau geht, haben wir mit Prof. Dr. med. Philipp Lacour gesprochen. Im Interview gibt er uns spannende Einblicke in die Herausforderungen und Chancen der Digitalisierung sowie in die Inhalte des neuen Studiengangs.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Herr Lacour, der Studiengang Digital Health läuft nun erfolgreich seit einem Jahr an der IB Hochschule. Wie fällt das erste Resümee aus? – Wir sind begeistert, wie der Studiengang unsere Erwartungen nicht nur erfüllt, sogar noch übertrifft. Die Studierenden sind mit vollem Einsatz dabei und erklären am Beispiel ihrer eigenen Arbeitswelt wie wichtig das Thema der digitalen Medizin ist. Das Team freut sich schon auf die kommenden Semester und die neuen Themenschwerpunkte wie Künstliche Intelligenz und Softwaretechnik.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Warum und für wen wurde der Studiengang ins Leben gerufen? – Das rasante Voranschreiten der Digitalisierung im Gesundheitswesen ist nur möglich, wenn alle Mitarbeiter*innen auch daran teilnehmen. Ohne entsprechendes Fachwissen und praktische digitale Kompetenz aller Akteure ist eine Mitwirkung jedoch unmöglich! Hier kommen unsere beiden neuen Studiengänge Digital Health ins Spiel. Diese wurden von der IB Hochschule für Gesundheit und Soziales in Kooperation mit dem Unfallkrankenhaus Berlin (ukb) entwickelt. Seit 2024 befindet sich die IB Hochschule auf dem Gesundheitscampus am ukb, sodass die Lehre direkt vor Ort stattfindet und unsere Studierenden von der fortschrittlich digitalisierten Infrastruktur des Klinikums profitieren!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Worum geht es inhaltlich im Studium? – Mit den Studiengängen Digital Health Bachelor und Master bilden wir angehende Fachkräfte darin aus, die digitale Transformation aktiv mitzugestalten. Das berufsbegleitende Format gewährleistet die direkte Umsetzung der Inhalte am Arbeitsplatz und ist gleichzeitig familienfreundlich!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Die Module des Studiengangs haben ihren Schwerpunkt auf der praktischen Anwendung und projektbasierten Umsetzung digitaler Technologien. Dies unterscheidet Digital Health an der IB Hochschule wesentlich von anderen Studiengängen in Deutschland, die häufig den Fokus auf allgemeines Management legen und die Patient*innen oft nicht mit einbeziehen. Schon in der ersten Studienwoche werden wichtige Themenkomplexe der Digitalisierung interdisziplinär diskutiert. Verschiedene Fachrichtungen aus dem Gesundheitswesen treffen aufeinander, tauschen Wissen aus und entwickeln innovative Lösungsansätze in einer gemeinsamen Sprache. Die Studierenden lernen nicht nur von den Dozierenden, sondern auch voneinander.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Unsere Absolvent*innen sind in der Lage Ihre Patient*innen diagnostisch und therapeutisch mit modernen Technologien, z.B. aus dem Bereich der virtuellen Realität und künstlichen Intelligenz zu unterstützen. Neben technischen Fragestellungen sind auch ethische und rechtliche Belange und die Frage des Transhumanismus Themen des Studiums.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "An wen richten sich die beiden Studiengänge? – Die Studiengänge richten sich an eine Vielzahl Interessent*innen. Mit einem Studium oder einer Ausbildung in den Bereichen der Medizin, Medizintechnik, Informatik, Versicherungswesen, den Gesundheitsfachberufen, Psychologie, Pharmazie, der Kranken- und Altenpflege oder dem Rettungswesen und einem Jahr Berufserfahrung im Gesundheitswesen können sie zum Studium zugelassen werden. Wir bedanken uns ganz herzlich für dieses Interview mit Prof. Dr. med. Philipp Lacour!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-studium/image_01.png",
+    "alt": "Digital Health programme"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-studium/image_02.png",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-studium/image_03.png",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-studium/image_04.png",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-studium/image_05.png",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/digital-health-studium/image_06.png",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-02-10T09:00:00.000Z",
+  "status": "published"
+}

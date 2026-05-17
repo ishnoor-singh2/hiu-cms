@@ -1,0 +1,337 @@
+{
+  "_type": "news",
+  "_id": "news.zertifikatsprogramm-digital-health-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung"
+  },
+  "title": {
+    "en": "Certificate programme Digital Health: a glimpse into the future of healthcare",
+    "de": "Zertifikatsprogramm Digital Health: Ein Blick in die Zukunft der Gesundheitsversorgung"
+  },
+  "summary": {
+    "en": "On Monday 28.10.2024 the Digital Health certificate programme at IB Hochschule started with an exciting opening. The continuing education gives professionals the opportunity to dive deeper into the world of digital healthcare.",
+    "de": "Am Montag, den 28.10.2024, startete das Zertifikatsprogramm Digital Health an der IB Hochschule für Gesundheit und Soziales mit einem spannenden Auftakt. Die Weiterbildung gibt Fachkräften die Möglichkeit, tiefer in die Welt der digitalen Gesundheitsversorgung einzutauchen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On Monday 28.10.2024, the Digital Health certificate programme started at IB Hochschule für Gesundheit und Soziales with an exciting kick-off. The continuing education gives professionals the opportunity to dive deeper into the world of digital healthcare and prepare for the future in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Specialist talks from radiology to neurology",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "After a warm welcome by Maria Krautz and the Digital Health team, participants were received with a series of specialist talks. Apl. Prof. Dr. med. Jin Yamamura (Uni Hamburg) opened the event with an introduction to Digital Health using examples from radiology. Prof. Dr. med. Philipp Lacour then gave listeners insight into the digitalisation of medical practices and developments in telecardiology. The third talk of the morning was given by Prof. Dr. med. Ingo Schmehl, who illuminated the topic \"Digitalisation in Neurology\" in a practice-oriented way.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Then the practical part began: a visit to the Smart Living & Health Center",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "After a break, the practical part of the day began at the Smart Living & Health Center in the House of the Future at Unfallkrankenhaus Berlin (ukb). As Germany's most modern advisory and information centre for home care and self-determined life, the centre gives valuable insights into the technical aids of the future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The ukb brain cloud 1.0: gamification in digital therapy",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Afterwards it went on to the innovative rehabilitation clinic at ukb, where participants experienced the \"brain cloud 1.0\" of the BG Klinikum – a fully digitalised therapy room that promotes motor and cognitive rehabilitation of patients through gamification. With the help of virtual and mixed reality glasses as well as interactive game consoles, therapy is individually adapted to patients' current state and abilities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Outlook on the next modules and topics on 11.11.2024",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "After a lively discussion round, the first part of the two-module continuing education was successfully concluded. The continuation will take place on Monday 11.11.2024 and will focus on the topics \"Digital Infrastructure and Data-Based Applications in Healthcare\" with Prof. Dr. Winfried Graf and \"Legal Implications of Digital Health Applications\" with Prof. Dr. Alexandra Jorzig.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am Montag, den 28.10.2024, startete das Zertifikatsprogramm Digital Health an der IB Hochschule für Gesundheit und Soziales mit einem spannenden Auftakt. Die Weiterbildung gibt Fachkräften die Möglichkeit, tiefer in die Welt der digitalen Gesundheitsversorgung einzutauchen und sich auf die Zukunft im Gesundheitswesen vorzubereiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Fachvorträge von Radiologie bis Neurologie",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Nach einer herzlichen Begrüßung durch Maria Krautz und das Team Digital Health wurden die Teilnehmenden mit einer Reihe von Fachvorträgen empfangen. Apl. Prof. Dr. med. Jin Yamamura (Uni Hamburg) eröffnete die Veranstaltung mit einer Einführung in das Thema Digital Health anhand von Beispielen aus der Radiologie. Im Anschluss gab Prof. Dr. med. Philipp Lacour den Zuhörenden einen Einblick in die Digitalisierung der Arztpraxis und die Entwicklungen in der Telekardiologie. Den dritten Vortrag des Vormittags gestaltete Prof. Dr. med. Ingo Schmehl, der das Thema „Digitalisierung in der Neurologie\" praxisnah beleuchtete.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Dann begann der praktische Teil: ein Besuch im Smart Living & Health Center",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Nach einer Pause begann der praktische Teil des Tages im Smart Living & Health Center im Haus der Zukunft am Unfallkrankenhaus Berlin (ukb). Als modernstes Beratungs- und Informationszentrum Deutschlands für häusliche Pflege und ein selbstbestimmtes Leben gibt das Smart Living & Health Center wertvolle Einblicke in die technischen Hilfsmittel der Zukunft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Die ukb brain cloud 1.0: Gamification in der digitalen Therapie",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Anschließend ging es weiter zur innovativen Reha-Klinik am ukb, wo die Teilnehmenden die „brain cloud 1.0\" des BG Klinikums erlebten – einen vollständig digitalisierten Therapieraum, der durch Gamification die motorische und kognitive Rehabilitation von Patient*innen fördert. Mithilfe von Virtual- und Mixed-Reality-Brillen sowie interaktiven Spielekonsolen wird die Therapie individuell an den aktuellen Stand und die Fähigkeiten der Patienten angepasst.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Ausblick auf die nächsten Module und Themen am 11.11.2024",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Nach einer lebhaften Diskussionsrunde wurde der erste Teil der zweimoduligen Weiterbildung erfolgreich abgeschlossen. Die Fortsetzung findet am Montag, den 11.11.2024, statt und wird die Themen „Digitale Infrastruktur und datenbasierte Anwendungen im Gesundheitswesen\" mit Prof. Dr. Winfried Graf sowie „Rechtliche Implikationen digitaler Gesundheitsanwendungen\" mit Prof. Dr. Alexandra Jorzig in den Fokus rücken.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_01.jpg",
+    "alt": "Digital Health certificate programme"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_08.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_09.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g9",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_10.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g10",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_11.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g11",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/zertifikatsprogramm-digital-health-ein-blick-in-die-zukunft-der-gesundheitsversorgung/image_12.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-11-11T09:00:00.000Z",
+  "status": "published"
+}

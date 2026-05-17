@@ -1,0 +1,309 @@
+{
+  "_type": "news",
+  "_id": "news.gesundheitspaedagogik-ideale-studiengang",
+  "slug": {
+    "_type": "slug",
+    "current": "gesundheitspaedagogik-der-ideale-studiengang"
+  },
+  "title": {
+    "en": "Health Education – the ideal programme for those who want to make more of a difference",
+    "de": "Gesundheitspädagogik – Der ideale Studiengang für alle, die mehr bewirken wollen"
+  },
+  "summary": {
+    "en": "You work in healthcare – and want more? More knowledge, more responsibility, more room to design? Then studying Health Education is exactly right for you. We offer a Bachelor and a Master programme.",
+    "de": "Du arbeitest im Gesundheitswesen – und willst mehr? Mehr Wissen, mehr Verantwortung, mehr Gestaltungsspielraum? Dann ist ein Studium der Gesundheitspädagogik genau das Richtige für dich. Wir bieten einen Studiengang im Bachelor und Master an."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "You work in healthcare – and want more? More knowledge, more responsibility, more room to design? Then a programme in Health Education is exactly right for you. We offer a programme in Bachelor and Master.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The Bachelor Health Care Education programme is aimed at professionals from therapy, nursing or health professions who want to pass on their knowledge. You learn how to teach in a didactically sensible way, plan training, promote health literacy – in schools, clinics or educational institutions. Ideal for everyone who enjoys working with people, sharing knowledge and contributing to further development in the health sector.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Have you already completed a first programme and training in the health area? Then the Master Health Education opens up further perspectives: teaching, research, project management or specialist and management activities in training and continuing education. Here you deepen your pedagogical and scientific know-how – practice-oriented, interdisciplinary and future-oriented.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Particularly attractive: both programmes can be studied part-time – perfect for everyone who wants to combine practice and study.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Who is it worthwhile for?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "For people with professional experience in the health sector who do not want to stand still. For everyone who likes to explain, motivate and accompany others on their learning path. And for everyone who wants not only to help shape healthcare, but actively improve it.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "And how does the programme work?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "\"As soon as the in-person phase begins, the real magic of the university weekend begins.\" – Christina Pavin, student in Health Care Education / Health Education (B.A.).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "A special feature of the programme is the university weekend. The alternation between online teaching on Friday and in-person days at the weekend creates structure, but also space for exchange, collaboration and personal development. Students like Christina Pavin particularly appreciate the collegial cohesion, lively group work and pedagogical experience in practice – a valuable contrast to the often theory-heavy everyday professional life.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Interested in the programme? Then let our student advisory service provide detailed advice.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Du arbeitest im Gesundheitswesen – und willst mehr? Mehr Wissen, mehr Verantwortung, mehr Gestaltungsspielraum? Dann ist ein Studium der Gesundheitspädagogik genau das Richtige für dich. Wir bieten einen Studiengang im Bachelor und Master an.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Der Bachelorstudiengang Health Care Education richtet sich an Fachkräfte aus Therapie, Pflege oder Gesundheitsfachberufen, die ihr Wissen weitergeben möchten. Du lernst, wie man didaktisch sinnvoll unterrichtet, Schulungen plant, Gesundheitskompetenz fördert – in Schulen, Kliniken oder Bildungseinrichtungen. Ideal für alle, die gerne mit Menschen arbeiten, Wissen vermitteln und zur Weiterentwicklung im Gesundheitsbereich beitragen wollen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Du hast schon ein erstes Studium und eine Ausbildung im Gesundheitsbereich abgeschlossen? Dann eröffnet dir der Master Gesundheitspädagogik weitere Perspektiven: Lehre, Forschung, Projektmanagement oder Fach- und Führungstätigkeiten in der Aus- und Weiterbildung. Hier vertiefst du dein pädagogisches und wissenschaftliches Know-how – praxisnah, interdisziplinär und zukunftsorientiert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Besonders attraktiv: Beide Studiengänge sind berufsbegleitend studierbar – perfekt für alle, die Praxis und Studium miteinander verbinden möchten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Für wen lohnt sich das?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Für Menschen mit Berufserfahrung im Gesundheitsbereich, die nicht stehen bleiben wollen. Für alle, die gerne erklären, motivieren und andere auf ihrem Lernweg begleiten. Und für alle, die das Gesundheitswesen nicht nur mitgestalten, sondern aktiv verbessern möchten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Und wie läuft das Studium ab?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "„Sobald es in die Präsenzphase geht, beginnt der eigentliche Zauber des Hochschulwochenendes.\" – Christina Pavin, Studentin im Studiengang Health Care Education / Gesundheitspädagogik (B.A.).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Ein besonderes Merkmal des Studiums ist das Hochschulwochenende. Der Wechsel zwischen Onlinelehre am Freitag und den Präsenztagen am Wochenende schafft Struktur, aber auch Raum für Austausch, Zusammenarbeit und persönliche Weiterentwicklung. Studierende wie Christina Pavin schätzen besonders den kollegialen Zusammenhalt, die lebendige Gruppenarbeit und das pädagogische Erleben in der Praxis – ein wertvoller Kontrast zum oft theorielastigen Berufsalltag.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Interessiert am Studiengang? Dann lass dich ausführlich von unserer Studienberatung beraten.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitspaedagogik-der-ideale-studiengang/image_01.jpg",
+    "alt": "Health Education programme"
+  },
+  "gallery": [],
+  "publishDate": "2025-08-01T09:00:00.000Z",
+  "status": "published"
+}

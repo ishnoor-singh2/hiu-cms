@@ -1,0 +1,253 @@
+{
+  "_type": "news",
+  "_id": "news.fachtag-einsamkeitsgipfel",
+  "slug": {
+    "_type": "slug",
+    "current": "fachtag-einsamkeitsgipfel"
+  },
+  "title": {
+    "en": "Loneliness Summit specialist day",
+    "de": "Fachtag Einsamkeitsgipfel"
+  },
+  "summary": {
+    "en": "Loneliness has many faces. On 16 December 2022 the \"Loneliness Summit\" specialist day took place to address the issue – with Prof. Dr. Mariam Hartinger among the speakers.",
+    "de": "Einsamkeit hat viele Gesichter. Um dieses Problem zu adressieren, fand am 16. Dezember 2022 der „Fachtag Einsamkeitsgipfel\" statt – mit Prof. Dr. Mariam Hartinger als Vortragende."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Loneliness has many faces. On holidays this is particularly evident. Many people stay alone during the holidays or feel lonely despite social encounters. To address this problem, today's \"Loneliness Summit\" specialist day took place.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "After a welcome by Emine Demirbüken-Wegner, Deputy Mayor of Berlin-Reinickendorf and District Councillor for Social Affairs and Citizen Services, various talks were given on the topic, including by Prof. Dr. Mariam Hartinger, who took some impressions away with her. Among them, the insight that loneliness is a subtype of stress and means worry about social devaluation. Particularly striking was the fact that there is even a loneliness-related mortality.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Among other things, she considers psychology and health education necessary to educate the public about the health risks of loneliness. This is exactly where she sees the opportunity for the university to continue to do valuable work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "She also thanks for the valuable opportunity of exchange with all participants and for the important contributions from:",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Prof. Dr. med. Mazda Adli, Chief Physician of Fliedner Klinik Berlin and head of the research area on Affective Disorders, Clinic for Psychiatry and Psychotherapy, CCM, Charité – Universitätsmedizin Berlin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Dr. med. M.A. Adak Pirmorady, ambulatory care lead CBF, psychoanalyst, specialist in psychosomatic medicine and psychotherapy, Charité – Universitätsmedizin Berlin, chairwoman of the European Artists' Guild",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Prof. Dr. med. Dr. h.c. Jalid Sehouli, Director of the Clinic for Gynaecology with Centre for Oncological Surgery, Charité – Universitätsmedizin Berlin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Elke Schilling, founder and 1st chair of Silbernetz e.V.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Einsamkeit hat viele Gesichter. An den Feiertagen wird dies besonders deutlich. Viele Menschen bleiben an den Feiertagen alleine oder fühlen sich trotz der sozialen Begegnungen an den Feiertagen einsam. Um dieses Problem zu adressieren fand heute der „Fachtag Einsamkeitsgipfel\" statt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Nach einer Begrüßung von Emine Demirbüken-Wegner, stellvertretende Bürgermeisterin von Berlin-Reinickendorf und Stadträtin für Soziales und Bürgerdienste, wurden verschiedene Vorträge zum Thema gehalten. Unter anderem von Prof. Dr. Mariam Hartinger, die einige Impressionen für sich mitnehmen konnte. Darunter die Informationen, dass Einsamkeit Unterform von Stress ist und Einsamkeit die Sorge vor sozialer Entwertung bedeutet. Besonders einprägsam beschreibt sie die Tatsache, dass sogar eine Einsamkeitssterblichkeit vorhanden ist.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Als notwendig betrachtet sie unter anderem die Psychologie und Gesundheitspädagogik zur Aufklärung der Bevölkerung über das Gesundheitsrisiko bei Einsamkeit. Genau dort sieht sie die Möglichkeit der Hochschule weiter wertvolle Arbeit zu leisten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Sie bedankt sich außerdem für die wertvolle Möglichkeit des Austausches mit allen Beteiligten und den wichtigen Beiträgen von:",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Prof. Dr. med. Mazda Adli, Chefarzt der Fliedner Klinik Berlin und Leiter des Forschungsbereichs Affektive Störung, Klinik für Psychiatrie und Psychotherapie, CCM, Charité – Universitätsmedizin Berlin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Dr. med. M.A. Adak Pirmorady, Ambulanzleitung CBF, Psychoanalytikerin, Fachärztin für Psychosomatische Medizin und Psychotherapie, Charité – Universitätsmedizin Berlin, Vorstandsvorsitzende der europäischen Künstlergilde",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Prof. Dr. med. Dr. h.c. Jalid Sehouli, Direktor der Klinik für Gynäkologie mit Zentrum für onkologische Chirurgie, Charité – Universitätsmedizin Berlin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Elke Schilling, Gründerin und 1. Vorsitzende Silbernetz e.V.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/fachtag-einsamkeitsgipfel/image_01.jpg",
+    "alt": "Loneliness Summit specialist day"
+  },
+  "gallery": [],
+  "publishDate": "2022-12-16T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,337 @@
+{
+  "_type": "news",
+  "_id": "news.interesse-am-masterstudium-gp-ects",
+  "slug": {
+    "_type": "slug",
+    "current": "interesse-am-masterstudium-gesundheitspaedagogik-aber-zu-wenig-ects-punkte"
+  },
+  "title": {
+    "en": "Interested in the Health Education Master's but missing ECTS credits?",
+    "de": "Interesse am Masterstudium Gesundheitspädagogik, aber zu wenig ECTS Punkte?"
+  },
+  "summary": {
+    "en": "We optimally prepare you for the Master Health Education, with which you obtain a state-recognised teaching qualification and can work nationwide as a teacher at vocational schools.",
+    "de": "Wir bereiten Sie optimal auf das Masterstudium Gesundheitspädagogik vor, mit dem Sie eine staatlich anerkannte Lehrbefähigung erhalten und bundesweit an Berufsfachschulen als Lehrperson tätig werden können."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Get ready!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We optimally prepare you for the Master Health Education, with which you obtain a state-recognised teaching qualification and can work nationwide as a teacher at vocational schools.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Is the preparatory study relevant for me?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "If you have completed a Bachelor's programme in the fields of medicine, health, nursing or social affairs with 180 ECTS credits, you need an additional 30 ECTS credits in the pedagogical area in order to study the Master Health Education. With the preparatory programme, you reach a total of 210 ECTS credits and thus meet the admission requirements.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Which modules will I study?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "To prepare for the Master's programme, you study three pedagogical double modules.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Any questions?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "If you are not sure whether you need to complete the preparatory programme, we will gladly advise you and look at your individual starting situation together. Of course we are also happy to answer further questions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Who to contact? For more information, contact Margarida Rischawy-Mariano, research associate of the Master Health Education programme.\nE-mail: margarida.rischawy-mariano@hi-university.de\nPhone: 030 2 59 30 92 17",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Our study adviser Franziska Granzow is of course also available to answer your questions.\nFranziska Granzow: studienberatung@hi-university.de\nPhone: 030 259 30 92 47",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "More information is also available on the IB Hochschule website – see the Master's programme page. All info on the preparatory programme at a glance can be found here!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Startklar machen!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wir bereiten Sie optimal auf das Masterstudium Gesundheitspädagogik vor, mit dem Sie eine staatlich anerkannte Lehrbefähigung erhalten und bundesweit an Berufsfachschulen als Lehrperson tätig werden können.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Vorstudium für mich relevant?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wenn Sie einen Bachelorstudiengang in den Bereichen Medizin, Gesundheit, Pflege oder Soziales mit 180 ECTS Punkten absolviert haben, benötigen Sie zusätzlich 30 ECTS Punkte im pädagogischen Bereich, um den Masterstudiengang Gesundheitspädagogik studieren zu können. Mit dem Vorstudium ist also gewährleistet, dass Sie in der Summe auf 210 ECTS Punkte kommen und damit die Zugangsvoraussetzungen erfüllen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Welche Module werde ich studieren?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Zur Vorbereitung auf das Masterstudium studieren Sie drei pädagogische Doppelmodule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Noch Fragen?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Wenn Sie nicht sicher sind, ob Sie das Vorstudium absolvieren müssen, dann beraten wir Sie gerne und werden Ihre individuelle Ausgangslage gemeinsam mit Ihnen anschauen. Selbstverständlich stehen wir Ihnen zur Beantwortung weiterer Fragen gerne zur Verfügung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Bei wem kann ich melden? Für weitere Informationen melden Sie sich am besten bei Margarida Rischawy-Mariano, wissenschaftliche Mitarbeiterin des Masterstudiengangs Gesundheitspädagogik.\nMail: margarida.rischawy-mariano@hi-university.de\nTelefon: 030 2 59 30 92 17",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Selbstverständlich steht Ihnen auch unsere Studienberaterin Franziska Granzow zur Beantwortung Ihrer Fragen bereit.\nFranziska Granzow: studienberatung@hi-university.de\nTelefon: 030 259 30 92 47",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Weitere Informationen sind auch auf der Webseite der IB Hochschule eingestellt, siehe Masterstudiengang. Alle Infos zum Propädeutikum auf einen Blick finden Sie hier!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/interesse-am-masterstudium-gesundheitspaedagogik-aber-zu-wenig-ects-punkte/image_01.jpg",
+    "alt": "Preparatory programme for the Master Health Education"
+  },
+  "gallery": [],
+  "publishDate": "2022-03-15T09:00:00.000Z",
+  "status": "published"
+}

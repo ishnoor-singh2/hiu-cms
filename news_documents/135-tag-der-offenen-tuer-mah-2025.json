@@ -1,0 +1,147 @@
+{
+  "_type": "news",
+  "_id": "news.tag-der-offenen-tuer-mah-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "tag-der-offenen-tuer-an-der-medizinischen-akademie-hamburg"
+  },
+  "title": {
+    "en": "Open Day at Medical Academy Hamburg in cooperation with IB Hochschule",
+    "de": "Tag der offenen Tür an der Medizinischen Akademie Hamburg in Kooperation mit der IB Hochschule"
+  },
+  "summary": {
+    "en": "On 11 February 2025, Medical Academy Hamburg (MAH) opened its doors and offered comprehensive information from 16:00 to 18:00 on the training courses in Occupational Therapy, Speech and Language Therapy and Physiotherapy.",
+    "de": "Am 11. Februar 2025 öffnete die Medizinische Akademie Hamburg (MAH) ihre Türen für alle Interessierten und bot von 16 bis 18 Uhr umfassende Informationen zu den Ausbildungsgängen Ergotherapie, Logopädie und Physiotherapie an."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 11 February 2025, the Medical Academy Hamburg (MAH) opened its doors to all interested parties and offered comprehensive information from 16:00 to 18:00 on the training courses in Occupational Therapy, Speech and Language Therapy and Physiotherapy. The event offered not only the opportunity to get to know the training institution but also enabled visitors to exchange with dedicated lecturers and to experience the varied teaching methods first-hand.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Together with IB Hochschule für Gesundheit und Soziales, visitors could also inform themselves about the training- and part-time programme Applied Therapy Science. Particularly highlighted was the close interlinking of theoretical training and practical application, which opens the best career chances in healthcare professions for graduates.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "At the Open Day, as a cooperating partner in Hamburg, we could welcome and comprehensively inform numerous \"students of tomorrow\". Dean of Studies Prof. Dr. Silke Brenne and Study Coordinator Jan-Christoph Thiele were at the disposal of young people to answer questions and give personal insights into university life. The day offered an excellent opportunity to get a first impression of our university and inspire potential study candidates.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The cooperation between MAH and IB Hochschule offers an optimal connection between practice-oriented training and scientific further education. The numerous visitors at the Open Day showed great interest in the diverse possibilities in healthcare professions. Heartfelt thanks to all involved, especially Asklepios Klinik Harburg, who supported this event. We look forward to welcoming many visitors as students at our academy and university soon!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 11. Februar 2025 öffnete die Medizinische Akademie Hamburg (MAH) ihre Türen für alle Interessierten und bot von 16 bis 18 Uhr umfassende Informationen zu den Ausbildungsgängen Ergotherapie, Logopädie und Physiotherapie an. Die Veranstaltung bot nicht nur die Möglichkeit, die Ausbildungseinrichtung kennenzulernen, sondern ermöglichte es den Besucher*innen auch, sich mit engagierten Dozent*innen auszutauschen und die vielfältigen Lehrmethoden hautnah zu erleben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Zusammen mit der IB Hochschule für Gesundheit und Soziales konnten die Besucher*innen sich zudem über den ausbildungs- und berufsbegleitenden Studiengang Angewandte Therapiewissenschaft informieren. Besonders hervorgehoben wurde dabei die enge Verzahnung von theoretischer Ausbildung und praktischer Anwendung, die den Absolvent*innen beste Karrierechancen in den Gesundheitsberufen eröffnet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Am Tag der offenen Tür konnten wir als kooperierender Partner in Hamburg zahlreiche „Studierende von morgen\" willkommen heißen und umfassend informieren. Studiendekanin Prof. Dr. Silke Brenne und Studienkoordinator Jan-Christoph Thiele standen den jungen Menschen zur Verfügung, um Fragen zu beantworten und persönliche Einblicke in das Hochschulleben zu geben. Der Tag bot eine hervorragende Gelegenheit, sich einen ersten Eindruck von unserer Hochschule zu verschaffen und potenzielle Studieninteressierte zu inspirieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Kooperation zwischen der MAH und der IB Hochschule bietet eine optimale Verbindung zwischen praxisnaher Ausbildung und wissenschaftlicher Weiterbildung. Die zahlreichen Besucher*innen des Tag der offenen Tür zeigten das große Interesse an den vielseitigen Möglichkeiten in den Gesundheitsberufen. Ein herzlicher Dank gilt allen Beteiligten, insbesondere der Asklepios Klinik Harburg, die diese Veranstaltung unterstützt haben. Wir freuen uns darauf, viele der Besucher*innen bald als Studierende an unserer Akademie und Hochschule begrüßen zu dürfen!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-an-der-medizinischen-akademie-hamburg/image_01.jpg",
+    "alt": "Open Day MAH Hamburg"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-offenen-tuer-an-der-medizinischen-akademie-hamburg/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-02-21T09:00:00.000Z",
+  "status": "published"
+}

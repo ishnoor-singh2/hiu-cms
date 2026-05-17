@@ -1,0 +1,203 @@
+{
+  "_type": "news",
+  "_id": "news.campusgeschichten-hsw-bautsch",
+  "slug": {
+    "_type": "slug",
+    "current": "campusgeschichten-einblicke-ins-hochschulwochenende"
+  },
+  "title": {
+    "en": "Between individual exam achievement and shared pizza orders: how a university weekend at IB Hochschule unfolds",
+    "de": "Zwischen individueller Prüfungsleistung und gemeinsamer Pizzabestellung: so läuft ein Hochschulwochenende an der IB Hochschule ab"
+  },
+  "summary": {
+    "en": "Stefanie Bautsch, graduate of the Health Education (B.A.) programme, describes what a university weekend at IB Hochschule means for her – more than just lectures and exams. It's about exchange, community and personal development.",
+    "de": "Stefanie Bautsch, Absolventin des Studiengangs Gesundheitspädagogik (B.A.), beschreibt, was ein Hochschulwochenende an der IB Hochschule für sie bedeutet – mehr als nur Vorlesungen und Prüfungsleistungen. Es geht um Austausch, Gemeinschaft und persönliche Entwicklung."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "\"And it is a shared path that also follows the professional successes, the opening of new possibilities of each individual. Sometimes there are setbacks or doubts but also private happiness that then sometimes extends the programme.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "With these words Stefanie Bautsch, graduate of the Health Education (B.A.) programme, describes for us what a university weekend at IB Hochschule means for her – more than just lectures and exam achievements. It's about exchange, community and personal development.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The Health Education (B.A.) programmes and the Applied Therapy Science (B.Sc.) programme are designed as part-time or training-integrated. Their teaching formats are based on the needs of working students – with in-person phases on weekends. Unlike the full-time programmes of Psychology or Digital Health, where teaching takes place during the week, students come together on campus once a month from Friday to Sunday.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The model offers many advantages: intensive specialist input, lively group work and close personal contact. But how exactly does such a weekend proceed – and what makes it special? We spoke with Stefanie Bautsch, who gives us an insight into a university weekend at IB Hochschule on the Health Campus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "She describes the weekend starting with the study letter framing the topic and assignment. Friday often starts online with a possible on-site option. Each university weekend includes an exam achievement – presentations, written assignments, exams, videos or screencasts – in group work or individual performance. The various forms of assessment bring variety and creativity to the programme. Many students find their way into teaching during their studies, and presentations in front of fellow students still make even confident teachers nervous. Tips are exchanged and experiences gathered, and reflection often missed in everyday teaching takes place through feedback.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The special thing about university weekends is the intensive interdisciplinary exchange that creates deep insights into other professional fields. Of course there are also topics that personally touch or move, that can stimulate intensive exchange in groups. It is a shared path that also follows professional successes and the opening of new possibilities. Many thanks to Stefanie Bautsch for the open conversation and all the best for the future as an IB Hochschule graduate!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "„Und es ist ein gemeinsamer Weg, der auch die beruflichen Erfolge, das Eröffnen neuer Möglichkeiten jedes Einzelnen und jeder Einzelnen mitverfolgt. Manchmal gibt es Rückschläge oder Zweifel aber auch privates Glück, das den Studiengang dann auch mal verlängert.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mit diesen Worten beschreibt uns Stefanie Bautsch, Absolventin des Studiengangs Gesundheitspädagogik (B.A.), was ein Hochschulwochenende an der IB Hochschule für sie bedeutet – mehr als nur Vorlesungen und Prüfungsleistungen. Es geht um Austausch, Gemeinschaft und persönliche Entwicklung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Studiengänge der Gesundheitspädagogik (B.A.) sowie der Angewandten Therapiewissenschaft (B.Sc.) sind berufsbegleitend oder ausbildungsintegrierend konzipiert. Ihre Lehrformate orientieren sich an den Bedürfnissen berufstätiger Studierender – mit Präsenzphasen an den Wochenenden. Im Unterschied zu den Vollzeitstudiengängen der Psychologie oder Digital Health, bei denen der Unterricht innerhalb der Woche stattfindet, kommen die Studierenden einmal im Monat von Freitag bis Sonntag auf dem Campus zusammen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Das Modell bietet viele Vorteile: intensiver fachlicher Input, lebendige Gruppenarbeiten und ein enger persönlicher Kontakt. Doch wie genau läuft so ein Wochenende ab – und was macht es besonders? Wir haben mit Stefanie Bautsch gesprochen, die uns einen Einblick gibt in so ein Hochschulwochenende an der IB Hochschule auf dem Gesundheitscampus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Das Hochschulwochenende beginnt mit dem Studienbrief, in dem das Thema und die Aufgabe gerahmt sind. Freitags startet der Einstieg oft online; für Anreisende kann auch ein Raum bereitgestellt werden. Jedes Hochschulwochenende beinhaltet eine Prüfungsleistung – in Form von Präsentationen, Hausarbeiten, Klausuren oder Video-/Screencast-Präsentationen, in Gruppen- oder Einzelleistung. Die verschiedenen Leistungsformen bringen viel Abwechslung und Kreativität in das Studium. Viele finden während des Studiums ihren Einstieg in die Lehre; dennoch sind die Präsentationen vor anderen Kollegen*innen nochmal aufregender. Tipps werden untereinander ausgetauscht, durch Feedback findet die wichtige Reflexion statt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Das Besondere an den Hochschulwochenenden ist der intensive interdisziplinäre Austausch, der tiefe Einblicke in andere Berufsfelder schafft. Selbstverständlich gibt es auch Themen, die persönlich berühren oder bewegen und einen intensiven Austausch anregen. Es ist ein gemeinsamer Weg, der auch die beruflichen Erfolge mitverfolgt. Tausend Dank an Stefanie Bautsch für das offene Gespräch und alles Gute für die Zukunft als Absolventin der IB Hochschule!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/campusgeschichten-einblicke-ins-hochschulwochenende/image_01.jpg",
+    "alt": "Einblicke ins Hochschulwochenende der IB Hochschule von Stefanie Bautsch"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campusgeschichten-einblicke-ins-hochschulwochenende/image_02.jpg",
+      "alt": "Einblicke ins Hochschulwochenende der IB Hochschule"
+    }
+  ],
+  "publishDate": "2025-04-28T09:00:00.000Z",
+  "status": "published"
+}

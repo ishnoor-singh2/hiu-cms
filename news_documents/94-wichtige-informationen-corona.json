@@ -1,0 +1,337 @@
+{
+  "_type": "news",
+  "_id": "news.wichtige-informationen-coronavirus-2020",
+  "slug": {
+    "_type": "slug",
+    "current": "wichtige-informationen-zum-thema-coronavirus"
+  },
+  "title": {
+    "en": "Important information on the coronavirus",
+    "de": "Wichtige Informationen zum Thema: Coronavirus"
+  },
+  "summary": {
+    "en": "The start of in-person lectures in summer semester 2020 is postponed to 20.04.2020 at all study centres for full-time programmes, following a recommendation by the Berlin Senate Chancellery for Science and Research.",
+    "de": "Der Start der Präsenzvorlesungen im Sommersemester 2020 wird an allen Studienzentren für die Vollzeitstudiengänge auf den 20.04.2020 verschoben, entsprechend einer Empfehlung der Berliner Senatskanzlei für Wissenschaft und Forschung."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The start of in-person lectures in summer semester 2020 is postponed to 20.04.2020 at all study centres of the university for full-time programmes. With this we follow a recommendation of the Berlin Senate Chancellery for Science and Research.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Please note that it is likely that, from 06.04.2020 (the actual start of the lecture period), events can take place online.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We will inform you about the planning as soon as possible.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "For all part-time and training-integrated programmes: in-person events at the planned in-person weekends at all study centres will not take place up to 19.04.2020.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "We are examining whether it is possible to hold the planned events online on the weekend and/or online semester-accompanying etc. Please keep the weekend free and prepare as planned.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "We will inform you about our planning as soon as possible.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "We assume that examination conduct is not endangered.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Written assignments can be submitted electronically as PDFs via Moodle from Monday 16.03.2020 to 19.04.2020. We are currently still creating the technical possibilities in all courses for this. Lecturers will also be informed of this change at the same time. Please be patient for a few more days.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Unfortunately, the graduation ceremonies planned for 07.05.2020 in Berlin and elsewhere must be postponed. New dates will be announced in good time.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "We must assume that the situation may change daily. We therefore ask you to regularly check your IB Hochschule email address and wait until we have precise plans.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "In case of questions and uncertainties, please contact the university leadership.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der Start der Präsenzvorlesungen im Sommersemester 2020 wird an allen Studienzentren der Hochschule für die Vollzeitstudiengänge auf den 20.04.2020 verschoben. Damit folgen wir einer Empfehlung der Berliner Senatskanzlei für Wissenschaft und Forschung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Bitte beachten Sie, dass es wahrscheinlich ist, dass ab dem 06.04.2020 (eigentlicher Start der Vorlesungszeit) Veranstaltungen online stattfinden können.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir werden Sie so zeitnah wie möglich über die Planung informieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Für alle berufs- und ausbildungsbegleitende Studiengänge gilt: Die Präsenzveranstaltungen an den geplanten Präsenzwochenenden an allen Studienzentren werden bis zum 19.04.2020 nicht stattfinden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Wir befinden uns in der Prüfung, ob es möglich ist, die geplanten Veranstaltungen online gestützt an dem Wochenende und/oder online gestützt semesterbegleitend o.Ä. stattfinden zu lassen. Bitte halten Sie sich daher das Wochenende noch frei und führen Sie wie geplant die Vorbereitungen durch.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Auch hier werden wir Sie so zeitnah wie möglich über unsere Planungen informieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Wir gehen davon aus, dass die Prüfungsabnahmen nicht gefährdet sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Hausarbeiten können in der Zeit ab Montag, den 16.03.2020 bis zum 19.04.2020 über Moodle elektronisch als PDF abgegeben werden. Wir schaffen derzeit noch in allen Kursen die technischen Möglichkeiten dazu. Auch werden zeitgleich die Lehrenden über diese Neuerung informiert. Bitte gedulden Sie sich daher noch ein paar Tage.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Die für den 07.05.2020 in Berlin bzw. auch andere geplante Absolvent*innenfeiern müssen leider verschoben werden. Neue Termine werden rechtzeitig bekannt gegeben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Wir müssen davon ausgehen, dass sich die Situation täglich ändern kann. Wir bitten Sie daher, Ihre E-Mailadresse der Hochschule regelmäßig abzurufen und abzuwarten, bis wir genaue Planungen haben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Im Falle von Rückfragen und Unsicherheiten können Sie sich gerne an die Hochschulleitung wenden.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wichtige-informationen-zum-thema-coronavirus/image_01.jpg",
+    "alt": "Important information coronavirus"
+  },
+  "gallery": [],
+  "publishDate": "2020-03-13T09:00:00.000Z",
+  "status": "published"
+}

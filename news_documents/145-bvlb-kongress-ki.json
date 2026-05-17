@@ -1,0 +1,253 @@
+{
+  "_type": "news",
+  "_id": "news.bvlb-berufsbildungskongress-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "bvlb-berufsbildungskongress-2024-revolutioniert-ki-die-unterrichtsplanung"
+  },
+  "title": {
+    "en": "At the BvLB Vocational Education Congress 2024: does AI revolutionise lesson planning?",
+    "de": "Auf dem BvLB Berufsbildungskongress 2024: Revolutioniert KI die Unterrichtsplanung?"
+  },
+  "summary": {
+    "en": "On 21 and 22 November 2024 the Vocational Education Congress of BvLB took place in Berlin under the motto \"Shape the Future\". The focus was on challenges of vocational education and how innovative solutions can be designed.",
+    "de": "Am 21. und 22. November 2024 fand in Berlin der Berufsbildungskongress des BvLB unter dem Motto „Zukunft gestalten\" statt. Im Fokus standen die Herausforderungen der beruflichen Bildung und die Frage, wie innovative Lösungen gestaltet werden können."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 21 and 22 November 2024 the Vocational Education Congress of BvLB took place in Berlin under the motto \"Shape the Future\". The focus was on the challenges of vocational education and the question how innovative solutions can be designed. Experts and specialist representatives from different areas came together to jointly develop new ideas and enter into dialogue with guests from politics, business, school administration.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "There was an exciting, future-oriented programme with keynote speakers, panel discussion, backstage talk and walk & talk with many opportunities to exchange. In thinking spaces participants could actively engage and bring in their perspectives.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "One of the thinking spaces dedicated itself to \"teaching and learning concepts of the future\". Prof. Dr. Markus Dormann from IB Hochschule led through the latest developments of vocational education and illuminated the chances and limits of Artificial Intelligence (AI) in teaching-learning processes as well as digital examination formats.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We use the opportunity to dive somewhat deeper into the topic and ask Prof. Dr. Markus Dormann a few questions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "AI and lesson planning: You presented the didactic AI approach \"Luke\" you developed. Can you briefly explain how \"Luke\" specifically supports lesson and competence modelling? – With the didactically optimised Large Language Model \"LUKE\", we use Artificial Intelligence to model competence-promoting teaching. We are thus able to realise planning processes for building action competence more easily and use the AI's capabilities to better integrate competence orientation into teaching and lessons.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "AI in education and ethics: You emphasised that the ethical design of AI in education plays a central role. Which ethical challenges do you see, and how can they be handled in practice? – Various aspects must be considered: sensitive handling of learner data and data protection, responsible integration of AI into work worlds, and responsible coexistence of AI in professional fields. Currently the research field develops very fast, and it is important not to lose touch in the ethical area. A very important task that will demand much of us in the future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Practical examples and perspectives: You mentioned that you presented one of the most modern Learning Management Systems (LMS) with nu.education. Can you give us an example of how AI and digital examinations are successfully used in this context, and what future perspectives do you see for the use of AI in schools and vocational education? – nu.education is very far in implementation, e.g. regarding question design with AI support. The topic of digital exams is yet another field; here different development strands run. Beyond technical modelling, didactics must develop new competence-based question formats. Technically we are already at a point that would allow completely flexible examination – any time, anywhere, anyhow. The implementation in institutions will, however, still take some time.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "We warmly thank Prof. Dr. Markus Dormann for his exciting insights. The Vocational Education Congress 2024 again showed how important exchange about future topics like AI and ethics is for designing an innovative education landscape.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 21. und 22. November 2024 fand in Berlin der Berufsbildungskongress des BvLB unter dem Motto „Zukunft gestalten\" statt. Im Fokus standen die Herausforderungen der beruflichen Bildung und die Frage, wie innovative Lösungen gestaltet werden können. Expertinnen und Experten aus unterschiedlichen Bereichen kamen zusammen, um gemeinsam neue Ideen zu entwickeln und mit Gästen aus Politik, Wirtschaft, Schulverwaltung und Schuladministration in den Dialog zu treten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Es wurde ein spannendes, zukunftsorientiertes Programm mit Keynote-Speakern, Podiumsdiskussion und Backstage-Talk sowie einem Walk and Talk mit vielen Gelegenheiten sich auszutauschen. In Denkräumen konnten sich die Teilnehmenden aktiv beteiligen und ihre Perspektiven mit einbringen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Einer der Denkräume widmete sich den „Lehr- und Lernkonzepten der Zukunft\". Prof. Dr. Markus Dormann der IB Hochschule führte durch die neuesten Entwicklungen der beruflichen Bildung und beleuchtete dabei die Chancen und Grenzen von künstlicher Intelligenz (KI) bei Lehr- und Lernprozessen sowie digitalen Prüfungsformaten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir nutzen die Gelegenheit, um etwas tiefer in das Thema einzutauchen und stellen Prof. Dr. Markus Dormann ein paar Fragen dazu.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "KI und Unterrichtsplanung: Sie haben den von Ihnen entwickelten didaktischen KI-Ansatz „Luke\" vorgestellt. Können Sie uns kurz erklären, wie „Luke\" konkret bei der Unterrichts- und Kompetenzmodellierung unterstützt? – Mit dem didaktisch optimierten Large Language Model „LUKE\" nutzen wir Künstliche Intelligenz zur Modellierung von kompetenzfördernder Lehre. Wir sind damit in der Lage Planungsprozesse zum Aufbau von Handlungskompetenz leichter realisieren zu können und die Fähigkeiten der AI zu nutzen, um Kompetenzorientierung besser in Lehre und Unterricht zu integrieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "KI in der Ausbildung und Ethik: Sie haben betont, dass die ethische Gestaltung von KI in der Ausbildung eine zentrale Rolle spielt. Welche ethischen Herausforderungen sehen Sie dabei, und wie kann in der Praxis damit umgegangen werden? – Hier sind verschiedene Aspekte zu berücksichtigen: u.a. müssen wir unser Augenmerk auf einen sensiblen Umgang mit Lernerdaten und Datenschutz, eine verantwortungsvolle Integration von KI in Berufswelten und eine verantwortungsvolle Koexistenz von KI in Berufsfeldern legen. Aktuell entwickelt sich das Forschungsfeld sehr schnell, und es ist wichtig, im ethischen Bereich nicht den Anschluss zu verlieren. Eine sehr wichtige Aufgabe, die uns in Zukunft einiges abverlangen wird.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Praxisbeispiele und Perspektiven: Sie haben erwähnt, dass Sie mit nu.education eines der modernsten Learning Management Systeme (LMS) vorgestellt haben. Können Sie uns ein Beispiel geben, wie KI und digitale Prüfungen in diesem Kontext erfolgreich eingesetzt werden, und welche Zukunftsperspektiven sehen Sie für den Einsatz von KI in Schulen und der beruflichen Ausbildung? – In der Tat ist nu.education gerade, was z. B. die Aufgabenkonzeptionierung mit KI-Unterstützung betrifft, sehr weit bei der Umsetzung. Hier ist es beeindruckend, was bereits alles möglich ist. Das Thema digitale Prüfungen ist hier nochmal ein weiteres Feld. Neben einer technischen Modellierung muss die Didaktik hier auch neue kompetenzbasierte Aufgabenformate entwickeln. Schlussendlich stehen wir technisch bereits heute an einem Punkt, der ein völlig flexibles Prüfen erlauben würde. Also in gewisser Weise: anytime, anywhere, anyhow. Die Implementierung in die Institutionen wird gleichwohl noch etwas auf sich warten lassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Wir bedanken uns herzlich bei Prof. Dr. Markus Dormann für seine spannenden Einblicke. Der Berufsbildungskongress 2024 hat einmal mehr gezeigt, wie wichtig der Austausch über Zukunftsthemen wie KI und Ethik für die Gestaltung einer innovativen Bildungslandschaft ist.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/bvlb-berufsbildungskongress-2024-revolutioniert-ki-die-unterrichtsplanung/image_01.jpg",
+    "alt": "Prof. Dormann at BvLB congress"
+  },
+  "gallery": [],
+  "publishDate": "2024-12-05T09:00:00.000Z",
+  "status": "published"
+}

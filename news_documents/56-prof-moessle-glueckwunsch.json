@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.herzlichen-glueckwunsch-prof-dr-regine-moessle",
+  "slug": {
+    "_type": "slug",
+    "current": "herzlichen-glueckwunsch-prof-dr-regine-moessle"
+  },
+  "title": {
+    "en": "Congratulations, Prof. Dr. Regine Mößle!",
+    "de": "Herzlichen Glückwunsch, Prof. Dr. Regine Mößle!"
+  },
+  "summary": {
+    "en": "Our Stuttgart Study Centre gets reinforcement: from 1 February 2022, Dr. Mößle started there in the Psychology department.",
+    "de": "Unser Studienzentrum Stuttgart bekommt Unterstützung: Zum 1. Februar 2022 startete dort Frau Dr. Mößle für den Fachbereich der Psychologie."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Our Stuttgart Study Centre is getting reinforcement: on 1 February 2022, Dr. Mößle started there for the Psychology department.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Ms Mößle brings theoretical knowledge and research experience in the areas of self-stabilisation across the lifespan, the penal system and criminological topics. Practically, she has been working in psychosomatic rehabilitation for several years and has most recently been intensively dealing with rehabilitation in post-COVID.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The IB Hochschule team warmly welcomes Ms Mößle. We look forward to an interesting and exciting collaboration!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "More information about Prof. Dr. Regine Mößle >",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Unser Studienzentrum Stuttgart bekommt Unterstützung: zum 01.02.2022 startete dort Frau Dr. Mößle für den Fachbereich der Psychologie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Frau Mößle bringt theoretisches Wissen und Forschungserfahrung in den Bereichen der Selbststabilisierung über die Lebensspanne, Strafvollzug und kriminologischen Themen mit. Praktisch ist sie seit mehreren Jahren in der psychosomatischen Rehabilitation tätig, zuletzt beschäftigte sie sich intensiv mit der Rehabilitation bei Post-COVID.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Das Team der IB Hochschule begrüßt Frau Mößle ganz herzlich. Wir freuen uns auf eine interessante und spannende Zusammenarbeit!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Weitere Informationen zu Prof. Dr. Regine Mößle >",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/herzlichen-glueckwunsch-prof-dr-regine-moessle/image_01.jpg",
+    "alt": "Ernennung zur Professorin"
+  },
+  "gallery": [],
+  "publishDate": "2022-02-25T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,245 @@
+{
+  "_type": "news",
+  "_id": "news.einsamkeit-als-gesundheitsrisiko-besonders-fuer-junge-menschen",
+  "slug": {
+    "_type": "slug",
+    "current": "einsamkeit-als-gesundheitsrisiko-besonders-fuer-junge-menschen"
+  },
+  "title": {
+    "en": "Loneliness as a health risk – especially for young people",
+    "de": "Einsamkeit als Gesundheitsrisiko – besonders für junge Menschen"
+  },
+  "summary": {
+    "en": "Prof. Dr. Tajana Grießmann-Gehrt was invited to give a scientific talk on loneliness in adolescents and young adults as an underestimated health risk at the Loneliness Summit in Reinickendorf town hall.",
+    "de": "Prof. Dr. Tajana Grießmann-Gehrt wurde auf dem Einsamkeitsgipfel im Rathaus Reinickendorf für einen wissenschaftlichen Vortrag zum Thema „Einsamkeit bei Jugendlichen und jungen Erwachsenen – ein unterschätztes Gesundheitsrisiko\" eingeladen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 16 December 2025, our professor Dr. Tajana Grießmann-Gehrt was invited to give a scientific talk at the Loneliness Summit in Reinickendorf town hall (Berlin) on the topic: \"Loneliness in adolescents and young adults – an underestimated health risk\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "An important topic that shows: loneliness affects not only older people – young people in particular are increasingly at risk.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "\"In public perception and in clinical practice, loneliness has for decades primarily been treated as a geriatric syndrome. It turns out, however, that the life phases of adolescence and early adulthood, which we want to focus on today, are not only characterised by maximum social networking, high interaction density or subjective feelings of belonging, as was long assumed.\" – Prof. Dr. Tajana Grießmann-Gehrt",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "In addition to numerous interested guests, four schools participated in the Loneliness Summit. In four working groups, participants reflected on and discussed how to address this topic in a practice-oriented way. The day, prepared over a long period, was a complete success!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The second photo also shows the Mayor of Reinickendorf, Ms. Demirbüken-Wegner, who hosted the day.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The annual Loneliness Summit brings together science, practice and local initiatives. This year, the young generation was particularly in focus – adolescents and young adults whose loneliness often goes unnoticed in everyday life. Through expert presentations, workshops and exchange formats, they should be given a voice and new ways of networking should be created.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Reinickendorf district thereby sends a clear message: nobody should be left alone with the feeling of loneliness.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 16.12.2025 wurde unsere Professorin Dr. Tajana Grießmann-Gehrt auf dem Einsamkeitsgipfel im Rathaus Reinickendorf (Berlin) für einen wissenschaftlichen Vortrag zum Thema eingeladen:",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "„Einsamkeit bei Jugendlichen und jungen Erwachsenen – ein unterschätztes Gesundheitsrisiko\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ein wichtiges Thema, das zeigt: Einsamkeit betrifft nicht nur ältere Menschen – gerade junge Menschen sind zunehmend gefährdet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "„In der öffentlichen Wahrnehmung und in der klinischen Praxis wurde Einsamkeit über Jahrzehnte primär als geriatrisches Syndrom verhandelt. Es zeigt sich aber, dass die Lebensphasen während der Adoleszenz und des frühen Erwachsenenalters, die wir an diesem Tag in den Blick nehmen wollen, nicht nur geprägt sind von maximaler sozialer Vernetzung, einer hohen Interaktionsdichte oder subjektiven Gefühlen von Dazugehörigkeit, wie lange angenommen.\" – Prof. Dr. Tajana Grießmann-Gehrt",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Neben zahlreichen interessierten Gästen nahmen vier Schulen am Einsamkeitsgipfel teil. In vier Arbeitsgruppen wurde reflektiert und diskutiert, wie diesem Thema praxisnah begegnet werden kann. Der lang vorbereitete Tag war ein voller Erfolg!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Auf dem zweiten Bild ist zudem die Bürgermeisterin von Reinickendorf, Frau Demirbüken-Wegner, zu sehen, die den Tag ausgerichtet hat.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Der jährlich stattfindende Einsamkeitsgipfel bringt Wissenschaft, Praxis und lokale Initiativen zusammen. In diesem Jahr stand besonders die junge Generation im Fokus – Jugendliche und junge Erwachsene, deren Einsamkeit im Alltag häufig unbemerkt bleibt. Durch Fachvorträge, Workshops und Austauschformate soll ihnen eine Stimme gegeben und neue Wege der Vernetzung geschaffen werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Der Bezirk Reinickendorf macht damit deutlich: Niemand soll mit dem Gefühl der Einsamkeit allein bleiben.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/einsamkeit-als-gesundheitsrisiko-besonders-fuer-junge-menschen/image_01.jpg",
+    "alt": "Loneliness Summit in Reinickendorf"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/einsamkeit-als-gesundheitsrisiko-besonders-fuer-junge-menschen/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2026-01-06T09:00:00.000Z",
+  "status": "published"
+}

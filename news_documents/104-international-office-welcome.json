@@ -1,0 +1,214 @@
+{
+  "_type": "news",
+  "_id": "news.international-office-welcome-to-germany",
+  "slug": {
+    "_type": "slug",
+    "current": "international-office-welcome-to-germany"
+  },
+  "title": {
+    "en": "International Office – Welcome to Germany",
+    "de": "International Office – Welcome to Germany"
+  },
+  "summary": {
+    "en": "Welcome to Germany! Starting in summer semester 2026, the first international students will arrive at IB Hochschule – moving into the new House 2 on the Health Campus. The International Office team has been launched.",
+    "de": "Welcome to Germany! Ab dem Sommersemester 2026 begrüßen wir die ersten internationalen Studierenden an der IB Hochschule – direkt im neuen Haus 2 auf dem Gesundheitscampus. Das Team des International Office hat seine Arbeit aufgenommen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On September 4th, IB University officially kicked off its International Office with a visit from Prof. Dr. Dolores Sanchez Bengoa and Muge Akgedik Akoglanoglu – two experienced experts who will shape the international student experience at our university.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Starting in the summer semester 2026, the first international students will arrive at IB University – moving directly into our brand-new House 2 on the Health Campus. Surrounded by green spaces and modern facilities, this will be their home away from home.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The International Office is the go-to place for international students. It's not just an advice centre – it's a place of welcome, guidance and community.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Prof. Dr. Dolores Sanchez Bengoa and Muge Akgedik Akoglanoglu bring many years of international experience from Hochschule der Wirtschaft für Management (HdWM) Mannheim. Their goal: to make sure no student feels \"lost\" in their new country.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "With the launch of international degree programmes in Digital Health (State Accreditation In Progress) and Health Care Education and Educational Management (State Accreditation In Progress), the International Office will soon be fully up and running. Until then, preparations are in full swing – from student handbooks to support services. The countdown has begun – and we can't wait to say: Welcome to Germany. Welcome to IB University.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "„Welcome to Germany!\" so oder ähnlich werden die ersten Worte sein, mit denen wir unsere internationalen Studierenden an der IB Hochschule herzlich begrüßen werden. Ab dem kommenden Sommersemester 2026 erwarten wir die ersten „Internationals\" bei uns in der IB Hochschule – und zwar direkt in unserem neuen Gebäude, dem Haus 2 auf dem Gesundheitscampus, das derzeit noch in den letzten Zügen der Fertigstellung steckt. Doch mit dem Einzug fängt die eigentliche Arbeit erst richtig an.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Was sind die Aufgaben des International Office?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Das International Office ist die zentrale Anlaufstelle für alle internationalen Studierenden an unserer Hochschule. Hier geht es nicht nur um Formalitäten, sondern vor allem um Orientierung, Unterstützung und das Gefühl, willkommen zu sein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Unsere Aufgabe ist es, die Studierenden auf ihrem Weg in Deutschland zu begleiten – von den ersten Schritten bis hin zum Studienalltag. Mit Prof. Dr. Dolores Sanches Bengoa und Muge Akoglanoglu haben wir zwei erfahrene Ansprechpartnerinnen gewonnen, die das International Office an der IB Hochschule aufbauen werden. Beide bringen langjährige Erfahrung von der HdWM aus Mannheim mit und wissen genau, welche Fragen und Herausforderungen internationale Studierende mitbringen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Mit dem Start der internationalen Studiengänge Digital Health (in staatlicher Genehmigung) und Health Care Education and Educational Management (in staatlicher Genehmigung) wird das International Office seine Arbeit aufnehmen. Bis dahin bereiten wir uns intensiv vor, damit sich unsere neuen Studierenden von Anfang an willkommen und unterstützt fühlen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Wir haben uns jedenfalls sehr über den Besuch von Dolores und Muge gefreut – und sind überzeugt, dass das International Office an der IB Hochschule in den besten Händen ist.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/international-office-welcome-to-germany/image_01.jpg",
+    "alt": "International Office at IB Hochschule"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/international-office-welcome-to-germany/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/international-office-welcome-to-germany/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/international-office-welcome-to-germany/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/international-office-welcome-to-germany/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/international-office-welcome-to-germany/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/international-office-welcome-to-germany/image_07.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-09-08T09:00:00.000Z",
+  "status": "published"
+}

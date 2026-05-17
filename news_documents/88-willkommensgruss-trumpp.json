@@ -1,0 +1,57 @@
+{
+  "_type": "news",
+  "_id": "news.willkommensgruss-prof-trumpp",
+  "slug": {
+    "_type": "slug",
+    "current": "willkommensgruss-von-herrn-prof-dr-trumpp-der-ib-hochschule-fuer-gesundheit-und-soziales"
+  },
+  "title": {
+    "en": "Welcome greeting from Prof. Dr. Trumpp of IB Hochschule für Gesundheit und Soziales",
+    "de": "Willkommensgruß von Herrn Prof. Dr. Trumpp der IB Hochschule für Gesundheit und Soziales"
+  },
+  "summary": {
+    "en": "We warmly welcome you to the new summer semester 2020. In this rather unusual time, IB Hochschule has shown that all 92 Bachelor exams were also successfully held online. Teaching and study operations are secured.",
+    "de": "Wir begrüßen Sie ganz herzlich zum neuen Sommersemester 2020. In dieser eher ungewöhnlichen Zeit hat die IB Hochschule zeigen können, dass alle 92 Bachelorprüfungen auch online erfolgreich stattfinden konnten. Der Lehr- und Studienbetrieb ist sichergestellt."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "We warmly welcome you to the new summer semester 2020. In this rather unusual time IB Hochschule was able to show that all 92 Bachelor exams could also successfully take place online. Teaching and study operations are secured. We wish you all a good start to the new summer semester.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Wir begrüßen Sie ganz herzlich zum neuen Sommersemester 2020. In dieser eher ungewöhnlichen Zeit hat die IB Hochschule zeigen können, dass alle 92 Bachelorprüfungen auch online erfolgreich stattfinden konnten. Der Lehr- und Studienbetrieb ist sichergestellt. Wir wünschen Ihnen allen einen guten Start ins neue Sommersemester.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/willkommensgruss-von-herrn-prof-dr-trumpp-der-ib-hochschule-fuer-gesundheit-und-soziales/image_01.jpg",
+    "alt": "Welcome greeting from Prof. Dr. Trumpp"
+  },
+  "gallery": [],
+  "publishDate": "2020-04-07T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,203 @@
+{
+  "_type": "news",
+  "_id": "news.deutsche-hochschulmeisterschaft-im-judo-2023-in-konstanz",
+  "slug": {
+    "_type": "slug",
+    "current": "deutsche-hochschulmeisterschaft-im-judo-2023-in-konstanz"
+  },
+  "title": {
+    "en": "With excitement and the will to succeed: German University Judo Championship 2023 in Konstanz",
+    "de": "Mit Spannung und dem Willen zum Erfolg: Deutsche Hochschulmeisterschaft im Judo 2023 in Konstanz"
+  },
+  "summary": {
+    "en": "From 3–5 November 2023, top judo athletes from many German universities met in Konstanz for the German University Judo Championship – with almost 400 participants from 98 universities in Germany, Austria and Switzerland. IB Hochschule student Franziska Buder also took part.",
+    "de": "Vom 3. bis 5. November 2023 trafen sich hochkarätige Judoka aus vielen deutschen Hochschulen in Konstanz zur Deutschen Hochschulmeisterschaft im Judo – mit fast 400 Teilnehmenden aus 98 Hochschulen aus Deutschland, Österreich und der Schweiz. Auch IB-Hochschul-Studentin Franziska Buder war mit dabei."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "This year Konstanz was the scene of outstanding sporting achievements as top judoka from many German universities met on the judo mat. Nearly 400 athletes came to the German University Judo Championship (DHM) from 3 to 5 November 2023. It is the largest national judo tournament with students from 98 universities in Germany, Austria and Switzerland.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The high level of judo at German universities and the successful combination of studies and sport were impressively demonstrated during the final fights. After intense and gripping bouts, the winners in the different weight classes were finally crowned. IB Hochschule student Franziska Buder also took part in the championship this year.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Ms Buder shares her experiences from this year, in which she \"unfortunately only made the middle of the field\". \"I was unfortunately not entirely physically fit. In September I was ill for a total of three weeks. But the mistakes will be analysed and next year it goes into the next round.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Her nevertheless positive attitude underlines her determination and impresses us greatly. \"It was very impressive to be there, and with 10 hours of travel it wasn't exactly around the corner,\" she reports. \"The next day I was in the hall shortly after 8 a.m. I warmed up there for the first time. My weight class wasn't on yet. It took until about 1:30 p.m. for my weight class to start. By then I had warmed up two more times and was always in motion.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "After the bouts she was not entirely satisfied with her performance: it \"was only enough for the middle of the field\" and she added self-critically: \"But I have to work on the mistakes. There probably won't be another competition for me this year. My body was clearly battered at the DHM and I will use the time to fully regenerate.\" We are very impressed by such sporting fighting spirit and are happy to support it.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Overall, participation in the German University Championship was a rich experience for Franziska Buder. Her focus is now on the coming year with her bachelor's defence, the Master in Health Education and hopefully another participation in the DHM, at a location that is hopefully not quite as far away. We wish her every success!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Konstanz war dieses Jahr Schauplatz herausragender sportlicher Leistungen, als hochkarätige Judoka aus vielen deutschen Hochschulen sich auf der Judomatte trafen. Zur Deutschen Hochschulmeisterschaft im Judo (DHM) kamen vom 03. – 05. November 2023 fast 400 Teilnehmerinnen und Teilnehmer. Sie ist das größte nationale Judotournier mit Studierenden aus 98 Hochschulen aus Deutschland, Österreich und der Schweiz.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das hohe Niveau des Judo-Sports an deutschen Hochschulen und die gelungene Vereinbarkeit von Studium und Sport wurden während der Finalkämpfe eindrucksvoll unter Beweis gestellt. Nach intensiven und mitreißenden Kämpfen wurden schließlich die Gewinnerinnen und Gewinner in den unterschiedlichen Gewichtsklassen gekürt. An der Deutschen Hochschulmeisterschaft nahm dieses Jahr auch die Studentin der IB Hochschule Franziska Buder teil.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Frau Buder teilt ihre Erfahrungen von diesem Jahr mit uns, in dem es „leider nur für das Mittelfeld gereicht\" hat. „Ganz körperlich fit war ich leider nicht. Im September war ich insgesamt 3 Wochen krank. Aber die Fehler werden analysiert und nächstes Jahr geht es in die nächste Runde.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Ihre trotz allem positive Einstellung unterstreicht ihre Entschlossenheit und beeindruckt uns sehr. „Es war sehr eindrucksvoll dort zu sein und mit 10 Stunden Fahrt auch nicht gerade um die Ecke\", berichtet sie. „Am nächsten Tag ging es kurz nach 8 in die Halle. Dort habe ich mich das erste Mal warm gemacht. Meine Gewichtklasse war jedoch noch nicht dran. Es dauerte bis ca. 13:30 bis meine Gewichtsklasse anfing. Bis dahin hatte ich mich dann noch zwei Mal warm gemacht und war immer in Bewegung.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Und nach den Kämpfen zeigte sie sich mit ihrer Leistung nicht ganz zufrieden, es „reichte nur fürs Mittelfeld\" und sie fügte selbstkritisch hinzu: „Aber an den Fehlern muss ich arbeiten. Dieses Jahr wird es wahrscheinlich für mich keinen Wettkampf mehr geben\", erklärt sie. „Mein Körper war zur DHM doch deutlich angeschlagen und ich nutze die Phase, um mich wieder voll zu regenerieren.\" Wir sind sehr beeindruckt, von so viel sportlichem Kampfgeist und unterstützen dies gerne.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Insgesamt war die Teilnahme an der Deutschen Hochschulmeisterschaft für Franziska Buder ein erfahrungsreiches Erlebnis. Ihr Blick richtet sich nun auf das kommende Jahr mit der Bachelor-Verteidigung, dem Master Gesundheitspädagogik und hoffentlich einer erneuten Teilnahme an der DHM, dann an einem hoffentlich nicht ganz so weit entfernten Standort. Und dazu wünschen wir ihr viel Erfolg!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/deutsche-hochschulmeisterschaft-im-judo-2023-in-konstanz/image_01.jpg",
+    "alt": "Mit Spannung und dem Willen zum Erfolg: die DHM 2023"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/deutsche-hochschulmeisterschaft-im-judo-2023-in-konstanz/image_02.jpg",
+      "alt": "Die Hochschulmeisterschaft im Judo 2023"
+    }
+  ],
+  "publishDate": "2023-11-20T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,617 @@
+{
+  "_type": "news",
+  "_id": "news.neuer-vorsitz-kuratorium",
+  "slug": {
+    "_type": "slug",
+    "current": "neuer-vorsitz-kuratorium"
+  },
+  "title": {
+    "en": "Opening doors, shaping the future: Dr. Roy Kühne takes over chair of the IB Hochschule Board of Trustees",
+    "de": "Türen öffnen, Zukunft gestalten: Dr. Roy Kühne übernimmt Vorsitz des Kuratoriums der IB Hochschule"
+  },
+  "summary": {
+    "en": "With the upcoming start of the summer semester in IB Hochschule's new building, a new chapter begins – including a new chair of the Board of Trustees. Experienced health politician Dr. Roy Kühne takes on this central role and talks about his goals.",
+    "de": "Mit dem anstehenden Start des Sommersemesters im neuen Gebäude der IB Hochschule für Gesundheit und Soziales beginnt ein neuer Abschnitt – einschließlich der Neubesetzung des Kuratoriumsvorsitzes. Mit Dr. Roy Kühne übernimmt ein erfahrener Gesundheitspolitiker diese zentrale Rolle und spricht über seine Ziele."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Opening doors, shaping the future: Dr. Roy Kühne takes over the chair of the Board of Trustees of IB Hochschule",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "With the upcoming start of the summer semester in the new building of IB Hochschule für Gesundheit und Soziales, a new chapter begins that can be understood as both a spatial and a substantive new beginning. This phase of renewal also includes a new chair of the Board of Trustees: Dr. Roy Kühne, an experienced health politician, now takes on this central role.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "As a former member of the German Bundestag and a recognised expert in physiotherapy and medical aids provision, Dr. Kühne brings exactly the kind of professional perspective that is decisive for modern, practice-oriented university development. In an interview he talks about his goals, priorities and how the Board of Trustees can accompany and strengthen the university in the future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Opening thanks and outlook",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "\"First of all, I would like to expressly thank the previous Board of Trustees under the leadership of Dr. Bergmann-Pohl for its committed and reliable work – especially in times that posed particular challenges for universities and social educational institutions. On this basis we can now continue to work and set new impulses.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "I am very much looking forward to working with the President, Prof. Hartinger, and the entire team of IB Hochschule. Together we want to develop the university strategically and further strengthen its place in everyday academic life.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Which aspects of the university's profile would you particularly like to strengthen, and what impulses do you see from the Board of Trustees?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "\"IB Hochschule has a clear profile in the health and social sciences – particularly in training therapeutic professions. I want to develop this profile further and anchor it even more clearly in everyday academic life. The university should be visible as a scientifically grounded, practice-oriented and socially relevant place of education.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "The newly composed Board of Trustees, which again includes proven experts from politics and business, can provide important impulses for this. This diversity of experience allows us to recognise trends early, reflect societal needs and specifically support the university's strategic development.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Where do you see opportunities for innovative developments in teaching and research, and how can the Board of Trustees support such processes?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "\"I see great opportunities in the further development of digitally supported teaching formats, in interprofessional training models and in practice-oriented research on current societal challenges – such as mental health, demographic change or care innovation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en12s",
+            "text": "The Board of Trustees can support these innovation processes by opening networks, brokering cooperation with partners from practice, politics and business, and accompanying strategic decisions with its expertise. In this way we create an environment in which new ideas can emerge and high-quality research can grow.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en13",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en13s",
+            "text": "How would you like to further develop the university's external presentation and public perception?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en14",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en14s",
+            "text": "\"IB Hochschule should become even more visible in the future – regionally, nationally and within the professional public. We want to communicate more clearly the high quality of our degree programmes, the relevance of our research and the commitment of our teachers. Targeted public relations work and a more modern digital presence will help position the university as an important partner in health and social services.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en15",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en15s",
+            "text": "What is essential to me is to show more clearly what contribution we make to securing skilled workers and to the further development of therapeutic and social professions. Together with the new Board of Trustees, we will consistently develop the public perception of the university further.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en16",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en16s",
+            "text": "Many thanks for this interview!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en17",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en17s",
+            "text": "The interview with Dr. Roy Kühne impressively shows how closely political shaping power, scientific development and social responsibility are connected. His long-standing engagement in physiotherapy and medical aids and his Bundestag experience generate important impulses for future projects in teaching, research and transfer.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en18",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en18s",
+            "text": "With the start of the summer semester 2026 in the new building (Building 2) on the Health Campus at ukb, this new beginning becomes visible. The doors stand symbolically open for new paths, perspectives and partnerships.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en19",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en19s",
+            "text": "Together with Dr. Kühne and the newly composed Board of Trustees, the university looks confidently into a future in which innovation, quality of care and the further development of therapeutic professions play a central role.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Türen öffnen, Zukunft gestalten: Dr. Roy Kühne übernimmt Vorsitz des Kuratoriums der IB Hochschule",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mit dem anstehenden Start des Sommersemesters im neuen Gebäude der IB Hochschule für Gesundheit und Soziales beginnt ein neuer Abschnitt, der gleichermaßen als räumlicher wie inhaltlicher Aufbruch verstanden werden kann. In diese Phase des Neustarts fällt auch die Neubesetzung des Kuratoriumsvorsitzes: Mit Herrn Dr. Roy Kühne übernimmt nun ein erfahrener Gesundheitspolitiker diese zentrale Rolle.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Als ehemaliges Mitglied des Deutschen Bundestags und ausgewiesener Kenner der Physiotherapie sowie der Hilfsmittelversorgung bringt Dr. Kühne genau jene fachliche Perspektive mit, die für moderne, praxisnahe Hochschulentwicklung entscheidend ist. Im Interview spricht er über seine Ziele, Schwerpunktsetzungen und darüber, wie das Kuratorium die Hochschule künftig begleiten und stärken kann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Einleitender Dank und Ausblick",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "„Zunächst möchte ich dem bisherigen Kuratorium unter der Leitung von Frau Dr. Bergmann-Pohl ausdrücklich für seine engagierte und verlässliche Arbeit danken – gerade in Zeiten, die für Hochschulen und soziale Bildungseinrichtungen besondere Herausforderungen bereithielten. Auf dieser Grundlage können wir nun weiterarbeiten und neue Impulse setzen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Ich freue mich sehr auf die Zusammenarbeit mit der Präsidentin, Frau Prof. Hartinger, und dem gesamten Team der IB Hochschule. Gemeinsam wollen wir die Hochschule strategisch weiterentwickeln und ihren Platz im akademischen Alltag weiter stärken.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Welche Aspekte der Profilbildung der Hochschule möchten Sie besonders stärken und welche Impulse sehen Sie seitens des Kuratoriums?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "„Die IB Hochschule verfügt über ein klares Profil in den Gesundheits- und Sozialwissenschaften – insbesondere in der Ausbildung therapeutischer Berufe. Dieses Profil möchte ich weiter ausbauen und im akademischen Alltag noch deutlicher verankern. Die Hochschule soll als wissenschaftlich fundierter, praxisnaher und gesellschaftlich relevanter Bildungsort sichtbar sein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Das neu aufgestellte Kuratorium, in dem erneut ausgewiesene Expertinnen und Experten aus Politik und Wirtschaft vertreten sind, kann hierzu wichtige Impulse geben. Diese Vielfalt an Erfahrung ermöglicht es uns, Trends frühzeitig zu erkennen, gesellschaftliche Bedarfe zu reflektieren und die strategische Weiterentwicklung der Hochschule gezielt zu unterstützen.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Wo sehen Sie Chancen für innovative Entwicklungen in Lehre und Forschung und wie kann das Kuratorium solche Prozesse unterstützen?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "„Ich sehe große Chancen in der Weiterentwicklung digital-gestützter Lehrformate, in interprofessionellen Ausbildungsmodellen sowie in einer praxisorientierten Forschung zu aktuellen gesellschaftlichen Herausforderungen – etwa in den Bereichen psychische Gesundheit, demografischer Wandel oder Versorgungsinnovationen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de12s",
+            "text": "Das Kuratorium kann diese Innovationsprozesse unterstützen, indem es Netzwerke öffnet, Kooperationen mit Partnern aus Praxis, Politik und Wirtschaft vermittelt und durch seine fachliche Expertise strategische Entscheidungen begleitet. So schaffen wir ein Umfeld, in dem neue Ideen entstehen und qualitativ hochwertige Forschung wachsen kann.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de13",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de13s",
+            "text": "Wie möchten Sie die Außendarstellung und öffentliche Wahrnehmung der Hochschule weiterentwickeln?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de14",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de14s",
+            "text": "„Die IB Hochschule soll künftig noch stärker sichtbar werden – regional, national und in der Fachöffentlichkeit. Wir wollen die hohe Qualität unserer Studiengänge, die Relevanz unserer Forschung und das Engagement unserer Lehrenden klarer kommunizieren. Eine gezielte Öffentlichkeitsarbeit und eine modernere digitale Präsenz werden dazu beitragen, die Hochschule als wichtige Partnerin im Gesundheits- und Sozialwesen zu positionieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de15",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de15s",
+            "text": "Wesentlich ist für mich, deutlicher zu zeigen, welchen Beitrag wir zur Fachkräftesicherung und zur Weiterentwicklung therapeutischer und sozialer Berufe leisten. Gemeinsam mit dem neuen Kuratorium werden wir die öffentliche Wahrnehmung der Hochschule konsequent weiterentwickeln.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de16",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de16s",
+            "text": "Vielen herzlichen Dank für dieses Interview!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de17",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de17s",
+            "text": "Das Interview mit Dr. Roy Kühne zeigt eindrucksvoll, wie eng politische Gestaltungskraft, wissenschaftliche Entwicklung und gesellschaftliche Verantwortung verbunden sind. Sein langjähriges Engagement in der Physiotherapie- und Hilfsmittelbranche sowie seine Erfahrungen im Bundestag schaffen wichtige Impulse für künftige Projekte in Lehre, Forschung und Transfer.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de18",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de18s",
+            "text": "Mit dem Start des Sommersemesters 2026 im neuen Gebäude im Haus 2 auf dem Gesundheitscampus am ukb wird dieser Aufbruch auch bildlich sichtbar. Die Türen stehen symbolisch offen für neue Wege, Perspektiven und Partnerschaften.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de19",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de19s",
+            "text": "Gemeinsam mit Dr. Kühne und dem neu zusammengesetzten Kuratorium blickt die Hochschule zuversichtlich in eine Zukunft, in der Innovation, Versorgungsqualität und die Weiterentwicklung therapeutischer Berufe eine zentrale Rolle spielen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_01.jpg",
+    "alt": "Constituent Board of Trustees meeting at IB Hochschule"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_08.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_09.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g9",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_10.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g10",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_11.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g11",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/neuer-vorsitz-kuratorium/image_12.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-12-03T09:00:00.000Z",
+  "status": "published"
+}

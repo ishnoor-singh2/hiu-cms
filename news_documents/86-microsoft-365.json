@@ -1,0 +1,85 @@
+{
+  "_type": "news",
+  "_id": "news.ib-hochschule-arbeitet-mit-microsoft-365",
+  "slug": {
+    "_type": "slug",
+    "current": "die-ib-hochschule-arbeitet-ab-sofort-mit-microsoft-365"
+  },
+  "title": {
+    "en": "IB Hochschule now works with Microsoft 365!",
+    "de": "Die IB Hochschule arbeitet ab sofort mit Microsoft 365!"
+  },
+  "summary": {
+    "en": "IB Hochschule für Gesundheit und Soziales now works with Microsoft 365. All students can register from now on with their university email address and use the diverse possibilities.",
+    "de": "Die IB Hochschule für Gesundheit und Soziales arbeitet ab sofort mit Microsoft 365. Alle Studierenden können sich mit ihrer Hochschulmailadresse anmelden und die vielfältigen Möglichkeiten nutzen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales now works with Microsoft 365! All students can register from now on with their university email address and use the diverse possibilities of the offering. In the picture you can see the extended university leadership, who from now on use Teams as a video conferencing system.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "As you can see, untidy offices can be perfectly disguised with imaginative backgrounds.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Jetzt arbeitet die IB Hochschule für Gesundheit und Soziales mit Microsoft 365! Alle Studierenden können sich ab sofort mit Ihrer Hochschulmailadresse dort anmelden und die vielfältigen Möglichkeiten des Angebotes nutzen! Im Bild sehen Sie die erweiterte Hochschulleitung, die ab sofort Teams als Videokonferenzsystem für sich nutzt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Perfekt kann man unaufgeräumte Büros mit phantasievollen Hintergründen kaschieren, wie man sieht.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-ib-hochschule-arbeitet-ab-sofort-mit-microsoft-365/image_01.jpg",
+    "alt": "IB Hochschule with Microsoft 365"
+  },
+  "gallery": [],
+  "publishDate": "2020-04-21T09:00:00.000Z",
+  "status": "published"
+}

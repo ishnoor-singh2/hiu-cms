@@ -1,0 +1,195 @@
+{
+  "_type": "news",
+  "_id": "news.feierliche-verabschiedung-der-absolventinnen-der-gesundheitspaedagogik-und-psychologie",
+  "slug": {
+    "_type": "slug",
+    "current": "feierliche-verabschiedung-der-absolventinnen-der-gesundheitspaedagogik-und-psychologie"
+  },
+  "title": {
+    "en": "Ceremonial farewell to graduates of Health Education and Psychology",
+    "de": "Feierliche Verabschiedung der Absolvent*innen der Gesundheitspädagogik und Psychologie"
+  },
+  "summary": {
+    "en": "At the summer semester 2025 graduation ceremony on 26 September, graduates who submitted and passed their final theses this semester were honoured. Students, families, friends and lecturers gathered to celebrate the successful degrees together.",
+    "de": "Im Rahmen der Abschlussfeier des Sommersemesters 2025 wurden am 26. September die Absolvent*innen geehrt, die ihre Abschlussarbeiten in diesem Semester eingereicht und bestanden haben. Studierende, Familien, Freund*innen und Lehrende der Hochschule kamen zusammen, um die erfolgreichen Studienabschlüsse gemeinsam zu würdigen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "At the summer semester 2025 graduation ceremony on 26 September, the graduates who had submitted and passed their final theses this semester were honoured. In a festive setting, students, their families, friends and university lecturers came together to celebrate the successful degrees.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "After a welcome by the Dean of the Berlin Study Centre, Prof. Dr. Silke Brenne, she opened the official part of the ceremony with an address highlighting the outstanding achievements of the Health Education graduates. She emphasised the importance of the acquired specialist knowledge and pedagogical skills for future professional practice and thanked all participants for their commitment during their studies.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Psychology professor Prof. Dr. Sabine Arnold then addressed a greeting to the Psychology graduates. In her speech she warmly congratulated them on their successful degree and acknowledged their professional development. She encouraged the audience to apply the insights gained during their studies responsibly and reflectively in their professional work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The centrepiece of the event was the ceremonial handover of the diplomas, accompanied by great applause and visible joy. Afterwards, the gathering offered the opportunity to toast the achievements, exchange memories and capture the festive moment in numerous photos.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "IB Hochschule once again warmly congratulates all graduates on their degree and wishes them all the best and much success on their further professional and personal journey.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Im Rahmen der Abschlussfeier des Sommersemesters 2025 wurden am 26. September die Absolvent*innen geehrt, die ihre Abschlussarbeiten in diesem Semester eingereicht und bestanden haben. In festlichem Rahmen kamen neben den Studierenden auch deren Familien, Freund*innen sowie Lehrende der Hochschule zusammen, um die erfolgreichen Studienabschlüsse gemeinsam zu würdigen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Nach der Begrüßung durch die Dekanin des Studienzentrums in Berlin, Prof. Dr. Silke Brenne, eröffnete diese den offiziellen Teil der Feier mit einer Ansprache, in der sie die hervorragenden Leistungen der Absolvent*innen aus der Gesundheitspädagogik hervorhob. Sie betonte die Bedeutung des erworbenen Fachwissens und der pädagogischen Kompetenzen für die zukünftige Berufspraxis und sprach ihren Dank für das Engagement aller Beteiligten während des Studiums aus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Anschließend richtete Psychologie-Professorin Prof. Dr. Sabine Arnold ein Grußwort an die anwesenden Psychologie-Absolvent*innen. In ihrer Rede gratulierte sie ihnen herzlich zu ihrem erfolgreichen Studienabschluss und würdigte deren fachliche Entwicklung. Sie ermutigte die Anwesenden, die im Studium gewonnenen Erkenntnisse verantwortungsbewusst und reflektiert in ihre berufliche Tätigkeit einzubringen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Im Mittelpunkt der Veranstaltung stand die feierliche Übergabe der Abschlusszeugnisse, die von großem Applaus und sichtbarer Freude begleitet wurde. Im Anschluss bot sich bei einem geselligen Beisammensein die Gelegenheit, auf die erzielten Erfolge anzustoßen, Erinnerungen auszutauschen und den festlichen Moment in zahlreichen Fotos festzuhalten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die IB Hochschule gratuliert auf diesem Wege noch einmal allen Absolvent*innen von Herzen zu ihrem Studienabschluss und wünscht ihnen für ihren weiteren beruflichen und persönlichen Lebensweg alles Gute und viel Erfolg.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-verabschiedung-der-absolventinnen-der-gesundheitspaedagogik-und-psychologie/image_01.png",
+    "alt": "Abschlussfeier Zeugnisübergabe"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-verabschiedung-der-absolventinnen-der-gesundheitspaedagogik-und-psychologie/image_02.png",
+      "alt": "Abschlussfeier"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-verabschiedung-der-absolventinnen-der-gesundheitspaedagogik-und-psychologie/image_03.png",
+      "alt": "Abschlussfeier Zeugnisübergabe"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-verabschiedung-der-absolventinnen-der-gesundheitspaedagogik-und-psychologie/image_04.png",
+      "alt": "Abschlussfeier Buffet"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-verabschiedung-der-absolventinnen-der-gesundheitspaedagogik-und-psychologie/image_05.png",
+      "alt": "Gruppenbild Absolvent*innen Gesundheitspädagogik"
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/feierliche-verabschiedung-der-absolventinnen-der-gesundheitspaedagogik-und-psychologie/image_06.png",
+      "alt": "Gruppenbild Absolvent*innen Psychologie"
+    }
+  ],
+  "publishDate": "2025-10-13T09:00:00.000Z",
+  "status": "published"
+}

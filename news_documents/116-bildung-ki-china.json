@@ -1,0 +1,228 @@
+{
+  "_type": "news",
+  "_id": "news.bildung-ki-china-dormann",
+  "slug": {
+    "_type": "slug",
+    "current": "bildung-ki-und-interkulturelle-zusammenarbeit"
+  },
+  "title": {
+    "en": "Education, AI and intercultural cooperation: insights into the future of teaching",
+    "de": "Bildung, KI und interkulturelle Zusammenarbeit: Einblicke in die Zukunft der Lehre"
+  },
+  "summary": {
+    "en": "Prof. Dr. Markus Dormann's trip to China shows how decisive the connection of digitalisation, didactics and international exchange is. At Education+ 2025 in Chengdu he spoke about the influence of artificial intelligence on educational concepts.",
+    "de": "Die China-Reise von Prof. Dr. Markus Dormann zeigt, wie entscheidend die Verbindung von Digitalisierung, Didaktik und internationalem Austausch ist. Auf der Education+ 2025 in Chengdu sprach er über den Einfluss von Künstlicher Intelligenz auf Bildungskonzepte."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales' programmes specifically prepare our students for the future – in healthcare or pedagogy. How decisive the connection of digitalisation, didactics and international exchange is, is impressively shown by Prof. Dr. Markus Dormann's China trip. As part of Education+ 2025 in Chengdu, he spoke about the influence of artificial intelligence on educational concepts and discussed with international professionals about future-oriented models of teacher training. An exciting report on cultural dialogue, innovative educational approaches and the question of how we have to rethink learning in the age of AI.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "\"My trip to China was an inspiring and enriching experience! I had the opportunity to give a specialist talk at Education+ 2025 in Chengdu on Artificial Intelligence and discuss didactic questions in several interviews. The focus was particularly on the question of how the digital transformation in teaching at universities and schools can be successfully implemented.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Here my thesis was confirmed: 'Against the background of Artificial Intelligence we have to rethink everything we know about didactics.' I was also allowed to present my latest research results.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Another highlight was visiting vocational schools, where we could experience the impressive quality and modernity of vocational education in China at close range. Particularly moving was attending the opening ceremony of the national training community of the nursing and health industry. Here it became clear what high value vocational education enjoys in China.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "In exciting discussions with local teachers we exchanged thoughts on contemporary didactics and the challenges as well as opportunities of inter-institutional cooperation in the age of AI. It became clear: both China and Germany can learn a lot from each other, especially when it comes to making vocational education and teacher training fit for the future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "In summary, this trip was full of valuable impressions and the realisation that vocational education – whether in schools, universities or companies – is a key to successfully meeting global challenges. Exchange between countries like China and Germany can play a decisive role here.\"",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Studiengänge der IB Hochschule für Gesundheit und Soziales bereiten unsere Studierenden gezielt auf die Zukunft vor – im Gesundheitswesen oder in der Pädagogik. Wie entscheidend dabei die Verbindung von Digitalisierung, Didaktik und internationalem Austausch ist, zeigt eindrucksvoll die China Reise von Prof. Dr. Markus Dormann. Im Rahmen der Education+ 2025 in Chengdu sprach er über den Einfluss von Künstlicher Intelligenz auf Bildungskonzepte und diskutierte mit internationalen Fachkräften über zukunftsweisende Modelle der Lehrer*innenbildung. Ein spannender Bericht über kulturellen Dialog, innovative Bildungsansätze und die Frage, wie wir Lernen im Zeitalter der KI neu denken müssen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "„Meine Reise nach China war eine inspirierende und bereichernde Erfahrung! Ich hatte die Gelegenheit, auf der Education+ 2025 in Chengdu einen Fachvortrag über Künstliche Intelligenz (KI) zu halten und in mehreren Interviews didaktische Fragestellungen zu erörtern. Besonders im Fokus stand dabei die Frage, wie die digitale Transformation in der Lehre an Hochschulen und Schulen erfolgreich umgesetzt werden kann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Hier bestätigte sich für mich meine These: ‚Wir müssen vor dem Hintergrund der Künstlichen Intelligenz alles was wir über Didaktik wissen neu denken'. Hierzu durfte ich auch meine neusten Forschungsergebnisse vorstellen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Ein weiterer Höhepunkt war der Besuch beruflicher Schulen, bei dem wir die beeindruckende Qualität und Modernität der Berufsbildung in China aus nächster Nähe erleben durften. Besonders bewegend war die Teilnahme an der Eröffnungszeremonie der nationalen Ausbildungsgemeinschaft der Pflege- und Gesundheitsbranche. Hier wurde deutlich, welchen hohen Stellenwert die berufliche Bildung China genießt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "In spannenden Diskussionen mit Lehrkräften vor Ort tauschten wir uns über zeitgemäße Didaktik und die Herausforderungen sowie Chancen der Lernortkooperation im Zeitalter von KI aus. Es wurde klar: Sowohl China als auch Deutschland können viel voneinander lernen, insbesondere wenn es darum geht, die berufliche Bildung und Lehrer*innenbildung fit für die Zukunft zu machen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Zusammenfassend war diese Reise voller wertvoller Eindrücke und der Erkenntnis, dass berufliche Bildung – sei es in Schulen, Hochschulen oder der Unternehmen – ein Schlüssel zur erfolgreichen Bewältigung globaler Herausforderungen ist. Der Austausch zwischen Ländern wie China und Deutschland kann hier eine entscheidende Rolle spielen.\"",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/bildung-ki-und-interkulturelle-zusammenarbeit/image_01.jpg",
+    "alt": "Prof. Dormann in China"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/bildung-ki-und-interkulturelle-zusammenarbeit/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/bildung-ki-und-interkulturelle-zusammenarbeit/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/bildung-ki-und-interkulturelle-zusammenarbeit/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/bildung-ki-und-interkulturelle-zusammenarbeit/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/bildung-ki-und-interkulturelle-zusammenarbeit/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/bildung-ki-und-interkulturelle-zusammenarbeit/image_07.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-06-19T09:00:00.000Z",
+  "status": "published"
+}

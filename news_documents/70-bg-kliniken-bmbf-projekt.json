@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.bg-kliniken-im-bmbf-projekt",
+  "slug": {
+    "_type": "slug",
+    "current": "bg-kliniken-im-bmbf-projekt"
+  },
+  "title": {
+    "en": "BG Kliniken in the BMBF project",
+    "de": "BG-Kliniken im BMBF-Projekt"
+  },
+  "summary": {
+    "en": "The participants in the BMBF project's pilot run were not deterred by the difficulties of part-time studies. The Master-level certificate programme was used by Bachelor graduates of IB Hochschule as well as highly qualified staff from BG Klinikum Unfallkrankenhaus Berlin (ukb).",
+    "de": "Davon ließen sich die Teilnehmer*innen der Erprobung im BMBF-Projekt nicht abbringen. Das Zertifikatsprogramm auf Masterniveau nutzten Bachelorabsolvent*innen der IB Hochschule sowie hoch qualifiziertes Personal vom BG Klinikum Unfallkrankenhaus Berlin (ukb)."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The participants of the BMBF project's testing did not let themselves be deterred. The Master-level certificate programme was used by Bachelor graduates of IB Hochschule as well as highly qualified staff of BG Klinikum Unfallkrankenhaus Berlin (ukb). Some weekends were spent at computers, working with statistics in the quantitative research methods module, contents of qualitative research methodology, project management and their own research projects. The therapists from ukb can look forward to one last module in January – on quality management.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The Bachelor-level modules of the certificate programme were scientifically accompanied in 2019 as part of an education partnership with BG Klinikum Hamburg. To this day, the BMBF team is delighted that contact with the participants remains beyond the education partnership and that corona allowed the post-survey of the participants to take place in person in the summer.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "At the end of December the project \"Therapeutic Research as part-time continuing education for health professions – testing, evaluation and establishment of sustainable strategies for implementation\" comes to an end in the funding line \"Aufstieg durch Bildung: offene Hochschulen\". Since 2018 phase 2 of the funding has tested scientific modules for the therapy professions of physiotherapy, occupational therapy and speech and language therapy.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The BMBF team thanks all participants for their joy in lifelong learning, with all the difficulties that come with part-time studying. We thank both BG clinics for the support of their staff – for example in the form of releases and the willingness to allow interviews with HR managers and funding bodies at several points in time.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Prof. Dr. Mariam Hartinger, Vice-President for Research",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Davon ließen sich die Teilnehmer*innen der Erprobung im BMBF-Projekt nicht abbringen. Die Erprobung des Zertifikatsprogramms auf Masterniveau nutzten Bachelorabsolvent*innen der IB Hochschule sowie hoch qualifiziertes Personal vom BG Klinikum des Unfallkrankenhauses Berlin (ukb). So manches Wochenende wurde hinter Rechnern verbracht, mit Statistiken im Modul der quantitativen Forschungsmethoden, Inhalten der qualitativen Forschungsmethodik, Projektmanagement sowie eigenen Forschungsprojekten. Die Therapeut*innen vom ukb können sich auf ein letztes Modul im Januar freuen – hier geht es um Qualitätsmanagement.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Module des Zertifikatsprogramms auf Bachelorniveau wurden im Jahr 2019 im Rahmen einer Bildungspartnerschaft mit dem BG Klinikum Hamburg wissenschaftlich begleitet. Das BMBF-Team freut sich bis heute, dass der Kontakt zu den Teilnehmenden auch nach dem Ende der Bildungspartnerschaft bestehen bleibt und Corona im Sommer die post-Befragung der Teilnehmenden in Präsenz möglich gemacht hat.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ende Dezember endet das Projekt „Therapeutic Research als berufsbegleitende Weiterbildung für Gesundheitsfachberufe – Erprobung, Evaluation und Etablierung nachhaltiger Strategien der Implementierung\" in der Förderlinie „Aufstieg durch Bildung: offene Hochschulen\". Seit 2018 erfolgte in Phase 2 der Förderung die Erprobung wissenschaftlicher Module für die Therapieberufe der Physiotherapie, Ergotherapie und Logopädie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Das BMBF-Team dankt allen Teilnehmenden für die Freude am Lebenslangen Lernen, mit allen Schwierigkeiten, die berufsbegleitendes Studieren mit sich bringen. Wir danken beiden BG Kliniken für die Unterstützung des Personals, beispielsweise in Form von Freistellungen sowie der Bereitschaft, zu mehreren Zeitpunkten Personalverantwortliche und Kostenträger interviewen zu dürfen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Prof. Dr. Mariam Hartinger, Vizepräsidentin für Forschung",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/bg-kliniken-im-bmbf-projekt/image_01.jpg",
+    "alt": "BG Kliniken in the BMBF project"
+  },
+  "gallery": [],
+  "publishDate": "2020-12-18T09:00:00.000Z",
+  "status": "published"
+}

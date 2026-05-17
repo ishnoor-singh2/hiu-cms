@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.ringvorlesung-psychologie-kultur-2020",
+  "slug": {
+    "_type": "slug",
+    "current": "einladung-zur-ringvorlesung-psychologie-kultur-mit-neuen-terminen-ab-25-november"
+  },
+  "title": {
+    "en": "Invitation to the ring lecture: \"Psychology & Culture\" – with new dates from 25 November",
+    "de": "Einladung zur Ringvorlesung: „Psychologie & Kultur\" – mit neuen Terminen ab 25. November"
+  },
+  "summary": {
+    "en": "In this winter semester we want to address the topic of culture and psychology in a ring lecture. The focal points were designed with the aim of an interdisciplinary perspective and cross-disciplinary exchange.",
+    "de": "In diesem Wintersemester möchten wir uns im Rahmen einer Ringvorlesung mit dem Thema Kultur und Psychologie auseinandersetzen. Die Themenschwerpunkte wurden mit dem Ziel einer interdisziplinären Betrachtungsweise und eines fachübergreifenden Austausches konzipiert."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In this winter semester we would like to address the topic of culture and psychology in a ring lecture. The focal points of the individual talks were designed with the aim of an interdisciplinary perspective as well as a cross-disciplinary exchange. Furthermore, a mix of different formats was envisaged, from talks to book presentations and a film evening with moderated discussion.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The lecture series primarily examines the following questions: What is culture? How do we research culture? How do cultures differ? What influence does culture have on human development? How does culture manifest itself in upbringing? How do language and culture relate to each other? How do cultural values express themselves in our language?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Migration with regard to interculturality and the psychosocial dimension – understood as opportunity and challenge – will also be a thematic focus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Registration is requested at: https://doodle.com/poll/cahzsdpq9a68yufz?utm_source=poll&utm_medium=link",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "25 November, 6 p.m. – Overview of topics & introduction: positions, goals and developmental lines of cross-cultural psychology. Speaker: Tamara Uda, M.Sc. psychologist.\n25 November, 7 p.m. – Culture & development: cross-cultural comparison in interview – three mothers talk about culture & upbringing. Speaker: Tamara Uda.\n16 December, 6 p.m. – Migration: challenge & opportunity. Film evening on migration with subsequent discussion. Moderator: Dr. Tajana Grießmann-Gehrt, Tamara Uda.\n13 January, 6 p.m. – \"Sprache & Sein\" by Kübra Gümüşay. Book presentation and reflection. Speaker: Dr. Tajana Grießmann-Gehrt.\n3 February, 6 p.m. – Interdisciplinarity in the care of refugees. Experiences from the InterAct project. Speaker: Sarah Scheer, M.A. Health Education and Educational Management.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "In diesem Wintersemester möchten wir uns im Rahmen einer Ringvorlesung mit dem Thema Kultur und Psychologie auseinandersetzen. Die Themenschwerpunkte der einzelnen Vorträge wurden mit dem Ziel einer interdisziplinären Betrachtungsweise als auch eines fachübergreifenden Austausches konzipiert. Darüber hinaus wurde eine Mischung aus verschiedenen Formaten, von Vorträgen bis hin zu Buchvorstellung und Filmabend mit moderierter Diskussion, angedacht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Vortragsreihe beleuchtet vornehmlich die folgenden Fragen: Was ist Kultur? Wie erforschen wir Kultur? Wie unterscheiden sich Kulturen? Welchen Einfluss hat Kultur auf die Entwicklung des Menschen? Wie manifestiert sich Kultur in der Erziehung? Wie beziehen sich Sprache und Kultur aufeinander? Wie veräußern sich kulturelle Werte in unserer Sprache?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Weiterhin wird vor allem auch das Thema Migration im Hinblick auf die Interkulturalität und die psychosoziale Dimension im Sinne von Chance und Herausforderung einen Themenschwerpunkt darstellen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Um Anmeldung wird gebeten: https://doodle.com/poll/cahzsdpq9a68yufz?utm_source=poll&utm_medium=link",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "25. November 18 Uhr – Überblick über die Themen & Einführung in das Thema. Positionen, Ziele und Entwicklungslinien der kulturvergleichenden Psychologie. Referentin: Tamara Uda, M.Sc. Psychologin.\n25. November 19 Uhr – Kultur & Entwicklung. Kulturvergleich im Interview: drei Mütter erzählen über Kultur & Erziehung. Referentin: Tamara Uda.\n16. Dezember 18 Uhr – Migration: Herausforderung & Chance. Filmabend zum Thema Migration mit anschließender Diskussion. Moderatorin: Dr. Tajana Grießmann-Gehrt, Tamara Uda.\n13. Januar 18 Uhr – Sprache & Sein von Kübra Gümüşay. Buchvorstellung und gemeinsame Reflexion. Referentin: Dr. Tajana Grießmann-Gehrt.\n3. Februar 18 Uhr – Interdisziplinarität in der Versorgung Geflüchteter. Erfahrungen aus dem Projekt InterAct. Referentin: Sarah Scheer, M.A. Gesundheitspädagogik und Bildungsmanagement.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/einladung-zur-ringvorlesung-psychologie-kultur-mit-neuen-terminen-ab-25-november/image_01.jpg",
+    "alt": "Ring lecture Psychology & Culture"
+  },
+  "gallery": [],
+  "publishDate": "2020-11-06T09:00:00.000Z",
+  "status": "published"
+}

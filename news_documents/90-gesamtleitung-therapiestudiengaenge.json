@@ -1,0 +1,225 @@
+{
+  "_type": "news",
+  "_id": "news.gesamtleitung-therapiestudiengaenge-pqs",
+  "slug": {
+    "_type": "slug",
+    "current": "neues-modell-gesamtleitung-therapiestudiengaenge-fuer-die-primaerqualifizierenden-studiengaenge-pqs-logopaedie-bsc-ergotherapie-bsc-und-physiotherapie-bsc"
+  },
+  "title": {
+    "en": "New model: \"Overall management – therapy programmes\" for the primary-qualifying programmes (PQS) Speech and Language Therapy (B.Sc.), Occupational Therapy (B.Sc.) and Physiotherapy (B.Sc.)",
+    "de": "Neues Modell „Gesamtleitung-Therapiestudiengänge\" für die primärqualifizierenden Studiengänge (PQS) Logopädie (B.Sc.), Ergotherapie (B.Sc.) und Physiotherapie (B.Sc.)"
+  },
+  "summary": {
+    "en": "The therapy professions of Speech and Language Therapy, Occupational Therapy and Physiotherapy are currently undergoing major developments and changes. To meet these challenges, IB Hochschule has decided to introduce an overall management for the PQS programmes in a rotating two-year model.",
+    "de": "Die Therapiefachberufe Logopädie, Ergotherapie und Physiotherapie befinden sich derzeit in großen Entwicklungen und Veränderungen. Um diesen Herausforderungen zu begegnen, hat die IB Hochschule beschlossen, eine Gesamtleitung für die primärqualifizierenden Studiengänge in einem rotierenden Zweijahresmodell einzusetzen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The therapy professions of Speech and Language Therapy, Occupational Therapy and Physiotherapy are currently undergoing major developments and changes.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "A parallel training system with study programmes and vocational training poses challenges not only to universities but also to employers and colleagues in therapeutic professional practice.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "With the key issues paper of the Federal-State Working Group \"Overall Concept Health Professions\", an action plan is presented for a reform of training in the health professions as well as a restructuring of tasks and competence profiles. Universities could play an important role here in the future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "In order to meet these current challenges adequately, bundle resources and facilitate joint planning in the PQS programmes (e.g. state exams), the extended university leadership of IB Hochschule für Gesundheit und Soziales has decided to introduce an overall management for the primary-qualifying programmes Speech and Language Therapy (B.Sc.), Occupational Therapy (B.Sc.) and Physiotherapy (B.Sc.) in a rotating two-year model. This was decided by a faculty council resolution of 18 February 2020.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Prof. Dr. Antje Schubert will take on the \"Overall management – therapy programmes\" beginning 1 April 2020.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Alongside this overall management there will be professorial subject representatives. For Speech and Language Therapy this is Prof. Dr. M. Hartinger, for Occupational Therapy Prof. Dr. G. Zimmermann and for Physiotherapy Prof. Dr. A. Schubert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "The professorial subject representatives take on, alongside subject-specific tasks, mainly the conceptual further development of the programmes, while the operational running is coordinated by the overall management of the therapy programmes.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Therapiefachberufe Logopädie, Ergotherapie und Physiotherapie befinden sich derzeit in großen Entwicklungen und Veränderungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Ein paralleles Ausbildungssystem mit Studium und Berufsausbildung stellt nicht nur die Hochschulen, sondern auch Arbeitgeber*innen und Kolleg*innen in der therapeutischen Berufspraxis vor Herausforderungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Mit dem Eckpunktepapier der Bund-Länder-Arbeitsgruppe „Gesamtkonzept Gesundheitsfachberufe\" wird ein Aktionsplan für eine Reform der Ausbildung in den Gesundheitsfachberufen sowie eine Neustrukturierung der Aufgaben und Kompetenzprofile dargelegt. Hier könnten die Hochschulen zukünftig eine wichtige Rolle einnehmen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Um diesen aktuellen Herausforderungen adäquat begegnen zu können, Ressourcen zu bündeln und gemeinsame Planungen in den PQS zu erleichtern (z.B. staatliche Prüfungen), hat sich die erweiterte Hochschulleitung der IB Hochschule für Gesundheit und Soziales dafür ausgesprochen, eine Gesamtleitung für die primärqualifizierenden Studiengänge Logopädie (B.Sc.), Ergotherapie (B.Sc.) und Physiotherapie (B.Sc.) in einem rotierenden Zweijahresmodell einzusetzen. Dies wurde mit einem Beschluss des Fakultätsrats vom 18.02.2020 umgesetzt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Frau Prof. Dr. Antje Schubert wird beginnend mit dem 1. April 2020 die „Gesamtleitung-Therapiestudiengänge\" übernehmen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Neben dieser Gesamtleitung wird es professorale Fachvertretungen geben. Für die Logopädie ist dies Prof. Dr. M. Hartinger, für die Ergotherapie Prof. Dr. G. Zimmermann und für die Physiotherapie Prof. Dr. A. Schubert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Die professoralen Fachvertreterinnen übernehmen neben fachspezifischen Aufgaben überwiegend die konzeptionelle Weiterentwicklung der Studiengänge, während das operative Geschehen von der Gesamtleitung-Therapiestudiengänge koordiniert wird.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/neues-modell-gesamtleitung-therapiestudiengaenge-fuer-die-primaerqualifizierenden-studiengaenge-pqs-logopaedie-bsc-ergotherapie-bsc-und-physiotherapie-bsc/image_01.jpg",
+    "alt": "Overall management of therapy programmes"
+  },
+  "gallery": [],
+  "publishDate": "2020-04-01T09:00:00.000Z",
+  "status": "published"
+}

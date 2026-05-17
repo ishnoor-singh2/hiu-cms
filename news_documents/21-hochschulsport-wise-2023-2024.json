@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.hochschulsport-zum-wintersemester-2023-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "hochschulsport-zum-wintersemester-2023-2024"
+  },
+  "title": {
+    "en": "Get going with Berlin University Sport in winter semester 2023/2024!",
+    "de": "Starten Sie durch mit dem Berliner Hochschulsport zum Wintersemester 2023/2024!"
+  },
+  "summary": {
+    "en": "With over 50,000 participants per semester, Berlin's university sports programme offers a remarkable variety of activities – from regular courses to workshops and excursions, for every level of fitness.",
+    "de": "Mit über 50.000 Teilnehmerinnen und Teilnehmern pro Semester bietet das Berliner Hochschulsportprogramm eine beeindruckende Vielfalt – von regelmäßigen Sportkursen über Workshops bis hin zu Exkursionen für Sportbegeisterte jeden Niveaus."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "With over 50,000 participants per semester, Berlin's university sports programme offers an impressive variety and opportunities to get active. Whether you are interested in regular sports courses, exciting workshops or thrilling excursions – there is something suitable for sports enthusiasts at every level. In addition, university sport is the ideal opportunity to make new contacts in Berlin or to take up a quirky hobby.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Registration is easy and is done online. Students choose the \"Student\" category and enter the name of their university, while employees select the \"Employee\" category with the name of their university. Payment is safe and straightforward, either by direct debit (BHT, FU, TU) or by bank transfer (HTW, HU). Detailed information can be found on the websites of the respective university sports facilities or in the overall overview of Berlin's university sports offerings.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "So grab your yoga mat, pick up your hockey stick or put on your boxing gloves. Make winter semester 2023/2024 your sporting highlight!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Choose the right offer here. Under the university sports portal you'll find an overview of all sports offerings at Berlin's universities.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Mit über 50.000 Teilnehmerinnen und Teilnehmern pro Semester bietet das Berliner Hochschulsportprogramm eine beeindruckende Vielfalt und Möglichkeiten sich sportlich auszutoben. Ob Sie sich für regelmäßige Sportkurse, spannende Workshops, aufregende Exkursionen interessieren – für Sportbegeisterte jeden Niveaus ist etwas Passendes dabei. Darüber hinaus schafft der Hochschulsport die ideale Gelegenheit, neue Kontakte in Berlin zu knüpfen oder sich ein skurriles Hobby zu suchen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Anmeldung ist kinderleicht und erfolgt online. Studierende wählen die Kategorie „Student*in\" und geben den Namen ihrer Hochschule an, während Beschäftigte die Kategorie „Beschäftigte*r\" mit dem Namen ihrer Hochschule auswählen. Die Bezahlung erfolgt sicher und unkompliziert entweder per Lastschrift (BHT, FU, TU) oder per Überweisung (HTW, HU). Detaillierte Informationen finden Sie auf den Webseiten der jeweiligen Hochschulsporteinrichtungen oder in der Gesamtübersicht der Berliner Hochschulsportangebote.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Also greifen Sie zu Ihrer Yogamatte, schnappen Sie sich Ihren Eishockeyschläger oder ziehen Sie Ihre Boxhandschuhe an. Machen Sie das Wintersemester 2023/2024 zu Ihrem sportlichen Höhepunkt!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Suchen Sie sich hier das passende Sportangebot raus. Unter Hochschulsportangebot finden Sie eine Übersicht über alle Sportangebote der Berliner Hochschulen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/hochschulsport-zum-wintersemester-2023-2024/image_01.jpg",
+    "alt": "Hochschulsport an der IB Hochschule für Gesundheit und Soziales"
+  },
+  "gallery": [],
+  "publishDate": "2023-10-23T09:00:00.000Z",
+  "status": "published"
+}

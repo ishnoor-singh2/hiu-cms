@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.forum-digitale-lehre-austausch",
+  "slug": {
+    "_type": "slug",
+    "current": "forum-digitale-lehre-wie-kann-man-den-gemeinsamen-austausch-ermoeglichen-und-staerken"
+  },
+  "title": {
+    "en": "Forum: Digital Teaching – How can we enable and strengthen shared exchange?",
+    "de": "Forum: Digitale Lehre – Wie kann man den gemeinsamen Austausch ermöglichen und stärken!"
+  },
+  "summary": {
+    "en": "The corona pandemic changes the necessity to look at digital teaching even more closely. For everyone, the speed of adapting teaching and learning to current framework conditions increases. The new \"Forum: Digital Teaching\" enables exchange among lecturers.",
+    "de": "Die Corona-Pandemie verändert die Notwendigkeit, digitale Lehre noch mehr und konkreter in den Blick zu nehmen. Das neue „Forum: Digitale Lehre\" ermöglicht den Austausch unter Lehrenden."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "However, the corona pandemic changes the necessity to look at digital teaching even more and more concretely. For everyone, the speed of adapting teaching and learning to the now new framework conditions is increasing. This is also becoming clear in that, in addition to Moodle, further software solutions (GoToMeeting, Microsoft 365) can be used for digital teaching/learning formats. But how to handle it? How can digital teaching be further improved? The Forum: Digital Teaching is – in addition to the service offerings in Moodle – another new element here. What is the origin or idea of the Forum?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The presidium is pleased about this idea, as it links seamlessly with already newly initiated service offerings by the Moodle team to strengthen or improve digital teaching.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "All lecturers will be informed separately about the dates and organisation of the exchange in the Forum: Digital Teaching.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Lena Setzepfand (research associate in the Structure and Teaching area)",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Corona-Pandemie verändert nun jedoch die Notwendigkeit, digitale Lehre noch mehr und konkreter in den Blick zu nehmen. Für alle erhöht sich die Geschwindigkeit, Lehren und Lernen an die derzeit neuen Rahmenbedingungen anzupassen. Dies wird u.a. auch daran deutlich, dass neben Moodle weitere Softwarelösungen (GoToMeeting, Microsoft 365) für digitale Lehr-Lernformen genutzt werden können. Aber wie damit umgehen? Wie kann man digitale Lehre weiter verbessern? Das Forum: Digitale Lehre ist hierfür – neben den Serviceleistungen in Moodle – ein weiteres neues Element. Was ist der Ursprung respektive die Idee des Forums?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das Präsidium freut sich über diese Idee, schließt sie doch nahtlos an bereits neu initiierte Serviceleistungen durch das Moodle-Team zur Stärkung bzw. Verbesserung der digitalen Lehre an.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Über die Termine und die Organisation des Austausches in dem Forum: Digitale Lehre werden alle Lehrende noch gesondert informiert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Lena Setzepfand (wissenschaftliche Mitarbeiterin im Bereich Struktur und Lehre)",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/forum-digitale-lehre-wie-kann-man-den-gemeinsamen-austausch-ermoeglichen-und-staerken/image_01.jpg",
+    "alt": "Forum Digital Teaching"
+  },
+  "gallery": [],
+  "publishDate": "2020-05-06T09:00:00.000Z",
+  "status": "published"
+}

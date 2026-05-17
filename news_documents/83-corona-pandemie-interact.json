@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.corona-pandemie-foschungsprojekte-interact",
+  "slug": {
+    "_type": "slug",
+    "current": "wie-beeinflusst-die-corona-pandemie-die-arbeit-in-den-foschungsprojekten-der-ib-hochschule"
+  },
+  "title": {
+    "en": "How does the corona pandemic affect work in IB Hochschule's research projects?",
+    "de": "Wie beeinflusst die Corona-Pandemie die Arbeit in den Forschungsprojekten der IB Hochschule?"
+  },
+  "summary": {
+    "en": "While online teaching has worked well, the corona pandemic has led to time shifts and extensions in almost all research projects. In the first part of this series, Sarah Scheer of the InterAct project reports on her research routine.",
+    "de": "Während die Online-Lehre sich gut eingespielt hat, führt die Corona-Pandemie in nahezu allen Forschungsprojekten zu zeitlichen Verschiebungen und Verlängerungen. Im ersten Teil dieser Reihe berichtet Sarah Scheer vom Projekt InterAct über ihren Forschungsalltag."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In recent weeks the presidium's weekly review took a closer look at corona-driven online teaching, learning and exams, as well as mobile work from home. While online teaching has settled in quite well for both lecturers and students, with teaching taking place and students not losing time in the form of semesters, the corona pandemic has led to time shifts and extensions in almost all research projects. In the first part of this series, Sarah Scheer reports on her research routine in the InterAct project.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The European project team brings together partners from Spain, Greece, Germany, Finland and Sweden. The online meetings allow very personal insights into existing challenges in Europe. The crisis strengthens our cohesion and makes the importance of the project goal even clearer. Vulnerable and marginalised groups, such as refugees, are particularly affected by the crisis and the need for psychosocial support continues to grow.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "InterAct focuses on the psychosocial care of refugees and is also drawing attention on social media to the need for solidarity with refugees and asylum seekers as one of the most vulnerable groups in Europe. Stronger cohesion is also evident in the closer exchange with other research projects and networks over the past few weeks.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "... even if the planned time window has to be extended by two months. Some planned research activities (e.g. focus group interviews) cannot currently be implemented. Work on an interdisciplinary online course on psychosocial interventions, on the other hand, seems very fitting right now. A test module has already been implemented online by two partner countries together because everyone is currently in online teaching.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The entire team is extremely motivated despite all the challenges in private and professional life. In autumn we all want to disseminate our products. Date announcements for multiplier events will also be published soon; some of them will be held online. We are very proud of our newly revised website www.interact-erasmus.eu and invite you to view it, share it and thus help spread our vision. Follow us also on Instagram and Facebook.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Sarah Scheer (project coordinator)",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Im Wochenrückblick des Präsidiums wurden in den vergangenen Wochen das corona-bedingte Online Lehren, Studieren und Prüfen sowie das mobile Arbeiten von zu Hause unter die Lupe genommen. Während sich die Online-Lehre sowohl für Lehrende als auch Studierende recht gut eingespielt hat, die Lehre stattfindet und Studierende keine Zeit in Form von Semestern verlieren, führt die Corona-Pandemie in nahezu allen Forschungsprojekten zu zeitlichen Verschiebungen und Verlängerungen. Im ersten Teil dieser Reihe berichtet Sarah Scheer vom Projekt InterAct über ihren Forschungsalltag.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das europäische Projektteam vereint Partner*innen aus Spanien, Griechenland, Deutschland, Finnland und Schweden. Die Online Meetings ermöglichen sehr persönliche Einblicke über bestehende Herausforderungen in Europa. Die Krise stärkt unseren Zusammenhalt und verdeutlicht noch einmal mehr die Bedeutung des Projektziels. Vulnerable und marginalisierte Gruppen, wie Geflüchtete, sind besonders von der Krise betroffen und der Bedarf an psychosozialen Unterstützungen nimmt weiter zu.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "InterAct konzentriert sich auf die psychosoziale Versorgung Geflüchteter und macht auch in den sozialen Medien darauf aufmerksam, Solidarität mit Geflüchteten und Asylsuchenden als die mit am stärksten gefährdete Gruppe in Europa zu zeigen. Stärkerer Zusammenhalt zeigt sich auch im Aufbau mit anderen Forschungsprojekten und Netzwerken, mit denen wir uns in den letzten Wochen eng austauschen konnten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "... auch wenn das dafür vorgesehene Zeitfenster um zwei Monate verlängert werden muss. Geplante Forschungsaktivitäten (Fokusgruppeninterviews bspw.) können zum Teil derzeit nicht umgesetzt werden. Die Arbeit an einem interdisziplinären Online Kurs zum Thema Psychosoziale Interventionen dagegen erscheint uns gerade sehr passend. So konnte bereits ein Testmodul von zwei Partnerländern zusammen online umgesetzt werden, da gerade ALLE in der Online Lehre sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Das gesamte Team ist neben allen Herausforderungen im privaten und beruflichen Leben äußerst motiviert. Im Herbst wollen wir alle unsere Produkte verbreiten. In Kürze werden auch die Terminankündigungen für die Multiplikatorenevents veröffentlicht, die zum Teil auch Online umgesetzt werden. Wir sind sehr stolz auf unsere in den letzten Wochen neu überarbeitete Website www.interact-erasmus.eu und laden Sie ein, diese anzuschauen, zu teilen und so unsere Vision mit zu verbreiten. Folgen Sie uns auch über Instagram und Facebook.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Sarah Scheer (Projektkoordinatorin)",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wie-beeinflusst-die-corona-pandemie-die-arbeit-in-den-foschungsprojekten-der-ib-hochschule/image_01.jpg",
+    "alt": "How does the corona pandemic affect research"
+  },
+  "gallery": [],
+  "publishDate": "2020-05-26T09:00:00.000Z",
+  "status": "published"
+}

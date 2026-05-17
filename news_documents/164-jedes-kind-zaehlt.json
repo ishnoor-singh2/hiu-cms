@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.kampagne-jedes-kind-zaehlt",
+  "slug": {
+    "_type": "slug",
+    "current": "kampagne-jedes-kind-zaehlt"
+  },
+  "title": {
+    "en": "Now also online: signature collection with the IB campaign Every Child Counts",
+    "de": "Jetzt auch online: Unterschriftensammlung mit der IB Kampagne Jedes Kind Zählt"
+  },
+  "summary": {
+    "en": "Good education begins with the smallest. IB Hochschule supports the \"Every Child Counts\" campaign, initiated by nursery professionals across Germany. The aim: the federal government should continue to invest in the structural quality of nurseries from 2025.",
+    "de": "Gute Bildung beginnt bei den Kleinsten. Die IB Hochschule unterstützt die Kampagne „Jedes Kind zählt\", die von Kita-Fachkräften aus dem gesamten Bundesgebiet initiiert wurde. Ziel: Der Bund soll ab 2025 weiter in die Strukturqualität der Kitas investieren."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Good education begins with the smallest. IB Hochschule supports the \"Every Child Counts\" campaign, initiated by nursery professionals from the entire federal area. The aim is that the federal government should continue to invest in the structural quality of nurseries from 2025 so that good education can begin nationwide already with the small ones. Many of our students study part-time and also have children and know how important well-functioning and sufficient childcare is. We therefore ask for great support! The signature sheets will lie ready for signature very soon at all university centres in the secretariat.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Now also sign online!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The \"Every Child Counts\" campaign commits itself to introducing binding quality standards in 2024.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The Every Child Counts campaign will be, according to its own statements, the largest nationwide nursery campaign of all time. Internationaler Bund commits itself to ensuring that politics finally improves the conditions for nurseries and children in the country. In view of the threatening cuts in the federal budget 2025, the quality of these institutions is severely endangered. This is to be prevented with the campaign. We want to ensure that the federal government keeps its promise and brings a good quality development law with strong nationwide standards on the way.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Gute Bildung beginnt bei den Kleinsten: Die IB Hochschule unterstützt die Kampagne Jedes Kind zählt, die von Kita-Fachkräften aus dem gesamten Bundesgebiet initiiert wurde. Es geht darum, dass der Bund ab 2025 weiter in die Strukturqualität der Kitas investiert damit gute Bildung bundesweit bereits bei den Kleinen beginnen kann. Viele unserer Studierenden studieren berufsbegleitend und haben ebenfalls Kinder und wissen wie wichtig eine gut funktionierende und ausreichende Kindertagesbetreuung ist. Wir bitten daher um große Unterstützung! Die Unterschriften-Zettel werden sehr bald in allen Hochschulzentren im Sekretariat zur Unterschrift bereit liegen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Jetzt auch Online unterzeichnen!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Kampagne „Jedes Kind zählt\" setzt sich dafür ein, dass im Jahr 2024 verbindliche Qualitätsstandards eingeführt werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Kampagne Jedes Kind Zählt wird nach eigenen Angaben die größte bundesweite Kita-Kampagne aller Zeiten. Der Internationale Bund setzt sich dafür ein, dass die Politik endlich die Bedingungen für die Kitas und Kinder im Land verbessert. Angesichts der drohenden Kürzungen im Bundeshaushalt 2025 ist die Qualität dieser Einrichtungen stark gefährdet. Das soll mit der Kampagne verhindert werden. Wir wollen dafür sorgen, dass der Bund sein Versprechen hält und ein gutes Qualitätsentwicklungsgesetz mit starken bundesweiten Standards auf den Weg bringt.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/kampagne-jedes-kind-zaehlt/image_01.jpg",
+    "alt": "Every Child Counts campaign"
+  },
+  "gallery": [],
+  "publishDate": "2024-05-27T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "hiu-cms",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Sanity CMS for Health Innovation University",
+  "main": "package.json",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "sanity dev",
+    "start": "sanity start",
+    "build": "sanity build",
+    "deploy": "sanity deploy",
+    "export": "sanity dataset export production backup.tar.gz",
+    "import": "sanity dataset import backup.tar.gz production"
+  },
+  "keywords": [
+    "sanity",
+    "cms",
+    "university",
+    "health-innovation"
+  ],
+  "author": "HIU Development Team",
+  "license": "MIT",
+  "dependencies": {
+    "@sanity/cli": "^3.28.0",
+    "@sanity/image-url": "^1.0.2",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sanity": "^3.28.0",
+    "styled-components": "^6.1.1"
+  },
+  "devDependencies": {
+    "@sanity/client": "^7.22.0",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "dotenv": "^17.4.2",
+    "typescript": "^5.0.0"
+  }
+}

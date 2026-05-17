@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.zwischen-tesla-aldi-und-ikea-die-ib-hochschule-fuer-gesundheit-und-soziales-startet-beim-berliner-firmenlauf",
+  "slug": {
+    "_type": "slug",
+    "current": "zwischen-tesla-aldi-und-ikea-die-ib-hochschule-fuer-gesundheit-und-soziales-startet-beim-berliner-firmenlauf"
+  },
+  "title": {
+    "en": "Between Tesla, Aldi and Ikea – IB Hochschule für Gesundheit und Soziales takes part in the Berlin Company Run",
+    "de": "Zwischen Tesla, Aldi und Ikea – die IB Hochschule für Gesundheit und Soziales startet beim Berliner Firmenlauf"
+  },
+  "summary": {
+    "en": "On a sunny but cool evening on 16 May, the 21st IKK BB Berlin Company Run 2023 started. The course ran around Berlin's Tiergarten with the Brandenburg Gate as start and finish – this year, IB Hochschule was also represented with 5 enthusiastic participants.",
+    "de": "Am sonnigen und kühlen Abend des 16. Mai fiel der Startschuss zum 21. IKK BB Berliner Firmenlauf 2023. Die Strecke führte rund um den Berliner Tiergarten mit dem Brandenburger Tor als Start- und Zielpunkt – auch die IB Hochschule war mit 5 begeisterten Teilnehmer*innen vertreten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "It was a sunny and cool evening on 16 May when the starting signal was given for the 21st IKK BB Berlin Company Run 2023. The run took place on a route around Berlin's Tiergarten with the Brandenburg Gate as start and finish. And this year IB Hochschule für Gesundheit und Soziales was also represented with 5 enthusiastic participants.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In total, 872 companies with about 20,000 runners took part in the event. It was a diverse mix of inline skaters, unicyclists, wheelchair and handbike riders, skateboarders and walkers who wanted to boost their fitness and promote team spirit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "After a slight delay at the start – the challenge of sending 20,000 people onto the course at the same time – the field finally got moving. Drummers and enthusiastic spectators accompanied the runners on their way through Berlin's picturesque streets.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The participants from IB Hochschule für Gesundheit und Soziales were highly motivated and had prepared more or less intensively for the run in advance. After crossing the finish line at 5.5 km, each of them had set a personal best. The participants of IB Hochschule can be proud of their performance.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Es war ein sonniger und kühler Abend an diesem 16. Mai, als der Startschuss fiel, zum 21. IKK BB Berliner Firmenlauf 2023. Der Firmenlauf fand auf einer Strecke rund um den Berliner Tiergarten statt mit dem Brandenburger Tor als Start- und Zielpunkt. Und dieses Jahr war auch die IB Hochschule für Gesundheit und Soziales mit 5 enthusiastischen Teilnehmer*innen vertreten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Insgesamt nahmen 872 Firmen mit etwa 20.000 Läuferinnen und Läufern an diesem Event teil. Es war eine vielfältige Mischung aus Inline-Skatern, Einradfahrern, Rolli- und Handbikern, Skateboardern und Walkern, die ihre Fitness steigern und den Teamgeist fördern wollten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Nach einer leichten Verzögerung beim Start, bedingt durch die Herausforderung, 20.000 Menschen gleichzeitig ins Rennen zu schicken, setzte sich das Feld endlich in Bewegung. Trommler und begeisterte Zuschauer begleiteten die Läufer*innen auf ihrem Weg durch die malerischen Straßen Berlins.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Teilnehmer*innen der IB Hochschule für Gesundheit und Soziales waren hoch motiviert und hatten sich im Vorfeld mehr oder weniger intensiv auf den Lauf vorbereitet. Nachdem sie nach 5,5 km die Ziellinie überquert hatten, hatte jeder von ihnen eine Bestzeit hingelegt. Die Teilnehmer*innen der IB Hochschule für Gesundheit und Soziales können stolz auf ihre Leistungen sein.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/zwischen-tesla-aldi-und-ikea-die-ib-hochschule-fuer-gesundheit-und-soziales-startet-beim-berliner-firmenlauf/image_01.jpg",
+    "alt": "Berliner Firmenlauf 2023 - die IB Hochschule ist dabei"
+  },
+  "gallery": [],
+  "publishDate": "2023-05-17T09:00:00.000Z",
+  "status": "published"
+}

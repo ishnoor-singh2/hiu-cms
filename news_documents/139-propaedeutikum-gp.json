@@ -1,0 +1,287 @@
+{
+  "_type": "news",
+  "_id": "news.propaedeutikum-gesundheitspaedagogik-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "das-propaedeutikum-gesundheitspaedagogik"
+  },
+  "title": {
+    "en": "The Propaedeutic Health Education – your entry to the Master Health Education",
+    "de": "Das Propädeutikum Gesundheitspädagogik – Ihr Einstieg in den Master Gesundheitspädagogik"
+  },
+  "summary": {
+    "en": "For winter semester 2025, the Master programme Health Education starts in Berlin. To enable interested parties who do not yet meet the admission requirements, the Propaedeutic Health Education programme (PGP) was set up.",
+    "de": "Zum Wintersemester 2025 startet in Berlin der Masterstudiengang Gesundheitspädagogik. Um Interessierten, die die Zulassungsvoraussetzungen noch nicht erfüllen, den Einstieg zu ermöglichen, wurde das Propädeutikum Gesundheitspädagogik (PGP) eingerichtet."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "For winter semester 2025, the Master programme Health Education starts in Berlin. But not all interested parties immediately meet the admission requirements. For admission to the Master, an appropriate qualifying university degree with a total of 210 ECTS points is required, of which at least 30 ECTS must be proven in a pedagogical subject.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "To fulfil this requirement, the Propaedeutic Health Education (PGP) was set up. It offers interested parties the opportunity to make up missing ECTS points and optimally prepare for the Master programme. The Propaedeutic starts with summer semester at the first university weekend in April 2025.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Structure of the Propaedeutic",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The Propaedeutic comprises three modules specifically aligned with the requirements of the Master programme. The first teaching block takes place from 25 to 27 April 2025 at the university.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The Propaedeutic Health Education is aimed at university graduates from the reference disciplines of nursing, health and therapy sciences or vocational pedagogy and other related disciplines, who are trained and working in a health, nursing or therapy profession.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "And then it's off into the Master",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "After successful completion of the Propaedeutic, nothing stands in the way of entry to the Master Health Education. Use this chance to specifically expand your pedagogical competences and bring your professional career to the next level.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "More information and registration",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Interested? All further details about the Propaedeutic and application modalities can be found on our website about the Propaedeutic or ask our student advisory service. Secure your place in good time and start your academic future with the Master Health Education!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Zum Wintersemester 2025 startet in Berlin der Masterstudiengang Gesundheitspädagogik. Doch nicht alle Interessierten erfüllen auf Anhieb die Zulassungsvoraussetzungen. Für die Aufnahme in den Master ist ein einschlägiger berufsqualifizierender Hochschulabschluss mit insgesamt 210 ECTS-Punkten erforderlich, von denen mindestens 30 ECTS in einem pädagogischen Fach nachgewiesen werden müssen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Um diese Voraussetzung zu erfüllen, wurde das Propädeutikum Gesundheitspädagogik (PGP) eingerichtet. Es bietet Interessierten die Möglichkeit, fehlende ECTS-Punkte nachzuholen und sich optimal auf das Masterstudium vorzubereiten. Los geht es mit dem Propädeutikum mit dem Sommersemester am ersten Hochschulwochenende im April 2025.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Aufbau des Propädeutikums",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Das Propädeutikum umfasst drei Module, die gezielt auf die Anforderungen des Masterstudiums ausgerichtet sind. Der erste Lehrblock findet vom 25. bis 27. April 2025 an der Hochschule statt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Das Propädeutikum Gesundheitspädagogik richtet sich an Hochschulabsolvent*innen aus den Bezugsdisziplinen der Pflege-, Gesundheits- und Therapiewissenschaften oder der Berufspädagogik sowie weiterer verwandter Fachdisziplinen, die in einem Gesundheits-, Pflege- bzw. Therapiefachberuf ausgebildet und berufstätig sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Und dann geht's rein in den Master",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Nach erfolgreichem Abschluss des Propädeutikums steht dem Einstieg in den Master Gesundheitspädagogik nichts mehr im Wege. Nutzen Sie diese Chance, um Ihre pädagogischen Kompetenzen gezielt zu erweitern und Ihre berufliche Laufbahn auf das nächste Level zu heben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Weitere Informationen und Anmeldung",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Interessiert? Alle weiteren Details zum Propädeutikum und den Bewerbungsmodalitäten finden Sie auf unserer Website zum Propädeutikum oder fragen Sie unsere Studienberatung. Sichern Sie sich rechtzeitig Ihren Platz und starten Sie Ihre akademische Zukunft mit dem Master Gesundheitspädagogik!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/das-propaedeutikum-gesundheitspaedagogik/image_01.jpg",
+    "alt": "PGP start"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/das-propaedeutikum-gesundheitspaedagogik/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-02-03T09:00:00.000Z",
+  "status": "published"
+}

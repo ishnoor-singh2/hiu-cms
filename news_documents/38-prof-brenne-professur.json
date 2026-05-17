@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.herzlichen-glueckwunsch-zur-professur-prof-dr-silke-brenne",
+  "slug": {
+    "_type": "slug",
+    "current": "herzlichen-glueckwunsch-zur-professur-prof-dr-silke-brenne"
+  },
+  "title": {
+    "en": "Congratulations on the professorship, Prof. Dr. Silke Brenne!",
+    "de": "Herzlichen Glückwunsch zur Professur, Prof. Dr. Silke Brenne!"
+  },
+  "summary": {
+    "en": "We congratulate Prof. Dr. Silke Brenne on her appointment as full professor of Health Sciences – Research Methods. President Prof. Dr. Mariam Hartinger personally presented her with the appointment certificate.",
+    "de": "Wir gratulieren Prof. Dr. Silke Brenne zur Berufung zur ordentlichen Professorin für Gesundheitswissenschaften – Forschungsmethoden. Präsidentin Prof. Dr. Mariam Hartinger überreichte ihr persönlich die Berufungsurkunde."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "We congratulate Prof. Dr. Silke Brenne on her appointment as full professor of Health Sciences – Research Methods. Prof. Dr. Mariam Hartinger, President of IB Hochschule für Gesundheit und Soziales, presented her with the appointment certificate today (27 March 2023).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "As recipient of the doctoral prize of the German Society for Psychosomatic Women's Health and Obstetrics (DGPFG) (2018) and as an expert in health sciences in the fields of teaching research, teaching evaluation, rural health and outpatient care research, Prof. Brenne will enormously enrich the two part-time programmes Health Care Education / Gesundheitspädagogik (Bachelor) and Gesundheitspädagogik (Master) at IB Hochschule in teaching, continuing education and research, and will impart valuable knowledge and practical skills to students.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In February, Prof. Brenne already took up her position as Dean of Studies at the Berlin Study Centre.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The appointment of Prof. Brenne is a real gain for IB Hochschule, and we wish her every success and much joy in her new position at IB Hochschule!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Wir gratulieren Prof. Dr. Silke Brenne zur Berufung zur ordentlichen Professorin für Gesundheitswissenschaften – Forschungsmethoden. Prof. Dr. Mariam Hartinger, Präsidentin der IB Hochschule für Gesundheit und Soziales, überreichte ihr am heutigen Tage (27.03.2023) die Berufungsurkunde.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Als Preisträgerin des Promotionspreises der Deutschen Gesellschaft für Psychosomatische Frauenheilkunde und Geburtshilfe e. V. (DGPFG) (2018) und als Expertin auf dem Gebiet der Gesundheitswissenschaften in den Bereichen der Lehrforschung, Lehrevaluation, Rural Health und Versorgungsforschung im ambulanten Bereich wird Prof. Brenne die beiden berufsbegleitenden Studiengänge Health Care Education / Gesundheitspädagogik (Bachelor) und Gesundheitspädagogik (Master) der IB Hochschule in Lehre, Weiterbildung und Forschung enorm bereichern und den Studierenden wertvolles Wissen und praktische Fähigkeiten vermitteln.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Im Februar hat Prof. Brenne bereits ihre Tätigkeit als Studiendekanin im Studienzentrum Berlin aufgenommen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Berufung von Prof. Brenne ist ein echter Gewinn für die IB Hochschule, und wir wünschen viel Erfolg und Freude in ihrer neuen Position an der IB Hochschule!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/herzlichen-glueckwunsch-zur-professur-prof-dr-silke-brenne/image_01.jpg",
+    "alt": "Glückwunsch zur Professur, Prof. Dr. Silke Brenne"
+  },
+  "gallery": [],
+  "publishDate": "2023-03-27T09:00:00.000Z",
+  "status": "published"
+}

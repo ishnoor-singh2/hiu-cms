@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.physiotherapie-bsc-fc-union-berlin",
+  "slug": {
+    "_type": "slug",
+    "current": "studierende-der-physiotherapie-bsc-beim-1-fc-union-berlin"
+  },
+  "title": {
+    "en": "Physiotherapy (B.Sc.) students at 1. FC Union Berlin",
+    "de": "Studierende der Physiotherapie (B.Sc.) beim 1. FC Union Berlin"
+  },
+  "summary": {
+    "en": "In the 7th semester of the Physiotherapy (B.Sc.) programme, students can decide on an elective module. The goal of the \"Therapy in Sport\" module is the sport- and training-science-based therapeutic care of athletes with acute and chronic injuries and impairments – with practical days at 1. FC Union Berlin.",
+    "de": "Im 7. Semester des Studiengangs Physiotherapie (B.Sc.) können sich Studierende für ein Wahlpflichtmodul entscheiden. Ziel des Moduls „Therapie im Sport\" ist die sport- und trainingswissenschaftlich begründete therapeutische Betreuung von Sportler*innen – mit Praxistagen beim 1. FC Union Berlin."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In the 7th semester of the Physiotherapy (B.Sc.) programme, students can choose an elective module. The aim of the module \"Therapy in Sport\" is the sport- and training-science-based therapeutic care of athletes (m/f/d) with acute and chronic injuries and damage. The students learn to recognise and take into account sport-specific criteria in therapy, and to accompany an athlete's return to the regular training process therapeutically.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Alongside knowledge of the most common injuries in sport, the students learn methods of sports massage, taping and cupping. They also learn about nutrition in sport, aqua-fitness, and the use of scientific tests (assessments) for return-to-sport after injuries.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "To apply this knowledge, the students completed four weeks of practical days at the football club 1. FC Union Berlin. There they carried out therapeutic activities in the club's youth academy, used techniques for the preparation and recovery of athletes (m/f/d), and accompanied competitions. The experiences at 1. FC Union Berlin with the use of validated assessments such as Return-to-Competition or the progression plan after injuries, as well as the practice-oriented acute treatment of even minor injuries and the motivated approach of the footballers to the fastest possible \"return to play\", were a great enrichment for our students.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Im 7. Semester des Studiengangs Physiotherapie (B.Sc.) können sich die Studierenden für ein Wahlpflichtmodul entscheiden. Ziele des Moduls „Therapie im Sport\" sind die sport- und trainingswissenschaftlich begründete therapeutische Betreuung von Sportlern (m/w/d) bei akuten und chronischen Verletzungen und Schädigungen. Die Studierenden lernen sportartspezifische Kriterien in der Therapie zu erkennen und zu berücksichtigen sowie einen Wiedereinstieg des Sportlers (m/w/d) in den regulären Trainingsprozess therapeutisch zu begleiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Neben Wissen zu häufigsten Verletzungen im Sport lernen die Studierenden Methoden der Sportmassage, des Taping und Schröpfen. Weiterhin geht es um Wissen zur Ernährung im Sport, Aquafitness und den Einsatz wissenschaftlicher Tests (Assessments) für eine Rückkehr zum Sport nach Verletzungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Für die Anwendung des Wissens absolvierten die Studierenden über vier Wochen praktische Tage beim Fußballverein 1. FC Union Berlin. Hier leisteten sie therapeutische Tätigkeiten im Nachwuchsleistungszentrum des Vereins, setzten Techniken zur Vor- und Nachbereitung der Sportler (m/w/d) ein und begleiteten Wettkämpfe. Die Erfahrungen beim 1. FC Union Berlin mit dem Einsatz validierter Assessments wie Return-to-Competition oder dem Stufenplan zur Belastungssteigerung nach Verletzungen sowie die praxisnahe Akutbehandlung, auch von leichten Verletzungen, und der motivierte Umgang der Fußballer zum schnellstmöglichen „return to play\" sind für unsere Studierenden eine große Bereicherung.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/studierende-der-physiotherapie-bsc-beim-1-fc-union-berlin/image_01.jpg",
+    "alt": "Physiotherapy students at 1. FC Union Berlin"
+  },
+  "gallery": [],
+  "publishDate": "2020-03-06T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.online-fachtagung-delta-netz-transfer",
+  "slug": {
+    "_type": "slug",
+    "current": "online-fachtagung-im-projekt-delta-netz-transfer"
+  },
+  "title": {
+    "en": "Warm invitation to the online specialist conference in the Delta Netz Transfer project",
+    "de": "Herzliche Einladung zur Online Fachtagung im Projekt Delta Netz Transfer"
+  },
+  "summary": {
+    "en": "The Delta Netz Transfer research project invites to the online specialist conference \"Social-pedagogical accompaniment of literacy offers\" on 5 June 2024.",
+    "de": "Das Forschungsprojekt Delta Netz Transfer lädt ein zur Online-Fachtagung „Sozialpädagogische Begleitung von Alphabetisierungsangeboten\" am 5. Juni 2024."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The Delta Netz Transfer research project invites to the online specialist conference \"Social-pedagogical accompaniment of literacy offers\". Date: 05.06.2024 from 13:00 to 16:00. Where: Online. Organiser: IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Dr. Veronika Thalhammer (Ludwig-Maximilians-Universität München) will speak on drop-out in literacy practice. Dr. Kristina Schmidt-Köhnlein (project AGiL – Literacy and Basic Education in Learning Houses of Berlin Community Colleges) will present social-pedagogical accompaniment in learning houses of community colleges.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In breakout sessions, results, experiences and insights into the practice of the Delta Netz Transfer project are given. Together we want to discuss chances and limits of social-pedagogical accompaniment of literacy offers and discuss how the establishment of social-pedagogical accompaniment and counselling of learners can succeed.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "In Germany, about 6.2 million adults cannot adequately read and write. Among them are adults who can only read and write individual letters, individual words or short sentences. For about half of these people, German is their mother tongue. They grew up in Germany and went to school there, and yet they lack these competences. Those affected conceal their problems, as they were stigmatised for this in the past. Visiting a learning offer therefore represents a large hurdle. So only about one percent of those affected take advantage of a reading or writing offer.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "For these people the \"Delta-Netz Transfer\" project was launched. The project staff work together to support and reach them. Registration by 28.05.2024 is requested.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das Forschungsprojekt Delta Netz Transfer lädt ein zur Online-Fachtagung „Sozialpädagogische Begleitung von Alphabetisierungsangeboten\". Datum: 05.06.2024 von 13 bis 16 Uhr. Wo: Online. Veranstalter: IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Dr. Veronika Thalhammer (Ludwig-Maximilians-Universität München) wird zum Drop-Out in der Alphabetisierungspraxis referieren. Dr. Kristina Schmidt-Köhnlein (Projekt AGiL – Alphabetisierung und Grundbildung in Lernhäusern der Berliner Volkshochschulen) wird die Sozialpädagogische Begleitung in Lernhäusern der Volkshochschulen vorstellen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "In Breakout-Sessions werden Ergebnisse, Erfahrungen und Einblicke in die Praxis des Projekts Delta Netz Transfer gegeben. Gemeinsam wollen wir Chancen und Grenzen der sozialpädagogischen Begleitung von Alphabetisierungsangeboten diskutieren und erörtern, wie die Etablierung einer sozialpädagogischen Begleitung und Beratung von Lernenden gelingen kann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "In Deutschland können rund 6,2 Millionen Erwachsene nicht ausreichend lesen und schreiben. Darunter sind Erwachsene, die nur einzelne Buchstaben, einzelne Wörter oder auch nur kurze Sätze lesen und schreiben könnten. Für rund die Hälfte dieser Menschen ist Deutsch die Muttersprache. Sie sind in Deutschland aufgewachsen und zur Schule gegangen und trotzdem fehlen ihnen diese Kompetenzen. Die Betroffenen verschleiern ihre Probleme, da sie in der Vergangenheit deswegen stigmatisiert wurden. Der Besuch eines Lernangebots stellt daher eine große Hürde da. Weswegen nur rund ein Prozent der Betroffenen ein Lese- oder Schreibangebot wahrnehmen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Für diese Menschen wurde das Projekt „Delta-Netz Transfer\" ins Leben gerufen. Die Projektmitarbeiter*innen arbeiten gemeinsam daran. Um Anmeldung bis zum 28.05.2024 wird gebeten.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/online-fachtagung-im-projekt-delta-netz-transfer/image_01.jpg",
+    "alt": "Delta Netz Transfer"
+  },
+  "gallery": [],
+  "publishDate": "2024-05-17T09:00:00.000Z",
+  "status": "published"
+}

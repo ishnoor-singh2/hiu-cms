@@ -1,0 +1,213 @@
+{
+  "_type": "news",
+  "_id": "news.18-jahre-ib-hochschule",
+  "slug": {
+    "_type": "slug",
+    "current": "18-jahre-ib-hochschule"
+  },
+  "title": {
+    "en": "18 years of IB Hochschule – Happy Birthday!",
+    "de": "18 Jahre IB Hochschule – Happy Birthday!"
+  },
+  "summary": {
+    "en": "On 9 July 2025 IB Hochschule für Gesundheit und Soziales celebrates 18 years of existence – a chance to look back on an eventful and successful journey.",
+    "de": "Heute am 9. Juli 2025 feiert die IB Hochschule für Gesundheit und Soziales ihr 18-jähriges Bestehen – ein Anlass, um auf eine bewegte und erfolgreiche Reise zurückzublicken."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 9 July 2025, IB Hochschule für Gesundheit und Soziales celebrates 18 years of existence – an occasion to look back on an eventful and successful journey.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Founded in 2007 as part of Internationaler Bund (IB), practice-oriented, future-oriented programmes – such as Communication Design or Health Sciences – have been at the centre from the beginning. A significant chapter began on Besselstraße in Berlin-Kreuzberg and was continued at Gerichtstraße 27 in Berlin-Wedding, where we spent many formative years together with the Medical Academy. Here the foundation was laid – for strong programmes in the health field, dedicated teaching teams and a lively university community. From the start, people have been at the centre.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "With the move to Breitenbachstraße, a transition phase followed, which we used as an opportunity to realign ourselves organisationally and spatially. Today we are at the goal: on the modern Health Campus of ukb. With state-of-the-art equipment, interdisciplinary cooperation and a direct link to practice, we offer our students ideal conditions for their academic and personal development.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "18 years of IB Hochschule – that means start, change and steady growth. We thank everyone who has walked this path with us – and look forward to many more years together. Congratulations, IB Hochschule!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "A personal contribution by Prof. Dr. Mariam Hartinger, President",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "18 years of IB Hochschule für Gesundheit und Soziales means 18 years of education for all. That means: studying without Abitur, without NC and open to everyone who convinces us with their personality and motivation. 18 years of IB Hochschule means about 1,500 graduates. The career paths of our alumni are impressive. 18 years of IB Hochschule currently means an absolute new start for us. Under the new operator, GEN Group, we will expand our portfolio and offer international programmes. For the work and commitment in the 18 years of IB Hochschule I thank the entire team, Internationaler Bund e.V., who supported us to adulthood, and all authorities and state institutions for the good cooperation since the founding on 09.07.2007.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Heute am 9. Juli 2025 feiert die IB Hochschule für Gesundheit und Soziales ihr 18-jähriges Bestehen – ein Anlass, um auf eine bewegte und erfolgreiche Reise zurückzublicken.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Gegründet 2007 als Teil des Internationalen Bundes (IB), standen von Anfang an praxisorientierte, zukunftsorientierte Studiengänge, wie Kommunikationsdesign oder Gesundheitswissenschaften im Mittelpunkt. Ein bedeutendes Kapitel begann in der Besselstraße in Berlin-Kreuzberg und wurde in der Gerichtstraße 27 in Berlin-Wedding fortgesetzt, wo wir gemeinsam mit der Medizinischen Akademie viele prägende Jahre verbrachten. Hier wurde der Grundstein gelegt – für starke Studiengänge im Gesundheitsbereich, engagierte Lehrteams und eine lebendige Hochschulgemeinschaft. Von Beginn an stand der Mensch im Mittelpunkt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Mit dem Umzug in die Breitenbachstraße folgte eine Übergangszeit, die wir als Chance nutzten, uns organisatorisch und räumlich neu auszurichten. Heute sind wir am Ziel: auf dem modernen Gesundheitscampus des ukb. Mit neuester Ausstattung, interdisziplinären Kooperationen und einem direkten Draht zur Praxis bieten wir unseren Studierenden ideale Bedingungen für ihre akademische und persönliche Entwicklung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "18 Jahre IB Hochschule – das bedeutet Aufbruch, Wandel und stetiges Wachstum. Wir danken allen, die diesen Weg mit uns gegangen sind – und freuen uns auf viele weitere gemeinsame Jahre. Herzlichen Glückwunsch, IB Hochschule!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Ein persönlicher Beitrag von Prof. Dr. Mariam Hartinger, Präsidentin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "18 Jahre IB Hochschule für Gesundheit und Soziales bedeuten 18 Jahre lang Bildung für alle. Das bedeutet: Studium ohne Abitur, ohne NC und für alle, die uns mit ihrer Persönlichkeit und Motivation überzeugen. 18 Jahre IB Hochschule bedeuten ca. 1.500 Absolvent*innen. Die Karrierewege unserer Alumni sind beeindruckend. 18 Jahre IB Hochschule bedeutet für uns aktuell ein absoluter Neustart. Unter dem neuen Betreiber, der GEN Group, werden wir unser Portfolio erweitern und internationale Studiengänge anbieten. Für die Arbeit und das Engagement in den 18 Jahren IB Hochschule bedanke ich mich von Herzen beim gesamten Team, dem Internationalen Bund e.V., die uns bis zur Volljährigkeit unterstützt haben, und bei allen Behörden und staatlichen Institutionen für die gute Zusammenarbeit seit der Hochschulgründung am 09.07.2007.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/18-jahre-ib-hochschule/image_01.jpg",
+    "alt": "18 years IB Hochschule"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/18-jahre-ib-hochschule/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/18-jahre-ib-hochschule/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/18-jahre-ib-hochschule/image_04.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-07-09T09:00:00.000Z",
+  "status": "published"
+}

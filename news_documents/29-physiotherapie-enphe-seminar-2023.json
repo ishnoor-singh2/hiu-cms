@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.physiotherapie-rueckblick-enphe-seminar-2023-educating-physiotherapists-for-a-global-mindset",
+  "slug": {
+    "_type": "slug",
+    "current": "physiotherapie-rueckblick-enphe-seminar-2023-educating-physiotherapists-for-a-global-mindset"
+  },
+  "title": {
+    "en": "Physiotherapy review: ENPHE seminar 2023 – Educating Physiotherapists for a Global Mindset",
+    "de": "Physiotherapie Rückblick: ENPHE Seminar 2023 – Educating Physiotherapists for a Global Mindset"
+  },
+  "summary": {
+    "en": "The European Network for Physiotherapy in Higher Education (ENPHE) seminar took place from 9 to 11 March 2023 in Bergen, Norway, and was a full success. IB Hochschule has been a member of this network for 5 years.",
+    "de": "Das ENPHE-Seminar fand vom 09. bis 11.03.2023 in Bergen, Norwegen statt und war ein voller Erfolg. Die IB Hochschule ist seit 5 Jahren Mitglied in diesem Netzwerk."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The European Network for Physiotherapy in Higher Education (ENPHE) seminar took place from 9 to 11 March 2023 in Bergen, Norway, and was a complete success.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "It was hosted by the Western Norway University of Applied Sciences in cooperation with Arctic Norway University and the Environmental Physiotherapy Group. The goal of the seminar was to bring together teachers, researchers and students from across Europe to exchange knowledge, insights and experiences. IB Hochschule has been a member of this network for 5 years.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Spread over three days, participants had the opportunity to take part in a wide range of activities, including keynote speeches and various sessions. The theme of this year's seminar was \"Educating physiotherapists for a global mindset\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The seminar started with two impulse talks. Various working groups then dealt with diverse topics. The explicit goal was to generate sustainable knowledge for the conference in Prague and to make this knowledge available to all European universities within the network. Topics included internships abroad, the use of virtual reality in patient care and new teaching and learning formats in today's higher education landscape.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "There was also ample room for informal exchange. Overall, this seminar was extremely enriching and a good foundation for further advancing the academisation of therapy professions in Germany.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das European Network for Physiotherapy in Higher Education (ENPHE) Seminar fand vom 09. – 11.03.2023 in Bergen, Norwegen statt und war ein voller Erfolg.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Veranstaltet wurde es von der Western Norway University of Applied Sciences in Zusammenarbeit mit der Arctic Norway University und der Environmental Physiotherapy Group. Ziel des Seminars war es, Lehrende, Forschende und Studierende aus ganz Europa zusammen zu bringen, um Wissen, Erkenntnisse und Erfahrungen auszutauschen. Die IB Hochschule ist Mitglied in diesem Netzwerk seit 5 Jahren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Verteilt über 3 Tage hatten die Teilnehmenden die Möglichkeit, an einer Vielzahl von Aktivitäten teilzunehmen, darunter Keynote Speeches und verschiedene Sessions. Thema des diesjährigen Seminars war Educating physiotherapists for a global mindset.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Das Seminar startete mit zwei Impulsvorträgen. Anschließend wurde in verschiedenen Arbeitsgruppen zu diversen Themen gearbeitet. Das ausdrückliche Ziel war es, nachhaltig Wissen für die Konferenz in Prag zu generieren und dieses Wissen im Rahmen des Netzwerkes allen europäischen Hochschulen zur Verfügung zu stellen. Dabei ging es unter anderem um Praktika im Ausland, dem Einsatz von virtueller Realität in der Patient*innenversorgung und neue Lehr- und Lernformen in der aktuellen Hochschullandschaft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Es gab auch ausreichend Raum für den informellen Austausch. Insgesamt war dieses Seminar überaus bereichernd und eine gute Grundlage, um die Akademisierung in den Therapieberufen in Deutschland weiter voranzutreiben.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/physiotherapie-rueckblick-enphe-seminar-2023-educating-physiotherapists-for-a-global-mindset/image_01.jpg",
+    "alt": "Physiotherapie Kongress ENPHE in Norwegen"
+  },
+  "gallery": [],
+  "publishDate": "2023-05-31T09:00:00.000Z",
+  "status": "published"
+}

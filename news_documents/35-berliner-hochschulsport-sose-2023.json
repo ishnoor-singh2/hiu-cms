@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.berliner-hochschulsport-sommersemester-2023",
+  "slug": {
+    "_type": "slug",
+    "current": "berliner-hochschulsport-sommersemester-2023"
+  },
+  "title": {
+    "en": "Berlin University Sport offer for summer semester 2023",
+    "de": "Berliner Hochschulsport-Angebot im Sommersemester 2023"
+  },
+  "summary": {
+    "en": "Berlin University Sport offers space for more than 50,000 participants every semester in regular sports courses, workshops, excursions, tournaments and events. It is also a great opportunity to meet new people in Berlin.",
+    "de": "Der Berliner Hochschulsport bietet jedes Semester Platz für mehr als 50.000 Teilnehmer*innen in regelmäßigen Sportkursen, Workshops, Exkursionen, Turnieren und Events. Er ist außerdem eine ideale Möglichkeit, neue Leute in Berlin kennenzulernen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Berlin University Sport: update on the sports programme in summer semester 2023. Berlin University Sport offers space for more than 50,000 participants every semester in regular sports courses, workshops, excursions, tournaments and events. It is also a great opportunity to meet new people in Berlin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Online registration: interested participants can simply register online. Payment is easy and secure, either by direct debit or bank transfer. Details can be found on the websites of the various university sports facilities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "An overview of the university sports offers for the summer semester is available here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Berliner Hochschulsport: Update zum Sportprogramm im Sommersemester 2023. Der Berliner Hochschulsport bietet jedes Semester Platz für mehr als 50.000 Teilnehmer*innen in regelmäßigen Sportkursen, in Workshops, bei Exkursionen, Turnieren oder Events. Zudem bietet der Hochschulsport natürlich die optimale Möglichkeit, neue Leute in Berlin kennenzulernen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Online-Anmeldung: Interessierte können sich einfach online anmelden. Die Bezahlung erfolgt einfach und sicher entweder per Lastschrift oder per Überweisung. Einzelheiten sind den Webseiten der verschiedenen Hochschulsporteinrichtungen zu entnehmen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Eine Übersicht der Hochschulsport-Angebote im Sommersemester finden Sie hier.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/berliner-hochschulsport-sommersemester-2023/image_01.jpg",
+    "alt": "Hochschulsport"
+  },
+  "gallery": [],
+  "publishDate": "2023-04-17T09:00:00.000Z",
+  "status": "published"
+}

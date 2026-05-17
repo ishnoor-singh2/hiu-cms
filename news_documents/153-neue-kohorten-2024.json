@@ -1,0 +1,124 @@
+{
+  "_type": "news",
+  "_id": "news.neue-kohorten-2024-gestartet",
+  "slug": {
+    "_type": "slug",
+    "current": "herzlich-willkommen-an-der-ib-hochschule-die-neuen-kohorten-2024-sind-gestartet"
+  },
+  "title": {
+    "en": "Welcome to IB Hochschule! The new 2024 cohorts have started!",
+    "de": "Herzlich willkommen an der IB Hochschule! Die neuen Kohorten 2024 sind gestartet!"
+  },
+  "summary": {
+    "en": "Joy was great as the first university weekend for the new Health Care Education / Health Education and the Master Health Education cohorts began at the Berlin Study Centre. On Monday the Applied Psychology programmes also start in Berlin and Stuttgart.",
+    "de": "Die Freude war groß, als das erste Hochschulwochenende für die neuen Kohorten der Health Care Education/ Gesundheitspädagogik sowie des Masterstudiengangs Gesundheitspädagogik am Studienzentrum in Berlin erfolgreich begonnen hat. Am heutigen Montag starten in Berlin und Stuttgart die Studiengänge der Angewandten Psychologie."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Joy was great as the first university weekend for the new cohorts of Health Care Education / Health Education and the Master Health Education programme successfully started at the Berlin Study Centre. And also on this Monday the Applied Psychology programmes start in Berlin and Stuttgart. We are very pleased to see so many new faces at the study centres and welcome all students to our university!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The students' motivation is palpable: they want to continue their education to make an important contribution in healthcare in the future. At IB Hochschule they have the best conditions for this. With practice-oriented study contents, experienced lecturers and small learning groups, we can individually respond to our students' needs. Our programmes optimally combine theory and practice and thus offer first-class preparation for the professional future.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We wish all new and old students much success and joy in their studies for winter semester 2024! Together they will develop valuable skills that will advance them not only professionally but also personally. We are proud to be part of their path and look forward to the coming semesters full of knowledge, growth and community.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Freude war groß, als das erste Hochschulwochenende für die neuen Kohorten der Health Care Education/ Gesundheitspädagogik sowie des Masterstudiengangs Gesundheitspädagogik am Studienzentrum in Berlin erfolgreich begonnen hat. Und auch am heutigen Montag starten in Berlin und Stuttgart die Studiengänge der Angewandten Psychologie. Wir freuen uns sehr, so viele neue Gesichter an den Studienzentren zu sehen und begrüßen alle Studierenden an unserer Hochschule!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Motivation der Studierenden ist spürbar: Sie möchten sich weiterbilden, um in Zukunft einen wichtigen Beitrag im Gesundheitswesen zu leisten. An der IB Hochschule haben sie dafür die besten Voraussetzungen. Mit praxisnahen Studieninhalten, erfahrenen Dozent*innen und kleinen Lerngruppen können wir individuell auf die Bedürfnisse unserer Studierenden eingehen. Unsere Studiengänge verbinden Theorie und Praxis optimal und bieten so eine erstklassige Vorbereitung auf die berufliche Zukunft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir wünschen allen neuen und alten Studierenden viel Erfolg und Freude im Studium zum Wintersemester 2024! Gemeinsam werden sie wertvolle Fähigkeiten entwickeln, die sie nicht nur im Beruf, sondern auch persönlich weiterbringen. Wir sind stolz darauf, Teil ihres Weges zu sein und freuen uns auf die kommenden Semester voller Wissen, Wachstum und Gemeinschaft.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/herzlich-willkommen-an-der-ib-hochschule-die-neuen-kohorten-2024-sind-gestartet/image_01.png",
+    "alt": "Study start cohorts 2024"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/herzlich-willkommen-an-der-ib-hochschule-die-neuen-kohorten-2024-sind-gestartet/image_02.png",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/herzlich-willkommen-an-der-ib-hochschule-die-neuen-kohorten-2024-sind-gestartet/image_03.png",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-10-07T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,203 @@
+{
+  "_type": "news",
+  "_id": "news.studienabschluss-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "studienabschluss-2025"
+  },
+  "title": {
+    "en": "Graduation 2025: IB Hochschule warmly congratulates!",
+    "de": "Studienabschluss 2025: Die IB Hochschule gratuliert herzlich!"
+  },
+  "summary": {
+    "en": "Last week the oral exams took place – and so there are again new graduates of the 2025 cohort. IB Hochschule für Gesundheit und Soziales warmly congratulates everyone on their successful completion. The first graduates ever in the Master Digital Health also celebrated.",
+    "de": "In der vergangenen Woche fanden die mündlichen Prüfungen statt – und somit gab es wieder neue Absolventinnen und Absolventen zum Studienabschluss 2025. Die IB Hochschule gratuliert allen ganz herzlich. Auch im Masterstudiengang Digital Health konnten die ersten Absolvent*innen verabschiedet werden."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Last week the oral exams took place – and so there were once again new graduates for graduation 2025. IB Hochschule für Gesundheit und Soziales warmly congratulates everyone on their successful completion. We are proud of your achievements and that you have made it!!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "First graduates in the Master Digital Health",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "A special milestone: in the Master Digital Health programme, IB Hochschule was able to bid farewell to the very first graduate ever this year. The programme combines scientific know-how with practice-oriented approaches and prepares students to actively shape the digital transformation in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Success in Psychology and Health Education",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Not only Digital Health was able to celebrate successes: the Psychology and Health Education programmes also successfully completed their final oral exams this week. With this, further graduates expand the circle of our alumni.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "With their degree in Digital Health, Psychology or Health Education, our graduates have reached an important milestone. Now many paths are open to them: some will put their knowledge into practice, others want to research, teach or bring new ideas into healthcare institutions. We are convinced that they will achieve a lot with their expertise, commitment and personality, and actively shape the future of healthcare. We wish you all the best, much success and joy – and warmly congratulate you on graduation 2025!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "In der vergangenen Woche fanden die mündlichen Prüfungen statt – und somit gab es wieder neue Absolventinnen und Absolventen zum Studienabschluss 2025. Die IB Hochschule für Gesundheit und Soziales gratuliert allen ganz herzlich zu ihrem erfolgreichen Abschluss. Wir sind stolz auf Ihre Leistungen und dass Sie es geschafft haben!!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Erste Absolventinnen und Absolventen im Master Digital Health",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ein besonderer Meilenstein: Im Masterstudiengang Digital Health konnte die IB Hochschule in diesem Jahr die erste Absolventin überhaupt verabschieden. Der Studiengang vereint wissenschaftliches Know-how mit praxisorientierten Ansätzen und bereitet auf die aktive Mitgestaltung der digitalen Transformation im Gesundheitswesen vor.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Erfolge in Psychologie und Gesundheitspädagogik",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Nicht nur Digital Health konnte Erfolge feiern: Auch die Studiengänge Psychologie und Gesundheitspädagogik haben in dieser Woche ihre letzten mündlichen Prüfungen erfolgreich abgeschlossen. Damit erweitern weitere Absolventinnen und Absolventen den Kreis unserer Alumni.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Mit ihrem Abschluss in Digital Health, Psychologie oder Gesundheitspädagogik haben unsere Absolventinnen und Absolventen ein wichtiges Etappenziel erreicht. Nun stehen ihnen viele Wege offen, manche werden ihr Wissen in der Praxis einsetzen, andere möchten forschen, lehren oder neue Ideen in Einrichtungen des Gesundheitswesens einbringen. Wir sind überzeugt, dass sie mit ihrer Fachkompetenz, ihrem Engagement und ihrer Persönlichkeit viel bewegen und die Zukunft des Gesundheitswesens aktiv mitgestalten werden. Wir wünschen Ihnen alles Gute, viel Erfolg und Freude – und gratulieren herzlich zum Studienabschluss 2025!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/studienabschluss-2025/image_01.jpg",
+    "alt": "First Digital Health graduate"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/studienabschluss-2025/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-09-24T09:00:00.000Z",
+  "status": "published"
+}

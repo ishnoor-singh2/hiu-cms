@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.abschluss-angewandte-psychologie-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "erfolgreicher-abschluss-angewandte-psychologie-2024"
+  },
+  "title": {
+    "en": "Successful completion for the Applied Psychology 2024 cohort: IB Hochschule warmly congratulates!",
+    "de": "Erfolgreicher Abschluss für die Kohorte der Angewandten Psychologie 2024: Die IB Hochschule gratuliert herzlich!"
+  },
+  "summary": {
+    "en": "The mood was good when the students of Applied Psychology received their Bachelor's certificates. With pride and joy, the entire university community congratulates these talented students on their remarkable success.",
+    "de": "Die Stimmung war gut, als die Studierenden der Angewandten Psychologie ihr Bachelor-Zeugnis überreicht bekamen. Mit Stolz und Freude gratuliert die gesamte Hochschulgemeinschaft diesen talentierten Studierenden zu ihrem bemerkenswerten Erfolg."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The mood was good when the students of Applied Psychology received their Bachelor's certificates. With pride and joy, the entire university community congratulates these talented students on their remarkable success.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "For the festive completion there was sparkling wine and speeches of thanks, flowers and gifts were presented. Under the joyful faces of the graduates, memories were exchanged and future plans forged.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The Applied Psychology cohort acquired during their studies not only academic knowledge but also valuable practical experiences. Their commitment, passion and dedication made them outstanding professionals in their field.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "IB Hochschule is proud to have been part of these talented graduates' path. Warm congratulations to the Applied Psychology students on the successful completion of their Bachelor studies! And anyone who wants to stay connected as IB Hochschule alumni can sign up to our Alumni Network.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Stimmung war gut, als die Studierenden der Angewandten Psychologie ihr Bachelor-Zeugnis überreicht bekamen. Mit Stolz und Freude gratuliert die gesamte Hochschulgemeinschaft diesen talentierten Studierenden zu ihrem bemerkenswerten Erfolg.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Zum feierlichen Abschluss gab es Sekt und Dankesreden, es wurden Blumen und Geschenke überreicht. Unter den freudigen Gesichtern der Absolvent*innen wurden Erinnerungen ausgetauscht und zukünftige Pläne geschmiedet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Kohorte der Angewandten Psychologie hat während ihres Studiums nicht nur akademisches Wissen erlangt, sondern auch wertvolle praktische Erfahrungen gesammelt. Ihr Engagement, ihre Leidenschaft und ihr Einsatz haben sie zu herausragenden Fachleuten auf ihrem Gebiet gemacht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die IB Hochschule ist stolz darauf, Teil des Weges dieser talentierten Absolvent*innen gewesen zu sein. Herzlichen Glückwunsch an die Studierenden der Angewandten Psychologie zur erfolgreichen Beendigung ihres Bachelor-Studiums! Und wer als Alumni der IB Hochschule verbunden bleiben will, kann sich gerne in unser Alumni Netzwerk eintragen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/erfolgreicher-abschluss-angewandte-psychologie-2024/image_01.jpg",
+    "alt": "Erfolgreicher Abschluss für die Kohorte der Angewandten Psychologie 2024"
+  },
+  "gallery": [],
+  "publishDate": "2024-04-17T09:00:00.000Z",
+  "status": "published"
+}

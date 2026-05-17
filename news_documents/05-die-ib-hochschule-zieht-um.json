@@ -1,0 +1,203 @@
+{
+  "_type": "news",
+  "_id": "news.die-ib-hochschule-zieht-um",
+  "slug": {
+    "_type": "slug",
+    "current": "die-ib-hochschule-zieht-um"
+  },
+  "title": {
+    "en": "A historic step: IB Hochschule is relocating",
+    "de": "Ein historischer Schritt: Die IB Hochschule zieht um"
+  },
+  "summary": {
+    "en": "The relocation of IB Hochschule is just around the corner – not to a different district, just a few steps further. From soon on you will find us in Building 2, directly opposite the current building. Familiar, yet completely new.",
+    "de": "Der Umzug der IB Hochschule steht unmittelbar bevor – nicht in einen anderen Stadtteil, sondern nur ein paar Schritte weiter. Künftig findet ihr uns in Haus 2, direkt gegenüber dem bisherigen Gebäude. Vertraut und doch ganz neu."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Finally, the time has come: the relocation of IB University is just around the corner. But don't worry – we're not moving to another district or even a new site, just a few steps further. In the future, you'll find us in Building 2, directly opposite our current building. Familiar, yet completely new.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "This step has been carefully planned for a long time, and now IB University can finally move into a space that truly reflects its development. The move to a new building on the Health Campus at ukb marks a genuine milestone in the history of our university – and a reason to be excited.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The advantages of the Health Campus are obvious: its close proximity to Unfallkrankenhaus Berlin (ukb) as well as numerous other healthcare institutions creates ideal conditions for our students. Theory and practice come even closer together, connections can be made more easily, and knowledge can be applied directly. At the same time, this close integration allows for flexible, needs-based development of new degree programs.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "For our Berlin students, daily life will hardly change at all – apart from new paths across campus and modern spaces that invite learning and exchange. Building 2 combines the charm of historic brick architecture with contemporary facilities and a functional learning environment designed specifically for studying.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "With new English-taught degree programs, the establishment of an International Office, and the new university building, we are purposefully strengthening internationalization, networking, and modern approaches to studying. We look forward to taking this next step together – welcome to the Health Campus!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "And when exactly will it begin? The specific moving date will, of course, be announced in good time via our usual communication channels. We'll take you along on this exciting journey and keep you regularly updated.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Endlich ist es so weit: Der Umzug der IB Hochschule steht unmittelbar bevor. Doch keine Sorge – es geht nicht in einen anderen Stadtteil oder gar an einen neuen Standort, sondern nur ein paar Schritte weiter. Künftig findet ihr uns in Haus 2, direkt gegenüber dem bisherigen Gebäude. Vertraut und doch ganz neu.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Lange wurde dieser Schritt vorbereitet, nun darf die IB Hochschule endlich den Platz beziehen, der ihrer Entwicklung gerecht wird. Der Umzug auf dem Gesundheitscampus am ukb in ein neues Gebäude ist ein echter Meilenstein in der Geschichte unserer Hochschule – und ein Grund zur Vorfreude.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Vorteile des Gesundheitscampus liegen auf der Hand: Die unmittelbare Nähe zum Unfallkrankenhaus Berlin (ukb) sowie zu zahlreichen weiteren Institutionen aus dem Gesundheitswesen schafft ideale Voraussetzungen für unsere Studierenden. Theorie und Praxis rücken noch enger zusammen, Kontakte können leichter geknüpft und Wissen direkt angewendet werden. Gleichzeitig ermöglicht die enge Anbindung eine flexible, bedarfsorientierte Weiterentwicklung neuer Studiengänge.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Für unsere Berliner Studierenden ändert sich im Alltag dabei kaum etwas – abgesehen von neuen Wegen auf dem Campus und modernen Räumen, die zum Lernen und Austauschen einladen. Haus 2 verbindet den Charme der historischen Backsteinarchitektur mit zeitgemäßer Ausstattung und einer funktionalen, auf das Studieren zugeschnittenen Lernumgebung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Mit neuen englischsprachigen Studiengängen, dem Aufbau eines International Office und dem neuen Hochschulgebäude stärken wir gezielt Internationalität, Vernetzung und modernes Studieren. Wir freuen uns darauf, diesen nächsten Schritt gemeinsam zu gehen – willkommen auf dem Gesundheitscampus!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Und wann geht es genau los? Das konkrete Umzugsdatum wird selbstverständlich rechtzeitig über die bekannten Kommunikationskanäle bekannt gegeben. Wir nehmen euch mit auf diese spannende Reise und halten euch regelmäßig auf dem Laufenden.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-ib-hochschule-zieht-um/image_01.jpg",
+    "alt": "New IB Hochschule building on the Health Campus"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/die-ib-hochschule-zieht-um/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2026-01-26T09:00:00.000Z",
+  "status": "published"
+}

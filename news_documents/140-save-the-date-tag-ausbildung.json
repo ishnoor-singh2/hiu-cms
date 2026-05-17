@@ -1,0 +1,358 @@
+{
+  "_type": "news",
+  "_id": "news.save-the-date-tag-der-ausbildung-ukb-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "save-the-date-tag-der-ausbildung-am-unfallkrankenhaus-berlin"
+  },
+  "title": {
+    "en": "Save the Date: Day of Vocational Training at Unfallkrankenhaus Berlin on 26.02.2025",
+    "de": "Save the Date: Tag der Ausbildung am Unfallkrankenhaus Berlin am 26.02.2025"
+  },
+  "summary": {
+    "en": "On Wednesday 26 February 2025 from 10:00 to 16:00 it will be colourful and exciting on the Health Campus of Unfallkrankenhaus Berlin (ukb). IB Hochschule is there with an informative stand.",
+    "de": "Am Mittwoch, den 26. Februar 2025 von 10:00 bis 16:00 Uhr wird es bunt und spannend auf dem Gesundheitscampus des Unfallkrankenhauses Berlin (ukb). Die IB Hochschule ist mit einem informativen Stand vor Ort."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Visit IB Hochschule on the ukb Health Campus",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "On Wednesday 26 February 2025 from 10:00 to 16:00, it will be colourful and exciting on the Health Campus of Unfallkrankenhaus Berlin (ukb). The ukb invites all interested parties to a varied programme around training professions and study possibilities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "IB Hochschule für Gesundheit und Soziales will be on site with an informative stand and present its diverse programmes. Visitors get exciting insights into the following fields: Applied Therapy Science, Applied Psychology, Digital Health, Health Education and others. Experience also the fascinating possibilities of Virtual Reality (VR) in teaching and learn more about innovative learning methods.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "A varied programme awaits you",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The extensive programme is aimed at both specialist staff and interested parties who want to gain comprehensive insight into healthcare. Additionally there are numerous theme stands.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Presentation of the training professions",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "The Medical Academy of ukb also introduces itself and informs about various training professions. In addition, the Nursing School of ukb offers a training opportunity in the area of care.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Unfallkrankenhaus Berlin – a modern place of learning and work",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Unfallkrankenhaus Berlin is one of the most modern hospitals in Germany and specialises in the acute care and rehabilitation of seriously injured and occupationally ill people. Here you learn and work in an interdisciplinary environment offering the highest care standards. You accompany patients on their path to recovery and become part of a dedicated team.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Venue & directions",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "IB Hochschule für Gesundheit und Soziales, Berlin Study Centre, Health Campus at Unfallkrankenhaus Berlin (ukb), Warener Str. 7, 12683 Berlin. We look forward to your visit!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Besuchen Sie die IB Hochschule auf dem Gesundheitscampus des ukb",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Am Mittwoch, den 26. Februar 2025 von 10:00 bis 16:00 Uhr, wird es bunt und spannend auf dem Gesundheitscampus des Unfallkrankenhauses Berlin (ukb). Das ukb lädt alle Interessierten zu einem abwechslungsreichen Programm rund um Ausbildungsberufe und Studienmöglichkeiten ein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales ist mit einem informativen Stand vor Ort und stellt ihre vielfältigen Studiengänge vor. Besucher*innen erhalten spannende Einblicke in folgende Fachrichtungen: Angewandte Therapiewissenschaft, Angewandte Psychologie, Digital Health, Gesundheitspädagogik und weitere. Erleben Sie zudem die faszinierenden Möglichkeiten von Virtual Reality (VR) in der Lehre und erfahren Sie mehr über innovative Lernmethoden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Ein vielseitiges Programm erwartet Sie",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Das umfangreiche Angebot richtet sich sowohl an Fachpersonal als auch an Interessierte, die einen umfassenden Einblick in die Gesundheitsversorgung gewinnen möchten. Zusätzlich gibt es zahlreiche Themenstände.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Vorstellung der Ausbildungsberufe",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Auch die Medizinische Akademie des ukb stellt sich vor und informiert über verschiedene Ausbildungsberufe. Darüber hinaus bietet die Pflegefachschule des ukb eine Ausbildungsmöglichkeit im Bereich Pflege.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Das Unfallkrankenhaus Berlin – ein moderner Lern- und Arbeitsort",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Das Unfallkrankenhaus Berlin gehört zu den modernsten Krankenhäusern Deutschlands und ist spezialisiert auf die Akutversorgung und Rehabilitation schwerverletzter sowie berufskranker Menschen. Hier lernen und arbeiten Sie in einem interdisziplinären Umfeld, das höchste Versorgungsstandards bietet. Sie begleiten Patientinnen und Patienten auf ihrem Weg zur Genesung und werden Teil eines engagierten Teams.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Veranstaltungsort & Anfahrt",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "IB Hochschule für Gesundheit und Soziales, Studienzentrum Berlin, Gesundheitscampus am Unfallkrankenhaus Berlin (ukb), Warener Str. 7, 12683 Berlin. Wir freuen uns auf Ihren Besuch!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/save-the-date-tag-der-ausbildung-am-unfallkrankenhaus-berlin/image_01.jpg",
+    "alt": "Die IB Hochschule in der Magistrale des ukb"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/save-the-date-tag-der-ausbildung-am-unfallkrankenhaus-berlin/image_02.jpg",
+      "alt": "Das Unfallkrankenhaus Berlin (ukb) in Berlin Marzahn"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/save-the-date-tag-der-ausbildung-am-unfallkrankenhaus-berlin/image_03.jpg",
+      "alt": "Rettungsfahrzeuge am Unfallkrankenhaus Berlin (ukb)"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/save-the-date-tag-der-ausbildung-am-unfallkrankenhaus-berlin/image_04.jpg",
+      "alt": "Die IB Hochschule ist mit VR Brillen auf einem Stand in der Magistrale des ukb vertreten"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/save-the-date-tag-der-ausbildung-am-unfallkrankenhaus-berlin/image_05.jpg",
+      "alt": "Das Team der IB Hochschule am Campustag im Unfallkrankehaus Berlin (ukb)"
+    }
+  ],
+  "publishDate": "2025-01-24T09:00:00.000Z",
+  "status": "published"
+}

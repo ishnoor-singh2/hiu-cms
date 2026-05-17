@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.master-psychologie-start-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "masterstudiengang-psychologie-2025"
+  },
+  "title": {
+    "en": "Here we go – kick-off for the 2025 Master Psychology",
+    "de": "Jetzt geht's los – Auftakt zum Masterstudiengang Psychologie 2025"
+  },
+  "summary": {
+    "en": "At the start of the semester, the kick-off event for the Master Psychology students in Stuttgart took place on 9 April. We are very pleased that more than 60% of Bachelor Applied Psychology students decided on our Master.",
+    "de": "Zum Semesterstart fand am 9. April die Auftaktveranstaltung für die Studierenden im Masterstudiengang Psychologie in Stuttgart statt. Wir freuen uns sehr, dass sich mehr als 60% der Studierenden vom Bachelor Angewandte Psychologie für unseren Masterstudiengang entschieden haben."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "At the start of the semester, the kick-off event for the students in the Master Psychology programme took place in Stuttgart on 9 April. We are very pleased that more than 60% of the students from the Bachelor Applied Psychology decided on our Master programme.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Alongside Dean of Studies Prof. Dr. Regine Mößle and programme head Prof. Dr. Inga Liepelt-Scarfone, for the first time Vivienne Ziemer, a representative of the ongoing Master programme, welcomed the new students.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The study start was informatively shaped by contributions from the study coordinators and Janet Hoffmann from the examinations office. Playfully, the students' motivation for studies was explored among them, and they were strengthened culinarily for the upcoming challenges. We thank everyone for participation and contribution at the motivating kick-off event!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Zum Semesterstart fand am 9. April die Auftaktveranstaltung für die Studierenden im Masterstudiengang Psychologie in Stuttgart statt. Wir freuen uns sehr, dass sich mehr als 60% der Studierenden vom Bachelor Angewandte Psychologie für unseren Masterstudiengang entschieden haben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Neben der Studiendekanin Prof. Dr. Regine Mößle und Studiengangsleitung Prof. Dr. Inga Liepelt-Scarfone begrüßte erstmalig Vivienne Ziemer eine Vertreterin des laufenden Masterstudiengangs die Studienanfänger*innen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Der Studienstart wurde informativ durch Beiträge der Studienkoordinatoren und Janet Hoffmann vom Prüfungsamt gestaltet. Spielerisch wurde die Motivation für das Studium zwischen den Studierenden erkundet, und sich kulinarisch für die zukünftigen Herausforderungen gestärkt. Wir danken allen für die Teilnahme und die Mitwirkung bei der motivierenden Auftaktveranstaltung!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/masterstudiengang-psychologie-2025/image_01.jpg",
+    "alt": "Studienstart in Stuttgart - die Masterkohorte 2025 bei der Auftaktveranstaltung"
+  },
+  "gallery": [],
+  "publishDate": "2025-05-27T09:00:00.000Z",
+  "status": "published"
+}

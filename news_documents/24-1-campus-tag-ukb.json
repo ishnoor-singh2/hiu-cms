@@ -1,0 +1,223 @@
+{
+  "_type": "news",
+  "_id": "news.1-campus-tag-ukb-2023",
+  "slug": {
+    "_type": "slug",
+    "current": "1-1-campus-tag-am-unfallkrankenhaus-berlin-ukb-die-ib-hochschule-stellt-sich-vor-und-praesentiert-virtual-reality-in-der-lehre"
+  },
+  "title": {
+    "en": "1st Campus Day at Unfallkrankenhaus Berlin ukb – IB Hochschule introduces itself and presents Virtual Reality in teaching",
+    "de": "1. Campus Tag am Unfallkrankenhaus Berlin ukb – Die IB Hochschule stellt sich vor und präsentiert Virtual Reality in der Lehre"
+  },
+  "summary": {
+    "en": "It was colourful and varied last Saturday on the Health Campus at ukb. The Gesundheitscampus am ukb Berlin e.V. invited visitors to a programme that delighted both professionals and families – including a VR booth from IB Hochschule.",
+    "de": "Es wurde bunt und vielfältig am vergangenen Samstag auf dem Gesundheitscampus am ukb. Der Verein Gesundheitscampus am ukb Berlin e. V. hatte zu diesem Anlass eingeladen und ein Programm zusammengestellt, das sowohl Fachpersonal als auch Familien begeisterte – inklusive eines VR-Stands der IB Hochschule."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Last Saturday was colourful and varied on the Health Campus at ukb. The association Gesundheitscampus am ukb Berlin e.V. had invited people to this special occasion and put together an extremely exciting programme that delighted both professionals and families.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "IB Hochschule für Gesundheit und Soziales was represented on site and informed visitors at an informative stand about the fascinating possibilities of Virtual Reality (VR) in teaching. It was particularly impressive how enthusiastic both professionals and many children were. Visitors to IB Hochschule's stand had the unique opportunity to immerse themselves in the world of virtual reality and be flown by drone over a picturesque Caribbean island.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Another highlight of the day was the lecture by Prof. Dr. med. Philipp Lacour on telemedicine and its practical application. Visitors received both a comprehensive insight into the current state of digital healthcare and information about the newly introduced programmes Digital Health B.Sc. and M.Sc.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Alongside these fascinating insights, there were numerous other activities that made the day at ukb very interesting. Guests had the opportunity to explore the hospital and the rehabilitation clinic on guided tours. There was a doll and teddy bear clinic, demonstration X-rays, emergency and resuscitation exercises for children and adults, a presentation of rescue vehicles and an impressive flight show with the helicopter.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The promenade invited people to inform themselves and also offered entertainment for the whole family. In addition to the information stands, there was a bouncy castle, a carousel and various lively children's shows.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The 1st Campus Day at ukb was a complete success and will certainly be repeated in the future. The event offered a wide range of informative and entertaining activities for all ages and interest groups and impressively presented the latest developments in healthcare and education.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Es wurde bunt und vielfältig am vergangenen Samstag auf dem Gesundheitscampus am ukb. Der Verein Gesundheitscampus am ukb Berlin e. V. hatte zu diesem besonderen Anlass eingeladen und ein äußerst spannendes Programm zusammengestellt, das sowohl Fachpersonal als auch Familien begeisterte.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales war vor Ort vertreten und informierte die Besucher*innen mit einem informativen Stand über die faszinierenden Möglichkeiten der Virtual Reality (VR) in der Lehre. Besonders beeindruckend war, wie begeistert sowohl Fachpersonal als auch viele Kinder davon waren. Die Standbesucher der IB Hochschule hatten die einzigartige Gelegenheit, in die Welt der virtuellen Realität einzutauchen und sich per Drohne über eine malerische karibische Insel fliegen zu lassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ein weiterer Höhepunkt des Tages war der Fachvortrag von Prof. Dr. med. Philipp Lacour zum Thema Telemedizin und deren praktischer Anwendung. Die Besucher*innen erhielten sowohl einen umfassenden Einblick in den aktuellen Stand der digitalen Gesundheitsversorgung als auch Informationen über die neu eingeführten Studiengänge Digital Health B.Sc. und M.Sc.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Neben diesen faszinierenden Einblicken gab es auch zahlreiche weitere Aktivitäten, die den Tag am ukb sehr interessant machten. Die Gäste hatten die Möglichkeit, das Krankenhaus und die Rehaklinik bei Führungen zu erkunden. Es gab eine Puppen- und Teddysprechstunde, Show-Röntgenaufnahmen, Notfall- und Reanimationsübungen für Kinder und Erwachsene sowie eine Präsentation der Rettungsfahrzeuge und einer beeindruckenden Flug-Show des Helikopters.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Flaniermeile lud zum Informieren ein und bot auch Unterhaltung für die ganze Familie. Neben den Infoständen gab es eine Hüpfburg, ein Karussell und diverse mitreißende Kinder-Showeinlagen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Der 1. Campustag am ukb war ein voller Erfolg und wird sicherlich in Zukunft wiederholt werden. Die Veranstaltung bot eine breite Palette an informativen und unterhaltsamen Aktivitäten für alle Alters- und Interessengruppen und zeigte die neuesten Entwicklungen im Gesundheitswesen und in der Bildung auf eindrucksvolle Weise.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/1-1-campus-tag-am-unfallkrankenhaus-berlin-ukb-die-ib-hochschule-stellt-sich-vor-und-praesentiert-virtual-reality-in-der-lehre/image_01.jpg",
+    "alt": "IB Hochschule am ukb Campustag"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/1-1-campus-tag-am-unfallkrankenhaus-berlin-ukb-die-ib-hochschule-stellt-sich-vor-und-praesentiert-virtual-reality-in-der-lehre/image_02.jpg",
+      "alt": "Rettungsfahrzeuge am ukb Campustag"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/1-1-campus-tag-am-unfallkrankenhaus-berlin-ukb-die-ib-hochschule-stellt-sich-vor-und-praesentiert-virtual-reality-in-der-lehre/image_03.jpg",
+      "alt": "IB Hochschule Infostand am ukb Campustag"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/1-1-campus-tag-am-unfallkrankenhaus-berlin-ukb-die-ib-hochschule-stellt-sich-vor-und-praesentiert-virtual-reality-in-der-lehre/image_04.jpg",
+      "alt": "IB Hochschule VR Brille am ukb Campustag"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/1-1-campus-tag-am-unfallkrankenhaus-berlin-ukb-die-ib-hochschule-stellt-sich-vor-und-praesentiert-virtual-reality-in-der-lehre/image_05.jpg",
+      "alt": "IB Hochschule Studienberatung am ukb Campustag"
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/1-1-campus-tag-am-unfallkrankenhaus-berlin-ukb-die-ib-hochschule-stellt-sich-vor-und-praesentiert-virtual-reality-in-der-lehre/image_06.jpg",
+      "alt": "IB Hochschule am ukb Campustag"
+    }
+  ],
+  "publishDate": "2023-09-11T09:00:00.000Z",
+  "status": "published"
+}

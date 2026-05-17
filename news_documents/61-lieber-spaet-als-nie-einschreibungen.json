@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.lieber-spaet-als-nie-einschreibungen",
+  "slug": {
+    "_type": "slug",
+    "current": "lieber-spaet-als-nie-einschreibungen-sind-noch-moeglich"
+  },
+  "title": {
+    "en": "Better late than never: registrations are still possible!",
+    "de": "Lieber spät als nie: Einschreibungen sind noch möglich!"
+  },
+  "summary": {
+    "en": "The new winter semester 2021/22 starts soon and for all those still looking for the right programme: at IB Hochschule you can register until the programme start. Most programmes start in the first week of October – applications received by then will all be considered.",
+    "de": "Das neue Wintersemester 2021/22 startet bald und für alle, die noch auf der Suche nach dem passenden Studium sind: An der IB Hochschule können Sie sich weiterhin bis zum Studienstart einschreiben. Die meisten Studiengänge starten in der ersten Oktoberwoche – alle bis dahin eingehenden Bewerbungen werden berücksichtigt."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The new winter semester 2021/22 starts soon and for all those still looking for the right programme: at IB Hochschule you can continue to register until the start of studies. Most programmes start in the first week of October – applications received up to then will all be considered.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "If you have general questions about studying at IB Hochschule, about applications, study financing or how studies are organised, please feel free to contact us. Reach out to the study adviser: 030 259309247 or studienberatung@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "If you need information about enrolment, contract documents or proofs, please contact the university secretariat: 030 2593092 20 or info@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "If you have specific questions about the content of the programmes, you can contact the programme leadership at any time or attend one of our information events.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "In addition to the full-time programmes Applied Psychology B.Sc. and Psychology M.Sc., IB Hochschule also offers the part-time programmes Health Care Education / Gesundheitspädagogik B.A., the corresponding Master's programme Gesundheitspädagogik und Bildungsmanagement (M.A.) and the programme Medical Radiology Technology B.Sc. You can also study Applied Therapy Science B.Sc. alongside your training at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das neue Wintersemester 2021/22 startet bald und für all diejenigen, die noch auf der Suche nach dem passenden Studium sind: An der IB Hochschule können Sie sich weiterhin bis zum Studienstart einschreiben. Die meisten Studiengänge starten in der ersten Woche im Oktober – Bewerbungen, die bis dahin eingehen, werden allesamt berücksichtigt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Sollten Sie noch allgemeine Fragen haben zum Studium an der IB Hochschule, zu Bewerbung, zu Studienfinanzierung oder Studienablauf haben, können Sie uns gerne kontaktieren. Melden Sie sich bei der Studienberaterin. 030 259309247 oder studienberatung@hi-university.de",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Benötigen Sie Informationen zur Einschreibung, Vertragsunterlagen oder Nachweisen, dann wenden Sie sich das Hochschulsekretariat. 030 2593092 20 oder info@hi-university.de",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Haben Sie spezielle Fragen zu den Inhalten der Studiengänge, können Sie sich jederzeit an die Studiengangsleitungen wenden oder besuchen Sie eine unserer Infoveranstaltungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Neben den Vollzeitstudiengängen Angewandte Psychologie B.Sc. und Psychologie M.Sc. bietet die IB Hochschule auch die berufsbegleitenden Studiengänge Health Care Education / Gesundheitspädagogik B.A. bzw. den passenden Masterstudiengang dazu Gesundheitspädagogik und Bildungsmanagement (M.A.) und den Studiengang Medizinische Radiologie-Technologie B.Sc. an. Ausbildungsbegleitend können Sie an der IB Hochschule auch Angewandte Therapiewissenschaft B.Sc. studieren.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/lieber-spaet-als-nie-einschreibungen-sind-noch-moeglich/image_01.jpg",
+    "alt": "Study start"
+  },
+  "gallery": [],
+  "publishDate": "2021-09-16T09:00:00.000Z",
+  "status": "published"
+}

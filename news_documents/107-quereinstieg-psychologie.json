@@ -1,0 +1,365 @@
+{
+  "_type": "news",
+  "_id": "news.quereinstieg-psychologie-ohne-abitur",
+  "slug": {
+    "_type": "slug",
+    "current": "quereinstieg-in-die-psychologie"
+  },
+  "title": {
+    "en": "Switching to Psychology – studying without Abitur",
+    "de": "Quereinstieg in die Psychologie – studieren ohne Abitur"
+  },
+  "summary": {
+    "en": "Interested in studying psychology but you don't have Abitur? Thanks to the possibility of a switch (Quereinstieg), you can also start a Psychology programme with a related vocational training. We show the requirements and what can be recognised.",
+    "de": "Du interessierst dich für ein Psychologie-Studium, hast aber kein Abitur? Dank der Möglichkeit eines Quereinstiegs kannst du auch mit einer fachähnlichen Ausbildung ein Psychologie-Studium beginnen. Wir zeigen dir die Voraussetzungen und was angerechnet werden kann."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Your path into psychology is also possible without Abitur. Are you interested in studying psychology but don't have Abitur? No problem! Thanks to the possibility of a switch (Quereinstieg), you can also start a Psychology programme with a related vocational training. We show you what requirements you must fulfil, what you can have credited and what exciting career perspectives await you after graduation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Does a Psychology programme suit me?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "A Psychology programme is suitable for you if you are interested in people and their behaviour, enjoy analytical and structured work, and would like to actively engage with mental health and social topics. Especially for professionals from the health, care and social sector, the Quereinstieg offers an attractive opportunity to open up new career perspectives.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Formal requirements for Quereinstieg into Psychology without Abitur",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "If you do not have Abitur, you can still study Psychology if you have a two-year vocational training. A subject-related vocational training is particularly helpful (e.g. health, care, social work). All information is available in the handout on university admission for those with vocational qualifications from the Berlin Senate Administration.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Routes without Abitur – your options at a glance",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "1. Psychology programme via vocational qualification: with a related vocational training and sufficient professional experience, you have good chances. 2. Via advancement training (e.g. Fachwirt, Meister, Betriebswirt). 3. Via the second educational path (evening grammar school, Kolleg). 4. With Fachhochschulreife / Fachabitur. 5. Psychology without NC: our university uses individual selection procedures instead of a fixed NC.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "What can I have credited for my Quereinstieg?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Many students can have already completed training or continuing education credited to their Psychology studies. Crediting takes place individually – we check together which of your previous achievements could ease your start.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Career perspectives with a Psychology degree",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "With a Bachelor of Science in Applied Psychology, many career opportunities are open to you. With further programmes or additional qualifications, you can specialise in exciting areas – or complete a one-year additional training in learning therapy to specifically support children and adolescents.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en12s",
+            "text": "Ready for your new path? If you have the desire to understand and accompany people and are open to a new academic step, then the Quereinstieg into Psychology is exactly right for you. Let our student advisory service inform you comprehensively. Book an appointment here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Dein Weg in die Psychologie ist auch ohne Abitur möglich. Du interessierst dich für ein Psychologie-Studium, hast aber kein Abitur? Kein Problem! Dank der Möglichkeit eines Quereinstiegs kannst du auch mit einer fachähnlichen Ausbildung ein Psychologie-Studium beginnen. Wir zeigen dir, welche Voraussetzungen du erfüllen musst, was du dir anrechnen lassen kannst und welche spannenden Berufsperspektiven dich nach dem Studium erwarten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Passt ein Psychologie-Studium zu mir?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ein Studium der Psychologie eignet sich für dich, wenn du dich für Menschen und ihr Verhalten interessierst, analytisch und strukturiert arbeitest und dich aktiv mit psychischer Gesundheit und sozialen Themen auseinandersetzen möchtest. Gerade für Fachkräfte aus dem Gesundheits-, Pflege- und Sozialbereich bietet der Quereinstieg eine attraktive Möglichkeit, sich neue Karriereperspektiven zu erschließen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Formale Voraussetzungen für den Quereinstieg in die Psychologie ohne Abitur",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Falls du kein Abitur hast, kannst du dennoch Psychologie studieren, wenn du über eine zweijährige Ausbildung verfügst. Besonders hilfreich ist eine fachverwandte Ausbildung. Alle Informationen findest du in der Handreichung zum Hochschulzugang für beruflich Qualifizierte der Berliner Senatsverwaltung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Zugangswege ohne Abitur – deine Möglichkeiten im Überblick",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "1. Psychologie-Studium über die berufliche Qualifikation: Mit einer fachverwandten Ausbildung und ausreichend Berufserfahrung hast du gute Chancen. 2. Über die Aufstiegsfortbildung (z. B. Fachwirt, Meister, Betriebswirt). 3. Über den zweiten Bildungsweg (Abendgymnasium, Kolleg). 4. Mit Fachhochschulreife / Fachabitur. 5. Psychologie ohne NC: Unsere Hochschule setzt statt auf einen festen NC auf individuelle Auswahlverfahren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Was kann ich mir für meinen Psychologie Quereinstieg anrechnen lassen?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Viele Studierende können sich bereits absolvierte Aus- oder Weiterbildungen auf ihr Psychologie-Studium anrechnen lassen. Die Anrechnung erfolgt individuell – wir prüfen gemeinsam, welche deiner bisherigen Leistungen dir den Einstieg erleichtern können.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Berufsperspektiven mit einem Psychologie-Studium",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Mit einem Bachelor of Science in Angewandter Psychologie stehen dir vielfältige Karrieremöglichkeiten offen. Mit weiterführenden Studiengängen oder Zusatzqualifikationen kannst du dich auf spannende Fachbereiche spezialisieren. Ergänzend kannst du eine einjährige Zusatzausbildung in Lerntherapie absolvieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de12",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de12s",
+            "text": "Bereit für deinen neuen Weg? Wenn du den Wunsch hast, Menschen zu verstehen und zu begleiten, und du offen für einen neuen akademischen Schritt bist – dann ist der Quereinstieg in die Psychologie genau das Richtige für dich. Lass dich am besten von unserer Studienberatung umfassend beraten. Buche hier einen Termin.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/quereinstieg-in-die-psychologie/image_01.jpg",
+    "alt": "Psychology Quereinstieg"
+  },
+  "gallery": [],
+  "publishDate": "2025-08-08T09:00:00.000Z",
+  "status": "published"
+}

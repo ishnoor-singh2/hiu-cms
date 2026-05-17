@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.wir-gratulieren-recht-herzlich-psychologie-2021",
+  "slug": {
+    "_type": "slug",
+    "current": "wir-gratulieren-recht-herzlich"
+  },
+  "title": {
+    "en": "Our warmest congratulations!",
+    "de": "Wir gratulieren recht herzlich!"
+  },
+  "summary": {
+    "en": "The Berlin Senate Administration has officially confirmed the appointments to professorships. In April 2021, Dr. Gabriele Valerius, Dr. Inga Liepelt-Scarfone and Dr. Tajana Grießmann-Gehrt were officially appointed Professors at IB Hochschule.",
+    "de": "Die Berliner Senatsverwaltung hat offiziell die Ernennung zu Professorinnen bestätigt. Im April 2021 wurden Dr. Gabriele Valerius, Dr. Inga Liepelt-Scarfone und Dr. Tajana Grießmann-Gehrt offiziell zu Professorinnen an der IB Hochschule ernannt."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The Berlin Senate Administration has officially confirmed the appointments as professors.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In April 2021, Dr. Gabriele Valerius, Dr. Inga Liepelt-Scarfone and Dr. Tajana Grießmann-Gehrt were officially appointed Professors at IB Hochschule für Gesundheit und Soziales. In the Faculty of Health and Social Sciences they represent the teaching areas of Psychology. We warmly congratulate the three appointed professors and look forward to a great collaboration!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Inga Liepelt-Scarfone earned her doctorate at Humboldt-Universität zu Berlin in Psychology. After her doctorate she held post-doc positions in Neurology at the University Hospital in Tübingen. Since 2009 Ms Liepelt-Scarfone has been responsible for coordinating clinical studies at the German Centre for Neurodegenerative Diseases (DZNE e.V.) in Tübingen. Since 2013 she has been teaching at the University of Tübingen and holds the Venia Legendi there in the field of Psychology.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Gabriele Valerius earned her doctorate at the Psychiatric University Hospital in Freiburg in Psychology. After her doctorate she took up post-doc positions in Freiburg and at the Central Institute of Mental Health in Mannheim. Her thematic focus was on neuronal correlates of cognitive performance on the one hand, and on emotional processing in mental disorders on the other.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Tajana Grießmann-Gehrt earned her doctorate at the University of Magdeburg (Prof. Fuhrer). She taught Psychology at the University of Potsdam, the Protestant University of Applied Sciences Berlin and the University of Applied Sciences in Düsseldorf. From 2011 to 2019 Tajana Grießmann-Gehrt worked as a systemic individual, couples and family therapist in her own practice in Brussels. In parallel she later also worked as a school psychologist at the International German School in Brussels and subsequently at a school in Berlin.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Berliner Senatsverwaltung hat offiziell die Ernennung zu Professorinnen bestätigt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im April 2021 wurden Dr. Gabriele Valerius, Dr. Inga Liepelt-Scarfone und Dr. Tajana Grießmann-Gehrt offiziell zu Professorinnen an der IB Hochschule für Gesundheit und Soziales ernannt. In der Fakultät Gesundheits- und Sozialwissenschaften vertreten sie die Lehrgebiete der Psychologie. Wir gratulieren den drei ernannten Professorinnen recht herzlich und freuen uns auf eine tolle Zusammenarbeit!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Inga Liepelt-Scarfone promovierte an der Humboldt Universität zu Berlin im Fach Psychologie. An die Promotion schlossen sich Post-Doc-Tätigkeiten in der Neurologie des Universitätsklinikums in Tübingen an. Seit 2009 ist Frau Liepelt-Scarfone verantwortlich für die Koordination klinischer Studien am Deutschen Zentrum für Neurodegenerative Erkrankungen (DZNE e.V.) in Tübingen. Seit 2013 lehrt sie an der Universität Tübingen und verfügt dort über die Venia Legendi im Fachgebiet Psychologie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Gabriele Valerius promovierte an der Psychiatrischen Universitätsklinik in Freiburg im Fach Psychologie. An die Promotion schlossen sich Post-Doc-Tätigkeiten in Freiburg und am Zentralinstitut für Seelische Gesundheit in Mannheim an. Ihr inhaltlicher Fokus lag dabei zum einen auf neuronalen Korrelaten kognitiver Leistung und zum anderen auf der emotionalen Verarbeitung bei psychischen Erkrankungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Tajana Grießmann-Gehrt promovierte an der Universität Magdeburg (Prof. Fuhrer). Sie lehrte Psychologie an der Universität Potsdam, der Evangelischen Hochschule Berlin sowie an der Hochschule in Düsseldorf. Von 2011 bis 2019 arbeitete Tajana Grießmann-Gehrt als Systemische Einzel-, Paar- und Familientherapeutin in eigener Praxis in Brüssel. Parallel dazu war sie später auch an der Internationalen Deutschen Schule in Brüssel sowie anschließend an einer Schule in Berlin als Schulpsychologin tätig.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wir-gratulieren-recht-herzlich/image_01.jpg",
+    "alt": "Die Berliner Senatsverwaltung hat offiziell die Ernennung zu Professorinnen bestätigt. "
+  },
+  "gallery": [],
+  "publishDate": "2021-04-30T09:00:00.000Z",
+  "status": "published"
+}

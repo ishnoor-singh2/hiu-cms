@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.vortragsreihe-berufsvorstellungen-1-forensische-psychiatrie",
+  "slug": {
+    "_type": "slug",
+    "current": "vortragsreihe-berufsvorstellungen-1-die-arbeit-als-klinischer-psychologe-in-einer-forensischen-psychiatrie"
+  },
+  "title": {
+    "en": "Lecture series \"Career Profiles\" #1: Working as a clinical psychologist in forensic psychiatry",
+    "de": "Vortragsreihe Berufsvorstellungen #1: Die Arbeit als klinischer Psychologe in einer forensischen Psychiatrie"
+  },
+  "summary": {
+    "en": "Psychology is a diverse discipline with many career options. To give students a real-world sense of practical work, our new \"Career Profiles\" lecture series presents different fields of work – starting with forensic psychiatry.",
+    "de": "Die Psychologie ist eine vielfältige Disziplin mit zahlreichen Berufsfeldern. Unsere neue Vortragsreihe „Berufsvorstellungen\" stellt Studierenden verschiedene Berufsfelder vor – den Anfang macht die Arbeit in der Forensischen Psychiatrie."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Psychology is a diverse discipline and offers numerous interesting opportunities to work in a wide variety of professional fields. This can be incredibly exciting and at the same time overwhelming for students. Especially first-year students often have no real idea of what concrete practical work might look like in the various professions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We want to change that!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In our lecture series \"Career Profiles\", different psychology professional fields are to be presented each semester and students are to be given a feeling for what practice looks like beyond theory and study.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The first event takes place on Tuesday, 08.12.2020 at 6 p.m. via MS Teams and deals with the topic \"Forensic Psychiatry – between improvement and safekeeping.\" Mr Steenbock works as a clinical psychologist at the Centre for Forensic Psychiatry in Lippstadt and will in particular address the following questions in his talk.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Participation is possible for all students of the Applied Psychology programme at the Berlin location.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Registration is requested: please write an email to Pia Legewie (pia.legewie@hi-university.de) or sign up via the following link: https://doodle.com/poll/pthkt4qyuhp5h9iy",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Psychologie ist eine vielfältige Disziplin und bietet zahlreiche interessante Möglichkeiten, in den verschiedensten Berufsfeldern zu arbeiten. Das kann für Studierende auf der einen Seite unglaublich spannend und aufregend, gleichzeitig aber auch überfordernd sein. Häufig haben gerade Studienanfänger*innen keine wirkliche Vorstellung davon, wie die konkrete praktische Tätigkeit in den jeweiligen Berufen aussehen könnte.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das möchten wir ändern!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "In unserer Vortragsreihe „Berufsvorstellungen\" sollen jedes Semester verschiedene Berufsfelder der Psychologie vorgestellt und den Studierenden ein Gefühl dafür vermittelt werden, wie die Praxis jenseits von Theorie und Studium aussieht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die erste Veranstaltung findet am Dienstag, den 08.12.2020 um 18:00 Uhr via MS Teams statt und behandelt das Thema „Forensische Psychiatrie – Zwischen Besserung und Sicherung.\" Herr Steenbock ist als klinischer Psychologe im Zentrum für forensische Psychiatrie in Lippstadt tätig und wird in seinem Vortrag insbesondere auf folgende Fragen eingehen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Teilnahme ist für alle Studierende des Studiengangs Angewandte Psychologie am Standort Berlin möglich.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Um Anmeldung wird gebeten: Für die Anmeldung schreiben Sie bitte eine E-Mail an Pia Legewie (pia.legewie@hi-university.de) oder melden Sie sich über folgenden Link an: https://doodle.com/poll/pthkt4qyuhp5h9iy",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/vortragsreihe-berufsvorstellungen-1-die-arbeit-als-klinischer-psychologe-in-einer-forensischen-psychiatrie/image_01.jpg",
+    "alt": "Career profiles lecture #1"
+  },
+  "gallery": [],
+  "publishDate": "2020-11-06T09:00:00.000Z",
+  "status": "published"
+}

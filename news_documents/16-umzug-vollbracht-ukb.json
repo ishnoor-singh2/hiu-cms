@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.der-umzug-ist-vollbracht-die-ib-hochschule-befindet-sich-nun-auf-dem-gesundheitscampus-am-ukb",
+  "slug": {
+    "_type": "slug",
+    "current": "der-umzug-ist-vollbracht-die-ib-hochschule-befindet-sich-nun-auf-dem-gesundheitscampus-am-ukb"
+  },
+  "title": {
+    "en": "The move is complete: IB Hochschule is now located on the Health Campus at ukb!",
+    "de": "Der Umzug ist vollbracht: Die IB Hochschule befindet sich nun auf dem Gesundheitscampus am ukb!"
+  },
+  "summary": {
+    "en": "IB Hochschule für Gesundheit und Soziales has successfully relocated to the Health Campus at Unfallkrankenhaus Berlin (ukb). Until the new building near the boiler house is completed, students and staff will use temporary lecture halls and offices on site.",
+    "de": "Die IB Hochschule für Gesundheit und Soziales hat erfolgreich ihre Räumlichkeiten verlagert und befindet sich nun auf dem Gesundheitscampus am Unfallkrankenhaus Berlin (ukb). Während das neue Gebäude am Kesselhaus fertiggestellt wird, nutzen Studierende und Mitarbeitende dort vorübergehend provisorische Hörsäle und Büros."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales in Berlin has successfully relocated its premises and is now located on the Health Campus at Unfallkrankenhaus Berlin (ukb). While the new building near the boiler house, currently under construction, is being completed, students, teachers and staff temporarily use provisional lecture halls and offices there.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The advancing digitalisation requires training at the highest level, and this requirement is met by the close cooperation between the university and the hospital.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The new location offers numerous valuable advantages for teaching and for students. Due to the immediate proximity to ukb, our students can learn directly from practice – an experience that cannot be conveyed through theoretical lessons alone. We are excited about the new perspectives, joint projects and emerging research opportunities. Particularly pleasing is the renewed neighbourhood with the Medical Academy.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We are confident that this change of location will benefit all students and look forward to a successful time at the new site on the Health Campus at ukb!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "And a big thank you goes to the operators of LUMO Nahbar for this cake – a wonderful welcome gift!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales in Berlin hat erfolgreich ihre Räumlichkeiten verlagert und befindet sich nun auf dem Gesundheitscampus am Unfallkrankenhaus Berlin (ukb). Während das neue, aktuell noch im Bau befindliche Gebäude am Kesselhaus fertiggestellt wird, nutzen Studierende, Lehrende und Mitarbeitende dort vorübergehend provisorische Hörsäle und Büros.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die voranschreitende Digitalisierung erfordert eine Ausbildung auf höchstem Niveau, und diese Anforderung wird durch die enge Zusammenarbeit von Hochschule und Krankenhaus erfüllt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Der neue Standort bietet zahlreiche wertvolle Vorteile für die Lehre und die Studierenden. Durch die unmittelbare Nähe zum ukb erhalten unsere Studierenden die Möglichkeit, direkt aus der Praxis zu lernen – eine Erfahrung, die durch theoretischen Unterricht allein nicht vermittelt werden kann. Wir sind begeistert von den neuen Perspektiven, gemeinsamen Projekten und den sich eröffnenden Forschungsmöglichkeiten. Besonders erfreulich ist die erneute Nachbarschaft mit der Medizinischen Akademie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir sind zuversichtlich, dass dieser Standortwechsel allen Studierenden zugutekommen wird und freuen uns auf eine erfolgreiche Zeit am neuen Standort am Gesundheitscampus des ukb!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Und ein großes Dankeschön geht an die Betreiber der LUMO Nahbar für diese Torte – ein wunderbares Willkommensgeschenk!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/der-umzug-ist-vollbracht-die-ib-hochschule-befindet-sich-nun-auf-dem-gesundheitscampus-am-ukb/image_01.jpg",
+    "alt": "Umzug IB Hochschule ans ukb"
+  },
+  "gallery": [],
+  "publishDate": "2023-12-18T09:00:00.000Z",
+  "status": "published"
+}

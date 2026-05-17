@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.probandinnen-trii-weiterbildung",
+  "slug": {
+    "_type": "slug",
+    "current": "wir-suchen-probandinnen-fuer-die-wissenschaftliche-weiterbildung-therapeuticresearch-auf-masterniveau"
+  },
+  "title": {
+    "en": "We are looking for participants for the scientific continuing education \"TherapeuticResearch\" at Master level",
+    "de": "Wir suchen Probandinnen für die wissenschaftliche Weiterbildung „TherapeuticResearch\" auf Masterniveau"
+  },
+  "summary": {
+    "en": "Then we may have the right project for you – we are looking for participants for the modules \"TherapeuticResearch as part-time scientific continuing education for health professions\".",
+    "de": "Dann haben wir vielleicht das richtige Projekt für Sie – wir suchen Probandinnen für die Teilnahme an den Modulen „TherapeuticResearch als berufsbegleitende wissenschaftliche Weiterbildung für Gesundheitsfachberufe\"."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Then we may have the right project for you...",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We are looking for participants for the modules \"TherapeuticResearch as part-time scientific continuing education for health professions\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "You can look forward to the following modules (total 30 ECTS):\n31.1.–2.2.2020 Research project\n28.2.–1.3.2020 Project management\n27.3.–29.3.2020 Quantitative research methodology\n24.4.–26.4.2020 Qualitative research methodology\n15.5.–17.5.2020 Quality management\n19.6.–21.6.2020 Research project",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Interested or have further questions? Then please register by 15.01.2020 with Prof. Dr. Mariam Hartinger: mariam.hartinger@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "More info about the project can be found here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Dann haben wir vielleicht das richtige Projekt für Sie...",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wir suchen ProbandInnen für die Teilnahme an den Modulen „TherapeuticResearch als berufsbegleitende wissenschaftlichen Weiterbildung für Gesundheitsfachberufe\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Sie können sich auf folgende Module freuen (gesamt 30 ECTS):\n31.1.–2.2.2020 Forschungsprojekt\n28.2.–1.3.2020 Projektmanagement\n27.3.–29.3.2020 Quantitative Forschungsmethodik\n24.4.–26.4.2020 Qualitative Forschungsmethodik\n15.5.–17.5.2020 Qualitätsmanagement\n19.6.–21.6.2020 Forschungsprojekt",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Haben Sie Interesse oder weitere Fragen? Dann melden Sie sich bitte bis zum 15.01.2020 bei Prof. Dr. Mariam Hartinger an: mariam.hartinger@hi-university.de.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Mehr Infos zum Projekt finden Sie hier.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wir-suchen-probandinnen-fuer-die-wissenschaftliche-weiterbildung-therapeuticresearch-auf-masterniveau/image_01.jpg",
+    "alt": "Looking for participants"
+  },
+  "gallery": [],
+  "publishDate": "2020-01-07T09:00:00.000Z",
+  "status": "published"
+}

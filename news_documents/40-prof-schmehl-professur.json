@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.herzlichen-glueckwunsch-zur-professur-prof-dr-schmehl",
+  "slug": {
+    "_type": "slug",
+    "current": "herzlichen-glueckwunsch-zur-professur-prof-dr-schmehl"
+  },
+  "title": {
+    "en": "Congratulations on the professorship, Prof. Dr. Schmehl!",
+    "de": "Herzlichen Glückwunsch zur Professur, Prof. Dr. Schmehl!"
+  },
+  "summary": {
+    "en": "We congratulate Prof. Dr. Ingo Schmehl on his appointment as full professor of Digital Health – Medicine. At the ceremonial handover of the appointment certificate, Prof. Dr. Axel Ekkernkamp, Medical Director of Unfallkrankenhaus Berlin, also extended his congratulations.",
+    "de": "Wir gratulieren Prof. Dr. Ingo Schmehl zur Berufung zum ordentlichen Professor für Digital Health – Medizin. Zur feierlichen Übergabe der Berufungsurkunde gratulierte auch Prof. Dr. Axel Ekkernkamp, Ärztlicher Direktor des Unfallkrankenhauses Berlin."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "We congratulate Prof. Dr. Ingo Schmehl on his appointment as full professor of Digital Health – Medicine. At the ceremonial handover of the appointment certificate, Prof. Dr. Axel Ekkernkamp, Medical Director of Unfallkrankenhaus Berlin, also extended his congratulations.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "As winner of the KlinikAward 2022 in the \"Digital Innovation\" category for the first digital therapy room – ukb Brain Cloud 1.0 – as well as initiator of various telemedicine projects at Unfallkrankenhaus Berlin (ukb), Prof. Schmehl will enormously enrich the new part-time Digital Health programmes (Bachelor and Master) in the IB Hochschule portfolio in teaching, continuing education and research.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We wish you every success and much joy in your new position at IB Hochschule!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Wir gratulieren Prof. Dr. Ingo Schmehl zur Berufung zum ordentlichen Professor für Digital Health – Medizin. Zur feierlichen Übergabe der Berufunsurkunde gratulierte auch Prof. Dr. Axel Ekkernkamp, Ärztlicher Direktor des Unfallkrankenhaus Berlin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Als Preisgewinner des KlinikAwards 2022 in der Kategorie „Digitale Innovation\" für den ersten digitalen Therapieraum – ukb Brain Cloud. 1.0 – sowie Initiator verschiedener telemedizinischer Projekte am Unfallkrankenhaus Berlin (ukb) wird Prof. Schmehl die neuen berufsbegleitenden Studiengänge Digital Health (Bachelor und Master) im Portfolio der IB Hochschule in Lehre, Weiterbildung und Forschung enorm bereichern.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir wünschen viel Erfolg und Freude in Ihrer neuen Position an der IB Hochschule!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/herzlichen-glueckwunsch-zur-professur-prof-dr-schmehl/image_01.jpg",
+    "alt": "Appointment of Prof. Dr. Schmehl"
+  },
+  "gallery": [],
+  "publishDate": "2023-03-20T09:00:00.000Z",
+  "status": "published"
+}

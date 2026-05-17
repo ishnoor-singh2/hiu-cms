@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.symposium-neuseeland-klenk",
+  "slug": {
+    "_type": "slug",
+    "current": "symposium-in-neuseeland"
+  },
+  "title": {
+    "en": "Symposium in New Zealand: international experts give insight into mobility and fall prevention in older people",
+    "de": "Symposium in Neuseeland: Internationale Gastwissenschaftler geben einen Einblick in Mobilität und Sturzprävention bei älteren Menschen"
+  },
+  "summary": {
+    "en": "On 5 February 2025 experts from Europe, Australia and New Zealand presented their latest research results at the symposium \"Ageing, Mobility and Staying Upright\" at the University of Auckland.",
+    "de": "Am 5. Februar 2025 haben Expertinnen und Experten aus Europa, Australien und Neuseeland auf dem Symposium „Ageing, Mobility and Staying Upright\" an der Universität von Auckland ihre neusten Forschungsergebnisse präsentiert."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 5 February 2025, experts from Europe, Australia and New Zealand presented their latest research results at the symposium \"Ageing, Mobility and Staying Upright\" at the University of Auckland.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In New Zealand too, falls are among the three most common causes of injury-related deaths in people over 65 – and the most common cause of death in people over 80. About 30 percent of people over 65 suffer a fall each year, and about 60 percent of residents of care facilities fall annually.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The event was organised to meet the urgent need for high-quality research in this area in New Zealand, says Professor Ngaire Kerse, general practitioner, chair holder and director of the CoCreated Ageing Research Centre at the University of Auckland.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Topics included, among others, the development and use of wearable sensors to record physical activity. Professor Jochen Klenk from IB Hochschule für Gesundheit und Soziales gave insights from the clinical validation study of the Mobilise-D EU project on the restoration of mobility after hip fracture surgery.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "More information about the event is available here. The University of Auckland is New Zealand's largest and leading research university and internationally known for its interdisciplinary research. It places emphasis in health sciences and cooperates worldwide with renowned institutions. The CoCreated Ageing Research Centre plays a central role in researching ageing and developing innovative solutions for an ageing society.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 5. Februar 2025 haben Expertinnen und Experten aus Europa, Australien und Neuseeland auf dem Symposium „Ageing, Mobility and Staying Upright\" an der Universität von Auckland ihre neusten Forschungsergebnisse präsentiert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Auch in Neuseeland gehören Stürze zu den drei häufigsten Ursachen für verletzungsbedingte Todesfälle bei Menschen über 65 Jahren – und sind die häufigste Todesursache bei Menschen über 80 Jahren. Etwa 30 Prozent der über 65-Jährigen erleiden jedes Jahr einen Sturz, und etwa 60 Prozent der Bewohner von Pflegeeinrichtungen stürzen jährlich.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Veranstaltung wurde organisiert, um den dringenden Bedarf an qualitativ hochwertiger Forschung in Neuseeland in diesem Bereich gerecht zu werden, sagt Professor Ngaire Kerse, Allgemeinmedizinerin, Lehrstuhlinhaberin und Direktorin des CoCreated Ageing Research Centre der Universität Auckland.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Themen waren unter anderem die Entwicklung und Nutzung von tragbaren Sensoren zur Erfassung der körperlichen Aktivität. Professor Jochen Klenk von der IB Hochschule für Gesundheit und Soziales gab Einblicke aus der klinischen Validierungsstudie des Mobilise-D EU-Projektes zur Wiederherstellung der Mobilität nach einer Hüftfraktur-Operation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Mehr Informationen zur Veranstaltung sind hier zu finden. Die University of Auckland ist Neuseelands größte und führende Forschungsuniversität und international für ihre interdisziplinäre Forschung bekannt. Sie setzt Schwerpunkte in den Gesundheitswissenschaften und kooperiert weltweit mit renommierten Institutionen. Das CoCreated Ageing Research Centre der Universität spielt eine zentrale Rolle bei der Erforschung des Alterns und der Entwicklung innovativer Lösungen für eine alternde Gesellschaft.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/symposium-in-neuseeland/image_01.jpg",
+    "alt": "Prof. Dr. Jochen Klenk in Auckland Neuseeland"
+  },
+  "gallery": [],
+  "publishDate": "2025-02-13T09:00:00.000Z",
+  "status": "published"
+}

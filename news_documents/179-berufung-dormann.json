@@ -1,0 +1,147 @@
+{
+  "_type": "news",
+  "_id": "news.berufung-dormann-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "die-ib-hochschule-gratuliert-prof-dormann"
+  },
+  "title": {
+    "en": "Prof. Dr. Markus Dormann ceremonially appointed Professor of Health Sciences at IB Hochschule",
+    "de": "Prof. Dr. Markus Dormann feierlich zum Professor für Gesundheitswissenschaften an der IB Hochschule ernannt"
+  },
+  "summary": {
+    "en": "On 16.01.2024, Prof. Dr. Markus Dormann was officially handed the certificate of appointment as full Professor of Health Sciences / Health Education.",
+    "de": "Am 16.01.2024 wurde Prof. Dr. Markus Dormann offiziell die Ernennungsurkunde zum ordentlichen Professor für Gesundheitswissenschaften / Gesundheitspädagogik überreicht."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 16.01.2024, Prof. Dr. Markus Dormann was officially handed the certificate of appointment as full Professor of Health Sciences / Health Education.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Prof. Dormann has been a lecturer at IB Hochschule für Gesundheit und Soziales since 2023 and was elected Vice President for Teaching on 13.12.2023. He is the programme director of the two programmes Health Care Education / Gesundheitspädagogik B.A. and Gesundheitspädagogik M.A.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "His focuses in research and teaching lie in the areas of digitalisation in teaching and instruction, e-learning as well as communication and non-violent communication in schools and educational institutions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Our students can look forward to an extremely enriching learning experience. IB Hochschule is exceptionally pleased to officially welcome Prof. Dormann to the team.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 16.01.2024 wurde Prof. Dr. Markus Dormann offiziell die Ernennungsurkunde zum ordentlichen Professor für Gesundheitswissenschaften / Gesundheitspädagogik überreicht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Prof. Dormann ist bereits seit 2023 als Dozent an der IB Hochschule für Gesundheit und Soziales tätig und wurde am 13.12.2023 zum Vizepräsidenten für Lehre gewählt. Er ist Studiengangsleiter der beiden Studiengänge Health Care Education / Gesundheitspädagogik B.A. und Gesundheitspädagogik M.A.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Seine Schwerpunkte in Forschung und Lehre liegen auf den Gebieten der Digitalisierung in Lehre und Unterricht, E-Learning sowie Kommunikation und Gewaltfreie Kommunikation in Schulen und Bildungseinrichtungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Unsere Studierenden dürfen sich auf eine äußerst bereichernde Lernerfahrung freuen. Die IB Hochschule freut sich außerordentlich, Prof. Dormann offiziell im Team willkommen zu heißen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-ib-hochschule-gratuliert-prof-dormann/image_01.jpg",
+    "alt": "Berufung von Markus Dormann zum Professor an der IB Hochschule"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/die-ib-hochschule-gratuliert-prof-dormann/image_02.jpg",
+      "alt": "Die IB Hochschule gratuliert Prof. Dormann"
+    }
+  ],
+  "publishDate": "2024-01-29T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,225 @@
+{
+  "_type": "news",
+  "_id": "news.betreiberwechsel-gen-group",
+  "slug": {
+    "_type": "slug",
+    "current": "betreiberwechsel"
+  },
+  "title": {
+    "en": "IB Hochschule turns a new chapter: internationalisation and new perspectives",
+    "de": "Die IB Hochschule schlägt ein neues Kapitel auf: Internationalisierung und neue Perspektiven"
+  },
+  "summary": {
+    "en": "Since 1 June 2025 IB Hochschule für Gesundheit und Soziales is part of the Global Education Network Group. This marks the end of the long successful cooperation with Internationaler Bund and the start of a new development phase.",
+    "de": "Die IB Hochschule für Gesundheit und Soziales ist seit dem 1. Juni 2025 Teil der Global Education Network Group. Damit endet die langjährige Zusammenarbeit mit dem Internationalen Bund und beginnt eine neue Entwicklungsphase."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Since 1 June 2025, IB Hochschule für Gesundheit und Soziales is part of the Global Education Network Group. With this step the long-standing and successful cooperation with Internationaler Bund ends. The university thanks for the constructive partnership and now looks ahead with great anticipation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The change marks the start of a new development phase: integration into a strong international educational network opens diverse opportunities for students, lecturers and staff.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "What changes – and what remains",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "IB Hochschule remains true to its specialist orientation and high quality standards. At the same time, key advantages arise from the new operator. As part of this development, from October 2025 two Master's programmes will also be offered in English, specially designed for international students: International Master Digital Health and International Master Health Care Education and Educational Management. These programmes strengthen the university's international visibility and promote even stronger networking in research, teaching and practice.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Future planning and new location",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "In the first joint working week with the new operators, important course-settings were made. In interdisciplinary groups, goals were defined, ideas exchanged and central plans designed. A special focus was on the university's new location. From September 2025, IB Hochschule will move into House 2 on the Health Campus at ukb.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Despite the structural changes, one thing remains unchanged: IB Hochschule continues to stand for a committed, practice-oriented and future-oriented study in the area of health and social affairs. The transition into an international network underlines this claim and sets the course for successful further development. The path to the future is clear: international, innovative, inspiring.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales ist seit dem 1. Juni 2025 Teil der Global Education Network Group. Mit diesem Schritt endet die langjährige und erfolgreiche Zusammenarbeit mit dem Internationalen Bund. Die Hochschule bedankt sich herzlich für die konstruktive Partnerschaft und blickt nun mit großer Vorfreude in die Zukunft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Der Wechsel markiert den Beginn einer neuen Entwicklungsphase: Die Einbindung in ein starkes internationales Bildungsnetzwerk eröffnet vielfältige Chancen für Studierende, Lehrende und Mitarbeitende.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Was sich ändert – und was bleibt",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die IB Hochschule bleibt ihrer fachlichen Ausrichtung und ihrem hohen Qualitätsanspruch treu. Gleichzeitig entstehen durch die neue Trägerschaft entscheidende Vorteile. Im Zuge dieser Entwicklung werden ab Oktober 2025 zwei Masterstudiengänge auch auf Englisch angeboten, speziell konzipiert für internationale Studierende: International Master Digital Health sowie International Master Health Care Education and Educational Management. Diese Programme stärken die internationale Sichtbarkeit der Hochschule und fördern eine noch stärkere Vernetzung in Forschung, Lehre und Praxis.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Zukunftsplanung und neuer Standort",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "In der ersten gemeinsamen Arbeitswoche mit den neuen Betreibern wurden wichtige Weichen gestellt: In interdisziplinären Gruppen wurden Ziele definiert, Ideen ausgetauscht und zentrale Vorhaben geplant. Ein besonderes Augenmerk lag dabei auf dem neuen Standort der Hochschule. Ab September 2025 wird die IB Hochschule in Haus 2 auf dem Gesundheitscampus am ukb umziehen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Trotz der strukturellen Veränderungen bleibt eines unverändert: Die IB Hochschule steht weiterhin für ein engagiertes, praxisnahes und zukunftsorientiertes Studium im Bereich Gesundheit und Soziales. Der Übergang in ein internationales Netzwerk unterstreicht diesen Anspruch und stellt die Weichen für eine erfolgreiche Weiterentwicklung. Der Weg in die Zukunft ist klar: international, innovativ, inspirierend.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/betreiberwechsel/image_01.jpg",
+    "alt": "Construction site House 2"
+  },
+  "gallery": [],
+  "publishDate": "2025-06-11T09:00:00.000Z",
+  "status": "published"
+}

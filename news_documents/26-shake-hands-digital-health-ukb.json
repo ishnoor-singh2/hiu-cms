@@ -1,0 +1,175 @@
+{
+  "_type": "news",
+  "_id": "news.shake-hands-digital-health-drehtag-ukb",
+  "slug": {
+    "_type": "slug",
+    "current": "shake-hands-zwischen-prof-ekkernkamp-und-prof-hartinger-zum-auftakt-der-studiengaenge-digital-health-ein-erfolgreicher-drehtag-am-unfallkrankenhaus-berlin-ukb"
+  },
+  "title": {
+    "en": "Handshake between Prof. Ekkernkamp and Prof. Hartinger to launch the Digital Health programmes – a successful filming day at Unfallkrankenhaus Berlin (ukb)",
+    "de": "Shake-Hands zwischen Prof. Ekkernkamp und Prof. Hartinger zum Auftakt der Studiengänge Digital Health – ein erfolgreicher Drehtag am Unfallkrankenhaus Berlin (ukb)"
+  },
+  "summary": {
+    "en": "On 14 July 2023 IB Hochschule held its first filming day in cooperation with Unfallkrankenhaus Berlin (ukb) on the topic of virtual teaching – marking a significant step in the development of the Digital Health programmes.",
+    "de": "Am 14. Juli 2023 fand der erste Drehtermin der IB Hochschule zur Zusammenarbeit mit dem Unfallkrankenhaus Berlin (ukb) zum Thema virtuelle Lehre statt – ein bedeutender Schritt in der Entwicklung der Studiengänge Digital Health."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Last Friday, 14 July 2023, IB Hochschule held its first filming session in cooperation with Unfallkrankenhaus Berlin (ukb) on the topic of virtual teaching. This milestone marks a significant step in the development of programmes in the field of Digital Health. To inform about the upcoming programmes, Prof. Ekkernkamp, Medical Director of ukb, gave an interview in the ukb braincloud 1.0.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The cooperation between IB Hochschule and ukb was also discussed, in particular regarding the university's new location on the Health Campus site. Prof. Hartinger commented on the advantages of this cooperation and emphasised the strategic importance of the new site for the university.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "A special highlight of the filming day was the fully equipped recording studio in the Maybach of the film and video agency Teach-Audio. The Teach-Audio team accompanied the day and turned it into first-class video and audio material with their professional work. This promises a high-quality production that meets the requirements and standards of virtual teaching.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "IB Hochschule and Unfallkrankenhaus Berlin are working together to offer future-oriented programmes in the field of Digital Health. Through close cooperation and the use of state-of-the-art technologies, students are provided with an innovative learning environment that optimally prepares them for the demands of healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "IB Hochschule looks forward to further expanding its cooperation with Unfallkrankenhaus Berlin and to offering students a first-class education in healthcare programmes. The new location on the Health Campus site enables an even closer integration of theory and practice, giving students valuable experience and insights into healthcare.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule hatte am vergangenen Freitag, 14.07.2023 ihren ersten Drehtermin zur Zusammenarbeit mit dem Unfallkrankenhaus Berlin (ukb) zum Thema virtuelle Lehre abgehalten. Dieser Meilenstein markiert einen bedeutenden Schritt in der Entwicklung von Studiengängen im Bereich Digital Health. Um über die bevorstehenden Studiengänge zu informieren, gab Prof. Ekkernkamp, Ärztlicher Direktor vom ukb ein Interview in der ukb braincloud 1.0.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Kooperation zwischen der IB Hochschule und dem ukb wurde ebenfalls thematisiert, insbesondere in Bezug auf den neuen Standort der Hochschule auf dem Gelände des Gesundheitscampus. Prof. Hartinger äußerte sich zu den Vorteilen dieser Zusammenarbeit und betonte die strategische Bedeutung des neuen Standorts für die Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Ein besonderes Highlight des Drehtags war das komplett ausgebaute Tonstudio im Maybach der Film- und Videoagentur Teach-Audio. Das Team von Teach-Audio begleitete den Drehtag und setzte ihn mit ihrer professionellen Arbeit in erstklassiges Video- und Tonmaterial um. Dies verspricht eine hochwertige Produktion, die den Anforderungen und Standards der virtuellen Lehre gerecht wird.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die IB Hochschule und das Unfallkrankenhaus Berlin arbeiten gemeinsam daran, zukunftsorientierte Studiengänge im Bereich Digital Health anzubieten. Durch die enge Zusammenarbeit und die Nutzung modernster Technologien wird den Studierenden ein innovatives Lernumfeld geboten, das sie optimal auf die Anforderungen des Gesundheitswesens vorbereitet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die IB Hochschule freut sich darauf, die Zusammenarbeit mit dem Unfallkrankenhaus Berlin weiter auszubauen und den Studierenden eine erstklassige Ausbildung in den Studiengängen des Gesundheitswesens zu bieten. Der neue Standort auf dem Gelände des Gesundheitscampus ermöglicht eine noch engere Verzahnung von Theorie und Praxis, was den Studierenden wertvolle Erfahrungen und Einblicke in das Gesundheitswesen verschafft.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/shake-hands-zwischen-prof-ekkernkamp-und-prof-hartinger-zum-auftakt-der-studiengaenge-digital-health-ein-erfolgreicher-drehtag-am-unfallkrankenhaus-berlin-ukb/image_01.jpg",
+    "alt": "Filming day at ukb"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/shake-hands-zwischen-prof-ekkernkamp-und-prof-hartinger-zum-auftakt-der-studiengaenge-digital-health-ein-erfolgreicher-drehtag-am-unfallkrankenhaus-berlin-ukb/image_02.jpg",
+      "alt": "ukb IB Hochschule neuer Studiengang Digital Health"
+    }
+  ],
+  "publishDate": "2023-07-19T09:00:00.000Z",
+  "status": "published"
+}

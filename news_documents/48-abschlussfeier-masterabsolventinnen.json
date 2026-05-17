@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.abschlussfeier-unserer-masterabsolventinnen",
+  "slug": {
+    "_type": "slug",
+    "current": "abschlussfeier-unserer-masterabsolventinnen"
+  },
+  "title": {
+    "en": "Graduation ceremony for our Psychology Master graduates",
+    "de": "Abschlussfeier unserer Masterabsolvent*innen der Psychologie"
+  },
+  "summary": {
+    "en": "On 30 June we said farewell in Stuttgart to our first graduates of the Master's programme \"Psychology\". We are delighted and a little proud to have accompanied you through both your Bachelor's and Master's studies!",
+    "de": "Am 30.06. haben wir in Stuttgart Abschied genommen von unseren ersten Absolvent*innen des Master-Studiengangs „Psychologie\". Wir freuen uns sehr und sind ein bisschen stolz, dass wir Sie durch das Bachelor- und Masterstudium begleiten durften!"
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Dear graduates of the Master \"Psychology\", dear colleagues,",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "On 30 June we said farewell in Stuttgart to you, our first graduates of the Master's programme \"Psychology\". We are very happy and of course also a little proud that we could accompany you through both the Bachelor's and Master's studies!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "For your further path – professionally and personally – we wish you all much success and joy!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Many of you have already started the next step in your career and could not attend the graduation ceremony. So we look forward all the more to seeing you all at the first Home Coming Day 2023, hopefully back at the study centre.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Until then, warm greetings,",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Liebe Absolvent*innen, des Masters „Psychologie\", liebe Kolleg*innen,",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "am 30.06 haben wir in Stuttgart Abschied genommen von Ihnen, unseren ersten Absolvent*innen des Master-Studiengangs „Psychologie\". Wir freuen uns sehr und sind natürlich auch ein bisschen stolz, dass wir Sie durch das Bachelor- und Masterstudium begleiten durften!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Auf Ihrem weiteren Weg – beruflich und privat – wünschen wir Ihnen allen viel Erfolg und Freude!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Viele von Ihnen haben inzwischen bereits zum nächsten Karriereschritt angesetzt und konnten zur Abschlussfeier nicht dabei sein. Wir freuen uns daher umso mehr darauf, Sie beim ersten Home-Coming-Day 2023 hoffentlich alle am Studienzentrum wieder zu sehen!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Bis dahin Herzliche Grüße,",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/abschlussfeier-unserer-masterabsolventinnen/image_01.jpg",
+    "alt": "Master Psychology graduates group photo"
+  },
+  "gallery": [],
+  "publishDate": "2022-07-14T09:00:00.000Z",
+  "status": "published"
+}

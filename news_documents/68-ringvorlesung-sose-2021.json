@@ -1,0 +1,253 @@
+{
+  "_type": "news",
+  "_id": "news.ringvorlesung-sose-2021-klinische-psychologie",
+  "slug": {
+    "_type": "slug",
+    "current": "ringvorlesung-im-sommersemester-2021-facetten-der-klinischen-psychologie"
+  },
+  "title": {
+    "en": "Ring lecture in summer semester 2021 – facets of clinical psychology",
+    "de": "Ringvorlesung im Sommersemester 2021 – Facetten der Klinischen Psychologie"
+  },
+  "summary": {
+    "en": "In summer semester 2021 we will deal with selected topics from clinical psychology and their interdisciplinary connections. Following an interdisciplinary concept, the lecture series offers insights into a wide variety of subject areas and links them in many ways with their reference sciences.",
+    "de": "Im Sommersemester 2021 beschäftigen wir uns mit ausgewählten Themen der Klinischen Psychologie und ihren interdisziplinären Bezugspunkten. Einer interdisziplinären Konzeption folgend, bietet die Vortragsreihe Einblicke in verschiedenste Themenbereiche."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Facets of clinical psychology – a lecture series for summer semester 2021 at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In the coming semester we will deal with selected topics of clinical psychology and their interdisciplinary connections. Following an interdisciplinary concept, the lecture series offers insights into a wide variety of subject areas and links them in many ways with their reference sciences. You can therefore look forward to a series of exciting talks from a wide range of areas! The talks of the ring lecture will take place online via GoToMeeting. If interested, please register by email at aline.pfeiffer@hi-university.de. You will then receive the access details for the entire lecture series.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Programme",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "12 May 2021, 6 p.m.\nBody & soul – holistic conception or dissociation?\nSpeaker: Tamara Uda, M.Sc. psychologist & research associate, IB Hochschule für Gesundheit und Soziales; Centre for Psychiatry Calw, Forensic Psychiatry and Psychotherapy",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "26 May 2021, 6 p.m.\nHealth in flight: challenges of medical care for refugees\nSpeaker: Ariadne Brandt, M.Sc. psychologist and research associate, Charité – Universitätsmedizin Berlin, Board for Patient Care",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "9 June 2021, 6 p.m.\n\"I am worth it to myself\" – a talk on the topic of self-worth\nSpeaker: Maja Neidhart, B.A. psychologist and research associate, IB Hochschule für Gesundheit und Soziales",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "30 June 2021, 6 p.m.\nPsyche & cancer – a complicated relationship\nSpeaker: Myriel Hermann, M.Sc. psychologist, Charité Comprehensive Cancer Center, Psycho-oncology",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Here you can find the programme as a flyer.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Facetten der Klinischen Psychologie – eine Vortragsreihe zum Sommersemester 2021 an der IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im kommenden Semester werden wir uns mit ausgewählten Themen der Klinischen Psychologie und ihren interdisziplinären Bezugspunkten beschäftigen. Einer interdisziplinären Konzeption folgend, bietet die Vortragsreihe Einblicke in verschiedenste Themenbereiche und verknüpft diese auf vielfältige Weise mit ihren Bezugswissenschaften. Sie dürfen sich also auf eine Reihe spannender Vorträge aus unterschiedlichsten Bereichen freuen! Die Vorträge der Ringvorlesung werden online via GoToMeeting stattfinden. Bei Interesse melden Sie sich bitte per Mail unter aline.pfeiffer@hi-university.de an. Sie erhalten dann die Zugangsdaten für die gesamte Vortragsreihe.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Programm",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "12. Mai 2021, 18 Uhr\nLeib & Seele – Ganzheitskonzeption oder Dissoziation?\nReferentin: Tamara Uda, M.Sc. Psychologin & Wissenschaftliche Mitarbeiterin, IB Hochschule für Gesundheit und Soziales; Zentrum für Psychiatrie Calw, Forensische Psychiatrie und Psychotherapie",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "26. Mai 2021, 18 Uhr\nGesundheit auf der Flucht: Herausforderungen der Krankenversorgung von geflüchteten Personen\nReferentin: Ariadne Brandt, M.Sc. Psychologin und Wissenschaftliche Mitarbeiterin, Charité Universitätsmedizin Berlin, Vorstand Krankenversorgung",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "09. Juni 2021, 18 Uhr\n„Ich bin es mir selbst wert\" – Ein Vortrag zum Thema Selbstwert\nReferentin: Maja Neidhart, B.A. Psychologin und Wissenschaftliche Mitarbeiterin, IB Hochschule für Gesundheit und Soziales",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "30. Juni 2021, 18 Uhr\nPsyche & Krebs – eine komplizierte Beziehung\nReferentin: Myriel Hermann, M.Sc. Psychologin, Charité Comprehensive Cancer Center, Bereich Psychoonkologie",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Hier das Programm als Flyer.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/ringvorlesung-im-sommersemester-2021-facetten-der-klinischen-psychologie/image_01.jpeg",
+    "alt": "Facetten der Klinischen Psychologie"
+  },
+  "gallery": [],
+  "publishDate": "2021-03-30T09:00:00.000Z",
+  "status": "published"
+}

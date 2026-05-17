@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.herzlichen-glueckwunsch-zu-diesem-besonderen-tag",
+  "slug": {
+    "_type": "slug",
+    "current": "herzlichen-glueckwunsch-zu-diesem-besonderen-tag"
+  },
+  "title": {
+    "en": "Heartfelt congratulations on this special day!",
+    "de": "Herzlichen Glückwunsch zu diesem besonderen Tag!"
+  },
+  "summary": {
+    "en": "You did it! After years of hard work and lots of learning, the Applied Psychology 2019 cohort in Berlin and Stuttgart has finished their studies. IB Hochschule congratulates them on this academic milestone and wishes them success and exciting challenges ahead.",
+    "de": "Sie haben es geschafft! Nach Jahren harter Arbeit hat die Kohorte APS 2019 in Berlin und Stuttgart ihr Studium gemeistert. Die IB Hochschule gratuliert herzlich zu diesem akademischen Meilenstein und wünscht viel Erfolg und spannende Herausforderungen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "You did it! After many years of hard work, much learning and high expectations, you have mastered your studies. You have developed skills, expanded your knowledge and grown personally. And you can be proud of that.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We congratulate the APS 2019 cohort in Berlin and Stuttgart on this academic milestone and wish you many successes and exciting challenges.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "As psychology students you have gained an understanding of human behaviour and the human psyche. You are now ready to apply these skills and your knowledge to your career and life. And there are many paths open to you – you can work in research, as a therapist or counsellor, or in business or the public sector.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We warmly congratulate you and wish you much success for your future. We are proud of you and look forward to seeing how you shape your professional future. And anyone who wants to remain part of our network as an alum can sign up to the alumni mailing list here.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Sie haben es geschafft! Nach vielen Jahren harter Arbeit, viel Lernen und hohen Anforderungen haben Sie ihr Studium gemeistert. Sie haben Fähigkeiten entwickelt, Ihr Wissen erweitert und sich persönlich weiterentwickelt. Und darauf können Sie stolz sein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wir gratulieren der Kohorte APS 2019 in Berlin und Stuttgart zu diesem akademischen Meilenstein und wünschen Ihnen viele Erfolge und spannende Herausforderungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Als Psychologiestudierende haben Sie ein Verständnis für das menschliche Verhalten und die menschliche Psyche erlangt. Sie sind nun bereit, diese Fähigkeiten und Ihr Wissen auf Ihre Karriere und Ihr Leben anzuwenden. Und es stehen Ihnen viele Wege offen – Sie können in der Forschung tätig werden, als Therapeutin oder Beraterin arbeiten oder in der Wirtschaft oder im öffentlichen Sektor tätig sein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir gratulieren Ihnen herzlich und wünschen Ihnen viel Erfolg für Ihre Zukunft. Wir sind stolz auf Sie und freuen uns darauf, zu sehen, wie Sie Ihre berufliche Zukunft gestalten. Und wer uns als Absolvent*in im Netzwerk erhalten bleiben möchte, darf sich hier gerne in den Alumni-Verteiler eintragen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/herzlichen-glueckwunsch-zu-diesem-besonderen-tag/image_01.jpg",
+    "alt": "Abschluss der Kohorte 2019 Psychologie"
+  },
+  "gallery": [],
+  "publishDate": "2023-04-24T09:00:00.000Z",
+  "status": "published"
+}

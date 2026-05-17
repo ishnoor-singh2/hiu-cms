@@ -1,0 +1,119 @@
+{
+  "_type": "news",
+  "_id": "news.berufung-von-prof-dr-jin-yamamura",
+  "slug": {
+    "_type": "slug",
+    "current": "berufung-von-prof-dr-jin-yamamura"
+  },
+  "title": {
+    "en": "Appointment of Prof. Dr. Jin Yamamura – reinforcement for the Digital Health team",
+    "de": "Berufung von Prof. Dr. Jin Yamamura – Verstärkung im Team Digital Health"
+  },
+  "summary": {
+    "en": "With his expertise in radiology, health information technology and interdisciplinary research, Jin Yamamura has long enriched teaching in the Digital Health programmes at IB Hochschule. We are delighted that he is now officially strengthening the team as a professor.",
+    "de": "Mit seiner Expertise in Radiologie, Gesundheitsinformationstechnologie und interdisziplinärer Forschung bereichert Jin Yamamura die Lehre in den Digital-Health-Studiengängen der IB Hochschule schon seit Längerem. Umso schöner ist es, dass er das Hochschulteam nun auch offiziell als Professor verstärkt."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "With his expertise in radiology, health information technology, and interdisciplinary research, Jin Yamamura has long enriched the teaching in the IB University of Applied Sciences' Digital Health programmes. We are all the more delighted that he is now officially strengthening the university team as a professor.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "What particularly distinguishes Prof. Dr. Yamamura is his ability to connect practical application with scientific inquiry. In a field like Digital Health, where innovation and interdisciplinarity are essential, this combination is especially valuable. Our students benefit from practice-oriented teaching, and new research initiatives can generate impulses that flow directly into healthcare – whether in telemedicine, digital therapeutics, or data-driven approaches.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We warmly congratulate Prof. Yamamura on his appointment and look forward to his contributions – both for our students and for the broader field of Digital Health.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Mit seiner Expertise in Radiologie, Gesundheitsinformationstechnologie und interdisziplinärer Forschung bereichert Jin Yamamura die Lehre in den Digital-Health-Studiengängen der IB Hochschule schon seit Längerem. Umso schöner ist es, dass er das Hochschulteam nun auch offiziell als Professor verstärkt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Was Prof. Dr. Yamamura insbesondere auszeichnet, ist seine Fähigkeit, Praxis und Wissenschaft zu verbinden. Gerade in einem Bereich wie Digital Health, in dem Innovation und Interdisziplinarität zentral sind, ist das ein großer Gewinn. Unsere Studierenden profitieren von anwendungsnaher Lehre und neue Forschungsvorhaben können Impulse setzen, die direkt in die Gesundheitsversorgung einfließen – sei es bei Telemedizin, digitalen Therapieformen oder datengestützten Verfahren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir gratulieren Prof. Yamamura herzlich zu seiner Berufung und freuen uns auf seine Impulse – sowohl für die Studierenden hier an der Hochschule als auch für das Feld Digital Health insgesamt.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/berufung-von-prof-dr-jin-yamamura/image_01.jpg",
+    "alt": "Prof. Dr. Jin Yamamura"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/berufung-von-prof-dr-jin-yamamura/image_02.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-11-13T09:00:00.000Z",
+  "status": "published"
+}

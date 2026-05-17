@@ -1,0 +1,304 @@
+{
+  "_type": "news",
+  "_id": "news.the-move",
+  "slug": {
+    "_type": "slug",
+    "current": "the-move"
+  },
+  "title": {
+    "en": "New name, new campus – ready for the next step",
+    "de": "Neuer Name, neuer Campus – bereit für den nächsten Schritt"
+  },
+  "summary": {
+    "en": "The Health Innovation University of Applied Sciences becomes HIU – with a new brand identity, a new building on the Health Campus and an evolved study portfolio with an international focus.",
+    "de": "Die Health Innovation University of Applied Sciences wird zur HIU – mit neuem Markenauftritt, neuem Gebäude auf dem Gesundheitscampus und einem weiterentwickelten Studienportfolio mit internationalem Fokus."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The Health Innovation University of Applied Sciences becomes the Health Innovation University of Applied Sciences (HIU).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "With our new name, we are taking a decisive step towards the future: more internationality, more innovation, and an even stronger focus on the demands of global healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "On 01.04.2026, several milestones mark this transformation:",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "listItem": "bullet",
+        "level": 1,
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Launch of our new brand identity including logo and website",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "listItem": "bullet",
+        "level": 1,
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Move into a new building on the Health Campus",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "listItem": "bullet",
+        "level": 1,
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Further development of our study portfolio with an international focus",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Despite all the changes, our foundation remains the same: our degree programmes, our quality – and our guiding principle: \"Seeing the human being.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "The move into our new building also went smoothly and faster than planned. With great team spirit and dedication, the entire team pitched in – from the first box to the final setup. Today our new premises are fully equipped and offer a modern environment for teaching, exchange and innovation. We are ready and look forward to welcoming our first cohorts at the new location.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "A huge thank you to our team, who made this move and transformation possible with great commitment.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die Health Innovation University of Applied Sciences wird zur Health Innovation University of Applied Sciences (HIU)",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mit unserem neuen Namen gehen wir einen konsequenten Schritt in Richtung Zukunft: mehr Internationalität, mehr Innovation und eine noch stärkere Ausrichtung auf die Anforderungen des globalen Gesundheitswesens.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Zum 01.04.2026 markieren gleich mehrere Meilensteine diesen Wandel:",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "listItem": "bullet",
+        "level": 1,
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Einführung unseres neuen Markenauftritts inklusive Logo und Website",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "listItem": "bullet",
+        "level": 1,
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Umzug in ein neues Gebäude auf dem Gesundheitscampus",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "listItem": "bullet",
+        "level": 1,
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Weiterentwicklung unseres Studienportfolios mit internationalem Fokus",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Trotz aller Veränderungen bleibt unser Fundament bestehen: unsere Studiengänge, unsere Qualität – und unser Leitgedanke: „Den Menschen sehen.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Auch der Umzug in unser neues Gebäude verlief reibungslos und schneller als geplant. Mit großem Teamgeist und viel Einsatz hat das gesamte Team mit angepackt – vom ersten Karton bis zur finalen Einrichtung. Heute sind unsere neuen Räumlichkeiten vollständig ausgestattet und bieten ein modernes Umfeld für Lehre, Austausch und Innovation. Wir sind bereit und freuen uns darauf, unsere ersten Kohorten am neuen Standort willkommen zu heißen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Ein riesiger Dank gilt unserem Team, das diesen Umzug und Wandel mit großem Engagement möglich gemacht hat.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/the-move/Umzug IB Hochschule HiUniversity.jpg",
+    "alt": "HIU Umzug – Team beim Einzug in das neue Gebäude"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/the-move/Umzug4.jpg",
+      "alt": "HIU Umzug – Neue Räumlichkeiten auf dem Gesundheitscampus"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/the-move/Bibliothek.jpg",
+      "alt": "HIU Bibliothek im neuen Gebäude"
+    }
+  ],
+  "publishDate": "2026-04-01T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.aktuelle-informationen-coronavirus-maerz-2020",
+  "slug": {
+    "_type": "slug",
+    "current": "aktuelle-informationen-zum-coronavirus"
+  },
+  "title": {
+    "en": "Current information on the coronavirus",
+    "de": "Aktuelle Informationen zum Coronavirus"
+  },
+  "summary": {
+    "en": "Since December 2019, acute respiratory illnesses caused by the novel coronavirus (SARS-CoV-2) have been occurring. The Robert Koch Institute currently assesses the health risk as moderate. Stay home and call your doctor if you have symptoms after staying in a risk area.",
+    "de": "Seit Dezember 2019 treten akute Atemwegserkrankungen auf, die durch den neuartigen Coronavirus (SARS-CoV-2) verursacht werden. Das Robert Koch Institut schätzt die Gefahr aktuell als mäßig ein. Bei Symptomen nach Aufenthalt in einem Risikogebiet bitte zu Hause bleiben und telefonisch den Hausarzt kontaktieren."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Starting from the city of Wuhan, acute respiratory illnesses have been occurring in China since December 2019 caused by the novel coronavirus (SARS-CoV-2). The coronavirus has meanwhile reached all federal states in Germany and is spreading further. Nationwide university/school closures are not planned, the number of infections is now clearly rising, and a worldwide spread of the pathogen is to be expected. The Robert Koch Institute currently assesses the danger to health as moderate.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Inform yourself about the current status on the following pages:",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "If you notice symptoms such as cough, fever, sore throat, shortness of breath or runny nose after staying in a risky area for health, please stay at home and contact your family doctor by phone. Please also inform the university leadership!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We recommend the following preventive measures.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Persons who feel unwell, have a fever and/or other influenza symptoms should stay at home.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Ausgehend von der Stadt Wuhan treten seit Dezember 2019 in China akute Atemwegserkrankungen auf, die durch den neuartigen Coronavirus (SARS-CoV-2) verursacht werden. Mittlerweile hat das Coronavirus alle Bundesländer in Deutschland erreicht und breitet sich weiter aus. Flächendeckende Hochschul-/Schulschließungen sind nicht geplant, die Zahl der Infektionen ist nunmehr deutlich steigend, eine weltweite Verbreitung des Erregers ist zu erwarten. Das Robert Koch Institut schätzt die Gefahr für die Gesundheit aktuell als mäßig ein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Über den aktuellen Stand der Dinge informieren Sie sich auf den folgenden Seiten:",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Sollten Sie bei sich Krankheitssymptome wie Husten, Fieber, Halsschmerzen, Atemnot, laufende Nase nach einem Aufenthalt in einem gesundheitlichen Risikogebiet feststellen, bleiben Sie bitte zu Hause und wenden Sie sich telefonisch an Ihre Hausärztin / Ihren Hausarzt. Bitte informieren Sie dazu auch die Hochschulleitung!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir empfehlen folgende vorbeugende Maßnahmen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Personen die sich unwohl fühlen, Fieber haben und / oder andere Influenzasymptome haben, bleiben bitte zu Hause.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/aktuelle-informationen-zum-coronavirus/image_01.jpg",
+    "alt": "Coronavirus information"
+  },
+  "gallery": [],
+  "publishDate": "2020-03-10T09:00:00.000Z",
+  "status": "published"
+}

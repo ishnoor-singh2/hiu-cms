@@ -1,0 +1,220 @@
+{
+  "_type": "news",
+  "_id": "news.pflegeinnovationen-im-dialog",
+  "slug": {
+    "_type": "slug",
+    "current": "pflegeinnovationen-im-dialog"
+  },
+  "title": {
+    "en": "Care innovations in dialogue – solutions for a good future of care",
+    "de": "Pflegeinnovationen im Dialog – Lösungen für eine gute Zukunft der Pflege"
+  },
+  "summary": {
+    "en": "On 12 May 2025 \"Care Innovations in Dialogue: Solutions for a Good Future of Care\" took place on the Health Campus at ukb. Goal was to present innovative concepts in the care area and promote dialogue between start-ups, experts and users.",
+    "de": "Am 12. Mai 2025 fand auf dem Gesundheitscampus am ukb die Veranstaltung „Pflegeinnovationen im Dialog: Lösungen für eine gute Zukunft der Pflege\" statt. Ziel war es, innovative Konzepte im Pflegebereich vorzustellen und den Dialog zwischen Start-ups, Expert*innen und Anwender*innen zu fördern."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 12 May 2025 the event \"Care Innovations in Dialogue: Solutions for a Good Future of Care\" took place on the Health Campus at ukb in the House of the Future at Smart Living and Health Center. Experts and specialist representatives came together to exchange views on the latest developments of digitalisation and technologisation in care and health.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Various start-ups had the chance to present their concepts in 5-minute pitches – including Media4Care, G.U.T. Brandenburg, VIVAICare, Empident, Zenaris and many more interesting providers of digital solutions. The goal was to introduce innovative solutions in care and receive direct feedback from practice.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The event began with a welcome and networking phase. Dr. Albert Kern, head of unit at the Federal Ministry of Health (BMG), then spoke about the future of care. In his impulse talk \"Off to the future of care – but how?\" he emphasised the necessity of innovations that respond to the challenges of an ageing society.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Overall it was an excellent opportunity for exchange of ideas and for networking. In a relaxed atmosphere, Julia Backhaus from Digital Care Solutions moderated the day and led the participants through the programme. The event was organised by Karen Janda and Johannes Martin from Smart Living and Health Center.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The event was another important step in aligning innovations in care more strongly with the actual needs of society. The Digital Health Bachelor and Master programmes at IB Hochschule take up exactly this. They train the experts of tomorrow's digital healthcare and thus create the basis for applying and further developing forward-looking solutions in care.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 12. Mai 2025 fand auf dem Gesundheitscampus am ukb im Haus der Zukunft im Smart Living and Health Center die Veranstaltung „Pflegeinnovationen im Dialog: Lösungen für eine gute Zukunft der Pflege\" statt. Ziel des Netzwerktreffens war es, innovative Konzepte im Pflegebereich vorzustellen und den Dialog zwischen Start-ups, Expert*innen und Anwender*innen zu fördern.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Bei der Veranstaltung hatten verschiedene Start-ups die Gelegenheit ihre Konzepte in 5-minütigen Pitches zu präsentieren. Ziel war es, innovative Lösungen im Pflegebereich vorzustellen und direktes Feedback aus der Praxis zu erhalten, darunter Media4Care, G.U.T. Brandenburg, VIVAICare, Empident, Zenaris und viele weitere interessante Anbieter digitaler Lösungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Veranstaltung begann mit einer Begrüßungs- und Networking-Phase. Anschließend sprach Dr. Albert Kern, Referatsleiter im Bundesministerium für Gesundheit (BMG) über die Zukunft der Pflege. In seinem Impulsvortrag „Auf in die Zukunft der Pflege – aber wie?\" betonte er die Notwendigkeit von Innovationen, die auf die Herausforderungen einer alternden Gesellschaft eingehen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Es war insgesamt eine hervorragende Gelegenheit zum Austausch von Ideen und zum Netzwerken und zeigte, wie wichtig der Austausch zwischen Entwicklern und Nutzern ist. In entspannter Atmosphäre moderierte Julia Backhaus von Digital Care Solutions den Tag und führte die Teilnehmenden durch das Programm. Organisiert wurde das Event von Karen Janda und Johannes Martin vom Smart Living and Health Center.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Veranstaltung war ein weiterer wichtiger Schritt, um Innovationen im Pflegebereich stärker an den tatsächlichen Bedürfnissen der Gesellschaft auszurichten. Genau hier setzen auch die Studiengänge Digital Health Bachelor und Master der IB Hochschule an. Sie bilden die Expert*innen der digitalen Gesundheitsversorgung von morgen aus und schaffen damit die Grundlage, um zukunftsweisende Lösungen in der Pflege anzuwenden und weiterzuentwickeln.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_01.jpg",
+    "alt": "Care innovations event"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_08.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_09.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g9",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_10.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g10",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/pflegeinnovationen-im-dialog/image_11.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-05-13T09:00:00.000Z",
+  "status": "published"
+}

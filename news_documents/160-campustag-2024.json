@@ -1,0 +1,238 @@
+{
+  "_type": "news",
+  "_id": "news.campustag-der-ib-hochschule-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "campustag-der-ib-hochschule"
+  },
+  "title": {
+    "en": "A successful Campus Day of IB Hochschule on the Health Campus",
+    "de": "Ein gelungener Campustag der IB Hochschule auf dem Gesundheitscampus"
+  },
+  "summary": {
+    "en": "Last Tuesday 25.06.2024 the sun shone over the campus and offered the perfect backdrop for a rich programme that was specially organised for this day.",
+    "de": "Am vergangenen Dienstag 25.06.2024 strahlte die Sonne über den Campus und bot die perfekte Kulisse für ein reichhaltiges Programm, welches speziell für diesen Tag organisiert wurde."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Last Tuesday 25.06.2024 the sun shone over the campus and offered the perfect backdrop for a rich programme that was specially organised for this day.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Visitors were guided through the various buildings, got to know the modernly equipped library and got an insight into the rooms in which their own studies might take place in the future. In Q&A rounds with currently enrolled students, interested parties could ask their questions and get authentic insights into everyday student life. The campus tour in the most beautiful weather rounded off the evening perfectly.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "An interesting insight was provided by the taster lectures. They offered an excellent opportunity to sniff into the various programmes and get a feeling for the teaching methods and specialist content. The lectures covered a wide range of topics and gave visitors a foretaste of what awaits them in a programme at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "A special highlight was the dialogue \"Research belongs to studies!\" in which Dr. Isa Wortelkamp, research and third-party funding coordinator of the university, and Alisa Wenzel, Master psychology student and lecturer in the Bachelor programme, presented the topic of research in a vivid and accessible way. Research can often appear abstract and intimidating to students starting their studies. But the two managed to convey the meaning and exciting aspects of research very lively and comprehensibly.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Campus Day also offered ample opportunity to enter into conversation with the lecturers of the various specialist teams. The programmes in Health Education, Applied Therapy Science, Digital Health and Psychology were in focus and there was comprehensive information about study contents, career perspectives and the importance of these specialist directions in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "A big thank you goes to all visitors for their lively interest and curiosity. It was wonderful to see how many people were inspired by the diverse study possibilities at IB Hochschule. For all in the Stuttgart area there is also good news: on 4 July 2024 the next Open Day takes place there. Many thanks to all involved for a successful Campus Day and until next year!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am vergangenen Dienstag 25.06.2024 strahlte die Sonne über den Campus und bot die perfekte Kulisse für ein reichhaltiges Programm, welches speziell für diesen Tag organisiert wurde.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Besucherinnen und Besucher wurden durch die verschiedenen Gebäude geführt, lernten die modern ausgestattete Bibliothek kennen und bekamen einen Einblick in die Räumlichkeiten, in denen künftig vielleicht ihr eigenes Studium stattfinden könnte. In Q&A-Fragerunden mit aktuell eingeschriebenen Studierenden konnten Interessierte ihre Fragen loswerden und authentische Einblicke in den Studienalltag erhalten. Die Campusführung bei schönstem Wetter rundete den Abend perfekt ab.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Einen interessanten Einblick gaben die Schnuppervorlesungen. Sie boten eine hervorragende Gelegenheit, in die verschiedenen Studiengänge hineinzuschnuppern und ein Gefühl für die Lehrmethoden und die fachlichen Inhalte zu bekommen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Ein besonderes Highlight war der Dialog „Forschung gehört zum Studium!\", bei dem Dr. Isa Wortelkamp, Forschungs- und Drittmittelkoordinatorin der Hochschule, und Alisa Wenzel, Masterstudentin der Psychologie und Lehrende im Bachelorstudiengang, das Thema Forschung anschaulich und zugänglich darstellten. Forschung kann für Studienanfänger oft abstrakt und einschüchternd wirken. Doch die beiden schafften es, die Bedeutung und die spannenden Aspekte der Forschung sehr lebendig und nachvollziehbar zu vermitteln.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Der Campustag bot zudem reichlich Gelegenheit, mit den Lehrenden der unterschiedlichen Fachteams ins Gespräch zu kommen. Die Studiengänge in der Gesundheitspädagogik, Angewandte Therapiewissenschaft, Digital Health und Psychologie standen im Fokus und es wurde umfassend über Studieninhalte, Karriereperspektiven und die Bedeutung dieser Fachrichtungen im Gesundheitswesen informiert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Ein großer Dank gilt allen Besucherinnen und Besuchern für ihr reges Interesse und ihre Neugier. Es war wunderbar zu sehen, wie viele Menschen sich für die vielfältigen Studienmöglichkeiten an der IB Hochschule begeistern ließen. Für alle aus der Umgebung Stuttgart gibt es noch eine gute Nachricht: Am 04. Juli 2024 findet dort der nächste Tag der offenen Tür statt. Vielen Dank an alle Beteiligten für einen gelungenen Campustag und bis zum nächsten Jahr!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_01.jpg",
+    "alt": "Campustag mit Rundgang zum ukb an der IB Hochschule"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_02.jpg",
+      "alt": "Forschung gehört zum Studium Gespräch"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_03.jpg",
+      "alt": "Forschung gehört zum Studium an der IB Hochschule"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_04.jpg",
+      "alt": "Campustag an der IB Hochschule"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_05.jpg",
+      "alt": "Campustag an der IB Hochschule"
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_06.jpg",
+      "alt": "Psychologie an der IB Hochschule"
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_07.jpg",
+      "alt": "Bibliothek an der IB Hochschule"
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_08.jpg",
+      "alt": "Gesundheitspädagogik an der IB Hochschule"
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/campustag-der-ib-hochschule/image_09.jpg",
+      "alt": "Psychologie an der IB Hochschule"
+    }
+  ],
+  "publishDate": "2024-07-03T09:00:00.000Z",
+  "status": "published"
+}

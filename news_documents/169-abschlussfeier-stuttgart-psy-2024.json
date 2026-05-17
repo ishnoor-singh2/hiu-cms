@@ -1,0 +1,152 @@
+{
+  "_type": "news",
+  "_id": "news.abschlussfeier-stuttgart-psy-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "abschlussfeier-im-studiengang-psychologie"
+  },
+  "title": {
+    "en": "Graduation celebration in the Psychology programme at Stuttgart Study Centre",
+    "de": "Abschlussfeier im Studiengang Psychologie am Studienzentrum Stuttgart"
+  },
+  "summary": {
+    "en": "On 22 and 27 March 2024 the graduation celebrations of the Psychology programmes took place at the Stuttgart Study Centre.",
+    "de": "Am 22. und 27. März 2024 fanden am Studienzentrum Stuttgart die Abschlussfeiern in den Studiengängen der Psychologie statt."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 22 and 27 March 2024, the graduation celebrations of the Psychology programmes took place at the Stuttgart Study Centre. At the graduation celebration of the M.Sc. Psychology programme, President Frau Prof. Hartinger and programme heads Prof. Liepelt-Scarfone and Prof. Pals congratulated the young colleagues on the successful completion. The roughly 70 guests provided an impressive and festive setting. After the ceremony, the evening ended with a glass of sparkling wine at the buffet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The graduation celebration of the B.Sc. Applied Psychology programme was opened by Dean of Studies Prof. Mößle and Frau Prof. Liepelt-Scarfone. More than 100 guests had followed the invitation and experienced the festive end of the Bachelor's studies of their children, partners and relatives. Prof. Mößle presented the graduates with a rose and a small gift and congratulated on the successful completion.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "At both graduation celebrations, IB Hochschule challenged students' knowledge once again with the humorous format \"Who Wants to Be a Psychology Professor?\". The graduates proved their sound specialist knowledge and mastered the 15 questions about psychology and IB Hochschule each with flying colours.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "We would like to take this opportunity to warmly congratulate the students once again! We are happy that numerous Bachelor graduates decided to continue the Master at IB Hochschule and stay connected with us as alumni. We wish all students continued much success both privately and professionally.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 22. und 27. März 2024 fanden am Studienzentrum Stuttgart die Abschlussfeiern in den Studiengängen der Psychologie statt. Bei der Absolventenfeier des Studiengangs M.Sc. Psychologie gratulierten die Präsidentin Frau Prof. Hartinger und die Studiengangsleitungen Prof. Liepelt-Scarfone und Prof. Pals den jungen Kolleg*innen zum erfolgreichen Abschluss. Die etwa 70 Gäste sorgten dabei für einen beeindruckenden und festlichen Rahmen. Nach dem Festakt klang der Abend mit einem Glas Sekt am Buffet aus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Absolventenfeier des Studiengangs B.Sc. Angewandte Psychologie wurde von Studiendekanin Prof. Mößle und Frau Prof. Liepelt-Scarfone eröffnet. Mehr als 100 Gäste waren der Einladung gefolgt und erlebten den feierlichen Abschluss des Bachelorstudiums ihrer Kinder, Partner*innen und Angehörigen. Prof. Mößle überreichte den Absolvent*innen eine Rose und ein kleines Geschenk und beglückwünschte zum erfolgreichen Abschluss.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Bei beiden Absolventenfeiern forderte die IB Hochschule mit dem humorvollen Format „Wer wird Psychologie-Professor*in\" noch einmal das Wissen der Studierenden. Die Absolvent*innen bewiesen ihr fundiertes Fachwissen und meisterten die 15 Fragen rund um die Psychologie und die IB Hochschule jeweils mit Bravour.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Wir möchten den Studierenden an dieser Stelle noch einmal herzlich gratulieren! Wir freuen uns, dass zahlreiche Bachelor-Absolvent*innen sich dazu entschieden haben, den Master an der IB Hochschule fortzusetzen und als Alumni mit uns in Verbindung zu bleiben. Wir wünschen allen Studierenden weiterhin privat und beruflich viel Erfolg.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/abschlussfeier-im-studiengang-psychologie/image_01.jpg",
+    "alt": "Abschlussfeier Studiengang Psychologie am Studienzentrum Stuttgart 2024"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/abschlussfeier-im-studiengang-psychologie/image_02.jpg",
+      "alt": "AbsolventInnen Bachelorstudiengang Psychologie am Studienzentrum Stuttgart 2024"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/abschlussfeier-im-studiengang-psychologie/image_03.jpg",
+      "alt": "Alumni Studiengang Psychologie am Studienzentrum Stuttgart 2024"
+    }
+  ],
+  "publishDate": "2024-04-09T09:00:00.000Z",
+  "status": "published"
+}

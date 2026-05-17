@@ -1,0 +1,236 @@
+{
+  "_type": "news",
+  "_id": "news.im-gespraech-mit-toni-heese",
+  "slug": {
+    "_type": "slug",
+    "current": "im-gespraech-mit-toni-heese"
+  },
+  "title": {
+    "en": "In conversation with Toni Heese, graduate of IB Hochschule's Health Care Education programme",
+    "de": "Im Gespräch mit Toni Heese, Absolventin des Studiengangs Health Care Education an der IB Hochschule"
+  },
+  "summary": {
+    "en": "Insights into the care of multimorbid patients and interprofessional cooperation. From 24 to 27 September 2024 the 23rd German Congress for Care Research took place in Potsdam – with Ms Heese, alumna of IB Hochschule, who presented her Bachelor's thesis on a scientific poster.",
+    "de": "Einblicke in die Versorgung multimorbider Patient*innen und interprofessionelle Zusammenarbeit. Vom 24. bis 27. September 2024 fand in Potsdam der 23. Deutsche Kongress für Versorgungsforschung statt – mit Frau Heese, Alumna der IB Hochschule, die ihre Bachelorarbeit auf einem wissenschaftlichen Poster vorstellte."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "From 24 to 27 September 2024, the 23rd German Congress for Care Research took place in Potsdam. The event this year was under the motto \"Implementation knowledge creates innovative care\". In more than 500 scientific contributions, it was discussed how transfer of insights from care research into everyday care can succeed better.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "A special participant this year was Ms Heese, alumna of IB Hochschule für Gesundheit und Soziales, who presented her Bachelor's thesis within a scientific poster. Ms Heese recently successfully completed her studies in the Bachelor programme Health Education (B.A.) and now had the opportunity at the congress to present her research results together with Prof. Dr. Silke Brenne before a specialist audience.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Ms Heese, can you briefly tell us how you came to your programme at IB Hochschule? – In 2020/21 I began the part-time programme Health Care Education / Health Education at IB Hochschule in Berlin. I consciously decided on this university as it offers a familial learning atmosphere where you know each other personally. The practitioners from different specialist directions in our cohort enabled us to learn comprehensively from each other and think holistically. At that time I was not yet aware that this constellation would form the basis for my Bachelor's thesis. Together with two former fellow students I am now studying Management in Healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "What motivated you to study Health Education and which goals do you pursue? – I am interested in care research, in particular the care of people with multimorbid diseases who live in rural regions. Since I originally come from nursing, the care of this patient group is particularly close to my heart. During my training I cared for an older lady in a small village near Potsdam, and even back then I had first ideas how care processes both in outpatient and inpatient care could be improved.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "What was your Bachelor's thesis about? – The thesis focuses on the design of interprofessional and cross-sector cooperation in inpatient care. Based on an exemplary case study, an ideal discharge process from hospital to nursing facility as well as regular interprofessional cooperation in the nursing facility was discussed. The focus group consisted of a doctor, a nurse, a physiotherapist, a chiropodist and a social worker. Concrete recommendations for action emerged, e.g. that a nurse with case management competences can steer interprofessional and cross-sector cooperation through coordinating activities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "How was it to be represented at the German Congress for Care Research? – The congress was very exciting and excellently organised. I had the opportunity to exchange with other participants and find out which topics are currently particularly relevant. After holding my short talk on my Bachelor's thesis, I became aware that it is not only about the results of this study, but rather about the different approaches and study designs from which others could potentially benefit. I received positive feedback on the approach, connected with the recommendation to survey larger groups in the future. Overall it was an all-round successful day. Thanks to Prof. Dr. Silke Brenne and Sarah Wernicke for the support.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "We thank you, Ms Heese, for the exciting conversation and insights into your Bachelor's thesis. Your commitment to improving healthcare is impressive, and we wish you much success for your further studies and professional plans.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Vom 24. bis 27. September 2024 fand in Potsdam der 23. Deutsche Kongress für Versorgungsforschung statt. Die Veranstaltung stand in diesem Jahr unter dem Motto „Implementierungswissen schafft innovative Versorgung\". In mehr als 500 wissenschaftlichen Beiträgen wurde diskutiert, wie ein Transfer von Erkenntnissen aus der Versorgungsforschung in den Versorgungsalltag besser gelingen kann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Eine besondere Teilnehmerin dieses Jahr war Frau Heese, Alumna der IB Hochschule für Gesundheit und Soziales, die ihre Bachelorarbeit im Rahmen eines wissenschaftlichen Posters vorstellte. Frau Heese schloss kürzlich ihr Studium im Bachelorstudiengang Gesundheitspädagogik (B.A.) erfolgreich ab und hatte nun die Gelegenheit auf dem Kongress ihre Forschungsergebnisse zusammen mit Frau Prof. Dr. Silke Brenne vor einem Fachpublikum vorzustellen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Frau Heese, können Sie uns kurz erzählen, wie Sie zu Ihrem Studium an der IB Hochschule gekommen sind? – Im Jahr 2020/21 begann ich den berufsbegleitenden Studiengang Health Care Education/Gesundheitspädagogik an der IB Hochschule in Berlin. Ich habe mich bewusst für diese Hochschule entschieden, da sie eine familiäre Lernatmosphäre bietet, in der man sich persönlich kennt. Die Praktiker*innen aus unterschiedlichen Fachrichtungen in unserer Kohorte ermöglichten es uns, umfassend voneinander zu lernen und ganzheitlich zu denken. Zu jener Zeit war mir allerdings noch nicht bewusst, dass diese Konstellation die Grundlage für meine Bachelorarbeit bilden würde.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Was hat Sie dazu motiviert, Gesundheitspädagogik zu studieren? – Ich interessiere mich für die Versorgungsforschung, insbesondere für die Betreuung von Menschen mit multimorbiden Erkrankungen, die in ländlichen Regionen leben. Da ich ursprünglich aus der Pflege komme, liegt mir die Versorgung dieser Patientengruppe besonders am Herzen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Worum ging es in Ihrer Bachelorarbeit? – Im Mittelpunkt steht die Ausgestaltung der interprofessionellen und sektorenübergreifenden Zusammenarbeit in der stationären Pflege. Anhand eines exemplarischen Fallbeispiels wurde ein idealer Entlassungsprozess vom Krankenhaus in die Pflegeeinrichtung sowie eine regelhafte interprofessionelle Zusammenarbeit diskutiert. Die Fokusgruppe bestand aus einer Ärztin, einer Pflegefachkraft, einer Physiotherapeutin, einer Podologin und einer Sozialarbeiterin. Aus dem Datenmaterial ergaben sich konkrete Handlungsempfehlungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Wie war es auf dem Deutschen Kongress für Versorgungsforschung vertreten zu sein? – Der Kongress war sehr spannend und hervorragend organisiert. Ich hatte die Möglichkeit, mich mit anderen Teilnehmerinnen und Teilnehmern auszutauschen. Insgesamt war es ein rundum gelungener Tag, und an dieser Stelle möchte ich Frau Prof. Dr. Silke Brenne und Sarah Wernicke für die Unterstützung auf diesem Weg danken.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Wir danken Ihnen, Frau Heese, für das spannende Gespräch und die Einblicke in Ihre Bachelorarbeit. Ihr Engagement für die Verbesserung der Gesundheitsversorgung ist beeindruckend, und wir wünschen Ihnen viel Erfolg für Ihre weiteren Studien und beruflichen Pläne.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/im-gespraech-mit-toni-heese/image_01.png",
+    "alt": "Toni Heese poster"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/im-gespraech-mit-toni-heese/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/im-gespraech-mit-toni-heese/image_03.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-10-15T09:00:00.000Z",
+  "status": "published"
+}

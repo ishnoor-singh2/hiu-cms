@@ -1,0 +1,236 @@
+{
+  "_type": "news",
+  "_id": "news.praxistag-psychologie-praxisgruendung",
+  "slug": {
+    "_type": "slug",
+    "current": "praxistag"
+  },
+  "title": {
+    "en": "Practice day – the path from first idea to your own practice",
+    "de": "Praxistag – Der Weg von der ersten Idee zur eigenen Gründung"
+  },
+  "summary": {
+    "en": "Many students ask whether they can already become self-employed with a Bachelor in Applied Psychology. Prof. Dr. Sabine Arnold says yes – founding a practice is possible, e.g. in psychological counselling, coaching and prevention.",
+    "de": "Viele Studierende fragen, ob sie sich mit einem Bachelor in Angewandter Psychologie bereits selbstständig machen können. Prof. Dr. Sabine Arnold sagt: Ja – eine Gründung ist möglich, etwa in Beratung, Coaching und Prävention."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Many of my students ask: Can I already become self-employed with a Bachelor in Applied Psychology? My answer is: yes – founding a practice is possible, for example in the fields of psychological counselling, coaching and prevention.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "At the practice day in my Berlin practice, the central question was how a foundation can succeed well – which fields of activity are open and which ethical, (professional-)legal and professional foundations must be considered.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Practice fields with a Bachelor in Applied Psychology",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Diverse practice models are open, oriented to the graduates' specialist competence and specialisation – for example in counselling, coaching and prevention.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Framework conditions of a responsible practice",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Those who found a practice carry a special responsibility. Psychological counselling must always be clearly distinguished from medical psychotherapy. The guidelines of the German Psychological Society (DGPs) provide orientation: they set standards for quality, transparency and professionalism and emphasise central principles such as competence, integrity, confidentiality and respect for the rights and dignity of the person. These values form the core of responsible practice management and create trust – both for clients and for society in whose service psychological work stands.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "We warmly thank Prof. Dr. Sabine Arnold for this contribution. She shows what opportunities a practice foundation with a Bachelor in Applied Psychology opens up and gives students valuable insights into the fields of psychological counselling, coaching and prevention.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Viele meiner Studierenden fragen sich: Kann ich mich mit einem Bachelor in Angewandter Psychologie bereits selbstständig machen? Meine Antwort lautet: Ja – eine Gründung ist möglich, zum Beispiel in den Bereichen psychologische Beratung, Coaching und Prävention.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Am Praxistag in meiner Berliner Praxis ging es um die zentrale Frage, wie eine Gründung gut gelingen kann – welche Tätigkeitsfelder offenstehen und welche ethischen, (berufs)rechtlichen und professionellen Grundlagen zu berücksichtigen sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Praxisfelder mit der Qualifikation Bachelor in Angewandter Psychologie",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Vielfältige Praxismodelle stehen offen, orientiert an Fachkompetenz und Spezialisierung der Absolvent*innen, zum Beispiel in Beratung, Coaching und Prävention.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Rahmenbedingungen einer verantwortungsvollen Praxis",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Wer eine Praxis gründet, trägt eine besondere Verantwortung. Dabei ist psychologische Beratung stets klar von heilkundlicher Psychotherapie abzugrenzen. Orientierung bieten die Richtlinien der Deutschen Gesellschaft für Psychologie (DGPs): Sie formulieren Standards für Qualität, Transparenz und Professionalität und betonen zentrale Prinzipien wie Kompetenz, Integrität, Wahrung der Vertraulichkeit sowie Respekt vor den Rechten und der Würde des Menschen. Diese Werte bilden den Kern einer verantwortungsvollen Praxisführung und schaffen Vertrauen – sowohl für Klient*innen als auch für die Gesellschaft, in deren Dienst psychologische Arbeit steht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Wir bedanken uns herzlich bei Prof. Dr. Sabine Arnold für diesen Beitrag. Sie zeigt auf, welche Chancen eine Praxisgründung mit einem Bachelor in Angewandter Psychologie eröffnet und gibt Studierenden wertvolle Einblicke in die Bereiche psychologische Beratung, Coaching und Prävention.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/praxistag/image_01.jpg",
+    "alt": "Practice day"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/praxistag/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/praxistag/image_03.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-09-05T09:00:00.000Z",
+  "status": "published"
+}

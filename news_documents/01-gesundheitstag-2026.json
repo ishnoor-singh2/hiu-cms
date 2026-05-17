@@ -1,0 +1,307 @@
+{
+  "_type": "news",
+  "_id": "news.gesundheitstag-2026",
+  "slug": {
+    "_type": "slug",
+    "current": "gesundheitstag-2026"
+  },
+  "title": {
+    "en": "Berlin's first district-wide Health Day in Marzahn-Hellersdorf brings together people, medicine, and prevention",
+    "de": "Berlins erster bezirksweiter Gesundheitstag in Marzahn-Hellersdorf bringt Menschen, Medizin und Prävention zusammen"
+  },
+  "summary": {
+    "en": "The first district-wide Health Day on the Health Campus at ukb in Berlin brought together institutions, educational organisations and residents — with prominent guests, free health check-ups and a varied programme for all generations.",
+    "de": "Der erste bezirksweite Gesundheitstag auf dem Gesundheitscampus am ukb in Berlin brachte Einrichtungen, Bildungseinrichtungen und Bürgerinnen und Bürger zusammen – mit prominentem Besuch, kostenlosen Gesundheitschecks und einem vielfältigen Programm für alle Generationen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en-b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b1s1",
+            "text": "With many visitors, numerous hands-on activities and prominent support, the first district-wide Health Day on the Health Campus at ukb in Berlin celebrated a successful debut. The event brought together institutions, companies, initiatives and people interested in healthcare, sending a strong signal for prevention, health education and networking in the Marzahn-Hellersdorf district.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en-b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b2s1",
+            "text": "The organisers were especially pleased to welcome Kai Wegner, Governing Mayor of Berlin, District Mayor Nadja Zivkovic and District Councillor Gordon Lemm, who acted as patron of the Health Day.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en-b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b3s1",
+            "text": "At the heart of the day were the many personal encounters and conversations between visitors, health professionals, volunteers and educational institutions. The Health Day impressively demonstrated how strong the district's network already is — and what potential lies in new collaborations and joint projects.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en-b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b4s1",
+            "text": "The varied programme addressed all generations and combined information, prevention and participation. Visitors could take advantage of free health check-ups, attend workshops on mindfulness, breathing and mental health, or receive advice on topics such as nursing care, back health, arthritis and dental health.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en-b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b5s1",
+            "text": "Families and children also had plenty to enjoy: movement courses, a bouncy castle, face painting, and activities from the THW youth, the volunteer fire brigade and the German Red Cross conveyed health in a playful and practical way.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en-b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b6s1",
+            "text": "Another focus was on training, study and career paths in the healthcare sector. Numerous institutions provided information about professional perspectives in healthcare and gave interested visitors the opportunity to talk directly with experts. The Health Innovation University of Applied Sciences also presented its degree programmes in Digital Health, Health Education and Psychology and provided information about attractive career paths at the intersection of health, digitalisation and society.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en-b7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b7s1",
+            "text": "The first Health Day in Marzahn-Hellersdorf was therefore not only a day of information and activities, but also an important impulse for healthcare provision and cooperation in the district.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en-b8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b8s1",
+            "text": "A big thank you goes to all the companies, organisations, volunteers and contributors who made this day possible with such great commitment.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en-b9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en-b9s1",
+            "text": "The successful debut makes one thing clear: the Health Day on the Health Campus at ukb Berlin e. V. should not remain a one-off event!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de-b1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b1s1",
+            "text": "Mit vielen Besucherinnen und Besuchern, zahlreichen Mitmachangeboten und prominenter Unterstützung feierte der erste bezirksweite Gesundheitstag auf dem Gesundheitscampus am ukb in Berlin einen erfolgreichen Auftakt. Die Veranstaltung brachte Einrichtungen, Unternehmen, Initiativen und Interessierte aus dem Gesundheitsbereich zusammen und setzte ein starkes Zeichen für Prävention, Gesundheitsbildung und Vernetzung im Bezirk Marzahn-Hellersdorf.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de-b2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b2s1",
+            "text": "Besonders gefreut haben sich die Veranstalterinnen und Veranstalter über den Besuch von Kai Wegner, Regierender Bürgermeister von Berlin, Bezirksbürgermeisterin Nadja Zivkovic sowie Bezirksstadtrat Gordon Lemm, der die Schirmherrschaft für den Gesundheitstag übernommen hatte.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de-b3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b3s1",
+            "text": "Im Mittelpunkt standen vor allem die vielen persönlichen Begegnungen und Gespräche zwischen Besucherinnen und Besuchern, Gesundheitsakteuren, Ehrenamtlichen und Bildungseinrichtungen. Der Gesundheitstag zeigte eindrucksvoll, wie stark das Netzwerk im Bezirk bereits aufgestellt ist – und welches Potenzial in neuen Kooperationen und gemeinsamen Projekten steckt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de-b4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b4s1",
+            "text": "Das vielfältige Programm richtete sich an alle Generationen und verband Information, Prävention und Mitmachen. Besucherinnen und Besucher konnten unter anderem kostenlose Gesundheitschecks wahrnehmen, an Workshops zu Achtsamkeit, Atmung und mentaler Gesundheit teilnehmen oder sich zu Themen wie Pflege, Rückengesundheit, Arthrose und Zahngesundheit beraten lassen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de-b5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b5s1",
+            "text": "Auch Familien und Kinder kamen auf ihre Kosten: Mit Bewegungsparcours, Hüpfburg, Kinderschminken sowie Angeboten der THW-Jugend, der Freiwilligen Feuerwehr und des Deutschen Roten Kreuzes wurde Gesundheit spielerisch und praxisnah vermittelt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de-b6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b6s1",
+            "text": "Ein weiterer Schwerpunkt lag auf Ausbildung, Studium und Karrierewegen im Gesundheitswesen. Zahlreiche Einrichtungen informierten über berufliche Perspektiven im Gesundheitsbereich und boten Interessierten die Möglichkeit zum direkten Austausch. Auch die Health Innovation University of Applied Sciences stellte ihre Studiengänge in den Bereichen Digital Health, Gesundheitspädagogik und Psychologie vor und informierte über attraktive Karrierewege an der Schnittstelle von Gesundheit, Digitalisierung und Gesellschaft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de-b7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b7s1",
+            "text": "Der erste Gesundheitstag in Marzahn-Hellersdorf war damit nicht nur ein Informations- und Aktionstag, sondern auch ein wichtiger Impuls für die Gesundheitsversorgung und Zusammenarbeit im Bezirk.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de-b8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b8s1",
+            "text": "Ein großes Dankeschön gilt allen Unternehmen, Organisationen, Ehrenamtlichen und Beteiligten, die diesen Tag mit viel Engagement möglich gemacht haben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de-b9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de-b9s1",
+            "text": "Der erfolgreiche Auftakt macht deutlich: Der Gesundheitstag auf dem Gesundheitscampus am ukb Berlin e. V. soll keine einmalige Veranstaltung bleiben!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitstag-2026/title.jpg",
+    "alt": "Erster bezirksweiter Gesundheitstag in Marzahn-Hellersdorf auf dem Gesundheitscampus am ukb"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitstag-2026/gallery-1.jpg",
+      "alt": "Eindrücke vom Gesundheitstag 2026 in Marzahn-Hellersdorf"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitstag-2026/gallery-2.jpg",
+      "alt": "Eindrücke vom Gesundheitstag 2026 in Marzahn-Hellersdorf"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitstag-2026/gallery-3.jpg",
+      "alt": "Eindrücke vom Gesundheitstag 2026 in Marzahn-Hellersdorf"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitstag-2026/gallery-4.jpg",
+      "alt": "Eindrücke vom Gesundheitstag 2026 in Marzahn-Hellersdorf"
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/gesundheitstag-2026/gallery-5.jpg",
+      "alt": "Eindrücke vom Gesundheitstag 2026 in Marzahn-Hellersdorf"
+    }
+  ],
+  "publishDate": "2026-05-12T09:00:00.000Z",
+  "status": "published"
+}

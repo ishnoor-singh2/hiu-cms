@@ -1,0 +1,180 @@
+{
+  "_type": "news",
+  "_id": "news.physiotherapie-studieren-zu-besuch-in-der-faszinierenden-koerperwelten-ausstellung",
+  "slug": {
+    "_type": "slug",
+    "current": "physiotherapie-studieren-zu-besuch-in-der-faszinierenden-koerperwelten-ausstellung"
+  },
+  "title": {
+    "en": "Studying Physiotherapy – visiting the fascinating Body Worlds exhibition",
+    "de": "Physiotherapie studieren – zu Besuch in der faszinierenden Körperwelten Ausstellung"
+  },
+  "summary": {
+    "en": "Physiotherapy students from IB Hochschule visited the Body Worlds exhibition at Alexanderplatz in Berlin to deepen their knowledge of anatomy, physiology and biomechanics of the human body.",
+    "de": "Physiotherapie-Studierende der IB Hochschule besuchten die Körperwelten-Ausstellung am Alexanderplatz in Berlin, um ihre Kenntnisse in Anatomie, Physiologie und Biomechanik des menschlichen Körpers zu vertiefen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Berlin, 25 June 2023 – Students from the Physiotherapy cohort at IB Hochschule recently had the exciting opportunity to visit the Body Worlds exhibition at Alexanderplatz in Berlin. Under the expert guidance of lecturer Daniela Albrecht, they explored the exhibition in order to deepen their knowledge of anatomy, physiology and biomechanics of the human body.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The exhibition offered students a unique opportunity to observe the human body in its full complexity. With plastinated bodies and organs, they could experience the structures and functions of the body in a vivid way. From the muscles through the skeleton to the organs, the various aspects of human anatomy were presented in detail.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In our experience-oriented society, the body plays an ambivalent role. On the one hand it has lost importance because many work processes require less physical effort and social interactions increasingly take place in a disembodied way. On the other hand, we focus more and more on our body and intensively pursue body care, fitness, diets and cosmetic surgery. The desire for an ideal body is strongly developed and represents a new form of meaning-making.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "In addition, the exhibition was dedicated to the influence of today's eating habits on the body and the connection between stress and health. Students thus gained a comprehensive insight into the topic of health and the importance of a balanced work-life balance in our modern society.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The excursion to the Body Worlds exhibition proved extremely educational and inspiring for the aspiring physiotherapists. They were able to consolidate their knowledge and gain new insights that will be of great use to them in their future careers.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Berlin, 25. Juni 2023 – Studierende der Physiotherapie-Kohorte an der IB Hochschule hatten kürzlich die aufregende Gelegenheit, die Körperweltenausstellung am Alexanderplatz in Berlin zu besuchen. Unter der fachkundigen Führung von Hochschuldozentin Daniela Albrecht erkundeten sie die Ausstellung, um ihre Kenntnisse in Anatomie, Physiologie und Biomechanik des menschlichen Körpers zu vertiefen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Ausstellung bot den Studierenden eine einzigartige Möglichkeit, den menschlichen Körper in seiner ganzen Komplexität zu betrachten. Anhand von plastinierten Körpern und Organen konnten sie die Strukturen und Funktionen des Körpers auf anschauliche Weise erleben. Von den Muskeln über das Skelett bis hin zu den Organen wurden die verschiedenen Aspekte der menschlichen Anatomie detailliert präsentiert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "In unserer erlebnisorientierten Gesellschaft spielt der Körper eine ambivalente Rolle. Einerseits hat er an Bedeutung verloren, da viele Arbeitsprozesse weniger körperliche Anstrengung erfordern und soziale Interaktionen zunehmend körperlos stattfinden. Andererseits konzentrieren wir uns immer mehr auf unseren Körper und betreiben intensiv Körperpflege, Fitness, Diäten und Schönheitsoperationen. Der Wunsch nach einem idealen Körper ist stark ausgeprägt und repräsentiert eine neue Form der Sinngebung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Darüber hinaus widmete sich die Ausstellung auch dem Einfluss unserer heutigen Essgewohnheiten auf den Körper sowie dem Zusammenhang zwischen Stress und Gesundheit. Die Studierenden erhielten so einen umfassenden Einblick in das Thema Gesundheit und die Bedeutung einer ausgewogenen Work-Life-Balance in unserer modernen Gesellschaft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Exkursion zur Körperweltenausstellung erwies sich als äußerst lehrreich und inspirierend für die angehenden Physiotherapeuten. Sie konnten ihr Wissen festigen und neue Erkenntnisse gewinnen, die ihnen in ihrer zukünftigen Karriere von großem Nutzen sein werden.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/physiotherapie-studieren-zu-besuch-in-der-faszinierenden-koerperwelten-ausstellung/image_01.jpg",
+    "alt": "Studierende der IB Hochschule bei der Körperwelten Ausstellung in Berlin"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/physiotherapie-studieren-zu-besuch-in-der-faszinierenden-koerperwelten-ausstellung/image_02.jpg",
+      "alt": "Physiotherapie Studierende der IB Hochschule bei der Körperwelten Ausstellung"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/physiotherapie-studieren-zu-besuch-in-der-faszinierenden-koerperwelten-ausstellung/image_03.jpg",
+      "alt": "Physio-Kohorte bei der Körperwelten Ausstellung"
+    }
+  ],
+  "publishDate": "2023-07-10T09:00:00.000Z",
+  "status": "published"
+}

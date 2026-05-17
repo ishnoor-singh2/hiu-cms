@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.neue-praesidentin-und-vizepraesident",
+  "slug": {
+    "_type": "slug",
+    "current": "neue-praesidentin-und-vizepraesident-der-ib-hochschule-fuer-gesundheit-und-soziales-gewaehlt"
+  },
+  "title": {
+    "en": "New President and Vice-President of IB Hochschule für Gesundheit und Soziales elected",
+    "de": "Neue Präsidentin und Vizepräsident der IB Hochschule für Gesundheit und Soziales gewählt"
+  },
+  "summary": {
+    "en": "Prof. Dr. Mariam Hartinger was elected the new President of IB Hochschule für Gesundheit und Soziales in Berlin last Monday. The Academic Senate elected Prof. Hartinger for a five-year term.",
+    "de": "Prof. Dr. Mariam Hartinger wurde am vergangenen Montag zur neuen Präsidentin der IB Hochschule für Gesundheit und Soziales in Berlin gewählt. Der Akademische Senat wählte Prof. Hartinger für fünf Jahre."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Prof. Dr. Mariam Hartinger was elected new President of IB Hochschule für Gesundheit und Soziales in Berlin last Monday. The Academic Senate of IB Hochschule elected Prof. Hartinger for a five-year term. As a long-time professor at IB Hochschule, Prof. Hartinger has already served as head of the Logopaedics programme, full professorial representative and Vice-President for Research, bringing extensive knowledge in these areas.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "As new tasks and goals, the President sees further increasing IB Hochschule's visibility in studies, research and continuing education, as well as establishing new revenue streams. In addition, the establishment of an Institute for Digital Health is planned in order to bring research contracts in healthcare digitalisation to the university, and to develop the cooperation with Unfallkrankenhaus Berlin (ukb).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Prof. Dr. Axel Kowalski will assist her as new Vice-President starting 1 January 2022. Prof. Kowalski is a psychologist, head of the Master's programme in Psychology and has been teaching at the Cologne Study Centre since 2018, since 2020 as part of a 50% professorship. Together they will shape the future development of IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "On behalf of the university we warmly congratulate the new President and the new Vice-President and look forward to great cooperation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Words of thanks go to HdWM and to the Board of Internationaler Bund (IB), the provider of IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Prof. Dr. Mariam Hartinger wurde am vergangenen Montag zur neuen Präsidentin der IB Hochschule für Gesundheit und Soziales in Berlin gewählt. Der Akademische Senat der IB Hochschule wählte Prof. Hartinger für fünf Jahre. Als langjährige Professorin an der IB Hochschule war Prof. Hartinger bereits als Studiengangsleitung Logopädie, professorale Fachvertretung und als Vizepräsidentin für Forschung tätig und bringt somit umfassendes Wissen in diesen Bereichen mit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Als neue Aufgaben und Ziele sieht die Präsidentin den Bekanntheitsgrad der IB Hochschule in Studium, Forschung und Weiterbildung weiter zu steigern sowie neue Ertragssäulen zu etablieren. Außerdem ist die Gründung des Instituts für Digital Health geplant, um Forschungsaufträge in der Digitalisierung des Gesundheitswesens an die Hochschule zu bringen und die Kooperation mit dem Unfallkrankenhaus Berlin (ukb).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Zudem wird Prof. Dr. Axel Kowalski ihr als neuer Vizepräsident ab 01.01.2022 zur Seite stehen. Prof. Kowalski ist Psychologe, Studiengangsleiter des Masterstudiengangs Psychologie und lehrt seit 2018 am Studienzentrum Köln bzw. seit 2020 im Rahmen einer 50% Professur. Zusammen werden die beiden die Entwicklung der IB Hochschule künftig gestalten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Im Namen der Hochschule gratulieren wir der neuen Präsidentin und dem neuen Vizepräsidenten recht herzlich und wünschen uns eine tolle Zusammenarbeit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Dankesworte gehen an die HdWM und an den Vorstand des Internationalen Bundes (IB) Träger der IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/neue-praesidentin-und-vizepraesident-der-ib-hochschule-fuer-gesundheit-und-soziales-gewaehlt/image_01.jpg",
+    "alt": "Neues Präsidium der IB Hochschule"
+  },
+  "gallery": [],
+  "publishDate": "2021-12-17T09:00:00.000Z",
+  "status": "published"
+}

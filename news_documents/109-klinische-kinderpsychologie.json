@@ -1,0 +1,281 @@
+{
+  "_type": "news",
+  "_id": "news.klinische-kinderpsychologie-master",
+  "slug": {
+    "_type": "slug",
+    "current": "klinische-kinderpsychologie-im-master-psychologie"
+  },
+  "title": {
+    "en": "Focus on Clinical Child Psychology in the Master Psychology – professionally helping when young people suffer",
+    "de": "Schwerpunkt Klinische Kinderpsychologie im Master Psychologie – Professionell helfen, wenn junge Menschen leiden"
+  },
+  "summary": {
+    "en": "Clinical child psychology is dedicated to one of the most sensitive and at the same time most urgent areas of psychological care: supporting young people with mental burdens. In an interview, Prof. Dr. Sabine Arnold gives insights into her work.",
+    "de": "Die Klinische Kinderpsychologie widmet sich einem der sensibelsten und zugleich dringlichsten Bereiche der psychologischen Versorgung: der Unterstützung junger Menschen mit psychischen Belastungen. Im Interview gibt Prof. Dr. Sabine Arnold Einblicke in ihre Arbeit."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "What does a clinical child psychologist actually do – and what skills and competences are needed for this profession?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Clinical child psychology is dedicated to one of the most sensitive and at the same time most urgent areas of psychological care: supporting young people with mental burdens. In the interview, Prof. Dr. Sabine Arnold gives insights into her work, explains the importance of the focus area in the Master's programme Psychology at IB Hochschule – and makes clear why well-trained specialists are needed in this area more than ever.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Prof. Dr. Arnold, what moves you about clinical child psychology and why is this professional field particularly important today?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "\"The care of children and adolescents with mental suffering and disorders is very close to my heart as a psychologist and licensed child and adolescent psychotherapist. My goal is to reduce suffering and support young people to develop a life worth living. I specialise in the treatment of eating disorders, non-suicidal self-injurious behaviour and suicidality in adolescence. There is currently a great need: the prevalence of mental disorders is at a high level and continues to grow. At the same time there is a persistent undersupply in psychological and psychotherapeutic care. Psychological young talent with expertise in childhood and adolescence is therefore urgently sought.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "How is the specialisation \"Clinical Child Psychology\" structured in the Master's programme at IB Hochschule?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "\"The focus area Clinical Child Psychology in the Master's programme offers comprehensive theoretical and vocational qualification. Disorder-specific specialist knowledge of mental disorders in childhood and adolescence is taught – supplemented by sound knowledge of epidemiology, aetiology, psychological diagnostics, prevention and intervention, with practical exercises. Topics include early developmental disorders such as feeding, regulation and sleep disorders, ADHD, dissocial behavioural disorders, the autism spectrum, anxiety disorders, depression, eating disorders, developing personality disorders such as borderline, non-suicidal self-injurious behaviour and suicidality.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "What career perspectives open up for graduates with this focus area?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "\"Children and adolescents form a particularly worthy-of-protection part of our society. Prevention, counselling and treatment are more important today than ever – and exactly in these areas psychologists with appropriate specialisation are urgently needed: for the development, implementation and evaluation of prevention programmes for mental disorders in childhood and adolescence; for counselling of children, adolescents, parents and reference persons; for diagnostics of mental disorders and for the implementation of clinical interventions. Innovations and new thinking are also required – including against the background of digitalisation – to ensure adequate, comprehensive and future-proof care.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Interested? Find out more about the Master Psychology at our locations in Stuttgart and Berlin – and secure your study place for summer semester now.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Was macht eigentlich eine Klinische Kinderpsychologin – und welche Fähigkeiten und Kompetenzen braucht es für diesen Beruf?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Klinische Kinderpsychologie widmet sich einem der sensibelsten und zugleich dringlichsten Bereiche der psychologischen Versorgung: der Unterstützung junger Menschen mit psychischen Belastungen. Im Interview gibt Prof. Dr. Sabine Arnold Einblicke in ihre Arbeit, erklärt die Bedeutung des Schwerpunkts im Masterstudiengang Psychologie an der IB Hochschule – und macht deutlich, warum gut ausgebildete Fachkräfte in diesem Bereich heute mehr denn je gebraucht werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Frau Prof. Dr. Arnold, was bewegt Sie an der Klinischen Kinderpsychologie und warum ist dieses Berufsfeld heute besonders wichtig?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "„Die Versorgung von Kindern und Jugendlichen mit seelischem Leiden und psychischen Störungen liegt mir als Psychologin und approbierte Kinder- und Jugendlichenpsychotherapeutin sehr am Herzen. Mein Ziel ist es, Leid zu verringern und junge Menschen dabei zu unterstützen, ein lebenswertes Leben zu entwickeln. Ich bin auf die Behandlung von Essstörungen, nicht-suizidales selbstverletzendes Verhalten und Suizidalität im Jugendalter spezialisiert. Aktuell besteht ein großer Versorgungsbedarf: Die Prävalenz psychischer Störungen befindet sich auf einem hohen Niveau und nimmt weiter zu. Gleichzeitig besteht eine anhaltende Unterversorgung im psychologischen und psychotherapeutischen Bereich. Psychologischer Nachwuchs mit Expertise im Kindes- und Jugendalter wird daher dringend gesucht und gebraucht.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Wie ist die Spezialisierung „Klinische Kinderpsychologie\" im Masterstudium an der IB Hochschule aufgebaut?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "„Der Schwerpunkt Klinische Kinderpsychologie im Masterstudiengang bietet eine umfassende theoretische und berufspraktische Qualifikation. Vermittelt wird störungsspezifisches Fachwissen zu psychischen Störungen im Kindes- und Jugendalter – ergänzt durch fundierte Kenntnisse in Epidemiologie, Ätiologie, psychologischer Diagnostik, Prävention und Intervention, sowie entsprechende praktische Übungen. Behandelt werden u. a. frühe Entwicklungsstörungen wie Fütter-, Regulations- und Schlafstörungen, das Aufmerksamkeitsdefizit(hyperaktivitäts)syndrom (ADHS), dissoziale Verhaltensstörungen, das Autismus Spektrum, Angststörungen, Depression, Essstörungen, sich entwickelnde Persönlichkeitsstörungen wie Borderline, nicht-suizidales selbstverletzendes Verhalten sowie Suizidalität.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Welche beruflichen Perspektiven eröffnen sich Absolvent*innen mit diesem Schwerpunkt?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "„Kinder und Jugendliche bilden einen besonders schutzwürdigen Teil unserer Gesellschaft. Prävention, Beratung und Behandlung sind heute wichtiger denn je – und genau in diesen Bereichen werden Psycholog*innen mit entsprechender Schwerpunktsetzung dringend gebraucht: zur Entwicklung, Implementierung und Evaluation von Präventionsprogrammen psychischer Störungen; zur Beratung von Kindern, Jugendlichen, deren Eltern und Bezugspersonen; zur Diagnostik psychischer Störungen und zur Implementierung klinischer Interventionen. Innovationen und Neudenken sind gefragt – auch vor dem Hintergrund der Digitalisierung – um eine adäquate, umfassende und zukunftsfähige Versorgung zu gewährleisten.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Interessiert? Erfahre mehr über den Masterstudiengang Psychologie an unseren Standorten in Stuttgart und Berlin – und sichere dir jetzt deinen Studienplatz fürs Sommersemester.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/klinische-kinderpsychologie-im-master-psychologie/image_01.jpg",
+    "alt": "Clinical Child Psychology interview"
+  },
+  "gallery": [],
+  "publishDate": "2025-07-28T09:00:00.000Z",
+  "status": "published"
+}

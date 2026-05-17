@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.praesenz-infotag-ukb-digital-health-2023",
+  "slug": {
+    "_type": "slug",
+    "current": "praesenz-infotag-am-unfallkrankenhaus-berlin-ukb-fuer-digital-health"
+  },
+  "title": {
+    "en": "In-person Digital Health information day at Unfallkrankenhaus Berlin (ukb)",
+    "de": "Präsenz-Infotag am Unfallkrankenhaus Berlin (ukb) für Digital Health"
+  },
+  "summary": {
+    "en": "On 10 May an in-person information day was held at Unfallkrankenhaus Berlin (ukb) where prospective students could learn about the new Bachelor and Master Digital Health programmes from Prof. Schmehl and Prof. Lacour.",
+    "de": "Am 10. Mai fand am Unfallkrankenhaus Berlin (ukb) ein Präsenz-Infotag statt, bei dem Interessent*innen sich von Prof. Schmehl und Prof. Lacour über die Studiengänge Digital Health Bachelor und Master informieren konnten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 10 May an in-person information day was held in the Pathology lecture hall at Unfallkrankenhaus Berlin (ukb), where prospective students could learn about the two programmes Digital Health Bachelor and Master. The event was led by Prof. Schmehl and Prof. Lacour, who gave guests an insight into the content of the programmes.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "In the Bachelor's programme in Digital Health, students acquire fundamental knowledge in digital technologies, medicine and data protection. The focus is on the application of digital technologies in healthcare. Students engage with topics such as telemedicine, eHealth and human-technology interaction in medicine. After successfully completing their studies, graduates have numerous career opportunities in the healthcare industry.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In the Master Digital Health, students gain advanced knowledge in digital healthcare, artificial intelligence and digital transformation in healthcare. The Master's programme is aimed in particular at students who already have a Bachelor's degree in computer science, medicine or another relevant subject.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Overall, the information day at Unfallkrankenhaus Berlin (ukb) was a successful event that gave guests a comprehensive insight into the two programmes Digital Health Bachelor and Master. The presence of Prof. Schmehl and Prof. Lacour, as experts in this field, made it a valuable exchange. The next info day at ukb is already being planned and will take place on 22 June 2023.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 10. Mai fand am Unfallkrankenhaus Berlin (ukb) im Pathologie-Hörsaal ein Präsenz-Infotag statt, bei dem Interessentinnen und Interessenten sich über die beiden Studiengänge Digital Health Bachelor und Master informieren konnten. Die Veranstaltung wurde von Prof. Schmehl und Prof. Lacour geleitet, die den Gästen einen Einblick in die Inhalte der Studiengänge gaben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Bachelor Studiengang Digital Health erlernen die Studierenden grundlegende Kenntnisse in den Bereichen digitale Technologien, Medizin und Datenschutz. Dabei steht die Anwendung von digitalen Technologien im Gesundheitswesen im Fokus. Die Studierenden beschäftigen sich beispielsweise mit Themen wie Telemedizin, eHealth oder Mensch-Technik-Interaktion in der Medizin. Nach dem erfolgreichen Abschluss des Studiums stehen den Absolventinnen und Absolventen zahlreiche Karrieremöglichkeiten in der Gesundheitsbranche offen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Im Master Digital Health studieren Sie weiterführende Kenntnisse in den Bereichen der digitalen Gesundheitsversorgung, künstliche Intelligenz oder digitale Transformation im Gesundheitswesen. Der Master-Studiengang Digital Health richtet sich vor allem an Studierende mit einem bereits abgeschlossenen Bachelor-Studium im Bereich Informatik, Medizin oder einem anderen relevanten Studiengang.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Insgesamt war der Infotag am Unfallkrankenhaus Berlin (ukb) eine gelungene Veranstaltung, die den Gästen einen umfassenden Einblick in die beiden Studiengänge Digital Health Bachelor und Master ermöglichte. Die Anwesenheit von Prof. Schmehl und Prof. Lacour, als Experten auf diesem Gebiet, machte sie zu einem wertvollen Erfahrungsaustausch. Der nächste Infotag am ukb ist bereits in Planung und wird am 22.06.2023 stattfinden.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/praesenz-infotag-am-unfallkrankenhaus-berlin-ukb-fuer-digital-health/image_01.jpg",
+    "alt": "Studiengang Digital Health am ukb"
+  },
+  "gallery": [],
+  "publishDate": "2023-05-11T09:00:00.000Z",
+  "status": "published"
+}

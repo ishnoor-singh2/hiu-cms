@@ -1,0 +1,85 @@
+{
+  "_type": "news",
+  "_id": "news.einladung-zum-zweiten-teil-der-interaktiven-vortragsreihe",
+  "slug": {
+    "_type": "slug",
+    "current": "einladung-zum-zweiten-teil-der-interaktiven-vortragsreihe"
+  },
+  "title": {
+    "en": "Invitation to the second part of the interactive lecture series",
+    "de": "Einladung zum zweiten Teil der interaktiven Vortragsreihe"
+  },
+  "summary": {
+    "en": "The second session of the lecture series \"Psychosocial support for people with refugee experience\" takes place on 21 September 2022 from 6 to 8 p.m. All IB Hochschule students and external participants are warmly invited.",
+    "de": "Der zweite Termin der Vortragsreihe „Psychosoziale Unterstützung für Menschen mit Fluchterfahrung\" ist am 21. September 2022 von 18 bis 20 Uhr. Alle Studierenden der IB Hochschule und auch externe Interessierte sind herzlich eingeladen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The second session of the lecture series \"Psychosocial support for people with refugee experience\" takes place on 21 September 2022 from 6 to 8 p.m. All IB Hochschule students as well as external interested parties are warmly invited. Please note the date and register at the following link.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Wednesday 21.09.2022, 6 – 8 p.m.\nTopic 1: Psychosocial support for people with refugee experience – tools for teaching and practice from the European project (InterAct) (Sarah Scheer)\nTopic 2: Everyday communication when working with affected persons – an exchange for professionals and volunteers (Prof. Dr. Axel Kowalski)\nSpeakers: Sarah Scheer, Prof. Dr. Axel Kowalski\nWith the participation of IB Mitte, Schule für Logopädie Leipzig, on the topic of mutism due to traumatisation.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der zweite Termin der Vortragsreihe Psychosoziale Unterstützung für Menschen mit Fluchterfahrung ist am 21.09.2022 von 18 bis 20 Uhr. Alle Studierenden der IB Hochschule, aber auch Interessierte von extern sind herzlich dazu eingeladen. Bitte notieren Sie sich den Termin und melden sich unter dem folgenden Link an.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mittwoch 21.09.2022 von 18 – 20 Uhr\nThema 1: Psychosoziale Unterstützung für Menschen mit Fluchterfahrung – Tools für die Lehre und Praxis aus dem europäischen Projekt (InterAct) (Sarah Scheer)\nThema 2: Alltagskommunikation im Umgang mit Betroffenen – ein Austausch für Fachkräfte und Ehrenamtliche (Prof. Dr. Axel Kowalski)\nReferent*innen: Sarah Scheer, Prof. Dr. Axel Kowalski\nUnter Beteiligung der IB Mitte, Schule für Logopädie Leipzig, zum Thema Mutismus aufgrund von Traumatisierung.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/einladung-zum-zweiten-teil-der-interaktiven-vortragsreihe/image_01.jpg",
+    "alt": "Lecture series on psychosocial support"
+  },
+  "gallery": [],
+  "publishDate": "2022-09-15T09:00:00.000Z",
+  "status": "published"
+}

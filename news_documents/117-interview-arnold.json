@@ -1,0 +1,281 @@
+{
+  "_type": "news",
+  "_id": "news.interview-prof-dr-sabine-arnold-berufung",
+  "slug": {
+    "_type": "slug",
+    "current": "interview-prof-dr-sabine-arnold"
+  },
+  "title": {
+    "en": "\"Psychologists with a specialisation in childhood and adolescence are urgently needed\" – Prof. Dr. Arnold on her motivation and career",
+    "de": "„Psycholog*innen mit Spezialisierung auf das Kindes- und Jugendalter werden dringend gebraucht\" – Prof. Dr. Arnold über ihre Motivation und ihren Werdegang"
+  },
+  "summary": {
+    "en": "After teaching at IB Hochschule since last autumn, Prof. Dr. Sabine Arnold has now been officially appointed Professor of Applied Psychology. She gives insights into her career, motivation and vision for teaching.",
+    "de": "Nachdem Prof. Dr. Sabine Arnold bereits seit dem vergangenen Herbst an der IB Hochschule in der Lehre gestartet ist, wurde sie nun offiziell zur Professorin für Angewandte Psychologie berufen. Im Interview gibt sie Einblicke in ihren Werdegang, ihre Motivation und ihre Vision für die Lehre."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "After Prof. Dr. Sabine Arnold has been teaching at IB Hochschule since last autumn, she has now officially been appointed Professor of Applied Psychology. On the occasion of her appointment she gave us exciting insights into her career, her motivation and her vision for teaching in an interview.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Congratulations on your appointment! Frau Arnold, can you tell us about your professional qualification and career?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "\"Many thanks for the warm welcome! I am very pleased – and it is an honour for me – to take up the professorship for Applied Psychology at IB Hochschule Berlin. I am a doctorate-trained psychologist and licensed child and adolescent psychotherapist with my own practice in Berlin Friedenau. My profession is very close to my heart and I want to contribute to good psychotherapeutic care of young people with mental suffering – through research, practice and teaching.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Already in my youth I wanted to study psychology to better understand the thinking, feeling and acting of people – with the overarching goal of ultimately being able to help adequately and reduce mental suffering. I had the opportunity to do my Bachelor in Psychology at the University of Trier – I had a great study time then which I would not want to miss – and my Master of Science in Psychology at the University of Konstanz on beautiful Lake Constance.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "During my Master's studies, I had the opportunity to do a research stay at the University of California, Davis, USA. I was active in clinical research there and conducted a project on mental suffering and suicidality against the background of minority stress and identity development. During this time, I gained specialist, personal and cultural experiences that enriched and shaped me lastingly.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "After my psychology studies, I worked as a research associate in the Department of Clinical Psychology and Psychotherapy at the University of Tübingen. There I had the opportunity to research early perceptual processes in patients with eating disorders by means of EEG. Ten years ago Berlin called me, where I completed my postgraduate training as a child and adolescent psychotherapist at the Centre for Mental Health of FU Berlin. In parallel I did my doctorate at Charité – Universitätsmedizin Berlin on self-injury, suicidality and eating disorders in adolescence. At Charité I was initially in the specialist consultation for eating disorders and later in research and teaching. A few years ago I set up in my own psychotherapeutic practice – and am now additionally at IB Hochschule, which I am very pleased about!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "What inspires you most about your professorship at IB Hochschule?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "\"I am heart and soul – or perhaps better said: heart and mind – a psychologist and psychotherapist. It is a great and sincere concern for me to pass on my expertise to psychological young talent. As a child and adolescent psychotherapist, I am particularly happy to be able to teach the Clinical Child Psychology module. I want to pass on extensive specific psychological specialist knowledge to my students, combine complex theoretical knowledge with vocational skills, so that my students can learn with joy and ease and develop into competent experts.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Many thanks for the interesting insights and the conversation, Frau Arnold! Welcome again as Professor at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Nachdem Prof. Dr. Sabine Arnold bereits seit dem vergangenem Herbst an der IB Hochschule in der Lehre gestartet ist, wurde sie nun offiziell zur Professorin für Angewandte Psychologie berufen. Anlässlich ihrer Berufung hat sie uns im Interview spannende Einblicke in ihren Werdegang, ihre Motivation und ihre Vision für die Lehre gegeben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Herzlichen Glückwunsch zu Ihrer Berufung! Frau Arnold, könnten Sie uns etwas über Ihre berufliche Qualifikation und Ihren Werdegang erzählen?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "„Vielen Dank für die herzliche Begrüßung! Ich freue mich sehr – und es ist mir eine Ehre – die Professur für Angewandte Psychologie an der IB Hochschule Berlin antreten zu dürfen. Ich bin promovierte Psychologin und approbierte Kinder- und Jugendlichenpsychotherapeutin mit eigener Praxis in Berlin Friedenau. Mein Beruf liegt mir sehr am Herzen und ich möchte zu einer guten psychotherapeutischen Versorgung junger Menschen mit seelischem Leiden beitragen – durch Forschung, Praxis und Lehre.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Bereits in meiner Jugend wollte ich Psychologie studieren, um das Denken, Fühlen und Handeln von Menschen besser zu verstehen – mit dem übergeordneten Ziel, letztendlich adäquat helfen und seelisches Leiden verringern zu können. Ich hatte die Möglichkeit an der Universität Trier meinen Bachelor in Psychologie zu machen – ich hatte damals eine tolle Studienzeit, die ich nicht missen möchte – und an der Universität Konstanz am schönen Bodensee den Master of Science in Psychologie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Während meines Masterstudiums hatte ich die Gelegenheit zu einem Forschungsaufenthalt an der University of California, Davis, USA. Ich war dort in der klinischen Forschung tätig und habe ein Projekt zu seelischem Leiden und Suizidalität vor dem Hintergrund von minority stress und Identitätsentwicklung durchgeführt. In dieser Zeit konnte ich fachliche, persönliche und kulturelle Erfahrungen sammeln, die mich nachhaltig bereicherten und geprägt haben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Nach meinem Psychologiestudium war ich als wissenschaftliche Mitarbeiterin in der Abteilung für Klinische Psychologie und Psychotherapie an der Universität Tübingen tätig. Dort hatte ich die Möglichkeit, frühe Wahrnehmungsprozesse bei Patientinnen mit Essstörungen mittels EEG zu erforschen. Vor zehn Jahren zog es mich dann nach Berlin, wo ich meine postgraduale Ausbildung zur Kinder- und Jugendlichenpsychotherapeutin am Zentrum für Seelische Gesundheit der Freien Universität Berlin absolvierte. Parallel dazu promovierte ich an der Charité – Universitätsmedizin Berlin zu den Themen Selbstverletzung, Suizidalität und Essstörungen im Jugendalter. Vor ein paar Jahren habe ich mich in eigener psychotherapeutischer Praxis niedergelassen – und bin nun zusätzlich auch an der IB Hochschule, worüber ich mich sehr freue!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Was inspiriert Sie am meisten an Ihrer Professur an der IB Hochschule?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "„Ich bin mit Herz und Seele – oder vielleicht besser gesagt: mit Herz und Verstand – Psychologin und Psychotherapeutin. Es ist mir ein großes und aufrichtiges Anliegen, meine Expertise an den psychologischen Nachwuchs weiterzugeben. Als Kinder- und Jugendlichenpsychotherapeutin freue ich mich ganz besonders, das Modul Klinische Kinderpsychologie lehren zu dürfen. Ich möchte umfangreiches spezifisches psychologisches Fachwissen an meine Studierenden weitergeben.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Frau Arnold, vielen Dank für die interessanten Einblicke und das Gespräch! Ich begrüße Sie noch einmal herzlich als Professorin an der IB Hochschule.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/interview-prof-dr-sabine-arnold/image_01.jpg",
+    "alt": "Prof. Dr. Sabine Arnold interview"
+  },
+  "gallery": [],
+  "publishDate": "2025-06-16T09:00:00.000Z",
+  "status": "published"
+}

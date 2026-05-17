@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.ib-hochschule-auf-der-dmea-2023",
+  "slug": {
+    "_type": "slug",
+    "current": "die-ib-hochschule-fuer-gesundheit-und-soziales-wird-auf-der-dmea-2023-vertreten-sein"
+  },
+  "title": {
+    "en": "IB Hochschule für Gesundheit und Soziales will be present at DMEA 2023",
+    "de": "Die IB Hochschule für Gesundheit und Soziales wird auf der DMEA 2023 vertreten sein"
+  },
+  "summary": {
+    "en": "The DMEA 2023 congress programme is set. At Europe's biggest digital health trade fair, more than 200 national and international speakers and exhibitors – including IB Hochschule – will present their vision for the digitalisation of healthcare.",
+    "de": "Das Kongressprogramm der DMEA 2023 steht fest. Auf der größten Digital-Health-Messe Europas präsentieren mehr als 200 nationale und internationale Speaker und Aussteller ihre Vision der Digitalisierung des Gesundheitswesens – darunter auch die IB Hochschule."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The DMEA 2023 congress programme is set. At Europe's largest digital health trade fair, more than 200 national and international speakers and exhibitors will present their vision for the digitalisation of healthcare, including IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "From 25 to 27 April 2023, the Berlin exhibition grounds will be all about the digitalisation of healthcare. On several DMEA stages, topics of digitalisation such as the electronic patient record (ePA), e-prescriptions, telemedicine, interoperability and the digitalisation strategy for healthcare will be discussed. Many of these topics are also part of the new programmes Digital Health B.Sc. and Digital Health M.Sc. at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Prof. Dr. Mariam Hartinger will present these in the session \"Studying Digital Health in the capital region\". \"It is a great honour for us to present our new Digital Health programmes at DMEA and in a joint event alongside the Hasso-Plattner Institute,\" says Prof. Hartinger.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "And the Digital Health team will also be represented at the fair. Prof. Philipp Lacour and Maria Krautz, together with study adviser Myrto Rompaki, will advise all interested parties on the new programme. The fair is free for trainees, school pupils and students. Anyone interested can register here.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "DMEA is Europe's central meeting point in the field of digital health – here decision-makers from all areas of healthcare come together: from IT specialists and doctors to leaders in hospitals and care, and experts from politics, business and science.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Copyright notice: © Messe Berlin GmbH",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Das Kongressprogramm der DMEA 2023 steht nun fest. Auf der größten Messe Europas für Digital Health präsentieren mehr als 200 nationale und internationale Speaker und Aussteller ihre Vision der Digitalisierung des Gesundheitswesens darunter auch die IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Vom 25. bis 27. April 2023 geht es auf dem Berliner Messegelände ausschließlich um die Digitalisierung des Gesundheitswesens. Auf mehreren Bühnen der DMEA werden die Themen der Digitalisierung, wie elektronische Patientenakte (ePA), eRezept, Telemedizin oder Interoperabilität bis hin zur Digitalisierungsstrategie für das Gesundheitswesen besprochen. Viele dieser Themen sind auch Inhalte der beiden neuen Studiengänge Digital Health B.Sc. und Digital Health M.Sc. der IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Prof. Dr. Mariam Hartinger wird diese in der Session „Digital Health studieren in der Hauptstadtregion\" vorstellen. „Es ist uns eine große Ehre, unsere neuen Studiengänge Digital Health auf der DMEA und in einer gemeinsamen Veranstaltung neben dem Hasso-Plattner-Institut präsentieren zu können.\", so Prof. Hartinger.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Und auch das Team aus dem Studiengang Digital Health wird auf der Messe vertreten sein. Prof. Philipp Lacour, Maria Krautz werden zusammen mit Studienberaterin Myrto Rompaki alle Interessent*innen zum neuen Studiengang beraten. Die Messe ist für Auszubildende, Schüler und Studierende kostenfrei. Wer sich also für die Themen interessiert, kann sich unter folgendem Link registrieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die DMEA ist Europas zentraler Treffpunkt in Sachen Digital Health – hier treffen Entscheider*innen aus sämtlichen Bereichen der Gesundheitsversorgung aufeinander – von IT-Fachleuten über Ärzt*innen, Führungskräfte aus Krankenhaus und Pflege, bis hin zu Expert*innen aus Politik, Wirtschaft und Wissenschaft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Copyright Vermerk: © Messe Berlin GmbH",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/die-ib-hochschule-fuer-gesundheit-und-soziales-wird-auf-der-dmea-2023-vertreten-sein/image_01.jpg",
+    "alt": "Digital Health "
+  },
+  "gallery": [],
+  "publishDate": "2023-04-06T09:00:00.000Z",
+  "status": "published"
+}

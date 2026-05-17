@@ -1,0 +1,337 @@
+{
+  "_type": "news",
+  "_id": "news.master-psychologie-berlin-stuttgart",
+  "slug": {
+    "_type": "slug",
+    "current": "der-master-psychologie-in-berlin-und-stuttgart"
+  },
+  "title": {
+    "en": "The Master Psychology in Berlin and Stuttgart – individually supervised and practice-oriented",
+    "de": "Der Master Psychologie in Berlin und Stuttgart – Individuell betreut und praxisnah"
+  },
+  "summary": {
+    "en": "The Master Psychology (M.Sc.) at IB Hochschule in Stuttgart or Berlin paves the way for diverse career paths. Three semesters, 90 ECTS, small groups – starting your future in psychology.",
+    "de": "Der Masterstudiengang Psychologie (M.Sc.) an der IB Hochschule in Stuttgart oder Berlin ebnet den Weg für verschiedenste Karrierewege im Fachgebiet. Drei Semester, 90 ECTS, kleine Gruppen – jetzt die Zukunft in der Psychologie starten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The Master Psychology (M.Sc.) at IB Hochschule für Gesundheit und Soziales in Stuttgart or Berlin paves the way for diverse career paths in the field.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Have you already thought about a Master in Psychology to take the next career step?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The Master Psychology (M.Sc.) is aimed at everyone who has a strong interest in clinically practical application fields of psychology and wants practice-oriented clinical teaching content. Graduates gain comprehensive theoretical knowledge as a basis for evidence-based clinical decisions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "With a duration of three semesters and 90 ECTS, the Master Psychology (M.Sc.) at IB Hochschule conveys in-depth insights into the scientific psychological foundations and their transfer to the clinical-psychological professional field. Particularly attractive about the programme are, besides individual supervision in small groups, the practice-oriented teaching methods and good research opportunities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Alongside focal points in teaching in the subjects of Clinical Psychology, Work and Organisational Psychology and Rehabilitation Psychology, the goal in the second semester is to acquire deeper knowledge in two of three further subjects.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Take advantage of this opportunity to deepen your knowledge and expand your professional perspectives! Start your future in psychology now!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Career perspectives after the Master",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Graduates of the Master Psychology programme have various career fields open to them, where they can work psychologically and in interdisciplinary teams, both inpatient in clinics and outpatient. Tasks include for example diagnostics of disorders of mental experience and behaviour. Counselling of those affected and/or their reference persons also belongs to it. But the field for Master Psychology graduates is even larger: in health psychology, gerontopsychology, school psychology, traffic psychology and economic psychology they are sought-after professionals. They work as police psychologists, legal psychologists or environmental psychologists.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Requirements for the programme",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "The Master programme is aimed at those interested with a basic scientific Psychology degree in which 210 ECTS points have been acquired. Missing ECTS can be made up in a Propaedeutic programme before the start of studies, so a side entrance from related subject areas is possible under certain conditions.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "More information about the programme is available here. For questions or interest, our study advisory service is happy to be at your disposal. Start your Psychology Master programme now, let us advise you and we will show you what possibilities are offered to you!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der Masterstudiengang Psychologie (M.Sc.) an der IB Hochschule für Gesundheit und Soziales in Stuttgart oder Berlin ebnet Ihnen den Weg für verschiedenste Karrierewege im Fachgebiet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Schon einmal über einen Master in Psychologie nachgedacht, um jetzt den nächsten Karriereschritt zu wagen?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Der Masterstudiengang Psychologie (M.Sc.) richtet sich an alle, die ein starkes Interesse an klinisch-praktischen Anwendungsfeldern der Psychologie haben und sich praxisnahe klinische Lehrinhalte wünschen. Die Absolvent*innen erlangen ein umfassendes Theoriewissen als Grundlage für evidenzbasierte klinische Entscheidungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Mit einer Dauer von drei Semestern und 90 ECTS vermittelt der Masterstudiengang Psychologie (M.Sc.) an der IB Hochschule vertiefende Einblicke in die wissenschaftlichen psychologischen Grundlagen und deren Transfer in das klinisch-psychologische Tätigkeitsfeld. Besonders attraktiv sind an dem Studiengang neben der individuellen Betreuung in kleinen Gruppen auch die praxisnahen Lehrmethoden und guten Forschungsmöglichkeiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Neben Schwerpunkten in der Lehre in den Fächern der klinischen Psychologie, Arbeits- und Organisationspsychologie und Rehabilitationspsychologie geht es im zweiten Fachsemester darum, in zwei von drei weiteren Fächern tiefere Kenntnisse zu erwerben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Nutzen Sie diese Chance, Ihr Wissen zu vertiefen und Ihre beruflichen Perspektiven zu erweitern! Starten Sie jetzt Ihre Zukunft in der Psychologie!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Berufsperspektiven nach dem Master",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Den Absolventen*innen des Masterstudiums Psychologie stehen verschiedene Berufsfelder offen, in denen sie psychologisch und in interdisziplinären Teams arbeiten können, sowohl stationär in Kliniken als auch ambulant. Auch in der Gesundheitspsychologie, Gerontopsychologie, Schulpsychologie, Verkehrspsychologie und Wirtschaftspsychologie sind sie gefragte Fachkräfte. Sie arbeiten als Polizeipsycholog*in, Rechtspsycholog*in oder Umweltpsycholog*in.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Voraussetzungen für das Studium",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Der Masterstudiengang richtet sich an Interessierte mit einem grundlegenden wissenschaftlichen Studium der Psychologie, in dem 210 ECTS-Punkte erworben wurden. Fehlende ECTS können in einem Propädeutikum vor dem Studienstart nachgeholt werden, sodass ein Quereinstieg aus verwandten Fachbereichen unter bestimmten Voraussetzungen möglich ist.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Mehr Informationen zum Studiengang finden Sie hier. Für Fragen oder bei Interesse steht Ihnen die Studienberatung gerne zur Verfügung. Starten Sie jetzt Ihr Psychologie Master Studium, lassen Sie sich von uns beraten und wir zeigen Ihnen welche Möglichkeiten sich Ihnen bieten!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/der-master-psychologie-in-berlin-und-stuttgart/image_01.jpg",
+    "alt": "Der Master Psychologie in Berlin oder Stuttgart"
+  },
+  "gallery": [],
+  "publishDate": "2025-02-24T09:00:00.000Z",
+  "status": "published"
+}

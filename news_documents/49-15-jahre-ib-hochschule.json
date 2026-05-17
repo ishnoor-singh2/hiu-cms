@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.wir-feiern-15-jahre-ib-hochschule",
+  "slug": {
+    "_type": "slug",
+    "current": "wir-feiern-15-jahre-ib-hochschule"
+  },
+  "title": {
+    "en": "We celebrate 15 years of IB Hochschule",
+    "de": "Wir feiern 15 Jahre IB Hochschule"
+  },
+  "summary": {
+    "en": "On 9 July 2007 the Berlin Senate Chancellery granted state recognition to \"IB Hochschule Berlin\". 15 years later, the IB-run private university looks back on a successful path with an expanded portfolio in healthcare and social affairs.",
+    "de": "Am 9. Juli 2007 erteilte die Senatskanzlei Berlin der „IB-Hochschule Berlin\" die staatliche Anerkennung. 15 Jahre später blickt die private Hochschule des Internationalen Bundes auf einen erfolgreichen Weg mit einem erweiterten Portfolio im Gesundheits- und Sozialbereich zurück."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Fifteen years ago today, on 9 July 2007, the Berlin Senate Chancellery granted state recognition to what was then known as \"IB-Hochschule Berlin\". The university of Internationaler Bund could thus start operations as a private university and began with its first cohort in Health Sciences as a part-time programme in winter semester 2007/2008.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "This programme was later converted into \"Applied Therapy Science\" and tailored to the three therapy professions of occupational therapy, physiotherapy and speech and language therapy. From the \"Pedagogical continuing education for medical professionals\", once located at the Institute for Continuing Education of IB Hochschule, the university developed the part-time programme \"Health Care Education / Gesundheitspädagogik\", which has since been expanded with a Master's programme. With this, nursing staff obtain the nationwide qualification required as a teacher.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "With tradition and strength in part-time programmes, also in niche programmes such as Medical Radiology Technology, IB Hochschule now also stands for an open-admission Bachelor and Master in Psychology. It has also enabled the testing of the so-called model clause for academisation of the therapy professions Physiotherapy, Occupational Therapy and Speech and Language Therapy since 2012 in two model phases including scientific support.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The renaming to \"IB Hochschule für Gesundheit und Soziales\" took place in October 2019.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Geared to the digital transformation of healthcare, IB Hochschule will expand its portfolio from winter semester 2022/23 with the Digital Health programmes (Bachelor / Continuing-education Master).",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Heute vor 15 Jahren, am 09.07.2007, erteilte die Senatskanzlei Berlin der damals so genannten „IB-Hochschule Berlin\" die staatliche Anerkennung. Somit konnte die Hochschule des Internationalen Bundes ihren Betrieb als private Hochschule aufnehmen und zum Wintersemester 2007/2008 mit dem ersten Kurs der Gesundheitswissenschaften im berufsbegleitenden Format starten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Dieser Studiengang wurde später in „Angewandte Therapiewissenschaft\" umgewandelt und auf die drei Therapieberufe Ergotherapie, Physiotherapie und Logopädie zugeschnitten. Aus der „Pädagogischen Weiterbildung für Medizinalfachberufe\", einst angesiedelt am Institut für Weiterbildung der IB Hochschule, entwickelte die IB Hochschule den berufsbegleitenden Studiengang „Health Care Education / Gesundheitspädagogik\", der mittlerweile um ein Masterprogramm erweitert wurde. Mit diesem erlangen Pflegekräfte die bundesweit notwendige Qualifikation als Lehrkraft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Mit Tradition und Stärke in berufsbegleitenden Studiengängen, auch in Nischenstudiengängen wie der Medizinischen Radiologietechnologie, steht die IB Hochschule mittlerweile auch für NC-freies Studium der Psychologie im Bachelor und Masterbereich. Zudem hat sie die Erprobung der sogenannten Modellklausel zur Akademisierung der Therapieberufe Physiotherapie, Ergotherapie und Logopädie seit 2012 in zwei Modellphasen inklusive wissenschaftlicher Begleitung ermöglicht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Der Namenswechsel zur „IB Hochschule für Gesundheit und Soziales\" erfolgte im Oktober 2019.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Ausgerichtet auf die digitale Transformation des Gesundheitswesens erweitert die IB Hochschule ab dem Wintersemester 2022/23 ihr Portfolio um die Studiengänge Digital Health (Bachelor / Weiterbildungsmaster).",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wir-feiern-15-jahre-ib-hochschule/image_01.jpg",
+    "alt": "15 years IB Hochschule"
+  },
+  "gallery": [],
+  "publishDate": "2022-07-09T09:00:00.000Z",
+  "status": "published"
+}

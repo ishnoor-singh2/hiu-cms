@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.unterstuetzung-fuer-gefluechtete",
+  "slug": {
+    "_type": "slug",
+    "current": "unterstuetzung-fuer-gefluechtete"
+  },
+  "title": {
+    "en": "Support for refugees",
+    "de": "Unterstützung für Geflüchtete"
+  },
+  "summary": {
+    "en": "In Berlin alone, around 10,000 refugees arrive every day at Berlin Central Station. IB Hochschule's President Prof. Dr. Mariam Hartinger calls on the university community to show solidarity and explore ways to support refugees.",
+    "de": "Allein in Berlin erreichen täglich ca. 10.000 Geflüchtete den Berliner Hauptbahnhof. Die Präsidentin der IB Hochschule, Prof. Dr. Mariam Hartinger, ruft die Hochschulgemeinschaft auf, Solidarität zu zeigen und Wege zur Unterstützung Geflüchteter zu finden."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "In Berlin alone, the seat of IB Hochschule für Gesundheit und Soziales, around 10,000 refugees arrive at Berlin Central Station every day.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "How much fruit do 10,000 people need after days of flight? How many of them have fallen silent and need psychosocial support, perhaps even speech and language therapy, to professionally treat the trauma-induced speech disorder known as mutism? In addition to specialist expertise from our study and research areas, such as Applied Psychology or Logopaedics, the university has for years been concerned with the needs of refugees in the context of the InterAct project together with international consortium partners. More information is available here: https://www.ib-hochschule.de/ueber-uns/internationales/interakt/",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We can all support in various ways.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Despite the corona pandemic and difficult study conditions that have made social togetherness more difficult in the past two years, our solidarity is now needed. Think together about how you can support; talk to friends and neighbours. Every idea and activity, no matter how small, counts! We thank you warmly for this.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Prof. Dr. Mariam Hartinger, President",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Allein in Berlin, dem Sitz der IB Hochschule für Gesundheit und Soziales, erreichen täglich ca. 10.000 Geflüchtete den Berliner Hauptbahnhof.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wie viel Obst brauchen 10.000 Menschen nach Tagen der Flucht? Wie viele von ihnen sind verstummt und brauchen psycho-soziale Unterstützung, vielleicht sogar Logopädie, um die mit Mutismus bezeichnete, durch traumatische Ereignisse hervorgerufene Sprachstörung, professionell zu behandeln? Neben der fachlichen Expertise aus unseren Studien- und Forschungsgebieten, wie beispielsweise der Angewandten Psychologie oder der Logopädie befasst sich die Hochschule im Rahmen des Projektes InterAct gemeinsam mit internationalen Verbundpartnern seit Jahren im Bereich der Forschung mit den Bedarfen Geflüchteter. Weitere Informationen dazu finden Sie hier: https://www.ib-hochschule.de/ueber-uns/internationales/interakt/",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir alle können auf verschiedene Weise unterstützen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Trotz Corona-Pandemie und schwierigen Studienbedingungen, die ein soziales Miteinander in den vergangenen zwei Jahren erschwert haben, jetzt ist unser aller Solidarität gefragt. Überlegen Sie gemeinsam, wie Sie unterstützen können, kommen Sie mit Freunden und Nachbarn ins Gespräch. Jede noch so kleine Idee und Aktivität zählt! Dafür danken wir Ihnen herzlich!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Prof. Dr. Mariam Hartinger, Präsidentin",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/unterstuetzung-fuer-gefluechtete/image_01.jpeg",
+    "alt": "Support for refugees"
+  },
+  "gallery": [],
+  "publishDate": "2022-03-07T09:00:00.000Z",
+  "status": "published"
+}

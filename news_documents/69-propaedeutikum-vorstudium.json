@@ -1,0 +1,281 @@
+{
+  "_type": "news",
+  "_id": "news.propaedeutikum-vorstudium-2021",
+  "slug": {
+    "_type": "slug",
+    "current": "unser-propaedeutikum-ein-passgenaues-einsemestriges-vorstudium"
+  },
+  "title": {
+    "en": "Our preparatory programme – a tailored one-semester preparatory study",
+    "de": "Unser Propädeutikum – ein passgenaues, einsemestriges Vorstudium"
+  },
+  "summary": {
+    "en": "Well prepared for the Master Health Education and Educational Management. IB Hochschule offers all interested parties for the M.A. Health Education and Educational Management a preparatory programme in summer semester 2021.",
+    "de": "Gut vorbereitet zum Masterstudiengang Gesundheitspädagogik und Bildungsmanagement. Die IB Hochschule bietet allen Interessierten für den Masterstudiengang Gesundheitspädagogik und Bildungsmanagement (M.A.) dieses Sommersemester ein Propädeutikum an."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Well prepared for the Master's programme Health Education and Educational Management",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "IB Hochschule für Gesundheit und Soziales offers everyone interested in the Master's programme Health Education and Educational Management (M.A.) a preparatory programme this summer semester.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "This is for those who already teach at health schools and are interested in pedagogical continuing education, or for interested parties who want to start the Master Health Education and still need the required 30 ECTS in the pedagogical area.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The preparatory programme contains various pedagogical modules at Bachelor level and meets the legal requirements.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The target group is all university graduates from the reference disciplines of nursing, health and therapy sciences or vocational pedagogy, medical, nursing and health education (lecturers at vocational schools for healthcare) as well as other related disciplines (e.g. health sociology, emergency management, etc.) who are trained and working in a healthcare, nursing or therapy profession.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Admission requirement for the Master's programme is 210 ECTS. If you have a Bachelor's degree in one of the above-mentioned areas with 180 ECTS and the required 30 ECTS for admission to the Master's programme are still missing, then the preparatory programme is exactly right for you.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Start for summer semester 2021 is May; the exact dates can be found in our info sheet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Contact Sarah Scheer, research associate of the Master's Health Education / Educational Management programme, or our study adviser Franziska Granzow:\nSarah Scheer: sarah.scheer@hi-university.de, phone: 030 259 30 92 17\nFranziska Granzow: studienberatung@hi-university.de, phone: 030 259 30 92 47",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "Further information is also available on our website under the overview of the Master's programme.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Gut vorbereitet zum Masterstudiengang Gesundheitspädagogik und Bildungsmanagement",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales bietet allen Interessierten für den Masterstudiengang Gesundheitspädagogik und Bildungsmanagement (M. A.) dieses Sommersemester ein Propädeutikum an.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Das ist für diejenigen, die bereits an Gesundheitsfachschulen lehren und Interesse an einer pädagogischen Weiterbildung haben oder Interessierte, die in den Master Gesundheitspädagogik starten wollen und dafür noch die erforderlichen 30 ECTS im pädagogischen Bereich brauchen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Das Propädeutikum beinhaltet verschiedene pädagogische Module auf Bachelorlevel und entspricht den gesetzlichen Vorgaben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Zielgruppe sind alle Hochschulabsolvent*innen aus den Bezugsdisziplinen der Pflege-, Gesundheits- und Therapiewissenschaften oder der Berufspädagogik, Medizin-, Pflege- und Gesundheitspädagogik (Lehrende an Berufsfachschulen des Gesundheitswesens) sowie weiterer verwandter Fachdisziplinen (z. B. Gesundheitssoziologie, Notfallmanagement etc.), die in einem Gesundheits-, Pflege- bzw. Therapiefachberuf ausgebildet und berufstätig sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Zulassungsvoraussetzung für das Masterstudium sind 210 ECTS. Haben Sie einen Bachelorabschluss in einem der oben genannten Bereiche mit 180 ECTS und es fehlen Ihnen für die Zulassung zum Masterstudium noch die erforderlichen 30 ECTS? Dann ist das Propädeutikum genau das Richtige für Sie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Starttermin für das Sommersemester 2021 ist Mai, die genauen Termine finden Sie in unserem Infoblatt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Melden Sie sich direkt bei Sarah Scheer, wissenschaftliche Mitarbeiterin des Masterstudiengangs Gesundheitspädagogik/ Bildungsmanagement, oder unserer Studienberaterin Franziska Granzow:\nSarah Scheer: sarah.scheer@hi-university.de, Telefon: 030 259 30 92 17\nFranziska Granzow: studienberatung@hi-university.de, Telefon: 030 259 30 92 47",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Weitere Informationen finden Sie auch auf unserer Website unter der Übersicht zum Masterstudiengang.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/unser-propaedeutikum-ein-passgenaues-einsemestriges-vorstudium/image_01.jpg",
+    "alt": "Propädeutikum zum Masterstudiengang "
+  },
+  "gallery": [],
+  "publishDate": "2021-03-22T09:00:00.000Z",
+  "status": "published"
+}

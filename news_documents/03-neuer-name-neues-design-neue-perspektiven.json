@@ -1,0 +1,309 @@
+{
+  "_type": "news",
+  "_id": "news.neuer-name-neues-design-neue-perspektiven",
+  "slug": {
+    "_type": "slug",
+    "current": "neuer-name-neues-design-neue-perspektiven"
+  },
+  "title": {
+    "en": "New name, new design and new perspectives for the future of health education",
+    "de": "Neuer Name, neues Design und neue Perspektiven für die Zukunft der Gesundheitsbildung"
+  },
+  "summary": {
+    "en": "IB Hochschule für Gesundheit und Soziales now operates under a new name: Health Innovation University of Applied Sciences (HIU). The renaming comes with a new brand identity, a new website, a new building on the Health Campus in Berlin and a strategic focus on international healthcare.",
+    "de": "Die IB Hochschule für Gesundheit und Soziales tritt ab sofort unter neuem Namen auf: Health Innovation University of Applied Sciences (HIU). Der Namenswechsel geht einher mit einem neuen Markenauftritt, einer neuen Website, einem neuen Gebäude auf dem Gesundheitscampus in Berlin und einer strategischen Ausrichtung auf internationales Gesundheitswesen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Berlin, March 2026 – IB Hochschule für Gesundheit und Soziales now operates under a new name: Health Innovation University of Applied Sciences (HIU). With the renaming, the state-recognised university is positioning itself decisively on the international stage and sharpening its focus on the future of healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The new name reflects what has shaped the university since its founding in 2007 – and will be even more central going forward: innovation in healthcare. While the previous name was primarily understood in German-speaking countries, \"Health Innovation University\" provides international clarity and visibility. Until mid-2025 the university was part of the Internationaler Bund (IB) and, following the change of operator, has belonged to the Global Education Network Group (GEN Group).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "\"The new name is more than a rebranding – it stands for our clear vision of an internationally oriented university that actively shapes innovation in healthcare. At the same time, our aspiration remains unchanged: with all the technological development, we must not lose sight of the human being,\" says President Prof. Dr. Mariam Hartinger. \"That is exactly what our guiding principle stands for: Seeing the human being.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The new brand identity also includes a modern logo, a contemporary design and a completely new website. It will go live on 1 April 2026 and digitally reflect the university's international orientation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Also on 1 April 2026, the university will move into a new building on the Health Campus of Unfallkrankenhaus Berlin (ukb). This strengthens its close ties to practice and creates optimal conditions for teaching, research and cooperation in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "In terms of content, the university remains true to its established profile: degree programmes, accreditations and qualifications remain unchanged. At the same time, HIU is expanding its portfolio in a targeted way – including with new, internationally oriented programmes in areas such as Digital Health and Health Education and Psychology.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "With the new name and strategic realignment, the university pursues a clear vision: an internationally networked university that trains professionals for the global challenges in healthcare and combines innovation with a clear focus on people.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "\"New name. Proven quality. New perspectives.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "New address:\nHealth Innovation University of Applied Sciences\nBrebacher Weg 15, Haus 2\n12683 Berlin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "New website: www.hi-university.de",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Berlin, März 2026 – Die IB Hochschule für Gesundheit und Soziales tritt ab sofort unter einem neuen Namen auf: Health Innovation University of Applied Sciences (HIU). Mit dem Namenswechsel positioniert sich die staatlich anerkannte Hochschule konsequent international und richtet ihren Fokus noch stärker auf die Zukunft des Gesundheitswesens.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Der neue Name steht für das, was die Hochschule seit ihrer Gründung im Jahr 2007 prägt – und künftig noch stärker in den Mittelpunkt rückt: Innovation im Gesundheitswesen. Während die bisherige Bezeichnung vor allem im deutschsprachigen Raum verständlich war, schafft „Health Innovation University\" internationale Klarheit und Sichtbarkeit. Die Hochschule war bis Mitte 2025 Teil des Internationalen Bundes (IB) und gehört seit dem Betreiberwechsel zur Global Education Network Group (GEN Group).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "„Der neue Name ist mehr als ein Rebranding – er steht für unsere klare Vision einer international ausgerichteten Hochschule, die Innovation im Gesundheitswesen aktiv gestaltet. Gleichzeitig bleibt unser Anspruch unverändert: Bei aller technologischen Entwicklung dürfen wir den Menschen nicht aus dem Blick verlieren\", sagt die Präsidentin der Hochschule Prof. Dr. Mariam Hartinger. „Genau dafür steht unser Leitgedanke: Den Menschen sehen.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Mit dem neuen Markenauftritt gehen auch ein modernes Logo, ein zeitgemäßes Design sowie eine vollständig neue Website einher. Diese wird zum 1. April 2026 live gehen und die internationale Ausrichtung der Hochschule digital sichtbar machen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Ebenfalls zum 1. April 2026 bezieht die Hochschule ein neues Gebäude auf dem Gesundheitscampus des Unfallkrankenhauses Berlin (ukb). Damit stärkt sie ihre enge Verbindung zur Praxis und schafft optimale Bedingungen für Lehre, Forschung und Zusammenarbeit im Gesundheitswesen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Inhaltlich bleibt die Hochschule ihrem bewährten Profil treu: Studiengänge, Akkreditierungen und Abschlüsse bleiben unverändert. Gleichzeitig baut die HIU ihr Portfolio gezielt aus – unter anderem mit neuen, international ausgerichteten Studienprogrammen in Bereichen wie Digital Health und Gesundheitspädagogik und Psychologie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Mit dem neuen Namen und der strategischen Neuausrichtung verfolgt die Hochschule eine klare Vision: eine international vernetzte Hochschule, die Fachkräfte für die globalen Herausforderungen im Gesundheitswesen ausbildet und Innovationen mit einem klaren Fokus auf den Menschen verbindet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "„Neuer Name. Bewährte Qualität. Neue Perspektiven.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Neue Adresse:\nHealth Innovation University of Applied Sciences\nBrebacher Weg 15, Haus 2\n12683 Berlin",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Neue Website: www.hi-university.de",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/press-release/Umzug Rebranding Logo Website.jpg",
+    "alt": "HIU Rebranding – Neuer Name, neues Design und neue Perspektiven"
+  },
+  "gallery": [],
+  "publishDate": "2026-03-01T09:00:00.000Z",
+  "status": "published"
+}

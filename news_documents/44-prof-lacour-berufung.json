@@ -1,0 +1,85 @@
+{
+  "_type": "news",
+  "_id": "news.herzlichen-glueckwunsch-zur-berufung-als-professor",
+  "slug": {
+    "_type": "slug",
+    "current": "herzlichen-glueckwunsch-zur-berufung-als-professor"
+  },
+  "title": {
+    "en": "Congratulations on the appointment as professor!",
+    "de": "Herzlichen Glückwunsch zur Berufung als Professor!"
+  },
+  "summary": {
+    "en": "With the handover of the appointment certificate, Dr. Philipp Lacour was officially appointed Professor today. The specialist in internal medicine and cardiology, also active at Charité Berlin, will be responsible for both the Bachelor's and Master's programmes in Digital Health at the Berlin location.",
+    "de": "Mit der Überreichung der Berufungsurkunde wurde Herr Dr. Philipp Lacour heute offiziell zum Professor ernannt. Der Facharzt für Innere Medizin und Kardiologie, der auch an der Charité Berlin tätig ist, wird sowohl für den Bachelor- als auch den Master-Studiengang Digital Health am Standort Berlin zuständig sein."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "With the handover of the appointment certificate, Dr. Philipp Lacour was officially appointed Professor today. The specialist in internal medicine and cardiology, who also works at Charité – Universitätsmedizin Berlin, will be responsible for both the Bachelor's and Master's Digital Health programmes at the Berlin location and will thus contribute to the progress of digitalisation in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "On behalf of IB Hochschule für Gesundheit und Soziales, we offer warm congratulations and look forward to a great collaboration!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Mit der Überreichung der Berufungsurkunde wurde Herr Dr. Philipp Lacour heute offiziell zum Professor ernannt. Der Facharzt für Innere Medizin und Kardiologie, ebenfalls tätig an der Charité – Universitätsmedizin Berlin, wird sowohl für den Bachelor- als auch den Master-Studiengang Digital Health am Standort Berlin zuständig sein und trägt so zum Fortschritt der Digitalisierung im Gesundheitswesen bei.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Namen der IB Hochschule für Gesundheit und Soziales gratulieren wir ganz herzlich und freuen uns auf eine tolle Zusammenarbeit!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/herzlichen-glueckwunsch-zur-berufung-als-professor/image_01.jpg",
+    "alt": "Appointment of Prof. Lacour"
+  },
+  "gallery": [],
+  "publishDate": "2023-01-10T09:00:00.000Z",
+  "status": "published"
+}

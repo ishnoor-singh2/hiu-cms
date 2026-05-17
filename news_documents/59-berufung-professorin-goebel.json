@@ -1,0 +1,85 @@
+{
+  "_type": "news",
+  "_id": "news.berufung-als-professorin-goebel",
+  "slug": {
+    "_type": "slug",
+    "current": "herzlichen-glueckwunsch-zur-berufung-als-professorin"
+  },
+  "title": {
+    "en": "Congratulations on the appointment as professor!",
+    "de": "Herzlichen Glückwunsch zur Berufung als Professorin!"
+  },
+  "summary": {
+    "en": "Since November 2021, Dr. Swantje Goebel has been part of the team of IB Hochschule für Gesundheit und Soziales, Faculty of Health and Social Sciences. She has now officially been appointed Professor.",
+    "de": "Seit November 2021 gehört Dr. Swantje Goebel zum Team der IB Hochschule für Gesundheit und Soziales, Fakultät Gesundheits- und Sozialwissenschaften. Nun wurde Frau Goebel offiziell zur Professorin ernannt."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Since November 2021, Dr. Swantje Goebel has been part of the team of IB Hochschule für Gesundheit und Soziales, Faculty of Health and Social Sciences. She has now officially been appointed Professor. The sociologist represents the teaching area of Health Education / Health Sciences / Public Health. On behalf of IB Hochschule we warmly congratulate and look forward to great cooperation!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Sociologist Swantje Goebel has been researching, lecturing and teaching health-related topics for more than 15 years, in particular on hospice work and palliative care. Since November 2021 she has been working with a 50% professorship at the Berlin Study Centre for the Health Education programme (B.A. & M.A.). In addition, Ms Goebel is part of the academy team of the Hospice Association Bergstraße e.V./South Hesse. Besides teaching, she is responsible there for the conceptual and didactic further development of educational work. Ms Goebel is also active on the board of the German Society for Patient Dignity (Deutsche Gesellschaft für Patientenwürde e.V.).",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Seit November 2021 gehört Dr. Swantje Goebel zum Team der IB Hochschule für Gesundheit und Soziales, Fakultät Gesundheits- und Sozialwissenschaften. Nun wurde Frau Goebel offiziell zur Professorin ernannt. Die Soziologin vertritt das Lehrgebiet Gesundheitspädagogik bzw. Gesundheitswissenschaften/Public Health. Im Namen der IB Hochschule gratulieren wir ganz herzlich und freuen uns auf eine tolle Zusammenarbeit!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Soziologin Swantje Goebel forscht, referiert und unterrichtet seit mehr als 15 Jahren zu gesundheitsbezogenen Themen, insbesondere zu Hospizarbeit und Palliative Care. Seit November 2021 ist sie mit einer 50%-Professur am Studienzentrum Berlin für den Studiengang Gesundheitspädagogik (B.A. & M.A.) tätig. Außerdem gehört Frau Goebel zum Akademieteam des Hospiz-Vereins Bergstraße e.V./Südhessen. Neben der Lehre ist sie dort für die konzeptionelle und didaktische Weiterentwicklung der Bildungsarbeit zuständig. Frau Goebel engagiert sich im Vorstand der Deutschen Gesellschaft für Patientenwürde e.V.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/herzlichen-glueckwunsch-zur-berufung-als-professorin/image_01.jpg",
+    "alt": "Ernennung zur Professorin"
+  },
+  "gallery": [],
+  "publishDate": "2021-12-08T09:00:00.000Z",
+  "status": "published"
+}

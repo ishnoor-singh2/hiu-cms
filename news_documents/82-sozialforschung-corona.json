@@ -1,0 +1,309 @@
+{
+  "_type": "news",
+  "_id": "news.sozialforschung-corona-gonaci",
+  "slug": {
+    "_type": "slug",
+    "current": "sozialforschung-an-der-ib-hochschule-fuer-gesundheit-und-soziales-in-zeiten-der-corona-pandemie"
+  },
+  "title": {
+    "en": "Social research at IB Hochschule für Gesundheit und Soziales in times of the corona pandemic",
+    "de": "Sozialforschung an der IB Hochschule für Gesundheit und Soziales in Zeiten der Corona-Pandemie"
+  },
+  "summary": {
+    "en": "Since June 2019 the HERA-funded research project GONACI (\"Governing the Narcotic City\") has been running at IB Hochschule's Berlin location. The corona pandemic significantly affects the project's fieldwork-based approach.",
+    "de": "Seit Juni 2019 läuft an der IB Hochschule am Standort Berlin das HERA-geförderte Forschungsprojekt GONACI („Governing the Narcotic City\"). Die Corona-Pandemie wirkt sich erheblich auf die feldforschungsbasierte Arbeit des Projekts aus."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Since the beginning of June 2019, a research project has been running under the umbrella of IB Hochschule at the Berlin location that, under the project title \"Governing the Narcotic City\" (GONACI), addresses diverse everyday forms of consumption, discourses and narratives of and about substances called \"drugs\". The project, funded by the humanities-oriented HERA research fund of the EU over three years, is being carried out by six research groups: in Amsterdam, in Copenhagen/Aarhus, in Bordeaux, at the Cultural Studies Institute (KWI) Essen/Duisburg, at the University of Erlangen and at IB Hochschule Berlin. The core areas of research include various case studies on contemporary and historical examples.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "More on this is available on our website: https://www.narcotic.city/",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "From the beginning, this methodologically/conceptually as well as thematically social- and cultural-science-oriented research project has understood itself as a discussion forum that wants to connect not only the perspectives from different countries and cities particularly associated with drug cultures, but also – through collaboration with civil society actors, initiatives, museums and professionals from the fields of public health/social work – to overcome the isolated discussion areas that have so far characterised the different fields of action and policy, not only on the topic of drugs.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Alongside building up a \"living archive\" – a place to collect various artefacts, social objects, narratives and other representations – direct exchange at events for the interested public and at workshops within the research project has been of central importance from the start.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "This beautiful, stimulating and complex research practice – and our further project planning – received a first heavy blow no later than the end of March in the wake of the corona pandemic and the associated travel warnings and entry bans: a project workshop in Amsterdam, prepared over several months, had to be cancelled, along with a series of exciting talks, museum tours, talk rounds and meetings with local actors and activists. Several lecture trips to international congresses were also cancelled. Internally, since then, we have been trying to maintain discussion and professional exchange as much as possible through regular online meetings. We try to stimulate the debate with our partners and interested groups through a current GONACI newsletter.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Nevertheless, in fact and in practice, almost all case studies are no longer feasible in their respective planned research designs. Direct contact with people, accompanying observation and the sensory grasp of concrete situations as well as being present at exciting places have a central importance in social science (field) research. All this is currently – if not made impossible by strict curfews such as those still in place in France at the end of May – impossible or at least very difficult.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Key questions: How can we still maintain contact and exchange with our research partners? How do we adapt our research methods, grounded in fieldwork and empirical cultural studies, to a situation whose end is also not foreseeable? How do we convey to funders the necessity of a revised project plan, not only with regard to time management but also with regard to the promised results/\"products\"?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "Like for a large part of the population, the GONACI project also faces a daily life shaped by the corona pandemic, alongside the project-internal challenges. All researchers of the Hera project work primarily as lecturers/professors and have for weeks been confronted with the practice of mobile work, contact restrictions and stricter lockdowns, homeschooling and concern for relatives, friends and themselves. The many necessary reorientations in everyday life mean that this time is not a comfortable period of contemplation, deep reading and reflection for us, but rather a massive increase in tasks of caring, organising, coping – in short, working. Our GONACI research project in the pandemic suffers above all from the lack of time and emotional space, from the difficulty of concentrating on the research topic and having the time available for it. This is, despite the diverse research focuses and everyday conditions also of the international colleagues, the clearest effect of the crisis!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "And so it applies here too, as in all other areas of life: there will be no simple return to (research) normality in the GONACI project either, and it is not yet foreseeable in which direction this liminal (research) journey will go! Or to end with a paraphrased quote by Antonio Gramsci: \"The old is dead, but the new has not yet been born! It is the time of monsters.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "Graphic \"Drugs Survey\" source: https://testing.surveycto.com/collect/lockdown042020\nSONAR – Safer Nightlife Berlin",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Seit Anfang Juni 2019 wird unter dem Dach der IB-Hochschule am Standort Berlin u.a. auch ein Forschungsprojekt durchgeführt, das sich unter dem Projekttitel „Governing the Narcotic City\" (GONACI) mit vielfältigen alltäglichen Konsumformen, Diskursen und Erzählungen von und über als „Drogen\" bezeichnete Substanzen beschäftigt. Das von dem humanities orientierten HERA-Forschungsfond der EU über drei Jahre finanzierte Projekt wird von insgesamt sechs Forschergruppen bearbeitet, die jeweils in Amsterdam, in Kopenhagen/Aarhus, in Bordeaux, am Kulturwissenschaftlichen Institut (KWI) Essen/Duisburg, an der Uni Erlangen und eben an der IB-Hochschule Berlin eingebunden sind. Die Kernbereiche der Forschung umfassen unterschiedliche Fallstudien zu gegenwärtigen und historischen Beispielen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Mehr dazu gerne auf unserer Website nachlesen: https://www.narcotic.city/",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Dieses sowohl methodologisch/konzeptionell, als auch thematisch sozial- und kulturwissenschaftlich orientierte Forschungsprojekt hat sich von Beginn an sehr stark auch als Diskussionsforum verstanden. Dieses möchte nicht nur die Perspektiven aus verschiedenen Ländern und besonders mit Drogenkulturen assoziierten Städten verbinden, sondern zudem über die Zusammenarbeit mit zivilgesellschaftlichen Akteuren, Initiativen, Museen und Professionellen aus den Bereichen Public Health / Soziale Arbeit eben genau jene abgeschotteten Diskussionsbereiche überwinden, die bisher die unterschiedlichen Handlungs- und Politikfelder, nicht nur in der „Drogen\"thematik kennzeichnen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Neben dem Aufbau eines living archives, also eines Ortes zur Sammlung verschiedenster Artefakte, sozialer Objekte, Narrative und anderer Repräsentationen, hat seit Beginn des Projektes vor einem Jahr der direkte Austausch auf Veranstaltungen für die interessierte Öffentlichkeit, wie auch auf Workshops im Rahmen des Forschungsprojektes für die beteiligten Gruppen einen zentralen Stellenwert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Diese schöne, anregende und komplexe Forschungspraxis – und unsere weitere Projektplanung – hatte spätestens Ende März im Zuge der Corona-Pandemie und den damit verbundenen Reisewarnungen bzw. Einreiseverboten einen ersten schweren Dämpfer bekommen: Ein seit mehreren Monaten vorbereiteter Projektworkshop in Amsterdam musste abgesagt werden und damit eine Reihe spannender Vorträge, Museumsführungen, Talkrunden und Treffen mit lokalen Akteur*innen und Aktivist*innen. Ebenso wurden mehrere Vortragsreisen zu internationalen Kongressen gecancelt. Projektintern versuchen wir seitdem durch regelmäßige Online-Meetings die Diskussion und den fachlichen Austausch soweit es geht aufrecht zu erhalten. Die Debatte mit unseren Partnern und interessierten Gruppen versuchen wir durch einen aktuellen GONACI-Newsletter anzuregen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Trotzdem, faktisch und praktisch sind fast alle Fallstudien in ihrem jeweils geplanten Forschungsdesign nicht durchführbar. Einen zentralen Stellenwert bei sozialwissenschaftlicher (Feld)Forschung nimmt ja der direkte Kontakt mit Menschen, die begleitende Beobachtung und das sinnliche Erfassen konkreter Situationen und der Aufenthalt an spannenden Orten ein. Dies alles ist derzeit – wenn nicht durch rigorose Ausgangsverbote wie auch Ende Mai immer noch in Frankreich – unmöglich bzw. zumindest stark erschwert worden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Zentrale Fragen: Wie können wir trotzdem den Kontakt und Austausch zu unseren Forschungspartner*innen aufrecht erhalten? Wie passen wir unsere auf Feldforschung und empirische Kulturwissenschaft gründenden Forschungsverfahren an die – auch bisher nicht in ihrem Ende absehbare – Situation an? Wie vermitteln wir den Mittelgebern die Notwendigkeit eines revidierten Projektplanes, nicht nur im Hinblick auf das Zeitmanagement, sondern auch im Bezug auf die versprochenen Ergebnisse/„Produkte\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Wie für einen Großteil der Bevölkerung, bricht auch für das GONACI-Projekt, neben den projektinternen Herausforderungen, der nun von der Corona-Pandemie geprägte Alltag in die regelmäßige und so schön geplante Forschungsarbeit ein: Alle Forscher*innen des Hera-Projektes arbeiten vor allem als Lehrende/Dozent*innen/Professor*innen und sind nunmehr seit Wochen mit der Praxis des mobilen Arbeitens, der Ausgangsbeschränkungen und strengerer Lockdowns, des Homeschoolings, der Sorge um Angehörige, Freund*innen und sich selbst konfrontiert. Die hier vielfach notwendig gewordenen Neuorientierungen im Alltag bedeuten primär auch für uns keine gemütliche Zeit der Kontemplation, des Nachdenkens und der ausführlichen Lektüre, sondern eine massive Zunahme an Tätigkeiten des Pflegens, Sorgens, Organisierens, Bewältigens, kurz: Arbeitens. Unser GONACI-Forschungsprojekt leidet in der Pandemie also vor allem am mangelnden zeitlichen und emotionalen Spielraum, der Erschwernis sich auf das Forschungsthema zu konzentrieren und die dafür notwendige Zeit zur Verfügung zu haben. Das ist, bei aller Unterschiedlichkeit der Forschungsschwerpunkte und der Alltagsbedingungen, auch der internationalen Kolleg*innen, der deutlichste Effekt der Krise!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "Und so gilt auch hier, wie in allen anderen Lebensbereichen: Eine einfache Rückkehr zur (Forschungs)normalität wird es auch im GONACI-Projekt nicht geben und es ist noch nicht absehbar, in welche Richtung auch diese liminale (Forschungs)reise gehen wird! Oder um sinngemäß mit einem Zitat von Antonio Gramsci zu enden: „Das Alte ist tot, aber das Neue ist noch nicht geboren! Es ist die Zeit der Monster\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Grafik „Drugs Survey\" Quelle: https://testing.surveycto.com/collect/lockdown042020\nSONAR – Safer Nightlife Berlin",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/sozialforschung-an-der-ib-hochschule-fuer-gesundheit-und-soziales-in-zeiten-der-corona-pandemie/image_01.jpg",
+    "alt": "Social research at IB Hochschule"
+  },
+  "gallery": [],
+  "publishDate": "2020-05-29T09:00:00.000Z",
+  "status": "published"
+}

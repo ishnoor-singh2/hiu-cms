@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.kongress-armut-gesundheit-maerz-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "kongress-armut-gesundheit-in-berlin-im-maerz-2024"
+  },
+  "title": {
+    "en": "Poverty & Health Congress in Berlin in March 2024",
+    "de": "Kongress „Armut & Gesundheit\" in Berlin im März 2024"
+  },
+  "summary": {
+    "en": "This year's Poverty & Health Congress took place as in-person event on 5 and 6 March 2024 and as digital congress on 12 March 2024. At the in-person event IB Hochschule was for the second time in a row represented with an info stand.",
+    "de": "Der diesjährige Kongress „Armut & Gesundheit\" fand sowohl als Präsenzveranstaltung am 5. und 6. März 2024 im Henry Ford-Bau der FU Berlin als auch als digitaler Kongress am 12. März 2024 statt. An der Präsenzveranstaltung war die IB Hochschule zum zweiten Mal in Folge mit einem Infostand vertreten."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "This year's Poverty & Health Congress took place both as in-person event on 5 and 6 March 2024 at the Henry Ford Building of Freie Universität (FU) Berlin and as digital congress on 12 March 2024. At the in-person event, IB Hochschule für Gesundheit und Soziales was represented for the second time in a row with an info stand on the study and continuing education offers of IB Hochschule, staffed by Prof. Dr. Thomas Bürk and Lena Setzepfand (research associate) and on the following day by Prof. Dr. Silke Brenne and Margarida Rischawy Mariano (research associate).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The programme of the congress – this year under the motto \"Socially Just: Health – Environment – Climate\" – was as usual filled with diverse and current public health topics, ranging from social participation through health competence to environmental justice.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "With many new ideas for the next Poverty & Health Congress in 2025 – planning the renewed participation of IB Hochschule with an info stand for the further introduction of the programmes as well as further and continuing education offers, but also with presentations of selected final theses of IB students – the congress ended for IB Hochschule's participants.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Further impressions are available on the site: https://www.armut-und-gesundheit.de/",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der diesjährige Kongress „Armut & Gesundheit\" fand sowohl als Präsenzveranstaltung am 05. und 06. März 2024 im Henry Ford-Bau der Freien Universität (FU) Berlin als auch als digitaler Kongress am 12. März 2024 statt. An der Präsenzveranstaltung war die IB Hochschule für Gesundheit und Soziales zum zweiten Mal in Folge mit einem Infostand zu den Studien- und Weiterbildungsangeboten der IB Hochschule vertreten, welcher von Prof. Dr. Thomas Bürk und Lena Setzepfand (Wissenschaftliche Mitarbeiterin) sowie am folgenden Tag von Prof. Dr. Silke Brenne und Margarida Rischawy Mariano (Wissenschaftliche Mitarbeiterin) besetzt war.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das Programm des Kongresses – dieses Jahr unter dem Motto „Sozial gerecht: Gesundheit – Umwelt – Klima\" stehend – war in gewohnter Weise gefüllt mit vielfältigen und aktuellen Public-Health-Themen, welche von sozialer Teilhabe, über Gesundheitskompetenz bis Umweltgerechtigkeit reichten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Mit vielen neuen Ideen für den nächsten Kongress „Armut & Gesundheit\" im Jahr 2025 – angedacht ist die erneute Teilnahme der IB Hochschule mit einem Infostand für die weitere Bekanntmachung der Studiengänge sowie der Fort- und Weiterbildungsangebote, aber auch mit Präsentationen ausgewählter Abschlussarbeiten der IB-Studierenden – endete der Kongress für die Beteiligten der IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Weitere Impressionen finden Sie auf der Seite: https://www.armut-und-gesundheit.de/",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/kongress-armut-gesundheit-in-berlin-im-maerz-2024/image_01.jpg",
+    "alt": "Die IB Hochschule auf dem Kongress Armut und Gesundheit"
+  },
+  "gallery": [],
+  "publishDate": "2024-03-22T09:00:00.000Z",
+  "status": "published"
+}

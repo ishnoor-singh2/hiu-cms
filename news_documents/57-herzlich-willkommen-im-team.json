@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.herzlich-willkommen-im-team",
+  "slug": {
+    "_type": "slug",
+    "current": "herzlich-willkommen-im-team"
+  },
+  "title": {
+    "en": "Welcome to the team!",
+    "de": "Herzlich Willkommen im Team!"
+  },
+  "summary": {
+    "en": "IB Hochschule für Gesundheit und Soziales receives strong support in the administration area. From 1 February 2022, Matthias Wolf will support us as Head of Administration.",
+    "de": "Die IB Hochschule für Gesundheit und Soziales bekommt tatkräftige Unterstützung im Bereich Verwaltung. Ab dem 1. Februar 2022 unterstützt uns Matthias Wolf als Leiter der Administration."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales is getting strong support in the administration area. From 1 February 2022, Matthias Wolf will support us as Head of Administration.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We are very happy and welcome him today on his first day as a new team member of IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Matthias Wolf brings a lot of experience in the areas of project management, digital process optimisation and university management.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "With his ambition and organisational fitness, we are looking forward to developing the university together and putting it on a sustainable and future-oriented course.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "We warmly welcome our new team colleague, wish him a great start and lots of fun in his work!\nmatthias.wolf@hi-university.de\n030 259 30 92 - 31",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales bekommt tatkräftige Unterstützung im Bereich Verwaltung. Ab dem 01.02.2022 unterstützt uns Matthias Wolf als Leiter der Administration.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wir freuen uns sehr und begrüßen ihn heute an seinem ersten Tag als neues Teammitglied der IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Matthias Wolf bringt viel Erfahrung in den Bereichen Projektmanagement, digitale Prozessoptimierung und Hochschulmanagement mit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Mit seiner Ambition und organisatorischer Fitness freuen wir uns, die Hochschule gemeinsam weiterzuentwickeln und auf einen nachhaltigen und zukunftsorientierten Kurs zu bringen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Wir heißen unseren neuen Team-Kollegen herzlich willkommen, wünschen ihm einen guten Start und viel Spaß an seiner Arbeit!\nmatthias.wolf@hi-university.de\n030 259 30 92 - 31",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/herzlich-willkommen-im-team/image_01.jpg",
+    "alt": "Matthias Wolf, Head of Administration"
+  },
+  "gallery": [],
+  "publishDate": "2022-02-01T09:00:00.000Z",
+  "status": "published"
+}

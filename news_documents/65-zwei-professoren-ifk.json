@@ -1,0 +1,85 @@
+{
+  "_type": "news",
+  "_id": "news.zwei-professoren-ifk-wissenschaftstag-2021",
+  "slug": {
+    "_type": "slug",
+    "current": "zwei-professoren-der-ib-hochschule-auf-dem-17-ifk-wissenschaftstag"
+  },
+  "title": {
+    "en": "Two professors of IB Hochschule at the 17th IFK Science Day",
+    "de": "Zwei Professoren der IB Hochschule auf dem 17. IFK-Wissenschaftstag"
+  },
+  "summary": {
+    "en": "On 25 June 2021 IFK e.V. (Federal Association of Self-employed Physiotherapists), in cooperation with IB Hochschule, hosts the 17th IFK Science Day, focused on the foot. Two IB Hochschule professors will contribute their expertise.",
+    "de": "Am 25. Juni 2021 richtet der IFK e.V. (Bundesverband selbstständiger Physiotherapeuten) in Kooperation mit der IB Hochschule den 17. IFK-Wissenschaftstag aus. Schwerpunktthema ist „der Fuß\"; zwei Professoren der IB Hochschule bringen ihre Expertise ein."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On 25 June 2021, IFK e.V. (Federal Association of Self-employed Physiotherapists), in cooperation with IB Hochschule für Gesundheit und Soziales, hosts the 17th IFK Science Day. Students of IB Hochschule are especially invited. The main theme this year is \"the foot\". Two professors of the university contribute their expertise in two presentations: Prof. Klenk on \"Activity analysis in older people using artificial intelligence\" and Prof. Lexy on \"Foot and fascia\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "We keep our fingers crossed for the entries submitted by our students for the IFK Science Prize and wish them good luck!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am 25. Juni 2021 richtet der IFK e.V. (Bundesverband selbstständiger Physiotherapeuten) in Kooperation mit der IB Hochschule für Gesundheit und Soziales den 17. IFK-Wissenschaftstag aus. Eingeladen sind vor allem Studierende der IB Hochschule. Schwerpunktthema in diesem Jahr ist „der Fuß\". Zwei Professoren der Hochschule bringen ihre Fachexpertise in zwei Vorträgen ein: Prof. Klenk zu „Aktivitätsanalyse bei älteren Menschen mithilfe künstlicher Intelligenz\" und Prof. Lexy zum Thema „Fuß und Faszien\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Wir drücken den eingereichten Beiträgen unserer Studierenden für den IFK-Wissenschaftspreis die Daumen und wünschen ihnen viel Glück!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/zwei-professoren-der-ib-hochschule-auf-dem-17-ifk-wissenschaftstag/image_01.jpeg",
+    "alt": "Das Thema Fuß steht im Mittelpunkt des 17. IFK-Tags der Wissenschaft."
+  },
+  "gallery": [],
+  "publishDate": "2021-05-10T09:00:00.000Z",
+  "status": "published"
+}

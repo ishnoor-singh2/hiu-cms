@@ -1,0 +1,273 @@
+{
+  "_type": "news",
+  "_id": "news.tag-der-ausbildung-2026",
+  "slug": {
+    "_type": "slug",
+    "current": "tag-der-ausbildung-2026"
+  },
+  "title": {
+    "en": "The 2026 Day of Vocational Training at ukb delights many visitors",
+    "de": "Der Tag der Ausbildung 2026 am ukb begeistert zahlreiche Besucher*innen"
+  },
+  "summary": {
+    "en": "Great interest, many conversations and lively exchange: the 2026 Day of Vocational Training at ukb was very well attended. Pupils, parents and other visitors took the chance to learn on-site about career perspectives in healthcare.",
+    "de": "Großes Interesse, viele Gespräche und ein lebendiger Austausch: Der Tag der Ausbildung 2026 am ukb war sehr gut besucht. Zahlreiche Schülerinnen und Schüler, Eltern sowie Interessierte nutzten die Gelegenheit, sich vor Ort über berufliche Perspektiven im Gesundheitswesen zu informieren."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Great interest, many conversations and a lively exchange: the 2026 Day of Vocational Training at ukb was very well attended. Many pupils, parents and interested visitors took the opportunity to find out about career perspectives in healthcare on site.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The focus was on practical training professions in everyday clinical work. At various participatory and information stands, visitors gained insights into training as a surgical technical assistant (OTA) or anaesthesia technical assistant (ATA). Trainees and practice instructors explained their tasks and answered questions about applications, daily life and career opportunities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "District Mayor Nadja Zivkovic also visited the training day and learned about the diverse training and study opportunities at ukb during a tour.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Alongside the training paths, IB Hochschule also presented its programmes in Psychology, Digital Health and Health Education.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "It was particularly interesting to see the many different disciplines side by side. At the same time it became clear that hospital care only works when all areas mesh together like cogs and cooperate closely.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "We are already looking forward to the next event: in May, the 1st Health Day at ukb will follow.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Großes Interesse, viele Gespräche und ein lebendiger Austausch: Der Tag der Ausbildung 2026 am ukb war sehr gut besucht. Zahlreiche Schülerinnen und Schüler, Eltern sowie Interessierte nutzten die Gelegenheit, sich vor Ort über berufliche Perspektiven im Gesundheitswesen zu informieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Fokus standen die praktischen Ausbildungsberufe im Klinikalltag. An verschiedenen Mitmach- und Informationsständen erhielten Besucherinnen und Besucher Einblicke in die Ausbildung zur Operationstechnischen Assistenz (OTA) oder zur Anästhesietechnischen Assistenz (ATA). Auszubildende und Praxisanleitende erklärten ihre Aufgaben und beantworteten Fragen rund um Bewerbung, Alltag und Karrierechancen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Auch die Bezirksbürgermeisterin Nadja Zivkovic besuchte den Ausbildungstag und informierte sich bei einem Rundgang über die vielfältigen Ausbildungs- und Studienmöglichkeiten am ukb.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Neben den Ausbildungswegen präsentierte auch die IB Hochschule ihre Studiengänge Psychologie, Digital Health und Gesundheitspädagogik.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Besonders interessant war die vielen unterschiedlichen Disziplinen nebeneinander zu sehen. Gleichzeitig wurde deutlich, dass die Versorgung im Krankenhaus nur funktioniert, wenn alle Bereiche wie Zahnräder ineinandergreifen und eng zusammenarbeiten.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Wir freuen uns bereits auf die nächste Veranstaltung: Im Mai folgt der 1. Gesundheitstag am ukb.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_01.jpg",
+    "alt": "Day of Vocational Training 2026 at ukb"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_08.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_09.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g9",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_10.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g10",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_11.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g11",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_12.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g12",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_13.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g13",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_14.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g14",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_15.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g15",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/tag-der-ausbildung-2026/image_16.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2026-02-12T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,269 @@
+{
+  "_type": "news",
+  "_id": "news.post-covid-moessle-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "post-covid"
+  },
+  "title": {
+    "en": "Post-COVID: Prof. Dr. Regine Mößle at the Congress for General Medicine and Family Medicine",
+    "de": "Post-COVID: Prof. Dr. Regine Mößle beim Kongress für Allgemeinmedizin und Familienmedizin"
+  },
+  "summary": {
+    "en": "Post-COVID is one of the most pressing challenges of our time. At the Congress for General Medicine and Family Medicine in Würzburg, Prof. Dr. Regine Mößle presented research results from her post-COVID study.",
+    "de": "Post-COVID ist eine der drängendsten Herausforderungen unserer Zeit. Im Rahmen des Kongresses für Allgemeinmedizin und Familienmedizin in Würzburg präsentierte Prof. Dr. Regine Mößle die Forschungsergebnisse aus ihrer Post-COVID-Studie."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Post-COVID is one of the most pressing challenges of our time and affects millions of people worldwide. The disease causes not only massive individual suffering, but also poses immense challenges to the health system.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "At the Congress for General Medicine and Family Medicine in Würzburg, Prof. Dr. Regine Mößle, professor of psychology at IB Hochschule in Stuttgart, presented the research results from her post-COVID study, which she developed together with the psychology students Patricia Alender (B.Sc.) and Helen Dippon (M.Sc.).",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In Prof. Mößle's longer-term research project, in a first step the satisfaction of post-COVID patients in family medical care is examined. We had the opportunity to speak with Prof. Mößle about her Post-COVID study.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Ms Mößle, what is Post-COVID about? – One speaks of Long- or Post-COVID when, after an infection with COVID-19, symptoms continue or new symptoms appear that are related to the disease. Frequent symptoms are pathological exhaustion with exercise intolerance, cognitive impairments such as concentration or memory problems, or pain. The symptoms can be very different – more than 200 symptoms are known that can occur in connection with a post-COVID disease. People need competent contact persons who accompany them, take their complaints seriously and show the optimal therapeutic possibilities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Can you describe the patients' dissatisfaction more precisely? – Patients often believe they are not comprehensively advised or supported by family doctors. A frequently reported problem is the feeling that complaints such as chronic exhaustion, cognitive limitations, pain or breathing problems are not taken seriously enough or are interpreted incorrectly. Many patients reported that their symptoms were interpreted as symptoms of a mental disorder, which led to considerable dissatisfaction and unfortunately also wrong treatment recommendations.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "And which treatments help? – For chronic exhaustion with exercise intolerance (post-exertional malaise), a foresighted and gentle handling of the reduced energy reserves helps – activity management, also called pacing. By observing the individual exertion limit, symptoms and disease course can be improved. The attempt to improve exhaustion through ever more activation, on the other hand, leads in most cases to a worsening of symptoms and increases the risk of chronification.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "What is your conclusion and where do you see room for improvement? – There is room for improvement: post-COVID syndrome must be recognised and diagnosed as such, in order to be able to choose the right treatment method. Patients risk not being adequately cared for through hasty diagnosis, so that symptoms intensify or even a chronic disease follows.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "And how will the research continue? – In the next step, the view should now be directed at the treating doctors: where do they see difficulties from their perspective, where do they see need for change to optimally support their patients? This data is to be presented in the coming year – with the goal of improving the care of post-COVID patients permanently. The results so far make clear how important it is to understand post-COVID comprehensively and develop patient-oriented approaches. We warmly thank Frau Mößle for this interview!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Post-COVID ist eine der drängendsten Herausforderungen unserer Zeit und betrifft Millionen Menschen weltweit. Die Erkrankung sorgt nicht nur für massives individuelles Leid, sondern stellt auch das Gesundheitssystem vor immense Herausforderungen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Rahmen des Kongresses für Allgemeinmedizin und Familienmedizin in Würzburg präsentierte Prof. Dr. Regine Mößle, Psychologie-Professorin an der IB Hochschule in Stuttgart, die Forschungsergebnisse aus ihrer Post-COVID-Studie, die sie zusammen mit den Psychologie-Studierenden Patricia Alender (B.Sc.) und Helen Dippon (M.Sc.) erarbeitete.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "In dem längerfristig angelegten Forschungsprojekt von Prof. Mößle wird in einem ersten Schritt die Zufriedenheit von Post-COVID-Patient*innen in der hausärztlichen Versorgung unter die Lupe genommen. Wir hatten die Gelegenheit mit Prof. Mößle über ihre Post-COVID-Studie zu sprechen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Frau Mößle, worum geht es bei Post-COVID? – Von Long- bzw. Post-COVID spricht man, wenn nach einer Infektion mit COVID-19 Symptome weiterbestehen oder neue Symptome auftreten, die im Zusammenhang mit der Erkrankung stehen. Häufige Symptome sind eine krankhafte Erschöpfung mit Belastungsintoleranz, kognitive Einschränkungen, wie z.B. Konzentrations- oder Gedächtnisprobleme, oder Schmerzen. Die Symptomatik kann aber sehr unterschiedlich sein – es sind mehr als 200 Symptome bekannt, die in Rahmen einer Post-COVID-Erkrankung auftreten können. Betroffene brauchen kompetente Ansprechpartner*innen, die sie begleiten, ihre Beschwerden ernst nehmen und die optimalen therapeutischen Möglichkeiten aufzeigen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Können Sie die Unzufriedenheit der Patient*innen genauer beschreiben? – Patient*innen glauben oft, von Hausärzt*innen nicht umfassend beraten oder unterstützt zu werden. Ein häufig berichtetes Problem ist das Gefühl, dass Beschwerden wie chronische Erschöpfung, kognitive Einschränkungen, Schmerzen oder Atemprobleme nicht ernst genug genommen oder falsch interpretiert werden. Viele Patient*innen gaben an, dass ihre Symptome als Symptome einer psychischen Störung gedeutet wurden, was zu erheblicher Unzufriedenheit und leider auch falschen Behandlungsempfehlungen führte.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Und welche Behandlungen helfen? – Bei chronischer Erschöpfung mit Belastungsintoleranz (Post-exertionelle Malaise) hilft ein vorausschauender und schonender Umgang mit den reduzierten Energiereserven, das Aktivitätenmanagement, auch Pacing genannt. Durch das Einhalten der individuellen Belastungsgrenze können Symptomatik und Krankheitsverlauf verbessert werden. Der Versuch, die Erschöpfung durch immer weitere Aktivierung zu verbessern, führt hingegen in den meisten Fällen zu einer Symptomverschlechterung und erhöht die Gefahr der Chronifizierung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Was ist Ihr Fazit und wo sehen Sie Verbesserungsbedarf? – Es gibt Verbesserungsbedarf: Das Post-Covid-Syndrom muss als solches erkannt und diagnostiziert werden, um so die richtige Behandlungsmethode wählen zu können. Patient*innen laufen Gefahr, durch eine vorschnelle Diagnosestellung nicht angemessen versorgt zu werden, sodass sich die Symptome verstärken oder gar eine chronische Erkrankung folgt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Und wie geht es mit der Forschung weiter? – Im nächsten Schritt soll nun der Blick auf die behandelnden Ärzt*innen gerichtet werden: wo liegen aus deren Perspektive Schwierigkeiten, wo sehen sie Veränderungsbedarf, um ihre Patient*innen optimal unterstützen zu können? Diese Daten sollen im kommenden Jahr vorgestellt werden – mit dem Ziel, die Versorgung von Post-COVID-Patient*innen dauerhaft zu verbessern. Wir danken Frau Mößle ganz herzlich für dieses Interview und die wichtigen und interessanten Einblicke!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/post-covid/image_01.jpg",
+    "alt": "Der 58. Kongress für Allgemeinmedizin und Familienmedizin in Würzburg "
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/post-covid/image_02.jpg",
+      "alt": "Der 58. Kongress für Allgemeinmedizin und Familienmedizin in Würzburg "
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/post-covid/image_03.jpg",
+      "alt": "Der 58. Kongress für Allgemeinmedizin und Familienmedizin in Würzburg "
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/post-covid/image_04.jpg",
+      "alt": "Der 58. Kongress für Allgemeinmedizin und Familienmedizin in Würzburg "
+    }
+  ],
+  "publishDate": "2024-12-09T09:00:00.000Z",
+  "status": "published"
+}

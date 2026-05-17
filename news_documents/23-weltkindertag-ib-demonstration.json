@@ -1,0 +1,286 @@
+{
+  "_type": "news",
+  "_id": "news.ib-demonstriert-weltkindertag-2023",
+  "slug": {
+    "_type": "slug",
+    "current": "wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen"
+  },
+  "title": {
+    "en": "We protect the future of our children and youth: Internationaler Bund (IB) demonstrates against drastic cuts on World Children's Day",
+    "de": "Wir schützen die Zukunft unserer Kinder und Jugend: Der Internationale Bund (IB) demonstriert am Weltkindertag gegen drastische Kürzungen"
+  },
+  "summary": {
+    "en": "On World Children's Day, around 3,000 demonstrators – including 200 members of Internationaler Bund and many children's and youth associations – protested against planned cuts in child and youth work under the slogan \"Don't cut us away\" and \"100,000 volunteers – 0 recognition\".",
+    "de": "Am Weltkindertag versammelten sich etwa 3.000 Demonstrierende – darunter rund 200 Mitglieder des Internationalen Bundes und zahlreiche Kinder- und Jugendverbände –, um unter dem Motto „Kürzt uns nicht weg\" und „100.000 Freiwillige – 0 Anerkennung\" gegen geplante Kürzungen in der Kinder- und Jugendarbeit zu protestieren."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Berlin, 20 September 2023 – Under the slogans \"Don't cut us away\" and \"100,000 volunteers – 0 recognition\", around 3,000 demonstrators – including around 200 members of Internationaler Bund (IB) and numerous children's and youth associations – gathered on World Children's Day to protest against the planned cuts in the field of child and youth work.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The demonstration started at Berlin Central Station, passed the Brandenburg Gate and finally ended loudly at Potsdamer Platz. In a symbolic action, after the closing rally all demonstrators burst colourful balloons bearing the word \"future\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The background to this impressive protest is the planned cuts in the federal Children and Youth Plan (KJP), affecting up to one-fifth of the funds. Youth associations as well as social work at schools and in voluntary services are particularly affected by these drastic cuts. In 2024, funding is to be reduced by 25 percent, while youth migration services must expect a decline of up to 40 percent. These savings are made at the wrong end and send a fatal signal – especially on World Children's Day.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "IB Chairman of the Board Thiemo Fojkar and board colleague Karola Becker took part and held up the placards.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "\"If politicians really implement these cuts, it would be a fatal signal for the future of the young generation – in several respects: it endangers democracy, because extremism prevention would have to be stopped. It endangers prosperity, because vocational education would also be cut. But this is important to give young people prospects and to counter the shortage of skilled workers. Last but not least, these savings would mean less civic engagement, that is, less togetherness in Germany. We are demonstrating against that!\" said Thiemo Fojkar.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The members of Internationaler Bund (IB) travelled from various regions of Germany and were represented in Berlin together with IB Hochschule für Gesundheit und Soziales. IB's youth migration services play a decisive role in supporting young refugees and are actively involved in extremism prevention. Nationwide, around 100,000 young people are engaged in voluntary services, active in social or ecological projects in Germany or abroad.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "The impressive demonstration on World Children's Day showed the determination of the participants to defend the rights and chances of the young generation and to stop the planned cuts.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Berlin, 20. September 2023 – Unter dem Motto „Kürzt uns nicht weg\" und „100.000 Freiwillige – 0 Anerkennung\" versammelten sich am Weltkindertag etwa 3000 Demonstranten, darunter rund 200 Mitglieder des Internationalen Bundes (IB) sowie zahlreiche Kinder- und Jugendverbände, um gegen die geplanten Kürzungen im Bereich der Kinder- und Jugendarbeit zu protestieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Demonstration nahm ihren Anfang am Berliner Hauptbahnhof, führte vorbei am Brandenburger Tor und fand schließlich ihren lautstarken Abschluss am Potsdamer Platz. In einer symbolischen Aktion ließen dort alle Demonstrierenden nach der Abschlusskundgebung bunte Ballons mit Aufschrift Zukunft platzen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Hintergrund dieser eindrucksvollen Protestaktion sind die geplanten Kürzungen im Kinder- und Jugendplan des Bundes (KJP), die bis zu einem Fünftel der vorgesehenen Mittel betreffen. Insbesondere Jugendverbände sowie die soziale Arbeit an Schulen und in Freiwilligendiensten sind von diesen drastischen Kürzungen betroffen. Im Jahr 2024 sollen die Mittel um 25 Prozent gekürzt werden, während die Jugendmigrationsdienste mit einem Rückgang von bis zu 40 Prozent rechnen müssen. Diese Kosteneinsparungen sind am falschen Ende angesiedelt und senden ein fatales Signal, gerade am Weltkindertag!",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Der Vorstandsvorsitzende des IB Thiemo Fojkar und Vorstandskollegin Karola Becker waren mit dabei und hielten die Plakate hoch.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "„Wenn die Politik diese Kürzungen wirklich umsetzt, wäre das ein fatales Signal für die Zukunft der jungen Generation – und zwar in mehrfacher Hinsicht: Es gefährdet die Demokratie, weil Extremismus-Prävention eingestellt werden müsste. Es gefährdet Wohlstand, weil auch an Beruflicher Bildung gespart würde. Diese ist aber wichtig, um jungen Menschen eine Perspektive zu geben und dem Fachkräftemangel entgegenzutreten. Nicht zuletzt gäbe es durch diese Einsparungen weniger gesellschaftliches Engagement, also weniger Miteinander in Deutschland. Dagegen demonstrieren wir!\", so Thiemo Fojkar.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Die Mitglieder des Internationalen Bundes (IB) sind aus den verschiedenen Regionen Deutschlands angereist und waren zusammen mit der IB Hochschule für Gesundheit und Soziales aus Berlin vertreten. Die Jugendmigrationsdienste des IB spielen eine entscheidende Rolle bei der Unterstützung junger Geflüchteter und engagieren sich aktiv in der Extremismus-Prävention. Bundesweit sind rund 100.000 junge Menschen in Freiwilligendiensten tätig, die in sozialen oder ökologischen Projekten in Deutschland oder im Ausland aktiv sind.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Die eindrucksvolle Demonstration am Weltkindertag zeigte die Entschlossenheit der Teilnehmerinnen und Teilnehmer, die Rechte und Chancen der jungen Generation zu verteidigen und die geplanten Kürzungen zu stoppen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_01.jpg",
+    "alt": "IB demonstration against cuts in children and youth area"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_08.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_09.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g9",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_10.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g10",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_11.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g11",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_12.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g12",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/wir-schuetzen-die-zukunft-unserer-kinder-und-jugend-der-internationale-bund-ib-demonstriert-am-weltkindertag-gegen-drastische-kuerzungen/image_13.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2023-09-21T09:00:00.000Z",
+  "status": "published"
+}

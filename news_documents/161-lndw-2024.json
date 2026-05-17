@@ -1,0 +1,180 @@
+{
+  "_type": "news",
+  "_id": "news.lange-nacht-der-wissenschaften-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "lange-nacht-der-wissenschaften-2024"
+  },
+  "title": {
+    "en": "A successful Long Night of Sciences 2024",
+    "de": "Eine erfolgreiche Lange Nacht der Wissenschaften 2024"
+  },
+  "summary": {
+    "en": "An evening full of innovations – that was the Long Night of Sciences 2024. The event attracted numerous visitors to the Health Campus to the House of the Future, where IB Hochschule was also represented with an extensive programme.",
+    "de": "Ein Abend voller Innovationen - das war die Lange Nacht der Wissenschaften 2024. Die Veranstaltung lockte zahlreiche Besucher*innen auf den Gesundheitscampus zum Haus der Zukunft, wo auch die IB Hochschule mit einem umfangreichen Programm vertreten war."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "An evening full of innovations – that was the Long Night of Sciences 2024. The event attracted numerous visitors to the Health Campus to the House of the Future, where IB Hochschule was also represented with an extensive programme.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "A special highlight was the Virtual Reality (VR) programme from the fields of Health Education and Digital Health in cooperation with the company Imsimity, who presented their VR headsets and applications – virtual learning environments from the health area for teachers and students. Visitors could try out the VR headsets.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The \"Psychological Counselling\" offered an exciting insight into Applied Psychology. Visitors aged 16 and over could experience the effectiveness of the methods applied in short counselling conversations with students.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "In the \"Who Wants to Be a Millionaire?\" – Psychology Edition Quiz, visitors of all age groups could test their knowledge, and in the evening Alisa Wenzel inspired the audience with the \"Science Slam\" and presented a research project, a contribution to risk assessment regarding a Covid-19 infection in social dilemma situations, humorously and interactively.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "In parallel, current research projects and final theses from the Psychology programmes were presented in the scientific poster presentation. Topics such as Bed-Time-Procrastination and the care of Long/Post-COVID patients were discussed. The Long Night of Sciences 2024 at IB Hochschule offered a fascinating insight into the world of science and technology and inspired visitors of all age groups.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Ein Abend voller Innovationen - das war die Lange Nacht der Wissenschaften 2024. Die Veranstaltung lockte zahlreiche Besucher*innen auf den Gesundheitscampus zum Haus der Zukunft, wo auch die IB Hochschule mit einem umfangreichen Programm vertreten war.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Ein besonderes Highlight war das Virtual Reality (VR) Programm aus den Bereichen Gesundheitspädagogik und Digital Health in Zusammenarbeit mit der Firma Insimity, die ihre VR-Brillen und Anwendungen präsentierten. Virtuelle Lernumgebungen aus dem Gesundheitsbereich für Lehrende und Studierende. Die Besucher*innen konnten die VR-Brillen ausprobieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die „Psychologische Beratung\" bot einen spannenden Einblick in die Angewandte Psychologie. Besucher*innen ab 16 Jahren konnten in Kurzberatungsgesprächen mit Studierenden die Wirksamkeit der angewendeten Methoden erleben.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Im „Wer wird Millionär?\" - Psychologie Edition Quiz konnten Besucher*innen aller Altersgruppen ihr Wissen auf die Probe stellen und am Abend begeisterte Alisa Wenzel mit dem „Science Slam\" das Publikum und präsentierte ein Forschungsprojekt, ein Beitrag zur Risikoeinschätzung hinsichtlich einer Covid-19-Infektion in sozialen Dilemma-Situationen humorvoll und interaktiv.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Parallel dazu wurden in der wissenschaftlichen Posterpräsentation aktuelle Forschungsprojekte und Abschlussarbeiten aus den Psychologiestudiengängen vorgestellt. Themen wie Bed-Time-Procrastination und die Versorgung von Long/Post-COVID-Patient*innen wurden diskutiert. Die Lange Nacht der Wissenschaften 2024 an der IB Hochschule bot einen faszinierenden Einblick in die Welt der Wissenschaft und Technologie und begeisterte Besucher aller Altersgruppen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/lange-nacht-der-wissenschaften-2024/image_01.jpg",
+    "alt": "Long Night of Sciences 2024"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/lange-nacht-der-wissenschaften-2024/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/lange-nacht-der-wissenschaften-2024/image_03.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2024-06-25T09:00:00.000Z",
+  "status": "published"
+}

@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.internationaler-gastwissenschaftleraustausch-startet-im-sommersemester-2026",
+  "slug": {
+    "_type": "slug",
+    "current": "internationaler-gastwissenschaftleraustausch-startet-im-sommersemester-2026"
+  },
+  "title": {
+    "en": "International visiting researcher exchange starts in summer semester 2026",
+    "de": "Internationaler Gastwissenschaftleraustausch startet im Sommersemester 2026"
+  },
+  "summary": {
+    "en": "IB Hochschule is expanding its international focus: in summer semester 2026 it will host its first international visiting researcher exchange. From April to September 2026, Sanskriti Sinha from Chitkara University will work as a visiting scholar at the university.",
+    "de": "Die IB Hochschule baut ihre internationale Ausrichtung weiter aus: Im Sommersemester 2026 startet erstmals ein internationaler Austausch von Gastwissenschaftler*innen. Von April bis September 2026 wird Frau Sanskriti Sinha von der Chitkara University als Gastwissenschaftlerin an der Hochschule tätig sein."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule is continuing to expand its international focus: in summer semester 2026, it will host its first international visiting researcher exchange. From April to September 2026, Sanskriti Sinha from Chitkara University, Faculty of Psychology, will work as a visiting scholar at the university.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "On 08 January 2026, Ms Sinha already visited the Berlin Health Campus. During her visit, she engaged in a lively and pleasant exchange with colleagues from the Psychology department. She also got an insight into the campus and got to know the university better. The personal encounter was characterised by openness, interest and a warm atmosphere.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Ms Sinha completed her Bachelor of Arts in Psychology at the University of California and her Master of Science in Applied Psychology at O.P. Jindal Global University. Her research focuses on the psychological effects of social media, in particular on the topic \"An Investigation of the Relationship between Instagram Usage and Self-discrepancy among Young Adults\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The international exchange marks an important milestone in IB Hochschule's internationalisation strategy and fosters scientific dialogue as well as new perspectives in research and teaching.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule baut ihre internationale Ausrichtung weiter aus: Im Sommersemester 2026 startet erstmals ein internationaler Austausch von Gastwissenschaftler*innen. Von April bis September 2026 wird Frau Sanskriti Sinha von der Chitkara University, Fakultät für Psychologie, als Gastwissenschaftlerin an der Hochschule tätig sein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Bereits am 08. Januar 2026 besuchte Frau Sinha den Berliner Gesundheitscampus. Im Rahmen ihres Besuchs kam es zu einem intensiven und sehr angenehmen Austausch mit Kolleg*innen aus dem Fachbereich Psychologie. Darüber hinaus erhielt sie einen Einblick in den Campus und lernte die Hochschule näher kennen. Die persönliche Begegnung war von Offenheit, Interesse und einer herzlichen Atmosphäre geprägt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Frau Sinha absolvierte ihren Bachelor of Arts in Psychologie an der University of California sowie ihren Master of Science in Angewandter Psychologie an der O.P. Jindal Global University. In ihrer Forschung beschäftigt sie sich mit den psychologischen Auswirkungen sozialer Medien, insbesondere mit dem Thema „An Investigation of the Relationship between Instagram Usage and Self-discrepancy among Young Adults\".",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Der internationale Austausch stellt einen wichtigen Meilenstein in der Internationalisierungsstrategie der IB Hochschule dar und fördert den wissenschaftlichen Dialog sowie neue Perspektiven in Forschung und Lehre.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/internationaler-gastwissenschaftleraustausch-startet-im-sommersemester-2026/image_01.jpg",
+    "alt": "Sanskriti Sinha visiting Berlin"
+  },
+  "gallery": [],
+  "publishDate": "2026-01-09T09:00:00.000Z",
+  "status": "published"
+}

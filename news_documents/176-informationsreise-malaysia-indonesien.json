@@ -1,0 +1,246 @@
+{
+  "_type": "news",
+  "_id": "news.informationsreise-malaysia-indonesien-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "informationsreise-der-ib-hochschule-in-malaysia-und-indonesien"
+  },
+  "title": {
+    "en": "HAW.International information trip: IB Hochschule President explores potentials in Malaysia and Indonesia",
+    "de": "Hochschulpolitische Informationsreise HAW.International: Präsidentin der IB Hochschule erkundet Potenziale in Malaysia und Indonesien"
+  },
+  "summary": {
+    "en": "IB Hochschule is taking part in the HAW.International higher-education policy information trip from 25 February to 2 March 2024 to Malaysia and Indonesia, exploring opportunities to intensify internationalisation.",
+    "de": "Die IB Hochschule nimmt an der hochschulpolitischen Informationsreise HAW.International vom 25. Februar bis zum 2. März 2024 in Malaysia und Indonesien teil, um Möglichkeiten zur Intensivierung der Internationalisierung zu erkunden."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "IB Hochschule für Gesundheit und Soziales is taking part in the HAW.International higher-education policy information trip taking place from 25 February to 2 March 2024 in Malaysia and Indonesia. The invitation to this significant trip was sent to the leaderships of Universities of Applied Sciences (HAW) as part of the HAW initiative. At the DAAD trip, 40-50 representatives of universities from both countries meet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "There are many good reasons for the choice of destinations Indonesia and Malaysia. The German federal government's Indo-Pacific Strategy emphasises the importance of cooperation and exchange with the Southeast Asian region. Indonesia, as the largest country in ASEAN, and Malaysia, with the largest English-language higher education system in ASEAN, are considered important partners of Germany in the region.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Indonesia, with about 280 million people, has pursued a new higher education strategy since 2020 that envisages stronger alignment with the requirements of work and professional practice. Promoting practical experience, internationalisation and the growing offer of English-language programmes are the focus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Malaysia has invested considerably in expanding its higher education system since the 1990s. Today it has internationally competitive universities with high quality standards. The practical orientation of universities to the needs of the labour market and cooperation with industry play a decisive role in Malaysian higher education development.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "During the trip, the President of IB Hochschule will visit institutions in Kuala Lumpur and Jakarta to explore opportunities for intensifying internationalisation for German HAW. Due to their practice-oriented approach, German HAW enjoy an excellent reputation in both countries, opening promising perspectives for future exchange programmes and cooperations.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Prof. Dr. Azlinda Azman, Director General for Higher Education, has the goal of internationalising higher education in Malaysia. Prof. Ir. Nizam, M.Sc., DIC., Ph.D, Director General for Higher Education, presented Indonesia's goals for strengthening international exchange for Indonesian students with Germany.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "IB Hochschule sees this trip as an outstanding opportunity to strengthen its internationalisation efforts and looks forward to the valuable experiences and insights resulting from it. On the programme are matchmaking sessions with various state and private universities. There is great interest in the areas of health, Digital Health/AI and psychology. The next stop is Japan together with \"Smart Living & Health\" of the Gesundheitscampus at ukb.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales nimmt an der hochschulpolitischen Informationsreise HAW.International teil, die vom 25. Februar bis zum 2. März 2024 in Malaysia und Indonesien stattfindet. Die Einladung zu dieser bedeutenden Reise wurde im Rahmen der HAW-Initiative an die Leitungen von Hochschulen für Angewandte Wissenschaften (HAW) verschickt. Bei der DAAD-Reise treffen sich 40-50 Vertreter*innen von Hochschulen aus beiden Ländern.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Für die Auswahl der Reiseziele, Indonesien und Malaysia, gibt es viele gute Gründe. Die Indo-Pazifik-Strategie der deutschen Bundesregierung betont die Bedeutung der Zusammenarbeit und des Austauschs mit der südostasiatischen Region. Indonesien, als größtes Land in der ASEAN-Staatengemeinschaft, und Malaysia, mit dem größten englischsprachigen Hochschulsystem in ASEAN, gelten als wichtige Partner Deutschlands in der Region.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Indonesien, mit etwa 280 Millionen Menschen, verfolgt seit 2020 eine neue Hochschulstrategie, die eine stärkere Ausrichtung an den Erfordernissen der Arbeits- und Berufspraxis vorsieht. Die Förderung von Praxiserfahrungen, die Internationalisierung und das wachsende Angebot englischsprachiger Studiengänge stehen dabei im Fokus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Malaysia hat seit den 90er Jahren erheblich in den Ausbau seines Hochschulsystems investiert. Heute verfügt es über international konkurrenzfähige Universitäten mit hohen Qualitätsstandards. Die Praxisorientierung der Hochschulen an den Bedürfnissen des Arbeitsmarktes und die Zusammenarbeit mit der Industrie spielen eine entscheidende Rolle in der malaysischen Hochschulentwicklung.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Die Präsidentin der IB Hochschule wird während der Reise Institutionen in Kuala Lumpur und Jakarta besuchen, um die Möglichkeiten zur Intensivierung der Internationalisierung für deutsche HAW zu erkunden. Durch die praxisorientierte Ausrichtung genießen deutsche HAW einen ausgezeichneten Ruf in beiden Ländern, was vielversprechende Perspektiven für zukünftige Austauschprogramme und Kooperationen eröffnet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Prof. Dr. Azlinda Azman, Generaldirektorin für Hochschulbildung, hat zum Ziel die Hochschulbildung in Malaysia zu internationalisieren. Prof. Ir. Nizam, M.Sc., DIC., Ph.D, Generaldirektor für Hochschulbildung, hat die Ziele Indonesiens zur Stärkung des internationalen Austauschs für indonesische Studierende mit Deutschland vorgestellt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Die IB Hochschule sieht in dieser Reise eine herausragende Gelegenheit, ihre Internationalisierungsbemühungen zu stärken und freut sich auf die gewinnbringenden Erfahrungen und Erkenntnisse, die aus dieser Reise resultieren werden. Auf dem Programm stehen Matchmaking mit diversen staatlichen und privaten Hochschulen. Es besteht ein großes Interesse an den Bereichen Gesundheit, Digital Health/KI und Psychologie. Die nächste Station ist Japan zusammen mit „Smart Living & Health\" des Gesundheitscampus am ukb.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/informationsreise-der-ib-hochschule-in-malaysia-und-indonesien/image_01.jpg",
+    "alt": "Asien Informationsreise HAW International"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/informationsreise-der-ib-hochschule-in-malaysia-und-indonesien/image_02.jpg",
+      "alt": "Prof. Dr. Azlinda Azman Generaldirektorin für Hochschulbildung "
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/informationsreise-der-ib-hochschule-in-malaysia-und-indonesien/image_03.jpg",
+      "alt": "HAWInternational Mögliche Kooperationen in Asien"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/informationsreise-der-ib-hochschule-in-malaysia-und-indonesien/image_04.jpg",
+      "alt": "Asien Informationsreise der IB Hochschule"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/informationsreise-der-ib-hochschule-in-malaysia-und-indonesien/image_05.jpg",
+      "alt": "Asien Informationsreise "
+    }
+  ],
+  "publishDate": "2024-03-01T09:00:00.000Z",
+  "status": "published"
+}

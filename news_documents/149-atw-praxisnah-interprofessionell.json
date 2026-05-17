@@ -1,0 +1,169 @@
+{
+  "_type": "news",
+  "_id": "news.atw-praxisnah-interprofessionell",
+  "slug": {
+    "_type": "slug",
+    "current": "praxisnah-interprofessionell-und-flexibel-studierbar"
+  },
+  "title": {
+    "en": "Practice-oriented, interprofessional and flexibly studied – Applied Therapy Science at IB Hochschule",
+    "de": "Praxisnah, interprofessionell und flexibel studierbar – Angewandte Therapiewissenschaft an der IB Hochschule"
+  },
+  "summary": {
+    "en": "The Applied Therapy Science programme is interdisciplinary and can be completed training-integrated or part-time. We spoke with programme leader Prof. Dr. Gudrun Zimmermann.",
+    "de": "Der Studiengang Angewandte Therapiewissenschaft ist interdisziplinär ausgerichtet und kann sowohl ausbildungs- als auch berufsbegleitend absolviert werden. Wir sprachen mit Studiengangsleiterin Prof. Dr. Gudrun Zimmermann."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The Applied Therapy Science programme is interdisciplinary and can be completed both training-integrated and part-time. But what is it exactly about, and for whom is it suitable? We spoke with programme leader Prof. Dr. Gudrun Zimmermann.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Frau Zimmermann, why is there the Applied Therapy Science programme, and at whom is it aimed? – The Applied Therapy Science programme is based on IB Hochschule's commitment to the academisation process. It is aimed at representatives of the therapy professions Occupational Therapy, Speech and Language Therapy and Physiotherapy. These three professions are an essential component of patient-oriented health and participation-related care. The programme is deliberately interdisciplinary/interprofessional and supports trainee as well as trained occupational therapists, speech and language therapists and physiotherapists in representing their identity in an interdisciplinary health context in a well-founded and self-confident way.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "What awaits me in the programme? – The future orientation of therapy professions towards professional therapeutic work with people in their individual social environment includes, alongside the important scientific foundations, also practice-oriented and therapy-relevant perspectives. In terms of content, this includes psychological and sociological topics such as Artificial Intelligence, Virtual Reality, Long Covid, migration, environmental pollution and sustainability, which have a very formative and present influence on the entire health system, including therapy professions in their daily working context.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "What are the advantages of studying at IB Hochschule? – The Applied Therapy Science programme offers the two concepts training-integrated programme and part-time programme, and thus addresses both training schools and potential employers. The social infrastructure in the education and therapy landscape offers few possibilities for the academisation of therapists without university entrance qualifications. Some leave the profession because adequate further options are missing. IB Hochschule wants to meet this with the offer of part-time studies. Long-standing experience in designing and conducting health and social programmes by IB Hochschule offers a good foundation. An effective, didactically thought-through concept of in-person teaching, online-presence teaching and in the future also a share of asynchronous teaching stands for more flexible studying.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "For interest in the programme or questions about studies, please feel free to contact gudrun.zimmermann@hi-university.de or the study advisory service studienberatung@hi-university.de.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Der Studiengang Angewandte Therapiewissenschaft ist interdisziplinär ausgerichtet und kann sowohl ausbildungs- als auch berufsbegleitend absolviert werden. Doch worum geht es genau und für wen ist er geeignet? Dazu haben wir mit Studiengangsleiterin Prof. Dr. Gudrun Zimmermann gesprochen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Frau Zimmermann, warum gibt es den Studiengang Angewandte Therapiewissenschaft und an wen richtet sich dieser? – Dem Studiengang Angewandte Therapiewissenschaft liegt das Engagement der IB Hochschule für Gesundheit und Soziales für den Akademisierungsprozess zugrunde. Er richtet sich an Vertreter*innen der Therapieberufe Ergotherapie, Logopädie und Physiotherapie. Diese drei Berufe sind essenzieller Bestandteil einer patientengerechten, gesundheitlichen und teilhabebezogenen Versorgung. Der Studiengang ist bewusst interdisziplinär/interprofessionell ausgerichtet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Was erwartet mich im Studium? – Die zukünftige Ausrichtung der Therapieberufe hin zu professioneller therapeutischer Arbeit mit Menschen in ihrem individuellen sozialen Umfeld schließt neben den wichtigen wissenschaftlichen Grundlagen auch praxisnahe und therapierelevante Perspektiven ein. Inhaltlich gehören dazu zum Beispiel psychologische und soziologische Themen wie Künstliche Intelligenz, Virtuelle Realität, Long Covid, Migration, Umweltverschmutzung und Nachhaltigkeit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Was sind die Vorteile des Studiums an der IB Hochschule? – Der Studiengang Angewandte Therapiewissenschaften bietet die beiden Konzepte ausbildungsbegleitendes Studium und berufsbegleitendes Studium und richtet sich damit sowohl an die auszubildenden Schulen als auch an potenzielle Arbeitgeber. Langjährige Erfahrung in der Konzipierung und Durchführung von Gesundheits- und sozialen Studiengängen durch die IB Hochschule bietet ein gutes Fundament. Ein effektives, didaktisch durchdachtes Konzept von Präsenzlehre, Online-Präsenzlehre und zukünftig auch einem Anteil an asynchroner Lehre steht für eine flexiblere Studierbarkeit.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Bei Interesse am Studiengang oder Fragen zum Studium melden Sie sich gerne bei gudrun.zimmermann@hi-university.de oder bei der Studienberatung studienberatung@hi-university.de.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/praxisnah-interprofessionell-und-flexibel-studierbar/image_01.jpg",
+    "alt": "Applied Therapy Science"
+  },
+  "gallery": [],
+  "publishDate": "2024-10-29T09:00:00.000Z",
+  "status": "published"
+}

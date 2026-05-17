@@ -1,0 +1,358 @@
+{
+  "_type": "news",
+  "_id": "news.deutscher-zukunftspreis-2023",
+  "slug": {
+    "_type": "slug",
+    "current": "deutscher-zukunftspreis-2023"
+  },
+  "title": {
+    "en": "German Future Prize 2023: innovative achievements in health and social affairs honoured",
+    "de": "Deutscher Zukunftspreis 2023: innovative Leistungen in Gesundheit und Soziales gewürdigt"
+  },
+  "summary": {
+    "en": "On 22 November 2023 the German Future Prize 2023 was awarded in Berlin. The renowned prize honours pioneering innovations that contribute significantly to solving societal challenges. This year's award ceremony focused on advances in health and social affairs.",
+    "de": "Am 22. November 2023 wurde in Berlin der Deutsche Zukunftspreis 2023 verliehen. Der renommierte Preis würdigt wegweisende Innovationen, die einen bedeutenden Beitrag zur Lösung gesellschaftlicher Herausforderungen leisten. Dieses Jahr stand die Preisverleihung im Zeichen von Fortschritten im Bereich Gesundheit und Soziales."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Berlin, 23 November 2023 – Yesterday evening the German Future Prize 2023 was awarded in a festive setting. The renowned prize honours pioneering innovations and outstanding achievements that make a significant contribution to solving societal challenges. This year's award ceremony focused on progress in health and social affairs.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The winners of the German Future Prize 2023",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Federal President Frank-Walter Steinmeier honoured the researchers Stephan Biber and David M. Grodzki of Siemens Healthineers AG in Erlangen and Michael Uder of Erlangen University Hospital with the German Future Prize, the Federal President's prize for technology and innovation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The award winners developed a novel platform for the medical application of magnetic resonance imaging (MRI) that delivers high-resolution images of the human body with a comparatively weak magnetic field. This enables a simple and compact product design that makes the device transportable and significantly more cost-effective for use in hospitals and medical practices.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Why the German Future Prize?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "The German Future Prize is awarded annually by the Federal President and honours outstanding innovations from science and technology. It symbolically stands for the recognition of pioneering developments that have the potential to sustainably shape the future. The award-winning projects should not only be scientifically outstanding but also offer a tangible social benefit. The prize was awarded for the 27th time and is endowed with €250,000.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Hochschule für Gesundheit und Soziales as part of the success",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "IB Hochschule für Gesundheit und Soziales is honoured to have been invited to and to have participated in the award ceremony. The focus on practice-oriented research and innovative solutions in health and social affairs is reflected in the recognition of the HealthTech innovation project.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en9",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en9s",
+            "text": "\"What impressed me: Mr. Steinmeier did not want to stop asking the three project teams questions. The moderator had to stop him again and again. I found his interest in research and innovation very authentic,\" said Prof. Dr. Mariam Hartinger, President of IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en10s",
+            "text": "This also underlines the relevance of IB Hochschule in the current research landscape. The close connection between theoretical knowledge and practice-oriented research makes it possible to integrate innovative approaches directly into professional practice.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en11s",
+            "text": "The recognition with the German Future Prize 2023 makes clear the importance of interdisciplinary cooperation in research. IB Hochschule looks optimistically into the future, strengthened and motivated to contribute through its programmes to pioneering developments in health and social affairs.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Berlin, 23. November 2023 – Gestern Abend wurde im feierlichen Rahmen der Deutsche Zukunftspreis 2023 verliehen. Der renommierte Preis würdigt wegweisende Innovationen und herausragende Leistungen, die einen bedeutenden Beitrag zur Lösung gesellschaftlicher Herausforderungen leisten. Dieses Jahr stand die Preisverleihung im Zeichen von Fortschritten im Bereich Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Die Gewinner des Deutschen Zukunftspreises 2023",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Bundespräsident Frank-Walter Steinmeier hatte am Abend in Berlin die Forscher Stephan Biber und David M. Grodzki von der Erlanger Siemens Healthineers AG und Michael Uder von der Uniklinik Erlangen mit dem Deutschen Zukunftspreis ausgezeichnet, dem Preis des Bundespräsidenten für Technik und Innovation.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Preisträger haben eine neuartige Plattform für die medizinische Anwendung der Magnetresonanztomographie (MRT) entwickelt, die hochauflösende Aufnahmen aus dem menschlichen Körper bei einem vergleichsweise schwachen Magnetfeld liefert. So ist ein einfaches und kompaktes Produktdesign möglich, das das Gerät transportabel und deutlich kostengünstiger im Einsatz in Kliniken und Arztpraxen macht.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Warum der Deutsche Zukunftspreis?",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Der Deutsche Zukunftspreis wird jährlich vom Bundespräsidenten verliehen und zeichnet herausragende Innovationen aus Wissenschaft und Technologie aus. Er steht symbolisch für die Anerkennung wegweisender Entwicklungen, die das Potenzial haben, die Zukunft nachhaltig zu gestalten. Die prämierten Projekte sollen nicht nur wissenschaftlich herausragend sein, sondern auch einen spürbaren gesellschaftlichen Nutzen bieten. Der Preis wurde zum 27. Mal vergeben und ist mit 250.000 Euro dotiert.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Hochschule für Gesundheit und Soziales als Teil des Erfolges",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Die IB Hochschule für Gesundheit und Soziales fühlt sich geehrt, zu der Preisverleihung eingeladen worden zu sein und daran teilgenommen zu haben. Der Fokus auf praxisnahe Forschung und innovative Lösungen im Gesundheits- und Sozialbereich spiegelt sich in der Auszeichnung des HealthTech Innovationsprojekts wider.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de9",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de9s",
+            "text": "„Was mir imponiert hat: Herr Steinmeier wollte nicht aufhören, allen drei Projektteams Fragen zu stellen. Die Moderatorin musste ihn immer wieder stoppen. Sein Interesse an Forschung und Innovation fand ich sehr authentisch.\", so Prof. Dr. Mariam Hartinger, Präsidentin der IB Hochschule für Gesundheit und Soziales.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de10",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de10s",
+            "text": "Das unterstreicht auch die Relevanz der Hochschule für Gesundheit und Soziales in der aktuellen Forschungslandschaft. Die enge Verbindung von theoretischem Wissen und praxisorientierter Forschung ermöglicht es, innovative Ansätze direkt in die professionelle Praxis zu integrieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de11",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de11s",
+            "text": "Die Auszeichnung des Deutschen Zukunftspreises 2023 verdeutlicht die Bedeutung von interdisziplinärer Zusammenarbeit in der Forschung. Die IB Hochschule für Gesundheit und Soziales sieht somit der Zukunft optimistisch entgegen, gestärkt und motiviert, ebenso mit ihren Studiengängen einen Beitrag zu wegweisenden Entwicklungen im Bereich Gesundheit und Soziales zu leisten.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/deutscher-zukunftspreis-2023/image_01.jpg",
+    "alt": "Prof. Dr. Mariam Hartinger und Frank-Walter Steinmeier"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/deutscher-zukunftspreis-2023/image_02.jpg",
+      "alt": "Preisverleihung Deutscher Zukunftspreis 2023 mit Frank-Walter Steinmeier"
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/deutscher-zukunftspreis-2023/image_03.jpg",
+      "alt": "Preisverleihung Deutscher Zukunftspreis 2023"
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/deutscher-zukunftspreis-2023/image_04.jpg",
+      "alt": "Preisverleihung Deutscher Zukunftspreis 2023 Bühne"
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/deutscher-zukunftspreis-2023/image_05.jpg",
+      "alt": "Deutscher Zukunftspreis 2023"
+    }
+  ],
+  "publishDate": "2023-11-23T09:00:00.000Z",
+  "status": "published"
+}

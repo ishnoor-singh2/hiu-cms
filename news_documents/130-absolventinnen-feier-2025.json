@@ -1,0 +1,300 @@
+{
+  "_type": "news",
+  "_id": "news.absolventinnen-feier-maerz-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "absolventinnen-feier"
+  },
+  "title": {
+    "en": "Graduation celebration at IB Hochschule für Gesundheit und Soziales",
+    "de": "Absolvent*innen-Feier an der IB Hochschule für Gesundheit und Soziales"
+  },
+  "summary": {
+    "en": "On the evening of 14 March 2025, IB Hochschule presented a festive picture. Many smiling faces could be seen when the graduates of the Bachelor and Master programmes received their certificates.",
+    "de": "Am Abend des 14. März 2025 bot sich an der IB Hochschule für Gesundheit und Soziales ein feierliches Bild. Man blickte in zahlreiche strahlende Gesichter, als die Absolventinnen und Absolventen der Bachelor- und Masterstudiengänge ihre Urkunden entgegennahmen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On the evening of 14 March 2025 a festive picture was offered at IB Hochschule für Gesundheit und Soziales. You looked into numerous beaming faces as the graduates of the Bachelor and Master programmes received their certificates. Students of Health Education, Applied Therapy Science and Psychology celebrated together their successful completion and the start of a new chapter of life.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "The presidium, represented by Prof. Dr. Mariam Hartinger and Prof. Dr. Markus Dormann, conveyed warm congratulations on the academic qualification achieved. Prof. Dr. Silke Brenne, Dean of the Berlin location, and Prof. Dr. Gudrun Zimmermann, head of the Applied Therapy Science programme, were also present to wish the graduates all the best for their further path.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "\"We are very proud of all our graduates, including those who could not celebrate with us on Friday. Thanks for shared learning and teaching and valuable shared time on the path to your academic completion. We continue to wish you curiosity, professional satisfaction, happiness and success.\" – Prof. Dr. Gudrun Zimmermann",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "After the official part, guests let the evening end with a glass of sparkling wine and live music. The mood was relaxed, and toasts were raised to the challenges mastered together. A programme means not only intensive work, but also cohesion and mutual support – values that are particularly lived at IB Hochschule.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Among those celebrating were Margarida Mariano and Lena Setzepfand from Health Education, and Dr. Sabine Arnold and Alisa Wenzel from Psychology. With degree in hand a new chapter of life now begins for the graduates with new challenges. IB Hochschule warmly thanks all students for their trust and wishes them all the best for their personal and professional future!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am Abend des 14. März 2025 bot sich an der IB Hochschule für Gesundheit und Soziales ein feierliches Bild. Man blickte in zahlreiche strahlende Gesichter, als die Absolventinnen und Absolventen der Bachelor- und Masterstudiengänge ihre Urkunden entgegennahmen. Studierende der Gesundheitspädagogik, der Angewandten Therapiewissenschaft und der Psychologie feierten gemeinsam ihren erfolgreichen Abschluss und den Beginn eines neuen Lebensabschnitts.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Das Präsidium, vertreten durch Prof. Dr. Mariam Hartinger und Prof. Dr. Markus Dormann, überbrachte herzliche Glückwünsche zur bestandenen akademischen Qualifikation. Auch Prof. Dr. Silke Brenne, Studiendekanin des Berliner Standorts, sowie Prof. Dr. Gudrun Zimmermann, Studiengangsleiterin der Angewandten Therapiewissenschaft, waren anwesend, um den Absolvent*innen alles Gute für ihren weiteren Weg zu wünschen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "„Wir sind sehr stolz auf alle unsere Absolventinnen und Absolventen, auch auf die, die am Freitag leider nicht mitfeiern konnten. Danke für gemeinsames Lernen und Lehren und wertvolle gemeinsame Zeit auf dem Weg zu Ihrem akademischen Abschluss. Wir wünschen Ihnen auch weiterhin Neugier, berufliche Zufriedenheit, Glück und Erfolg.\" – Prof. Dr. Gudrun Zimmermann",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Nach dem offiziellen Teil ließen die Gäste den Abend bei einem Glas Sekt und Live-Musik ausklingen. Die Stimmung war gelöst, und es wurde auf die gemeinsam gemeisterten Herausforderungen angestoßen. Ein Studium bedeutet nicht nur intensive Arbeit, sondern auch Zusammenhalt und gegenseitige Unterstützung – Werte, die an der IB Hochschule besonders gelebt werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Unter den Feiernden befanden sich auch Margarida Mariano und Lena Setzepfand aus dem Fachbereich Gesundheitspädagogik sowie Dr. Sabine Arnold und Alisa Wenzel aus dem Fachbereich Psychologie. Mit dem Abschluss in der Tasche beginnt für die Absolvent*innen nun ein neuer Lebensabschnitt mit neuen Herausforderungen. Die IB Hochschule für Gesundheit und Soziales bedankt sich bei allen Studierenden ganz herzlich für ihr Vertrauen und wünscht ihnen für ihre persönliche und berufliche Zukunft alles Gute!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_01.jpg",
+    "alt": "Graduation ceremony 2025"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_02.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g2",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_03.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g3",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_04.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g4",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_05.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g5",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_06.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g6",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_07.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g7",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_08.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g8",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_09.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g9",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_10.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g10",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_11.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g11",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_12.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g12",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_13.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g13",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_14.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g14",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_15.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g15",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_16.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g16",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_17.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g17",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_18.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g18",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_19.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g19",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_20.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g20",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_21.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g21",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_22.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g22",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_23.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g23",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_24.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g24",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_25.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g25",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_26.jpg",
+      "alt": ""
+    },
+    {
+      "_key": "g26",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/absolventinnen-feier/image_27.jpg",
+      "alt": ""
+    }
+  ],
+  "publishDate": "2025-03-18T09:00:00.000Z",
+  "status": "published"
+}

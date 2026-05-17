@@ -1,0 +1,197 @@
+{
+  "_type": "news",
+  "_id": "news.studie-nutzung-smarter-sensortechnologie-gesundheitsversorgung",
+  "slug": {
+    "_type": "slug",
+    "current": "studie-nutzung-smarter-sensortechnologie-gesundheitsversorgung"
+  },
+  "title": {
+    "en": "Study on the use of smart sensor technology in healthcare",
+    "de": "Studie zur Nutzung smarter Sensortechnologie in der Gesundheitsversorgung"
+  },
+  "summary": {
+    "en": "A new study from the AktiSmart-KI project, in which IB Hochschule researchers are involved, surveyed geriatric patients on how they assess the use of smart sensor technology in healthcare. Most trust the technology, but want clear information and patient involvement during development.",
+    "de": "Eine neue Studie aus dem AktiSmart-KI-Projekt, an dem Forschende der IB Hochschule beteiligt sind, befragte geriatrische Patient*innen, wie sie den Einsatz smarter Sensortechnologie in der Gesundheitsversorgung einschätzen. Die meisten vertrauen der Technologie, wünschen sich aber verständliche Aufklärung und Beteiligung bei der Entwicklung."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "New study: how geriatric patients assess the use of smart sensor technology in healthcare",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "As part of the AktiSmart-KI project, in which researchers from IB Hochschule are involved, older patients in a geriatric rehabilitation clinic were surveyed on how they evaluate the use of smart sensor technology in healthcare.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "The majority of respondents fundamentally trust this technology, primarily because high accuracy is attributed to it. However, concerns were also raised that such systems might change the relationship with caregivers. An important question for respondents is also who covers the costs for such systems if they are deployed. Interestingly, most patients had no concerns about the protection of their data and privacy.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "The results show openness towards smart sensor technologies. They also suggest, however, that the risks are not fully understood. For clinical use, comprehensive and understandable information is therefore a prerequisite. In addition, patients should already be involved in the development of new smart sensor technologies in order to take their concerns, abilities, wishes and goals into account.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Link to the publication: https://www.mdpi.com/1424-8220/23/22/9124",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Prof. Dr. Jochen Klenk was involved in the study.\nProject lead at IB Hochschule is Prof. Dr. Alexandra Jorzig.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Neue Studie: So beurteilen geriatrische Patientinnen und Patienten die Nutzung smarter Sensortechnologie in der Gesundheitsversorgung",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Rahmen des AktiSmart-KI Projektes, an dem Forschende der IB Hochschule beteiligt sind, wurden ältere Patientinnen und Patienten in einer geriatrische Rehabilitationsklinik befragt, wie sie den Einsatz von smarter Sensortechnologie in der Gesundheitsversorgung einschätzen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Die Mehrzahl der Befragten vertraut grundsätzlich dieser Technologie, vor allem weil ihr eine hohe Genauigkeit zugeschrieben wird. Es wurde allerdings auch die Befürchtung geäußert, dass sich durch solche Systeme die Beziehung zu den Behandelnden verändern könnte. Eine wichtige Frage ist für die Befragten auch, wer die Kosten für solche Systeme übernimmt, sollten sie zum Einsatz kommen. Interessanterweise hatten die meisten Patientinnen und Patienten keine Bedenken bezüglich des Schutzes ihrer Daten und ihrer Privatsphäre.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Die Ergebnisse zeigen eine Offenheit für smarte Sensortechnologien. Sie lassen aber auch vermuten, dass deren Risiken nicht vollständig verstanden werden. Für den klinischen Einsatz ist daher eine umfangreiche und verständliche Aufklärung eine Vorbedingung. Zudem sollten bereits bei der Entwicklung neuer smarter Sensortechnologien Patientinnen und Patienten eingebunden werden, um deren Bedenken, Fähigkeiten, Wünsche und Ziele zu berücksichtigen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Link zur Publikation: https://www.mdpi.com/1424-8220/23/22/9124",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "An der Studie beteiligt war Prof. Dr. Jochen Klenk.\nProjektverantwortliche der IB Hochschule ist Prof. Dr. Alexandra Jorzig.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/studie-nutzung-smarter-sensortechnologie-gesundheitsversorgung/image_01.jpg",
+    "alt": "Study on smart sensor technology in healthcare"
+  },
+  "gallery": [],
+  "publishDate": "2023-11-15T09:00:00.000Z",
+  "status": "published"
+}

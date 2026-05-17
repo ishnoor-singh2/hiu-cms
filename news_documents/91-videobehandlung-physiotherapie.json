@@ -1,0 +1,85 @@
+{
+  "_type": "news",
+  "_id": "news.videobehandlung-physiotherapie-corona",
+  "slug": {
+    "_type": "slug",
+    "current": "videobehandlung-ist-ab-sofort-moeglich-physiotherapie-ergotherapie-und-logopaedie-profitieren-von-diesem-zukunftsweisenden-entschluss"
+  },
+  "title": {
+    "en": "Video treatment now possible – physiotherapy, occupational therapy and speech and language therapy benefit from this forward-looking decision",
+    "de": "Videobehandlung ist ab sofort möglich – Physiotherapie, Ergotherapie und Logopädie profitieren von diesem zukunftsweisenden Entschluss"
+  },
+  "summary": {
+    "en": "The current life situation of many patients is so restricted due to the coronavirus that health insurers have decided on this innovative step. IB Hochschule prepares future therapists for video treatment, app-supported treatment etc. as part of online teaching from summer semester.",
+    "de": "Die aktuelle Lebenssituation vieler Patienten ist aufgrund des Coronavirus derart eingeschränkt, dass sich die Krankenkassen zu diesem innovativen Schritt entschlossen haben. Die IB Hochschule bereitet zukünftige Therapeut*innen ab dem Sommersemester im Rahmen der online-basierten Lehre auf Szenarien wie Videotherapie und App-gestützte Behandlungen vor."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The current life situation of many patients is so restricted due to the coronavirus that health insurers have decided on this innovative step. Even independently of this emergency, the German Bundestag (2019) sees the nationwide development of digital competence in health professions as a mandatory requirement for the successful use of intelligent systems in care, therapy and nursing.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "IB Hochschule für Gesundheit und Soziales takes this mandate seriously and prepares future therapists in physiotherapy, occupational therapy and speech and language therapy in the Bachelor's programme for scenarios such as video therapy and app-supported treatments. These are part of the online-based courses from summer semester.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die aktuelle Lebenssituation vieler Patienten ist aufgrund des Coronavirus derart eingeschränkt, dass sich die Krankenkassen zu diesem innovativen Schritt entschlossen haben. Aber auch unabhängig von dieser Notsituation sieht der Deutsche Bundestag (2019) einen flächendeckenden Aufbau von Digitalkompetenz in Gesundheitsberufen als zwingende Bedingung für den erfolgreichen Einsatz intelligenter Systeme in Versorgung, Therapie und Pflege an.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Diesen Auftrag nimmt die IB Hochschule für Gesundheit und Soziales ernst und bereitet zukünftige Therapeut*innen der Physiotherapie, Ergotherapie und Logopädie im Bachelorstudium auf Szenarien wie Videotherapie, App-gestützte Behandlungen etc. vor. Diese sind Teil der online-basierten Lehrveranstaltungen ab dem Sommersemester.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/videobehandlung-ist-ab-sofort-moeglich-physiotherapie-ergotherapie-und-logopaedie-profitieren-von-diesem-zukunftsweisenden-entschluss/image_01.jpg",
+    "alt": "Video treatment now possible"
+  },
+  "gallery": [],
+  "publishDate": "2020-03-25T09:00:00.000Z",
+  "status": "published"
+}

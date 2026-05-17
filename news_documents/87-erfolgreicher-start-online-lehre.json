@@ -1,0 +1,113 @@
+{
+  "_type": "news",
+  "_id": "news.erfolgreicher-start-online-lehre",
+  "slug": {
+    "_type": "slug",
+    "current": "erfolgreicher-start-in-die-online-lehre"
+  },
+  "title": {
+    "en": "Successful start of online teaching",
+    "de": "Erfolgreicher Start in die Online-Lehre"
+  },
+  "summary": {
+    "en": "Online-based teaching is in full swing and a great success. First reports are entirely positive. Soon we will implement further technical possibilities.",
+    "de": "Die online-basierte Lehre ist im vollen Gange und ein voller Erfolg. Erste Erfahrungsberichte sind durchweg positiv. In Kürze werden wir weitere technische Möglichkeiten umsetzen."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Online-based teaching is in full swing and a complete success. First reports are entirely positive. In due course we will implement further technical possibilities.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Last weekend or in the past week, online-based teaching began. And the first reports show: yes, it works well. The switch to digital teaching/learning formats is functioning! Even with more than 20 students, an exchange via webcam on the screen is easily possible. We are very pleased about that. We are nevertheless already working on improving the technical possibilities even further. We will inform you in more detail soon.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "We wish you all a happy Easter and stay healthy!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die online-basierte Lehre ist im vollen Gange und ein voller Erfolg. Erste Erfahrungsberichte sind durchweg positiv. In Kürze werden wir weitere technische Möglichkeiten umsetzen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Am vergangenen Wochenende bzw. in der zurückliegenden Woche begann die online-basierte Lehre. Und die ersten Erfahrungsberichte zeigen: Ja, es geht gut. Die Umstellung auf digitale Lehr-Lern-Formate funktioniert! Selbst bei über 20 Studierenden ist ein Austausch per Webcam auf dem Bildschirm gut möglich. Das freut uns sehr. Wir arbeiten dennoch bereits daran, auch die technischen Möglichkeiten noch weiter zu verbessern. Hierüber werden wir Sie in Kürze weiter informieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Wir wünschen Ihnen allen frohe Ostern und bleiben Sie gesund!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://www.ib-hochschule.de/fileadmin/_processed_/e/b/csm_Erfolgreicher_Start_in_die_Online-Lehre_46321d3dcd.jpg",
+    "alt": "Successful start of online teaching"
+  },
+  "gallery": [],
+  "publishDate": "2020-04-09T09:00:00.000Z",
+  "status": "published"
+}

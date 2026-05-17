@@ -1,0 +1,203 @@
+{
+  "_type": "news",
+  "_id": "news.schnuppervorlesung-psychologie-sose-2025",
+  "slug": {
+    "_type": "slug",
+    "current": "schnuppervorlesung-psychologie"
+  },
+  "title": {
+    "en": "Taster lecture in summer semester 2025 – experience psychology up close!",
+    "de": "Schnuppervorlesung im Sommersemester 2025 – Erlebe Psychologie hautnah!"
+  },
+  "summary": {
+    "en": "Interested in Applied Psychology B.Sc.? Visit our taster lectures on Tuesday 20 May 2025: Social Psychology in the morning and Cognitive Psychology in the afternoon.",
+    "de": "Interessierst du dich für die Angewandte Psychologie (B.Sc.)? Besuche unsere Schnuppervorlesungen am Dienstag, den 20. Mai 2025: Sozialpsychologie am Vormittag und Kognitionspsychologie am Nachmittag."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "Are you interested in Applied Psychology (B.Sc.) and would like to get an insight into exciting modules of our programme? Then use the opportunity and visit our taster lectures on Tuesday 20 May 2025! You gain insights into the programme, get to know IB Hochschule on the Health Campus, and have the opportunity to talk with professors and students.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "What awaits you? We offer two interesting lectures, for which you can each register.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Social Psychology (09:15–12:30): Why do people behave differently in groups than alone? Which factors influence our thinking, feeling and acting in a social context? In this lecture you gain insights into how social norms, group processes or prejudices shape our behaviour. Binding registration with: Prof. Dr. Tajana Grießmann-Gehrt – tajana.griessmann-gehrt@hi-university.de",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "Lunch break (12:30–13:30): The lunch break invites you to a joint lunch in the canteen of Unfallkrankenhaus Berlin and to explore the Health Campus.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "Cognitive Psychology (13:30–16:15): What are emotions? How do we form judgements and decisions? In this lecture we dive into the fascinating world of mental processes that control our thinking and acting. Binding registration with: Alisa Wenzel – alisa.wenzel2@hi-university.de",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "Location: IB Hochschule für Gesundheit und Soziales c/o BG Klinikum Unfallkrankenhaus Berlin gGmbH, Warener Str. 7, 12683 Berlin. Date: Tuesday 20 May 2025. Participation is of course free of charge. For planning we ask for prior registration. We look forward to seeing you!",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Du interessierst dich für die Angewandte Psychologie (B.Sc.) und möchtest einen Einblick in spannende Module unseres Studiengangs bekommen? Dann nutze die Gelegenheit und besuche unsere Schnuppervorlesungen am Dienstag, den 20. Mai 2025! Du gewinnst Einblicke in den Studiengang, lernst die IB Hochschule auf dem Gesundheitscampus kennen und hast Gelegenheit mit Professor*innen und Studierende ins Gespräch zu kommen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Was erwartet dich? Wir bieten Dir zwei interessante Vorlesungen an zu denen du dich jeweils anmelden kannst.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Sozialpsychologie (09:15–12:30 Uhr): Warum verhalten sich Menschen in Gruppen anders als allein? Welche Faktoren beeinflussen unser Denken, Fühlen und Handeln im sozialen Kontext? In dieser Vorlesung erhältst du Einblicke darüber, wie soziale Normen, Gruppenprozesse oder Vorurteile unser Verhalten formen. Verbindliche Anmeldung bei: Prof. Dr. Tajana Grießmann-Gehrt – tajana.griessmann-gehrt@hi-university.de",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Mittagspause (12:30–13:30 Uhr): Die Mittagspause lädt zum gemeinsamen Mittagessen in der Kantine des Unfallkrankenhauses Berlin und zum Erkunden des Gesundheitscampus ein.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Kognitionspsychologie (13:30–16:15 Uhr): Was sind Emotionen? Wie fällen wir Urteile und Entscheidungen? In dieser Vorlesung tauchen wir in die faszinierende Welt der mentalen Prozesse ein, die unser Denken und Handeln steuern. Verbindliche Anmeldung bei: Alisa Wenzel – alisa.wenzel2@hi-university.de",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Ort: IB Hochschule für Gesundheit und Soziales c/o BG Klinikum Unfallkrankenhaus Berlin gGmbH, Warener Str. 7, 12683 Berlin. Datum: Dienstag, 20. Mai 2025. Die Teilnahme ist natürlich kostenfrei. Zur Planung bitten wir um vorherige Anmeldung. Wir freuen uns auf dich!",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/schnuppervorlesung-psychologie/image_01.jpg",
+    "alt": "Schnuppervorlesung in der Psychologie"
+  },
+  "gallery": [
+    {
+      "_key": "g1",
+      "url": "https://ik.imagekit.io/hiuniv/images/news/schnuppervorlesung-psychologie/image_02.jpg",
+      "alt": "Schnuppervorlesung in der Psychologie am Studienzentrum Berlin"
+    }
+  ],
+  "publishDate": "2025-03-31T09:00:00.000Z",
+  "status": "published"
+}

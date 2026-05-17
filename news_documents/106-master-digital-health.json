@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.masterstudiengang-digital-health-zielgerade",
+  "slug": {
+    "_type": "slug",
+    "current": "masterstudiengang-digital-health"
+  },
+  "title": {
+    "en": "The Master Digital Health on the home straight",
+    "de": "Der Masterstudiengang Digital Health auf der Zielgeraden"
+  },
+  "summary": {
+    "en": "The first cohort of the Master Digital Health at IB Hochschule recently completed its last in-person event. Only one big step lies ahead: the Master's thesis.",
+    "de": "Die erste Kohorte des Masterstudiengangs Digital Health an der IB Hochschule hat kürzlich ihre letzte Präsenzveranstaltung erfolgreich absolviert. Vor den Studierenden liegt nur noch der letzte große Schritt: das Schreiben ihrer Masterarbeit."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "The first cohort of the Master Digital Health programme at IB Hochschule für Gesundheit und Soziales has recently successfully completed its last in-person event. For the students, only the last big step now lies ahead: writing their Master's thesis. With this, an intensive study period ends for the group, characterised by practice-oriented teaching content, exciting projects and close exchange with experts from science and practice.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "At the centre of the Digital Health programme are the chances and challenges of digitalisation in healthcare – from artificial intelligence through digital diagnostics to questions of ethics and data security. Over the past semesters, the students have not only acquired theoretical knowledge, but also directly applied this in projects and case studies.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "Prof. Dr. Winfried Graf, lecturer in the Digital Health programme, emphasises: \"Our first Master students have impressively shown how much potential lies in linking medical knowledge and digital innovation. They are well prepared to actively shape the future of healthcare.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "With their upcoming Master's theses, the graduates will now put the final mark on their studies – and at the same time the start of exciting career paths in the growing field of digitalisation in healthcare.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Die erste Kohorte des Masterstudiengangs Digital Health an der IB Hochschule für Gesundheit und Soziales hat kürzlich ihre letzte Präsenzveranstaltung erfolgreich absolviert. Für die Studierenden steht nun nur noch der letzte große Schritt bevor: das Schreiben ihrer Masterarbeit. Damit endet für die Gruppe eine intensive Studienzeit, die von praxisnahen Lehrinhalten, spannenden Projekten und dem engen Austausch mit Expert*innen aus Wissenschaft und Praxis geprägt war.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Im Mittelpunkt des Studiengangs Digital Health stehen die Chancen und Herausforderungen der Digitalisierung im Gesundheitswesen – von Künstlicher Intelligenz über digitale Diagnostik bis hin zu Fragen der Ethik und Datensicherheit. Die Studierenden haben in den vergangenen Semestern nicht nur theoretisches Wissen erworben, sondern dieses auch unmittelbar in Projekten und Fallstudien praktisch angewendet.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "blockquote",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Prof. Dr. Winfried Graf, Dozent im Studiengang Digital Health, betont: „Unsere ersten Master-Studierenden haben eindrucksvoll gezeigt, wie viel Potenzial in der Verknüpfung von medizinischem Wissen und digitaler Innovation steckt. Sie sind bestens vorbereitet, die Zukunft des Gesundheitswesens aktiv mitzugestalten.\"",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Mit den anstehenden Masterarbeiten setzen die Absolvent*innen nun den Schlusspunkt unter ihr Studium – und gleichzeitig den Auftakt für spannende berufliche Wege im wachsenden Feld der Digitalisierung im Gesundheitswesen.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/masterstudiengang-digital-health/image_01.jpg",
+    "alt": "First Master Digital Health cohort"
+  },
+  "gallery": [],
+  "publishDate": "2025-09-01T09:00:00.000Z",
+  "status": "published"
+}

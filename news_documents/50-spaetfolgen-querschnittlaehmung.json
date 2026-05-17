@@ -1,0 +1,141 @@
+{
+  "_type": "news",
+  "_id": "news.spaetfolgen-der-querschnittlaehmung",
+  "slug": {
+    "_type": "slug",
+    "current": "spaetfolgen-der-querschnittlaehmung-praevention-und-therapie"
+  },
+  "title": {
+    "en": "Late effects of spinal cord injury: prevention and therapy",
+    "de": "Spätfolgen der Querschnittlähmung: Prävention und Therapie"
+  },
+  "summary": {
+    "en": "At the 35th annual meeting of the German-speaking Medical Society for Paraplegia (DMGP), a specialist conference of the Psychology Working Group took place on 22 and 23 June 2022 in Bad Wildungen, Hesse.",
+    "de": "Anlässlich der 35. Jahrestagung der „Deutschsprachigen Medizinischen Gesellschaft für Paraplegiologie e.V.\" (DMGP) fand am 22. und 23. Juni 2022 eine Fachtagung des Arbeitskreises Psychologie im hessischen Bad Wildungen statt."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On the occasion of the 35th annual meeting of the German-speaking Medical Society for Paraplegia (DMGP), a specialist conference of the Psychology Working Group took place on 22 and 23 June 2022 in Bad Wildungen, Hesse, on the topic \"Late effects of spinal cord injury: prevention and therapy\". The DMGP is a non-profit society that serves the cooperation of all professional groups involved in the treatment and rehabilitation of people with spinal cord injuries.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Accompanied by Prof. Dr. Ingo Pals, Emma Hartisch was invited to present the approach and results of her Bachelor's thesis in the form of a poster to the DMGP experts. Her Bachelor's thesis investigated whether people with spinal cord injury and traumatic brain injury show higher depressivity than those without traumatic brain injury. Contrary to the original assumption, the results within the first three months after acute spinal cord injury do not indicate increased depression in patients with additional traumatic brain injury.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "In the subsequent discussion, the participants' questions were addressed, and further interesting questions for future research were identified.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "For more information on the DMGP: https://www.dmgp.de/",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Anlässlich der 35. Jahrestagung der „Deutschsprachigen Medizinischen Gesellschaft für Paraplegiologie e.V.\" (DMGP) fand zum Thema „Spätfolgen der Querschnittlähmung: Prävention und Therapie\" am 22. und 23.06.2022 eine Fachtagung des Arbeitskreises Psychologie im hessischen Bad Wildungen statt. Die DMGP stellt eine gemeinnützige Gesellschaft dar, die der Zusammenarbeit aller an der Behandlung und Rehabilitation Querschnittgelähmter beteiligten Berufsgruppen, dient.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Unter Begleitung von Prof. Dr. Ingo Pals war Emma Hartisch eingeladen, die Herangehensweise und Ergebnisse ihrer Bachelorarbeit in Form eines Posters vor den Fachleuten der DMGP zu präsentieren. Im Rahmen ihrer Bachelorarbeit wurde die Fragestellung untersucht, ob Rückenmarkverletzte mit Schädel-Hirn-Trauma eine höhere Depressivität aufweisen als Rückenmarkverletzte ohne Schädel-Hirn-Trauma. Entgegen der ursprünglichen Annahme weisen die Ergebnisse innerhalb der ersten drei Monate nach akuter Rückenmarkverletzung nicht auf eine erhöhte Depression bei Patient*innen mit zusätzlichem Schädel-Hirn-Trauma hin.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "In der anschließenden Diskussion wurde auf die Fragen der Tagungsteilnehmer eingegangen, dabei konnten weitere interessante Fragen für zukünftige Forschungen identifiziert werden.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Für weitere Informationen zur DMGP: https://www.dmgp.de/",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/spaetfolgen-der-querschnittlaehmung-praevention-und-therapie/image_01.jpeg",
+    "alt": "DMGP annual conference"
+  },
+  "gallery": [],
+  "publishDate": "2022-07-07T09:00:00.000Z",
+  "status": "published"
+}

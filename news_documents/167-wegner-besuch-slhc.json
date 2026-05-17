@@ -1,0 +1,253 @@
+{
+  "_type": "news",
+  "_id": "news.kai-wegner-besuch-smart-living-2024",
+  "slug": {
+    "_type": "slug",
+    "current": "berlins-regierender-buergermeister-kai-wegner-zu-besuch-im-smart-living-and-health-center"
+  },
+  "title": {
+    "en": "Berlin's Governing Mayor Kai Wegner visits the Smart Living and Health Center",
+    "de": "Berlins Regierender Bürgermeister Kai Wegner zu Besuch im Smart Living and Health Center"
+  },
+  "summary": {
+    "en": "On Tuesday 16 April 2024 at 18:30, the Smart Living & Health Center e.V. invited to the first \"terrace conversation\" this year in the House of the Future on the Health Campus. Many association members were invited, including IB Hochschule, and entered into conversation with the honour guest – Berlin's Governing Mayor Kai Wegner.",
+    "de": "Am Dienstag, den 16. April 2024, um 18:30 Uhr, war es soweit: Das Smart Living & Health Center e.V. lud zum ersten Terrassengespräch in diesem Jahr ein, im Haus der Zukunft auf dem Gesundheitscampus. Viele Vereinsmitglieder waren eingeladen, darunter auch die IB Hochschule, und kamen ins Gespräch mit dem Ehrengast - Berlins Regierendem Bürgermeister Kai Wegner."
+  },
+  "content": {
+    "en": [
+      {
+        "_type": "block",
+        "_key": "en1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en1s",
+            "text": "On Tuesday 16 April 2024 at 18:30, the time had come: the Smart Living & Health Center e.V. invited to the first terrace conversation this year, in the House of the Future on the Health Campus. Many association members were invited, including IB Hochschule für Gesundheit und Soziales, and came into conversation with the honour guest – Berlin's Governing Mayor Kai Wegner.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en2s",
+            "text": "Berlin has radiance and is a strong location in the areas of health economy, research and science, all agreed. However, there are still challenges to solve: housing shortage, professional and labour shortages, education, and an ever-ageing society.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en3s",
+            "text": "That is why associations like Smart Living & Health Center e.V. are so important for the city. They play a decisive role by bringing digitalisation and the needs of an ageing population together and informing about possibilities and solutions for a long, self-determined life.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en4s",
+            "text": "In conversation with Kai Wegner about the future of health professions",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en5s",
+            "text": "The subsequent conversation between Prof. Dr. Mariam Hartinger, President of IB Hochschule für Gesundheit und Soziales, and Berlin's Governing Mayor Kai Wegner was particularly insightful. Frau Hartinger emphasised the importance of private universities for securing care in the therapy professions like physiotherapy and speech and language therapy.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en6s",
+            "text": "She made clear that since the introduction of school fee exemption and training compensation at vocational schools, the attractiveness of such programmes at private universities has enormously declined. Unfortunately, political indecision at the federal level has led to the closure of important programmes, which leads to a shortage of qualified therapists in Berlin and Brandenburg.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en7s",
+            "text": "Frau Hartinger underlined the urgent necessity of solutions that also include private universities to counter the skilled worker shortage and ensure high-quality care.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "en8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "en8s",
+            "text": "The event was an important step towards a comprehensive discussion of the future of healthcare professions not only in Berlin. The impulses set here must now be pursued further. It is crucial that politics, educational institutions and organisations from the healthcare sector work together to develop innovative solutions. Only through joint efforts can we ensure that Berlin remains a leading location in the areas of health and science and guarantees high-quality care for all citizens.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "de": [
+      {
+        "_type": "block",
+        "_key": "de1",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de1s",
+            "text": "Am Dienstag, den 16. April 2024, um 18:30 Uhr, war es soweit: Das Smart Living & Health Center e.V. lud zum ersten Terrassengespräch in diesem Jahr ein, im Haus der Zukunft auf dem Gesundheitscampus. Viele Vereinsmitglieder waren eingeladen, darunter auch die IB Hochschule für Gesundheit und Soziales und kamen ins Gespräch mit Berlins Regierendem Bürgermeister Kai Wegner.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de2",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de2s",
+            "text": "Berlin hat Strahlkraft und ist in den Bereichen Gesundheitswirtschaft, Forschung und Wissenschaft ein starker Standort, darin waren sich alle einig. Herausforderungen gibt es dennoch zu lösen: Wohnraummangel, Fachkräfte- und Arbeitskräftemangel, Bildung und eine immer älter werdende Gesellschaft.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de3",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de3s",
+            "text": "Gerade darum sind Vereine wie das Smart Living & Health Center e.V. so wichtig für die Stadt. Sie spielen eine entscheidende Rolle, indem sie die Digitalisierung und die Bedürfnisse einer älter werdenden Bevölkerung zusammenbringen und über Möglichkeiten und Lösungen für ein langes selbstbestimmtes Leben informieren.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de4",
+        "style": "h3",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de4s",
+            "text": "Im Gespräch mit Kai Wegner über die Zukunft der Gesundheitsberufe",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de5",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de5s",
+            "text": "Auch das anschließende Gespräch zwischen Prof. Dr. Mariam Hartinger, Präsidentin der IB Hochschule für Gesundheit und Soziales, und Berlins Regierendem Bürgermeister Kai Wegner war besonders aufschlussreich. Frau Hartinger betonte die Bedeutung privater Hochschulen für die Sicherstellung der Versorgung in den Therapiefachberufen wie Physiotherapie und Logopädie.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de6",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de6s",
+            "text": "Sie machte deutlich, dass seit der Einführung der Schulgeldfreiheit und Ausbildungsvergütung an Berufsfachschulen die Attraktivität solcher Studiengänge an privaten Hochschulen enorm abgenommen hat. Bedauerlicherweise hat die politische Unentschlossenheit auf Bundesebene zur Schließung wichtiger Studiengänge geführt, was zu einem Mangel an qualifizierten Therapeutinnen und Therapeuten in Berlin und Brandenburg führt.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de7",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de7s",
+            "text": "Frau Hartinger unterstrich die dringende Notwendigkeit von Lösungen, die auch private Hochschulen miteinbeziehen, um dem Fachkräftemangel entgegenzuwirken und eine qualitativ hochwertige Versorgung sicherzustellen.",
+            "marks": []
+          }
+        ]
+      },
+      {
+        "_type": "block",
+        "_key": "de8",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "de8s",
+            "text": "Die Veranstaltung war ein wichtiger Schritt in Richtung einer umfassenden Diskussion über die Zukunft der Gesundheitsfachberufe nicht nur in Berlin. Die Impulse, die hier gesetzt wurden, müssen nun weiterverfolgt werden. Es ist entscheidend, dass Politik, Bildungseinrichtungen und Organisationen aus dem Gesundheitssektor zusammenarbeiten, um innovative Lösungen zu entwickeln. Nur durch gemeinsame Anstrengungen können wir sicherstellen, dass Berlin weiterhin ein führender Standort in den Bereichen Gesundheit und Wissenschaft bleibt.",
+            "marks": []
+          }
+        ]
+      }
+    ]
+  },
+  "featuredImage": {
+    "url": "https://ik.imagekit.io/hiuniv/images/news/berlins-regierender-buergermeister-kai-wegner-zu-besuch-im-smart-living-and-health-center/image_01.jpg",
+    "alt": "Kai Wegner zu Besuch am Haus der Zukunft im Smart Living and Health Center"
+  },
+  "gallery": [],
+  "publishDate": "2024-04-18T09:00:00.000Z",
+  "status": "published"
+}
